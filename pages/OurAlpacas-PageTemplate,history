@@ -1,0 +1,255 @@
+
+----
+Thu Sep 20 14:49:32 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+}*[[[break]]]to: *green {code <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title><PAGE TITLE></title>
+  <style type="text/css"><!--
+BODY{
+}*[[[break]]]added at line 2: *lime {code     padding:0em;
+}*[[[break]]]changed line 4 from: *orange {code <!-- Template copyright 2005 by Jason Grossman.  Thanks to James Koster and Dave Shea for inspiration. -->
+}*[[[break]]]to: *green {code     margin:0em;
+}*[[[break]]]added at line 5: *lime {code     font-family:Belle, Bell, Soutane, Souvenir, Georgia, "Times New Roman", Times, serif;
+}*[[[break]]]changed line 7 from: *orange {code <html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!--HeaderText-->
+<title><PAGE NAME></title>
+
+<style type="text/css"><!--
+
+body {
+	background-color:#FFFFFF;
+	margin:0px;
+	font-family:Verdana, sans-serif;
+	font-size:11px;
+	color:#666666;
+}
+}*[[[break]]]to: *green {code     font-size: 14px;
+}*[[[break]]]deleted at line 23: *red {code a {
+	color:#222222;
+	text-decoration:none;
+}*[[[break]]]changed line 28 from: *orange {code textarea, input,submit {
+	color:#666666;
+	border:none;
+}
+}*[[[break]]]to: *green {code UL, P, PRE, H2, LI{
+
+    margin: 0;
+
+    padding: 0;
+}*[[[break]]]deleted at line 33: *red {code h1 {
+	font-family:Belle, Bell, Soutane, Souvenir, Georgia, "Times New Roman", Times, serif;
+	font-size:200%;
+	color:#000000;
+	font-weight:normal;
+	letter-spacing:1px;
+}*[[[break]]]added at line 40: *lime {code H1{ margin-bottom: .5em; font-weight: light; }
+
+H2{ margin-bottom: .5em; font-size: 24px; font-weight: bold; }
+
+P{ margin-bottom: 1em; }
+
+UL{ margin-left: .5em; margin-bottom: 1em; }
+
+PRE{ margin-left: .5em; margin-top: 1em; margin-bottom: 1em; }
+
+LI{ margin-left: .5em; }
+}*[[[break]]]changed line 57 from: *orange {code #container {
+	width:600px;
+	margin:0 auto 0 auto;
+}*[[[break]]]to: *green {code TEXTAREA{
+
+    width: 100%;
+
+}*[[[break]]]changed line 62 from: *orange {code #sidebar {
+	width:140px;
+	float:right;
+}*[[[break]]]to: *green {code 
+A{
+
+    text-decoration:none;
+
+    font-weight:normal;
+
+}*[[[break]]]changed line 67 from: *orange {code #sidebar h1 {
+	text-align:right;
+	font-size:200%;
+	color:#111111;
+	border-bottom:1px dashed #eeeeee;
+}*[[[break]]]to: *green {code 
+TABLE{
+
+    border: 1px solid #111;
+
+    border-collapse: collapse;
+
+    margin: 1em;
+
+}*[[[break]]]changed line 74 from: *orange {code #sidebar p {
+	line-height:20px;
+}*[[[break]]]to: *green {code TD{
+
+    border: 1px solid #111;
+
+    min-width: 5em;
+
+    vertical-align: top;
+
+    padding: .25em;
+
+}*[[[break]]]changed line 78 from: *orange {code #content {
+	margin-right:160px;
+	padding-right:20px;
+	border-right:1px solid #cccccc;
+}*[[[break]]]to: *green {code 
+.header TD{
+
+    text-align: center;
+
+}*[[[break]]]changed line 84 from: *orange {code #content h1 {
+	text-align:left;
+	font-size:115%;
+	font-weight:bold;
+	color:#111111;
+	border-bottom:1px dashed #eeeeee;
+	padding-top:15px !important;
+	padding-top:0;
+}*[[[break]]]to: *green {code TD.op{
+
+    text-align: center;
+
+}*[[[break]]]changed line 94 from: *orange {code #content p {
+	line-height:20px;
+}*[[[break]]]to: *green {code .content{
+
+    position: absolute;
+
+    top: 15px;
+
+    left: 15px; 
+
+    right: 180px;
+
+}*[[[break]]]changed line 98 from: *orange {code #content ol,ul {
+	padding-left:15px;
+}*[[[break]]]to: *green {code .commands {
+
+    position: absolute;
+
+    top: 15px;
+
+    right: 15px;
+
+    width: 100px;
+
+    font-size: 12px;
+
+    text-align: center;
+
+}*[[[break]]]deleted at line 101: *red {code --></style>
+</head>
+}*[[[break]]]added at line 103: *lime {code .commands UL{
+}*[[[break]]]added at line 104: *lime {code     margin: 0em;
+}*[[[break]]]added at line 105: *lime {code     margin-bottom: .5em;
+}*[[[break]]]added at line 106: *lime {code     padding: 0em;
+}*[[[break]]]added at line 107: *lime {code     list-style-type: none; 
+}*[[[break]]]added at line 108: *lime {code }
+}*[[[break]]]deleted at line 110: *red {code <body>
+<div id="title">
+<a href="#"><img src="ftp://xeny.net/alpaca-masthead.png" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+<h1><PAGE NAME></h1>
+</div>
+}*[[[break]]]deleted at line 116: *red {code <div id="container">
+<div id="sidebar">
+}*[[[break]]]changed line 119 from: *orange {code <EDIT BUTTON><br><PAGE HISTORY BUTTON><br><RESTORE PREVIOUS VERSION BUTTON>
+}*[[[break]]]to: *green {code .commands LI{
+}*[[[break]]]changed line 121 from: *orange {code <br><br>
+}*[[[break]]]to: *green {code     margin: 0em;
+}*[[[break]]]changed line 123 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a></p>
+}*[[[break]]]to: *green {code     padding: 0em;
+}*[[[break]]]changed line 125 from: *orange {code <br><br>
+}*[[[break]]]to: *green {code     border: 1px solid #444; 
+}*[[[break]]]changed line 127 from: *orange {code <a href='../IoWikiInstructions'>Instructions</a><br><a 
+href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+</div>
+}*[[[break]]]to: *green {code }
+}*[[[break]]]changed line 131 from: *orange {code <div id="content">
+<PAGE TEXT>
+}*[[[break]]]to: *green {code .commands A{
+}*[[[break]]]changed line 134 from: *orange {code </div>
+</div>
+}*[[[break]]]to: *green {code     display: block;
+
+    margin: 0em;
+
+    padding-top: .2em;
+
+    padding-bottom: .2em;
+
+    padding-left: .4em;
+
+    padding-right: .4em;
+
+}
+
+li.top{
+
+    border: 1px solid #333; 
+
+    border-top: 1px solid #111;
+
+    border-bottom: 1px solid #111;
+
+}
+
+
+A{
+
+    text-decoration:none;
+
+    font-weight:normal;
+
+    color: #222;
+
+}
+
+A:hover { color: #988; }
+
+A:hover{
+}*[[[break]]]changed line 137 from: *orange {code <br><br>
+}*[[[break]]]to: *green {code     text-decoration: underline;
+
+}
+
+.commands A:hover{
+
+    text-decoration: none;
+
+}
+}*[[[break]]]deleted at line 139: *red {code </body>
+</html>
+}*[[[break]]]added at line 141: *lime {code 
+
+    --></style>  
+</head>
+<body>
+<div class="commands">
+<ul>
+<li><EDIT BUTTON></li>
+<li class="top"><PAGE HISTORY BUTTON></li>
+<li><a href='SiteContents'>Site Contents</a></li>
+<li><a href='../RecentChanges'>Recent Changes</a></li>
+<li><a href='../IoWikiInstructions'>Instructions</a></li>
+</ul>
+</div><div class="content">
+<div id="title">
+<h1><a href="#"><PAGE NAME></h1>
+</div>
+<PAGE TEXT></div>
+}*

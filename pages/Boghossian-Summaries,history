@@ -1,0 +1,39 @@
+
+----
+2008-09-02 23:31:10 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is Epistemic Analyticity?*
+
+Boghossian distinguishes between epistemic and metaphysical forms of analyticity.  A sentence is considered metaphysically analytic if its truth is entirely based in its meaning (i.e. there is no factual contribution to the truth of the sentence).  It is this version of analyticity that Boghossian believes to be succeptible to Quine's criticisms.  The epistemic conception of analyticity is meant to be weaker, and thus more defensible.  A sentence is held to be epistemically analytic if purely by the act of  grasping its meaning one can be said to have acquired a justified belief in that meaning (i.e. if grasping the meaning of a sentence conveys an entitlement to believe its content).  Some, notably Margolis and Lawrence \citep{blah:???} have argued that the distinction between metaphysical and epistemological coneptions of analyticity is not a viable one.  However, I believe that \citet{Boghossian:???} provides an excellent defence of the distinction.  Given this, and the fact that Williamson does not dispute the distinction, I will continue to treat epistemological analyticity in this paper.
+----
+*Boghossian on Grasp of Meaning*
+
+Boghossian distinguishes three ways in which the meaning of a sentence may be grasped: firstly, there is mere grasp of meaning – according to which an agent means something determinate when they use sentence; secondly, there is knowledge of meaning – according to which an agent is able to state what a sentence means; finally, there is understanding of meaning – according to which an agent is able know whether or not two particular sentences S and S' mean the same thing.  
+----
+*Boghossian's Argument For A Priori Knowledge Based in Epistemic Analyticity*
+
+Boghossian then goes on to give a seven step account of how epistemic analyticity might work:
+
+1.A sentence S is determined to mean “that P” (this step involves grasping interpreted as knowledge).
+2.S is determined to be synonymous with S' (this step involves grasping in the sense of understanding).
+3.S' is determined to mean Q, where Q is a logical truth (again, this step involves grasping in the sense of knowledge).
+4.One realises in general that if a sentence F is synonymous with another sentence G, then F is true if and only if G is true (this step involves some sort of conceptual link between meaning and truth – more on this later).
+5.Hence, one realises that S is true if and only Q is true and futhermore that Q is true (this step involves knowledge of logic in two different ways – firstly, via knowledge of modus ponens and secondly, via knowledge that logical truths are necessarily true).
+6.Hence one realises that S is true (again via logic – modus ponens).
+7.Finally, then one is justified in asserting P (again via logic on the fairly standard minimal “P” (i.e. S) if and only if P account of truth *green there must be a better way to put this – Jason?*).
+
+It should be noted that although Boghossian writes in terms of sentences being the bearers of analyticity, he does not believe there is a distinction between language and thought here.  Synonomy in the case of thought is held to be be equivalent to identity of concepts.
+----
+*Problems with the Synonymy Model*
+
+As Boghossian notes, there are many aspects of the model of a priori detailed above that stand in need of further explanation and/or justification.  Unfortunately, due to space limitations and the desire to discuss one issue in considerable detail, I will have to set many of these aside.  Issues that will be passed over include: controversies regarding the nature and/or coherence of synonomy, how the model relates to other types of potentially analytic sentences (e.g. that it is not the case that the Eiffel tower is not both red and green all over), and how we come by the conceptual knowledge used in step four (although, as we shall see, Boghossian hopes that his account of a priori logical knowledge can be extended to cover this kind of knowedge as well).  My focus will be Boghossian's attempt to account for how we come to have a priori knowledge of the logical principles involved in steps five, six, and seven as it is over this issue that Williamson and Boghossian have engaged in signficant debate.  
+----
+*Implicit Definition*
+
+As noted above, Boghossian's model of analytic a priori knowledge requires that one also have a priori knowledge of certain logical principles.  Accordingly, Boghossian attempts to provide an account of how one comes to have such knowledge centred on the idea of implicit definition.  In implicitly defining a term f, one stipulates that a particular sentence S(f) (or a set of such sentences) involving the is to be considered true.  This is then used to attach meaning to that term.
+----
+*green more to come...*  
+}*

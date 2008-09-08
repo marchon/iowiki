@@ -1,0 +1,149 @@
+
+----
+
+
+
+[[[break]]]changed line 20 from: *orange {code - observe ..a.1 then ..b.1
+- observe ..a.2 then ..b.2
+}*[[[break]]]to: *green {code - observe ..a.1
+- observe ..a.2
+}*[[[break]]]changed line 23 from: *orange {code - observe ..a.n then ..b.n
+--> Therefore, always A then B.
+In the above account A and B must refer in some way to a similarity between elements of the sets _a_ = [..a.1, ... , ..a.n] and _b_ = [..b.1, ... , ..b.n] respectively.
+}*[[[break]]]to: *green {code - observe ..a.n
+--> Therefore, always A.
+In the above account A must refer in some way to a similarity between elements of the set _a_ = [..a.1, ... , ..a.n].
+}*[[[break]]]changed line 29 from: *orange {code So we are in a situation in which we want to describe how we come to an understanding of the simmilarities in _a_ and _b_ that allow us to make the move to talking in terms of A and B.  For the sake of argument, I will assume here that the determination of these simmilarities is unproblematic (even though this may not necessarily be the case).
+}*[[[break]]]to: *green {code So we are in a situation in which we want to describe how we come to an understanding of the simmilarities in _a_ that allows us to make the move to talking in terms of A.  For the sake of argument, I will assume here that the determination of these simmilarities is unproblematic (even though this may not necessarily be the case).
+}*[[[break]]]changed line 32 from: *orange {code - i) One could account for the simmilarities by arguing that there are one or more universals instantiated in the elements of _a_ and _b_.
+- ii) One could argue along traditional nominalist lines (e.g. one could argue for a general class that would account for the simmilarities of _a_ and _b_).
+- iii) One could employ trope theory to argue that  the members of _a_ and _b_ are actually made up of bundles of abstract particulars and that the simmilarities between some of these bundles are linguistic rather than ontological.
+}*[[[break]]]to: *green {code - i) One could account for the simmilarities by arguing that there are one or more universals instantiated in the elements of _a_.
+- ii) One could argue along traditional nominalist lines (e.g. one could argue for a general class that would account for the simmilarities of _a_).
+- iii) One could employ trope theory to argue that  the members of _a_ are actually made up of bundles of abstract particulars and that the simmilarities observed between some of these bundles have their basis in semantics rather than ontology.
+}*[[[break]]]added at line 43: *lime {code Upon further consideration, it seems that we are in the following situation:
+- Any descriptive account of induction needs to explain how we move from talk of particular events to talk of general similarities between those events.
+- If such an explanation requires an ontological commitment, then further difficulties arise regarding how we move from the semantic to the ontological (see my note on modified Carnap below).
+- If however, such an explanation only requires a semantic commitment, all one need do is provide an account of how such commitments are arrived at.
+
+}*
+----
+
+
+
+[[[break]]]changed line 6 from: *orange {code I had a discussion today regarding the role of universals in Hume's conception of causation.  Following on from this, and from the realisation that Hume's causation involves an inductive move from particular regularity observations to a general causal statement, I began to wonder about the relationship between the universals debate on considerations regarding inductive reasoning.  Someone else has probably already pointed out the connection but I wanted to work through it myself anyway.
+}*[[[break]]]to: *green {code Following on from a discussion regarding the role of universals in Hume's account of causation.  This, and the realisation that Hume's causation involves an inductive move from particular regularity observations to a general causal statement, led me to wonder about the relationship between the universals debate and a descriptive account of inductive reasoning.  Someone else has probably already pointed out the connection but I wanted to work through it myself anyway.
+}*[[[break]]]changed line 25 from: *orange {code In the above account A and B must refer in some way to the sets _a_ = [..a.1, ... , ..a.n] and _b_ = [..b.1, ... , ..b.n] respectively.
+}*[[[break]]]to: *green {code In the above account A and B must refer in some way to a similarity between elements of the sets _a_ = [..a.1, ... , ..a.n] and _b_ = [..b.1, ... , ..b.n] respectively.
+}*[[[break]]]changed line 27 from: *orange {code *Attributing Commonality*
+}*[[[break]]]to: *green {code *Attributing Similarity*
+}*[[[break]]]changed line 29 from: *orange {code So we are in a situation in which we want to describe how we come to an understanding of the commonalities in _a_ and _b_ that allow us to make the move to talking in terms of A and B.  I will assume here for the sake of argument that the extraction of these commonalities is unproblematic (even though this may not necessarily be the case).
+}*[[[break]]]to: *green {code So we are in a situation in which we want to describe how we come to an understanding of the simmilarities in _a_ and _b_ that allow us to make the move to talking in terms of A and B.  For the sake of argument, I will assume here that the determination of these simmilarities is unproblematic (even though this may not necessarily be the case).
+}*[[[break]]]changed line 31 from: *orange {code What philosophical mechanisms could be employed to account for these commonalities?  The possibilities are those put forward in the debate over the existence of universals.  This leads to the postulation of three main strategies:
+- i) One could account for the commonalities by arguing that there are one or more universals instantiated in the elements of _a_ and _b_.
+- ii) One could argue along traditional nominalist lines (e.g. one could argue for a general class that would account for the commonalities of _a_ and _b_).
+- iii) One could employ trope theory to argue that  the members of _a_ and _b_ are actually made up of bundles of abstract particulars and that the commonalities between some of these bundles are linguistic rather than ontological.
+}*[[[break]]]to: *green {code What philosophical mechanisms could be employed to account for these simmilarities?  The possibilities are those put forward in the debate over the existence of universals.  This leads to the postulation of three main strategies:
+- i) One could account for the simmilarities by arguing that there are one or more universals instantiated in the elements of _a_ and _b_.
+- ii) One could argue along traditional nominalist lines (e.g. one could argue for a general class that would account for the simmilarities of _a_ and _b_).
+- iii) One could employ trope theory to argue that  the members of _a_ and _b_ are actually made up of bundles of abstract particulars and that the simmilarities between some of these bundles are linguistic rather than ontological.
+}*[[[break]]]changed line 38 from: *orange {code The problems that arise for the above possibilities are just those that arise for them in more general discussions of the commonality problem.  Namely, the universals view can fall victim to criticism on the basis that it entails an ..infinite-regress of universals; the standard nominalist views seem to imply the existence of some other universal (e.g. ..class-membership); finally, the trope theory view fails to give a coherent account of how these abstract particulars are bundled together into objects. 
+}*[[[break]]]to: *green {code The problems that arise for the above possibilities are just those that arise for them in more general discussions of the similarity problem.  Namely, the universals view can fall victim to criticism on the basis that it entails an ..infinite-regress of universals; the standard nominalist views seem to imply the existence of some other universal (e.g. ..class-membership); finally, the trope theory view fails to give a coherent account of how these abstract particulars are bundled together into objects. 
+}*[[[break]]]changed line 42 from: *orange {code I think it has been fairly conclusively demonstrated above that the nature of inductive reasoning is inextricably linked to considerations regarding the existence of universals (or more generally, how we account for commonalities).  The plausibility of the trope theory view seems to indicate that a move away from ontological commonalities and towards the linguistic ones might be the best way to develop a descriptive account of inductive reasoning.
+}*[[[break]]]to: *green {code I think it has been fairly conclusively demonstrated above that any descriptive account of inductive reasoning is inextricably linked to considerations regarding the existence of universals (or more generally, how we account for simmilarities).  The plausibility of the trope theory view might indicate that a move away from ..ontologically-based simmilarity and towards a linguistic one could be fruitful when developing a descriptive account of inductive reasoning.
+
+*Further Work Needed*
+
+- The idea that trope theory implies that one can move from ontological to linguistic similarity concerns might be a little controversial - some further explication of how this happens is probably necessary.
+- The one possible method of escaping the infinite regress argument against the existence of universals is to argue that no new universal is introduced as one moves up the chain of similarities beyond those of the ..first-order (i.e. one would argue that we don't need different similarity relations for universals themselves).  The efficacy of this response will need to be assessed.
+- The difficulty of giving a clear account of how tropes are bundled will need to be addressed.
+}*
+----
+
+
+
+[[[break]]]changed line 42 from: *orange {code I think it has been fairly conclusively demonstrated above that the nature of inductive reasoning is inextricably linked to considerations regarding the existence of universals (or more generally, how we account for commonalities).
+}*[[[break]]]to: *green {code I think it has been fairly conclusively demonstrated above that the nature of inductive reasoning is inextricably linked to considerations regarding the existence of universals (or more generally, how we account for commonalities).  The plausibility of the trope theory view seems to indicate that a move away from ontological commonalities and towards the linguistic ones might be the best way to develop a descriptive account of inductive reasoning.
+}*
+----
+
+
+
+[[[break]]]added at line 37: *lime {code The problems that arise for the above possibilities are just those that arise for them in more general discussions of the commonality problem.  Namely, the universals view can fall victim to criticism on the basis that it entails an ..infinite-regress of universals; the standard nominalist views seem to imply the existence of some other universal (e.g. ..class-membership); finally, the trope theory view fails to give a coherent account of how these abstract particulars are bundled together into objects. 
+}*[[[break]]]changed line 41 from: *orange {code 
+}*[[[break]]]to: *green {code I think it has been fairly conclusively demonstrated above that the nature of inductive reasoning is inextricably linked to considerations regarding the existence of universals (or more generally, how we account for commonalities).
+}*
+----
+
+
+
+[[[break]]]changed line 29 from: *orange {code So we are in a situation in which we want to describe how we come to an understanding of the commonalities in _a_ and _b_ that allow us to make the move to the inductive conclusion.
+}*[[[break]]]to: *green {code So we are in a situation in which we want to describe how we come to an understanding of the commonalities in _a_ and _b_ that allow us to make the move to talking in terms of A and B.  I will assume here for the sake of argument that the extraction of these commonalities is unproblematic (even though this may not necessarily be the case).
+}*[[[break]]]changed line 32 from: *orange {code - i)
+}*[[[break]]]to: *green {code - i) One could account for the commonalities by arguing that there are one or more universals instantiated in the elements of _a_ and _b_.
+- ii) One could argue along traditional nominalist lines (e.g. one could argue for a general class that would account for the commonalities of _a_ and _b_).
+- iii) One could employ trope theory to argue that  the members of _a_ and _b_ are actually made up of bundles of abstract particulars and that the commonalities between some of these bundles are linguistic rather than ontological.
+
+*Problems*
+}*
+----
+
+
+
+[[[break]]]changed line 24 from: *orange {code --> Therefore, always A* then B*.
+In the above account A* and B* refer in some way to the sets [..a.1, ... , ..a.n] and [..b.1, ... , ..b.n] respectively.
+}*[[[break]]]to: *green {code --> Therefore, always A then B.
+In the above account A and B must refer in some way to the sets _a_ = [..a.1, ... , ..a.n] and _b_ = [..b.1, ... , ..b.n] respectively.
+
+*Attributing Commonality*
+
+So we are in a situation in which we want to describe how we come to an understanding of the commonalities in _a_ and _b_ that allow us to make the move to the inductive conclusion.
+
+What philosophical mechanisms could be employed to account for these commonalities?  The possibilities are those put forward in the debate over the existence of universals.  This leads to the postulation of three main strategies:
+- i)
+}*
+----
+
+
+
+[[[break]]]changed line 19 from: *orange {code 
+}*[[[break]]]to: *green {code First let's try to give a fairly general account of inductive reasoning:
+- observe ..a.1 then ..b.1
+- observe ..a.2 then ..b.2
+- ...
+- observe ..a.n then ..b.n
+--> Therefore, always A* then B*.
+In the above account A* and B* refer in some way to the sets [..a.1, ... , ..a.n] and [..b.1, ... , ..b.n] respectively.
+}*
+----
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+An attempt to explicate the relationship between inductive reasoning and the philosophical discourse regarding universals.
+
+I had a discussion today regarding the role of universals in Hume's conception of causation.  Following on from this, and from the realisation that Hume's causation involves an inductive move from particular regularity observations to a general causal statement, I began to wonder about the relationship between the universals debate on considerations regarding inductive reasoning.  Someone else has probably already pointed out the connection but I wanted to work through it myself anyway.
+
+*Some sources*
+
+Lipton - Inference to the best explanation
+-> Contains some detailed discussion of induction.
+Garrett - What is this thing called metaphysics?
+-> Source for general positions in the universals debate.
+Hume - An enquiry concerning human  understanding.
+-> Source for Hume's views.
+----
+*Induction*
+
+
+
+----
+*Conclusions*
+
+
+----
+
+ChrisWilcox
+}*

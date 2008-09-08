@@ -1,0 +1,185 @@
+
+----
+Thu Feb 23 20:30:08 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+}*[[[break]]]to: *green {code <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+ <head>
+
+}*[[[break]]]changed line 5 from: *orange {code   <style type="text/css"><!--
+    body {
+      color:black;
+      background:#E7E8E9;
+      font:100%/140% soutane, georgia, "palatino linotype", palatino, "book antiqua", "zapf calligraphic", times, "times new roman", serif;
+      margin-left:20px;
+      margin:0; 
+      padding:0
+      }
+    a:link {
+      color:#033EC6;
+      text-decoration:none;font-weight:normal;
+      }
+    a:visited {
+      color:#6F7EA0;
+      text-decoration:none;font-weight:normal;
+      }
+    a:hover {
+      color:#215EEB; 
+      background:white;
+      }
+    a:active {
+      color:#215EEB; 
+      background:white;
+      }
+    ul, pre { margin-top:0px; margin-bottom:0px; }
+    table {
+      margin:1; 
+      padding:1;
+      }
+    #main {
+      margin:0;
+      padding:0;
+      float:left;
+      width:100%;
+      }
+    #content {
+      background:#F2F2F2;
+      border:2px #CFD1D1 solid;
+      margin:1em 2em 0 2em;
+      padding:2em;
+      }
+    #content h1 {
+      color:#9C2525; 
+      font-weight:bold; 
+      font-family: verdana, "lucida sans", "lucida sans unicode", tahoma, arial, helvetica, sans-serif;
+      font-size:150%; 
+      margin:0 0 1.3em 0;
+      }
+    #tabs {
+      margin:0 2em; 
+      padding:0; 
+      height:1.75em;
+      }
+    #tabs ul li a {
+      color:black;
+      background:#CFD1D1;
+      text-decoration:none;
+      font:bold 80%/130% verdana, "lucida sans", "lucida sans unicode", tahoma, arial, helvetica, sans-serif;
+      margin:1em 0 0.5em 0;
+      padding:2px 1.5em;
+      height:auto;
+      display:block;
+      text-align:center;
+      }
+    #tabs ul li a:hover {
+      background:#A2AFCC;
+      }
+    #tabs ul li {
+      display:block; 
+      float:left; 
+      text-align:center;
+      }
+    #tabs ul {
+      margin:0;
+      padding:0;
+      list-style-type:none;
+      text-align:center;
+      border:0;
+      }
+    #tabs a:active {
+      background:#778BBA;
+      }
+    #tabs #browse {
+      background:#778BBA;
+      }
+    --></style>  
+</head>
+}*[[[break]]]to: *green {code 
+ </head>
+
+
+}*[[[break]]]changed line 95 from: *orange {code <div id="main">
+    <div id="tabs">
+    </div>
+    <div id="content">
+}*[[[break]]]to: *green {code 
+
+
+<!--START: Header -->
+
+
+
+<form name="search_form" onsubmit="return goto_url(this)" action="">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+
+<td width="10%" rowspan="2"><a href="http://www.uq.edu.au/"><img src="images/uq-logo.gif" width="200" height="72" alt="The University of Queensland Homepage" border="0" /></a></td>
+
+    <td width="90%" colspan="2" class="toplinks">
+
+        <!-- Start: Top Bar -->
+
+        <script type="text/javascript" src="http://www.uq.edu.au/templates/header/topbar.js"></script>
+
+
+
+        <noscript>
+
+        <table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td width="70%" class="toplinks" align="left"><img src="http://www.uq.edu.au/templates/header/default/top-links.gif" width="392" height="17" usemap="#Map" border="0" alt="" /><map name="Map" id="Map"><area shape="rect" coords="23,3,76,15" href="http://www.uq.edu.au/" alt="UQ Homepage" title="UQ Homepage" /><area shape="rect" coords="82,3,129,15" href="http://www.uq.edu.au/search" alt="Search UQ" title="Search UQ" /><area shape="rect" coords="137,3,196,15" href="http://www.uq.edu.au/contacts" alt="Find all Contacts at UQ" title="Find all Contacts at UQ" /><area shape="rect" coords="202,3,241,15" href="http://www.uq.edu.au/study" alt="Study Options at UQ" title="Study Options at UQ" /><area shape="rect" coords="249,3,295,15" href="http://www.uq.edu.au/events" alt="Events at UQ" title="Events at UQ" /><area shape="rect" coords="300,3,334,15" href="http://www.uq.edu.au/maps" alt="UQ Maps" title="UQ Maps" /><area shape="rect" coords="344,3,391,15" href="http://www.uq.edu.au/library" alt="UQ Library" title="UQ Library" /></map></td><td width="30%" align="right"><a href="http://www.my.uq.edu.au"><img src="http://www.uq.edu.au/templates/header/default/my-uq.gif" width="69" height="17" alt="Link to my.UQ" border="0" /></a></td></tr></table>
+
+        </noscript>
+
+        <!-- End: Top Bar -->
+
+    </td>
+
+  </tr>
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+<!-- END: Header-->
+
+<!-- START: Body -->
+
+
+}*[[[break]]]changed line 101 from: *orange {code     </div>
+    <div id="tabs">
+    </div>
+</div>
+</body>
+}*[[[break]]]to: *green {code 
+
+<!-- END: Body -->
+
+
+
+
+
+
+
+    <!-- Ends the header form -->
+
+     </form>
+
+    <!-- Ends the header form -->
+
+
+
+  </body>
+
+}*

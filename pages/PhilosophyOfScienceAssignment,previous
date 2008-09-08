@@ -1,0 +1,85 @@
+Can someone post or transcribe the assignment here just in case I lose or have lost it?
+
+---
+
+Yes, I can. But you probably already knew that, considering you are me.
+
+ *blue See also ftp://xeny.net/philosophy-of-science/philosophy-of-science-assignment-1.pdf
+*
+
+---
+
+\documentclass[12pt]{article}
+\usepackage{url%,hyperref}
+}
+\title{PHIL2057: Philosophy of Science, 2008}
+\author{Assignment 1}
+
+\begin{document}
+  \maketitle
+  Answer one of the following:
+  \begin{enumerate}
+    \item What is theory of Continental Drip? What is the theory of
+    Continental Drift? As far as possible, mention factors which
+    also tell us something about other parts of science,
+    \item Read the following two papers (available in lectures):
+    \begin{enumerate}
+    \renewcommand\labelenumi{(\Alph{enumii})}
+      \item Peter Meese, Olga Vujovic, and Christopher Fairley,
+      ``Randomised trial of a patient held record on the
+      communication with general practitioners in patients with HIV
+      infection'', \emph{Venereology} 1997; 10(4): 226-227, and
+      \item Robin J MacGowan, Robert M Brackbill, Deborah L. Rugg,
+      Nancy M Swanson, Beth Weinstein, Alfred Couchon, John Scibak,
+      Susan Molde, Paul McLaughlin, Thomas Barker and Rich Voigt,
+      ``Sex Drugs and HIV counseling and testing: a prospective
+      study of behavior-change among methadone-maintenance clients
+      in New England'', \emph{AIDS} 1997; 11: 229-235.
+    \end{enumerate}
+    \begin{enumerate}
+      \item Briefly state the main conclusions of the studies
+      reported in these two papers.
+      \item Explain where each of these studies fits into an
+      evidence hierarchy, for example the evidence hierarchy of the
+      U.S. Preventive Services Task Force.
+      \item Briefly discuss the evidence given for the main
+      conclusions of the papers.
+      \item To what extent are the conclusions justified by that
+      evidence?
+      \item What does this tell us about the evidence heierarchy?
+      \item Does it tell us anything about the use of evidence in
+      science more generally?
+    \end{enumerate}
+    \item Briefly describe some of the features shared by typical
+    philosophers of science immediately prior to Thomas Kuhn's
+    \emph{The Structure of Scientific Revolutions} (Chicago:
+    University of Chicago Press, 1962). Briefly describe Kuhn's
+    response to \emph{one} of these features. Was Kuhn right?
+    Illustrate you answer with a scientific example.
+    \item (Write your own question relevant to the topics covered in
+    this course so far. If you take this option, you must have your
+    question approved by the lecturer, in writing (including
+    e-mail), by 5\,pm on Monday the 31st of March. If you have not
+    received approval by then, you must answer one of the other
+    questions. If you do receive approval, you must answer exactly
+    the question which was approved.
+  \end{enumerate}
+  \paragraph{Rules}
+  \begin{itemize}
+    \item Write up to 1500 words. Include an accurate word count.
+    \item This assignment is worth 30\%\ of the marks for the
+    course.
+    \item This assignment is due by 4\,pm on Friday 11 April.
+    \item Submit your assignment via the chute outside the School of
+    Humanities office in the A.D. Hope Building. You will need to
+    complete a cover sheet --- located in the wooden box outside the
+    office --- and staple it to your assignment, prior to putting in
+    the chute
+  \end{itemize}
+  \paragraph{Suggestions}
+  Write out the assignment task at the top of your answer, to make
+  absolutely sure you know exactly what it is. Do this even though
+  it feels silly. It will make sure you don't lose marks by
+  accidentally answering slightly the worng [sic] question.
+  \paragraph{Email Jason if problems} \url{Jason.Grossman@anu.edu.a}
+\end{document}

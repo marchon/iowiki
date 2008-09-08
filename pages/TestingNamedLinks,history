@@ -1,0 +1,85 @@
+
+----
+Tue Nov 29 22:29:53 EST 2005
+
+
+
+[[[break]]]added at line 3: *lime {code http://www.usyd.edu.au (Sydney uni)
+
+}*
+----
+Tue Nov 29 22:29:25 EST 2005
+
+
+
+[[[break]]]added at line 4: *lime {code 
+http://www.usyd.edu.au (Sydney uni)
+
+
+cute.wombats (those cuties 1)
+
+
+cute.wombats (those cuties 2)
+}*
+----
+Tue Nov 29 22:26:51 EST 2005
+
+
+
+[[[break]]]deleted at line 5: *red {code 
+
+cute.wombats (those cuties 1)
+
+
+cute.wombats (those cuties 2)
+}*
+----
+Tue Nov 29 22:21:58 EST 2005
+
+
+
+[[[break]]]added at line 4: *lime {code 
+
+cute.wombats (those cuties 1)
+
+
+cute.wombats (those cuties 2)
+}*
+----
+Tue Nov 29 22:21:50 EST 2005
+
+
+
+[[[break]]]deleted at line 5: *red {code 
+
+cute.wombats (those cuties 1)
+
+
+cute.wombats (those cuties 2)
+}*
+----
+Tue Nov 29 22:19:40 EST 2005
+
+
+
+[[[break]]]deleted at line 1: *red {code 
+}*[[[break]]]deleted at line 4: *red {code cute.wombats (those cuties)
+}*[[[break]]]added at line 6: *lime {code 
+
+cute.wombats (those cuties 1)
+
+
+cute.wombats (those cuties 2)
+}*
+----
+Tue Nov 29 21:49:17 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code 
+Testing named links:
+
+cute.wombats (those cuties)
+
+http://tumble.tk (tumble's web site)
+}*

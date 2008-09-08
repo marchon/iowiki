@@ -1,0 +1,66 @@
+----
+*What is it?*
+
+A paper criticising the Quinean view of ontology.  Yablo does so by introduces a metaphorical/literal distinction as to when it is reasonable to posit the existence of entities.  Thus in order to determine our ontological commitments we need to be able to extract all cases in which such entities are posited in a metaphorical way rather than a literal one.  If there is no way to do this, then it is not possible to develop a Quinean ontology.
+
+*Where does it fit in for me?*
+
+For the thesis: if correct, it implies that Quine's fundamental approach to ontology is flawed and this may have negative implications for the Quine-Putnam  indispensability argument.
+
+For the metaphysics paper: possibly details a way in which existence cannot be held to occur (which would be interesting to look at in terms of the relations proposed).  At the very least it gives an example of particular existence claims which can then be analysed in a relational way.
+
+*Reference*
+Yablo, S., Does ontology rest on a mistake?, Proceedings of the Aristotelian Society, supp. vol. LXXII (1998), 229-261.
+----
+*The Argument*
+
+_Carnap on existence_
+Carnap argued that the realist existence question/assertion was meaningless.  He did this by means of his concept of linguistic framework.  A linguistic framework lays down rules for the use and meaning of some object term X in a linguistic sense.  Thus there are two ways in which one can question/assert the existence of X: internal or external to the linguistic framework.  
+
+If one questions the existence of X internal to the framework, one is almost certainly guaranteed a yes answer (thus the statement "there is an X" can pretty much be viewed as tautological when assessed internally to a framework involving X).  Hence the realist must be making an external existence assertion.  However, in this case the term X has no meaning, as the framework within which it gains such is not present.  Thus the realist existence question/assertion is either tautological or impossible to answer/assess.
+
+_Quine on Carnap_
+Quine objected to Carnap's position in three ways: firstly, he held that his internal/external distinction was reliant on an analytic/synthetic distinction (because the concept of a linguistic framework involves the rules inherent in that framework being viewed as indefeasible (i.e. analytic) within that particular linguistic practice).  As Quine believed that the analytic/synthetic distinction could not be made, he held that Carnap's internal/external distinction breaks down: internal assessments are thus not just a matter of following inviolable linguistic rules, it is indeed possible for these rules to change in response to experience and thus for internal practice to change too.  
+
+Secondly, Quine argues that the external choice between linguistic frameworks is much more influenced by observation than Carnap would have us believe.  For Quine, the decision to adopt a rule governing the appropriate observational conditions under which one may assert the existence of X is itself in part an assertion that X exists (if such conditions obtain). He does not believe in making a distinction between the linguistic truth and the factual truth of a statement.
+
+Finally, Quine objects to the claim that the choice of linguistic framework existence rule is based on merely practical considerations to do with efficiency, simplicity, etc with no metaphysical implications.  He does so on the basis that these are exactly the sorts of things that scientists use to favour one theory (and hence in Quine's opinion, a view of the world, complete with ontology) over another.
+
+_Yablo on Quine_
+Yablo argues that each aspect of Quine's critique is flawed.  Firstly, one does not need to hold that rules making up a linguistic framework are analytic in order to be able to understand the need for a framework in order to understand the meaning of terms.  *green Not really sure how this fits in and is related to Quine's second objection stage: One does not need to render external talk of the objects within a particular framework meaningless in order to save the internal, ..rule-bound meaning.  One can just make clear how such external statements cannot be applied internally.*;finally, Yablo points out that Quine himself accepts the fact that a statement can be asserted purely for practical advantage without the asserter actually holding that what it entails metaphysically is actually the case.
+
+_Saving the Framework_
+Yablo goes on to propose a linguistic framework modified in light of Quine's criticisms in which a framework is adopted as a kind of "game" where the players assess the truth and falsity of statements  within the framework without any belief in implications for truth and/or falsity outside of the framework.  Thus Yablo argues that there are two ways in which a statement may be interpreted: literally (external to a particular game or linguistic framework) or as a metaphor (internal).
+
+_The Framework Strikes Back_
+This distinction regarding the way in which a statement may be interpreted causes problems for the Quinean ontological regime.  Given that Quine does accept that assertions may be made in a metaphorical sense, and that when one does so no ontological implications may be drawn from such assertions, Quine needs to provide a clear demarcation criterion to distinguish between metaphorical and literal statements.  As this has been much discussed without progress, it seems unlikely that one will be able to distinguish between metaphorical and literal usage and thus it is impossible to construct a certain ontology under Quine's approach.
+
+Indeed, Yablo argues that for the most part when we make statements, we are unsure as to whether they are strictly literally true or if they are at least in part to be taken metaphorically.  Thus the Quiniean must argue that in time these metaphorical parts of our statements will be eroded and eventually only the literal interpretation will remain.  However, this reduces the Quinean position to the following: one should   sympathise with the idea that Xs exist iff the literal part of theories involve their postulation _and_ one should count the part of a theory that involves the postulation of Xs literal iff there turn out to be Xs.  Thus there is a circularity.
+
+*Argument Outline*
+- Carnap proposes a conception of linguistic practice (involving an internal/external distinction) under which ontological investigations cannot meaningfully be undertaken.
+- Quine criticises this by linking it to the problems of the analytic/synthetic distinction.
+- Yablo modifies Carnap's position so that the distinction is made on metaphorical/literal grounds in instead.
+- This new position requires that the Quinean provide a principle of demarcation between metaphor and literal truth in order for their ontology to prevail.
+- No such principle has been provided and so the Quinean ontological project fails. 
+----
+*What do I think?*
+(in some sort of order of significance)
+- Applying Yablo analysis to the ..Quine-Putnam argument: one response to this critique might be to say that precisely what indispensability picks out is a situation in which entity commitment statements must be interpreted literally.
+-- It's difficult to see how this could work however, surely it would still be impossible to tell whether or not the overall scientific theory was being put forward in a literal or a metaphorical sense.
+- To explore (possibly): what exactly are the negative implications of holding a belief in distinct linguistic and factual components of truth?
+-- Isn't this in fact what Yablo is doing with his distinction between internal (metaphorical) and external (literal) truth?  If not, how does it differ and how does it avoid the problems of the above view?
+--> If it doesn't differ, then perhaps Yablo is right back in Carnap's position with regard to the second part of Quine's objection.  He must provide an argument for making such a truth distinction (or at least undermine Quine's argument against such a distinction.
+--> I think what is going on here is the highlighting of a tension in Quine's position: on the one hand he wants to avoid linguistic and factual components of truth, but on the other hand he is willing to allow for metaphorical language usage without ontological commitment.  The Quinean needs to give an account of how the distinction between metaphorical and literal assertion differs from the distinction between factual and linguistic truth. 
+--> So at the moment we are in a situation in which the Quinean can save their ontology only by abandoning the acceptability of metaphorical usage without ontological commitment.  This seems an unsatisfactory position for the Quinean as it would appear to conflict severely with their naturalism.
+- Is the distinction between Yablo and Wittgenstein's views on linguistic game-playing that Wittgenstein holds that the game is all there is (or at least all that can be addressed philosophically) whereas Yablo remains agnostic on the external (literal) truth of existence claims (on the grounds that we can never separate the metaphorical from the literal)?
+-> Actually, upon further reflection I think that maybe there isn't even this distinction between their positions.  Yablo certainly ends up in a situation in which he holds that it is impossible for one to address ontological questions philosophically.
+- Is there a link here between Yablo's idea regarding the role of make believe in more effective reasoning and Nietzsche's views regarding the origin of logic in the illogic of recognising instances in the world when in fact instances are not there?  (It could be that this sort of principled make-believe behaviour has been fundamental to evolutionary (i.e. reproductive) success in the past.)
+- It seems as if Quine's third objection to Carnap above presupposes a certain picture of the way scientific practice relates to ontological commitment and thus may be ..question-begging.
+- *green For Jason:* Is Yablo's use of the term "doctrine" in sections VII and VIII technical?
+-> *crimson No, I don't think so.  By the way, there is no section Vii --- a cunning ploy to render critisism incorrect.  Jason*
+-- Is it just used to refer to system of ontological commitments?
+- Is there really a clear distinction, as Carnap would wish, between "correcting the rules" of a framework and trading frameworks?  All there really seems to be is just a continuum of framework change.
+----
+
+ChrisWilcox

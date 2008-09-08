@@ -1,0 +1,924 @@
+
+----
+
+
+
+[[[break]]]added at line 14: *lime {code - The following link doesn't work but misleadingly looks as though it will: Philosophy.of.Science.This.might.be.useful.if.you.don't.have.the.textbook
+}*
+----
+
+
+
+[[[break]]]deleted at line 4: *red {code - important: I must stop search engines from indexing old versions of pages, because I'm letting them index old spam
+}*
+----
+Thu Dec  6 00:03:24 EST 2007
+
+
+
+[[[break]]]added at line 15: *lime {code - instructions are wrong: imply that character set is small when in fact it's all of unicode (except for what a browser can't show)
+}*
+----
+Mon Oct  1 12:59:56 EST 2007
+
+
+
+[[[break]]]added at line 3: *lime {code - important: I must stop search engines from indexing old versions of pages, because I'm letting them index old spam
+}*
+----
+Wed Sep 26 19:19:29 EST 2007
+
+
+
+[[[break]]]changed line 18 from: *orange {code - Hot links with full stops immediately after them are AProbLem.  I think I almost have this fixed.  I think they only fail now when they're *crimson embedded InCoLourEtc.* ... and here: consistent with the data.'' 
+}*[[[break]]]to: *green {code - Hot links with full stops immediately after them are AProbLem.  I think I almost have this fixed.  I think they only fail now when they're *crimson embedded InCoLourEtc.* ... and here: consistent with the data.''  And From InterpretationOfConfidenceIntervals: .  Bugger.
+}*
+----
+Wed Sep 26 18:52:48 EST 2007
+
+
+
+[[[break]]]changed line 18 from: *orange {code - Hot links with full stops immediately after them are AProbLem.  I think I almost have this fixed.  I think they only fail now when they're *crimson embedded InCoLourEtc.*
+}*[[[break]]]to: *green {code - Hot links with full stops immediately after them are AProbLem.  I think I almost have this fixed.  I think they only fail now when they're *crimson embedded InCoLourEtc.* ... and here: consistent with the data.'' 
+}*
+----
+Tue Sep 25 02:54:12 EST 2007
+
+
+
+[[[break]]]added at line 3: *lime {code - page names should be able to have apostrophes in them
+}*
+----
+Tue Sep 25 02:53:31 EST 2007
+
+
+
+[[[break]]]deleted at line 4: *red {code - page names should be able to have apostrophes in them
+}*
+----
+Mon Sep 24 22:21:13 EST 2007
+
+
+
+[[[break]]]added at line 3: *lime {code - page names should be able to have apostrophes in them
+}*
+----
+Mon Sep 24 22:14:42 EST 2007
+
+
+
+[[[break]]]deleted at line 4: *red {code - page names should be able to have apostrophes in them
+}*
+----
+Mon Sep 24 21:45:18 EST 2007
+
+
+
+[[[break]]]changed line 17 from: *orange {code - The RSS mechanism needs to be documented in AdministratorDocumentation and on the front page and advertising page.
+}*[[[break]]]to: *green {code - The RSS mechanism needs to be documented in AdministratorDocumentation.
+}*
+----
+Mon Sep 24 20:54:35 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code See also version.history.
+
+}*[[[break]]]deleted at line 2: *red {code - every page should have a restore button
+}*[[[break]]]changed line 5 from: *orange {code - the recent changes page should show the current server date and time
+}*[[[break]]]to: *green {code - maybe the recent changes page should show the current server date and time
+}*
+----
+Mon Sep 24 13:02:16 EST 2007
+
+
+
+[[[break]]]changed line 4 from: *orange {code - if a page has no contents OR if its contents are merely whitespace, it should show the haiku
+}*[[[break]]]to: *green {code - if a page has no contents OR if its contents are merely whitespace, it should show the ... ahem ... ``haiku''
+}*
+----
+Mon Sep 24 12:34:36 EST 2007
+
+
+
+[[[break]]]deleted at line 11: *red {code - Sometimes the recent.changes page is inaccurate ... I think.  Actually, it doesn't seem to have been recently.
+}*[[[break]]]deleted at line 16: *red {code - Diffs are buggered.
+}*[[[break]]]added at line 21: *lime {code - The page history must use colours which ordinary pages can't use.
+}*
+----
+Thu Sep 20 14:22:50 EST 2007
+
+
+
+[[[break]]]changed line 22 from: *orange {code - page names with a slash should be rejected _before_ editing's allowed; and maybe the same goes for other characters?
+}*[[[break]]]to: *green {code - page names with a slash should be rejected _before_ editing's allowed; and maybe the same goes for other characters?  Namely:  ";" | "/" | "?" | ":" | "@" | "&" | "=" | "+" |
+                    "$" | ",".
+}*
+----
+Thu Sep 20 11:02:45 EST 2007
+
+
+
+[[[break]]]added at line 21: *lime {code - page names with a slash should be rejected _before_ editing's allowed; and maybe the same goes for other characters?
+}*
+----
+Wed Sep 19 13:09:50 EST 2007
+
+
+
+[[[break]]]changed line 19 from: *orange {code - Hot links with full stops immediately after them are AProbLem.  I think I almost have this fixed.  I think they only fail now when they're *crimson embedded InCoLourEtc*.
+}*[[[break]]]to: *green {code - Hot links with full stops immediately after them are AProbLem.  I think I almost have this fixed.  I think they only fail now when they're *crimson embedded InCoLourEtc.*
+}*
+----
+Wed Sep 19 13:09:29 EST 2007
+
+
+
+[[[break]]]changed line 19 from: *orange {code - Hot links with full stops immediately after them are AProbLem.
+}*[[[break]]]to: *green {code - Hot links with full stops immediately after them are AProbLem.  I think I almost have this fixed.  I think they only fail now when they're *crimson embedded InCoLourEtc*.
+}*
+----
+Wed Sep 19 12:09:47 EST 2007
+
+
+
+[[[break]]]changed line 11 from: *orange {code - Sometimes the recent.changes page is inaccurate.  I don't know why.
+}*[[[break]]]to: *green {code - Sometimes the recent.changes page is inaccurate ... I think.  Actually, it doesn't seem to have been recently.
+}*[[[break]]]changed line 15 from: *orange {code - code at the beginning of a page seems to have stopped working --- see passwordless.ssh
+}*[[[break]]]to: *green {code - *code* at the beginning of a page seems to have stopped working --- see passwordless.ssh
+}*
+----
+Wed Sep 12 09:01:40 EST 2007
+
+
+
+[[[break]]]added at line 14: *lime {code - code at the beginning of a page seems to have stopped working --- see passwordless.ssh
+}*
+----
+Tue Sep 11 23:06:11 EST 2007
+
+
+
+[[[break]]]deleted at line 19: *red {code - Pages are linking to themselves, which they shouldn't.  (e.g., KnownBugs should not be a link.)
+}*
+----
+Tue Sep 11 23:05:26 EST 2007
+
+
+
+[[[break]]]deleted at line 16: *red {code - RSS is buggered.  Should be easy to fix.
+}*
+----
+Tue Sep 11 23:01:07 EST 2007
+
+
+
+[[[break]]]changed line 10 from: *orange {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.  I guess I'm going to have to allow square brackets around URLs, even though I don't need them for anything else.  Or maybe curly brackets will do, which I already have for other purposes.
+}*[[[break]]]to: *green {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.  I guess I'm going to have to allow square brackets around URLs, even though I don't need them for anything else.
+}*
+----
+Tue Sep 11 23:00:05 EST 2007
+
+
+
+[[[break]]]changed line 10 from: *orange {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.  Don't know whether I can do anything about that.  It's a design problem.  But maybe I can think of something.
+}*[[[break]]]to: *green {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.  I guess I'm going to have to allow square brackets around URLs, even though I don't need them for anything else.  Or maybe curly brackets will do, which I already have for other purposes.
+}*
+----
+Tue Sep 11 18:13:27 EST 2007
+
+
+
+[[[break]]]added at line 21: *lime {code - if a page's contents are deleted on an edit, the edit does nothing :-(
+}*
+----
+Sun Sep  9 10:42:53 EST 2007
+
+
+
+[[[break]]]added at line 11: *lime {code - Emailing changes is broken.  Don't know whether I really want to fix that.
+}*[[[break]]]added at line 14: *lime {code - RSS is buggered.  Should be easy to fix.
+}*
+----
+Sun Sep  9 02:44:33 EST 2007
+
+
+
+[[[break]]]changed line 5 from: *orange {code - the recent changes page should show the current server date
+- add lastEditorIPAddress field to each cached page, and warn when a save is made from any other IP address
+}*[[[break]]]to: *green {code - the recent changes page should show the current server date and time
+}*
+----
+Sun Sep  9 02:44:10 EST 2007
+
+
+
+[[[break]]]changed line 11 from: *orange {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.
+}*[[[break]]]to: *green {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.  Don't know whether I can do anything about that.  It's a design problem.  But maybe I can think of something.
+}*[[[break]]]added at line 14: *lime {code - Diffs are buggered.
+}*[[[break]]]added at line 16: *lime {code - Hot links with full stops immediately after them are AProbLem.
+}*
+----
+Tue Dec 26 16:40:44 EST 2006
+
+
+
+[[[break]]]changed line 4 from: *orange {code - if a page has no contents, it should show the haiku
+}*[[[break]]]to: *green {code - if a page has no contents OR if its contents are merely whitespace, it should show the haiku
+}*
+----
+Tue Dec 26 16:40:18 EST 2006
+
+
+
+[[[break]]]added at line 3: *lime {code - if a page has no contents, it should show the haiku
+}*
+----
+Tue Dec 26 15:50:51 EST 2006
+
+
+
+[[[break]]]changed line 2 from: *orange {code - restore button
+}*[[[break]]]to: *green {code - every page should have a restore button
+- page names should be able to have apostrophes in them
+}*[[[break]]]changed line 9 from: *orange {code - If IoWiki is reverse proxied, page editing doesn't work properly.  I don't know why not.
+- Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.  I hope to add a work-around for this when I introduce named links.
+--> Possible solution: a named link can go  space dot space name (link) ... and everything in brackets will be reproduced verbatim in <a href=""> EXCEPT that spaces can be replaced by  s, which is a workaround for the spaces in URLs problem.
+}*[[[break]]]to: *green {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.
+}*[[[break]]]changed line 16 from: *orange {code - The new RSS mechanism needs a lot of testing.
+- The new RSS mechanism needs to be documented in AdministratorDocumentation and on the front page and advertising page.
+}*[[[break]]]to: *green {code - The RSS mechanism needs to be documented in AdministratorDocumentation and on the front page and advertising page.
+}*[[[break]]]deleted at line 19: *red {code - Quite a lot of changes are not appearing in recent.changes.
+}*
+----
+Tue Dec 26 09:13:36 EST 2006
+
+
+
+[[[break]]]added at line 1: *lime {code - restore button
+}*
+----
+Thu Aug 24 14:59:26 EST 2006
+
+
+
+[[[break]]]changed line 2 from: *orange {code - named links
+}*[[[break]]]to: *green {code - the recent changes page should show the current server date
+}*
+----
+Fri May 26 03:04:02 EST 2006
+
+
+
+[[[break]]]added at line 13: *lime {code - RSS feeds could include a (customisable) number of chars of each updated page.
+}*
+----
+Fri May 26 02:59:19 EST 2006
+
+
+
+[[[break]]]added at line 13: *lime {code - The new RSS mechanism needs a lot of testing.
+- The new RSS mechanism needs to be documented in AdministratorDocumentation and on the front page and advertising page.
+}*
+----
+Wed Mar 29 11:47:35 EST 2006
+
+
+
+[[[break]]]added at line 14: *lime {code - Quite a lot of changes are not appearing in recent.changes.
+}*
+----
+Tue Mar 14 17:30:31 EST 2006
+
+
+
+[[[break]]]changed line 11 from: *orange {code 
+Sometimes the recent.changes page is inaccurate.  I don't know why.
+}*[[[break]]]to: *green {code - Sometimes the recent.changes page is inaccurate.  I don't know why.
+}*
+----
+Tue Mar 14 17:23:15 EST 2006
+
+
+
+[[[break]]]changed line 11 from: *orange {code --> Sometimes the recent.changes page is inaccurate.  I don't know why.
+}*[[[break]]]to: *green {code 
+Sometimes the recent.changes page is inaccurate.  I don't know why.
+}*
+----
+Tue Mar 14 17:22:22 EST 2006
+
+
+
+[[[break]]]added at line 10: *lime {code --> Sometimes the recent.changes page is inaccurate.  I don't know why.
+}*
+----
+Thu Mar  2 10:51:23 EST 2006
+
+
+
+[[[break]]]deleted at line 14: *red {code - Auto-generated should not be a link either.
+}*
+----
+Thu Mar  2 10:45:55 EST 2006
+
+
+
+[[[break]]]deleted at line 13: *red {code - colours don't work in Camino
+}*
+----
+Wed Feb 22 08:42:33 EST 2006
+
+
+
+[[[break]]]added at line 14: *lime {code - Auto-generated should not be a link either.
+}*
+----
+Wed Feb 22 06:29:38 EST 2006
+
+
+
+[[[break]]]changed line 6 from: *orange {code - IoWiki has a problem when pages are edited using the lynx browser.
+}*[[[break]]]to: *green {code - When pages are edited using the lynx browser, nasty characters get inserted.
+}*
+----
+Wed Feb 22 06:29:01 EST 2006
+
+
+
+[[[break]]]added at line 21: *lime {code this line shouldn't be pink
+}*
+----
+Wed Feb 22 06:28:43 EST 2006
+
+
+
+[[[break]]]deleted at line 22: *red {code 
+- vertical layout problem:
+
+
+
+-include-table --- page breaking
+----
+stuff
+
+-chapter 5 --- new-Freedman
+}*
+----
+Wed Feb 22 06:27:44 EST 2006
+
+
+
+[[[break]]]changed line 19 from: *orange {code -SUPERANNUATION ROLLOVER
+-Monash report for Tamara by 31 August *
+nuts
+novels
+}*[[[break]]]to: *green {code -this
+-that *
+
+
+}*[[[break]]]changed line 29 from: *orange {code 
+*outstanding bibliography issues*
+}*[[[break]]]to: *green {code stuff
+}*
+----
+Tue Feb 21 21:08:17 EST 2006
+
+
+
+[[[break]]]changed line 10 from: *orange {code -> Possible solution: a named link can go 
+
+	space dot space name (link)
+
+... and everything in brackets will be reproduced verbatim in <a href=""> EXCEPT that spaces can be replaced by  s, which is a workaround for the spaces in URLs problem.
+}*[[[break]]]to: *green {code --> Possible solution: a named link can go  space dot space name (link) ... and everything in brackets will be reproduced verbatim in <a href=""> EXCEPT that spaces can be replaced by  s, which is a workaround for the spaces in URLs problem.
+}*
+----
+Tue Feb 21 21:06:44 EST 2006
+
+
+
+[[[break]]]added at line 9: *lime {code -> Possible solution: a named link can go 
+
+	space dot space name (link)
+
+... and everything in brackets will be reproduced verbatim in <a href=""> EXCEPT that spaces can be replaced by  s, which is a workaround for the spaces in URLs problem.
+}*
+----
+Tue Feb 21 10:39:15 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code *Important missing features*
+}*[[[break]]]to: *green {code *Missing features*
+}*[[[break]]]changed line 9 from: *orange {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.
+}*[[[break]]]to: *green {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.  I hope to add a work-around for this when I introduce named links.
+}*[[[break]]]changed line 12 from: *orange {code - recent.changes is broken
+- colours are broken
+}*[[[break]]]to: *green {code - colours don't work in Camino
+}*[[[break]]]changed line 15 from: *orange {code - notification should only send out pages changed since last notification
+}*[[[break]]]to: *green {code - notification should only send out pages changed since last notification ... or I might just drop notification
+}*
+----
+Fri Feb 17 18:02:29 EST 2006
+
+
+
+[[[break]]]deleted at line 8: *red {code - I don't know how to make IoWiki work on port 80 on ..MacOS. (I suppose that's really a bug in me, not in IoWiki.)  Advice from ..MacOS experts would be appreciated.
+}*
+----
+Fri Feb 10 00:53:18 EST 2006
+
+
+
+[[[break]]]deleted at line 4: *red {code - encode the "@" characters in email addresses to help thwart spam (thanks to Toby Handfield)
+}*
+----
+Thu Feb  9 15:41:42 EST 2006
+
+
+
+[[[break]]]added at line 14: *lime {code - colours are broken
+}*
+----
+Thu Feb  9 15:40:32 EST 2006
+
+
+
+[[[break]]]added at line 3: *lime {code - encode the "@" characters in email addresses to help thwart spam (thanks to Toby Handfield)
+}*
+----
+Thu Dec 29 03:55:35 EST 2005
+
+
+
+[[[break]]]added at line 12: *lime {code - recent.changes is broken
+}*
+----
+Mon Dec 12 14:19:43 EST 2005
+
+
+
+[[[break]]]added at line 2: *lime {code - add lastEditorIPAddress field to each cached page, and warn when a save is made from any other IP address
+}*
+----
+Fri Dec  9 16:11:22 EST 2005
+
+
+
+[[[break]]]changed line 15 from: *orange {code - colour closing problem (in 6666 version, not in 8888 version):
+}*[[[break]]]to: *green {code - colour closing problem:
+}*
+----
+Fri Dec  9 16:10:38 EST 2005
+
+
+
+[[[break]]]added at line 8: *lime {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.
+}*[[[break]]]changed line 11 from: *orange {code - RecentChanges has some unlinked entries
+- change "Edit" to "Edit Page" in my template
+- Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.
+}*[[[break]]]to: *green {code - Pages are linking to themselves, which they shouldn't.  (e.g., KnownBugs should not be a link.)
+}*
+----
+Fri Nov 18 13:05:57 EST 2005
+
+
+
+[[[break]]]added at line 11: *lime {code - change "Edit" to "Edit Page" in my template
+}*
+----
+Thu Nov 17 20:25:21 EST 2005
+
+
+
+[[[break]]]added at line 10: *lime {code - RecentChanges has some unlinked entries
+}*
+----
+Mon Nov 14 00:01:47 EST 2005
+
+
+
+[[[break]]]changed line 11 from: *orange {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf .  I should introduce [[[ ]]] or [[[space]]] or something.
+}*[[[break]]]to: *green {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.
+}*
+----
+Mon Nov 14 00:00:38 EST 2005
+
+
+
+[[[break]]]changed line 4 from: *orange {code *Long-term bugs to be fixed eventually*
+- IoWiki has various problems with lynx.
+}*[[[break]]]to: *green {code *Long-term bugs*
+- IoWiki has a problem when pages are edited using the lynx browser.
+}*
+----
+Sun Nov 13 23:56:04 EST 2005
+
+
+
+[[[break]]]deleted at line 11: *red {code - _Roger ..McGough_
+}*[[[break]]]deleted at line 14: *red {code - _anonymous, ..alt.sysadmin.recovery _
+}*
+----
+Sun Nov 13 23:30:02 EST 2005
+
+
+
+[[[break]]]deleted at line 3: *red {code - notification of recent changes only
+}*
+----
+Sun Nov 13 23:25:29 EST 2005
+
+
+
+[[[break]]]changed line 1 from: *orange {code *Long-term bugs to be fixed eventually*
+}*[[[break]]]to: *green {code *Important missing features*
+- named links
+- notification of recent changes only
+}*[[[break]]]added at line 2: *lime {code *Long-term bugs to be fixed eventually*
+}*[[[break]]]deleted at line 9: *red {code 
+}*
+----
+Sun Nov 13 23:15:40 EST 2005
+
+
+
+[[[break]]]deleted at line 1: *red {code *Recent bugs from nowhere*
+
+- page history not working
+
+}*
+----
+Thu Sep 29 08:52:30 EST 2005
+
+
+
+[[[break]]]added at line 12: *lime {code - _anonymous, ..alt.sysadmin.recovery _
+}*
+----
+Tue Sep 27 18:07:55 EST 2005
+
+
+
+[[[break]]]added at line 3: *lime {code - I need to refactor (reorganise) the code in various places.
+}*
+----
+Tue Sep 27 11:47:26 EST 2005
+
+
+
+[[[break]]]added at line 8: *lime {code - _Roger ..McGough_
+}*
+----
+Mon Sep 26 19:02:48 EST 2005
+
+
+
+[[[break]]]changed line 11 from: *orange {code - single quotes are not being translated properly: `test'
+}*[[[break]]]to: *green {code 
+}*
+----
+Mon Sep 26 18:58:24 EST 2005
+
+
+
+[[[break]]]deleted at line 10: *red {code - https://stuff needs to be recognised as a URL
+}*
+----
+Mon Sep 26 18:56:31 EST 2005
+
+
+
+[[[break]]]deleted at line 12: *red {code - If you need to use a word which contains a dot or CamelCase, like ``..IoWiki?, but you don't want it to be a link to a page, precede it with two dots, like this: ..IoWiki.
+}*
+----
+Mon Sep 26 18:56:04 EST 2005
+
+
+
+[[[break]]]deleted at line 3: *red {code - IoWiki tends to lose data from large pages when it's used over slow (high latency) network connections.  (This may no longer be true.  I haven't tested it with the latest few versions.)
+}*[[[break]]]changed line 13 from: *orange {code - If you need to use a word which contains a dot or CamelCase, like ``..IoWiki”, but you don't want it to be a link to a page, precede it with two dots, like this: ..IoWiki.
+}*[[[break]]]to: *green {code - If you need to use a word which contains a dot or CamelCase, like ``..IoWiki?, but you don't want it to be a link to a page, precede it with two dots, like this: ..IoWiki.
+}*
+----
+Mon Aug 29 21:27:14 EST 2005
+
+
+
+[[[break]]]changed line 15 from: *orange {code - colour closing problem:
+}*[[[break]]]to: *green {code - colour closing problem (in 6666 version, not in 8888 version):
+}*
+----
+Mon Aug 29 21:26:46 EST 2005
+
+
+
+[[[break]]]added at line 14: *lime {code - colour closing problem:
+*pink urgent: 
+-SUPERANNUATION ROLLOVER
+-Monash report for Tamara by 31 August *
+nuts
+novels
+}*
+----
+Thu Jun 30 18:56:48 EST 2005
+
+
+
+[[[break]]]added at line 10: *lime {code - https://stuff needs to be recognised as a URL
+}*
+----
+Fri Jun 17 10:36:26 EST 2005
+
+
+
+[[[break]]]added at line 12: *lime {code - single quotes are not being translated properly: `test'
+}*
+----
+Wed May 25 09:17:40 EST 2005
+
+
+
+[[[break]]]deleted at line 11: *red {code - If you need to use a word which contains a dot or CamelCase, like ``..IoWiki”, but you don't want it to be a link to a page, precede it with two dots, like this: ..IoWiki. 
+}*[[[break]]]added at line 12: *lime {code - If you need to use a word which contains a dot or CamelCase, like ``..IoWiki”, but you don't want it to be a link to a page, precede it with two dots, like this: ..IoWiki.
+}*
+----
+Wed May 25 08:36:40 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {code - notification should only send out pages changed since last notification.
+}*[[[break]]]to: *green {code - notification should only send out pages changed since last notification
+- vertical layout problem:
+
+
+
+-include-table --- page breaking
+----
+
+*outstanding bibliography issues*
+
+-chapter 5 --- new-Freedman
+}*
+----
+Wed May 25 08:19:50 EST 2005
+
+
+
+[[[break]]]added at line 10: *lime {code - If you need to use a word which contains a dot or CamelCase, like ``..IoWiki”, but you don't want it to be a link to a page, precede it with two dots, like this: ..IoWiki. 
+- notification should only send out pages changed since last notification.
+}*
+----
+Thu May 12 10:47:07 EST 2005
+
+
+
+[[[break]]]deleted at line 11: *red {code - CFSEvidencePaper should be WikiWorded
+}*
+----
+Thu May 12 10:42:28 EST 2005
+
+
+
+[[[break]]]changed line 11 from: *orange {code - CFSEvidencePaper should be WikiWorded ... and it is (CFSEvidencePaper), but not when it's at the front of a line
+}*[[[break]]]to: *green {code - CFSEvidencePaper should be WikiWorded
+}*
+----
+Thu May 12 10:42:18 EST 2005
+
+
+
+[[[break]]]changed line 11 from: *orange {code - CFSEvidencePaper should be WikiWorded
+}*[[[break]]]to: *green {code - CFSEvidencePaper should be WikiWorded ... and it is (CFSEvidencePaper), but not when it's at the front of a line
+}*
+----
+Wed May 11 11:38:05 EST 2005
+
+
+
+[[[break]]]added at line 10: *lime {code - CFSEvidencePaper should be WikiWorded
+}*
+----
+Sun May  8 17:46:16 EST 2005
+
+
+
+[[[break]]]deleted at line 11: *red {code 
+*Two Meanings of ``Bias''* --- this is rendered properly by my release version but not by my port 6666 version.
+}*
+----
+Sat May  7 12:14:30 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {code *Two Meanings of ``Bias''*
+}*[[[break]]]to: *green {code *Two Meanings of ``Bias''* --- this is rendered properly by my release version but not by my port 6666 version.
+}*
+----
+Sat May  7 12:14:04 EST 2005
+
+
+
+[[[break]]]added at line 10: *lime {code 
+*Two Meanings of ``Bias''*
+}*
+----
+Sun May  1 13:32:26 EST 2005
+
+
+
+
+----
+Sun May  1 13:32:06 EST 2005
+
+
+
+[[[break]]]deleted at line 7: *red {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf .  I should introduce [[[ ]]] or [[[space]]] or something.
+}*[[[break]]]changed line 11 from: *orange {code * none
+}*[[[break]]]to: *green {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf .  I should introduce [[[ ]]] or [[[space]]] or something.
+}*
+----
+Sun May  1 13:31:52 EST 2005
+
+
+
+[[[break]]]changed line 6 from: *orange {code - If IoWiki is reverse proxied, page editing doesn't work properly.
+}*[[[break]]]to: *green {code - If IoWiki is reverse proxied, page editing doesn't work properly.  I don't know why not.
+}*
+----
+Fri Apr 29 13:38:36 EST 2005
+
+
+
+[[[break]]]changed line 3 from: *orange {code - IoWiki tends to lose data from large pages when it's used over slow (high latency) network connections.  (This needs to be re-tested since the recent web server changes.)
+}*[[[break]]]to: *green {code - IoWiki tends to lose data from large pages when it's used over slow (high latency) network connections.  (This may no longer be true.  I haven't tested it with the latest few versions.)
+}*
+----
+Fri Apr 29 13:38:07 EST 2005
+
+
+
+[[[break]]]deleted at line 7: *red {code - The {{code}} formatting sucks.
+}*
+----
+Fri Apr 29 13:33:59 EST 2005
+
+
+
+[[[break]]]changed line 8 from: *orange {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf .  I should introduce [[[ ]]] or [[[space]]] or something ... or some way to mark the beginning and end of a URL.
+}*[[[break]]]to: *green {code - Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf .  I should introduce [[[ ]]] or [[[space]]] or something.
+}*
+----
+Tue Apr 26 11:20:31 EST 2005
+
+
+
+[[[break]]]changed line 3 from: *orange {code * IoWiki is slow, and tends to lose data from large pages, when it's used over slow (high latency) network connections.  (This needs to be re-tested since the recent web server changes.)
+* IoWiki has various problems with lynx.
+* I don't know how to make IoWiki work on port 80 on ..MacOS. (I suppose that's really a bug in me, not in IoWiki.)  Advice from ..MacOS experts would be appreciated.
+* If IoWiki is reverse proxied, page editing doesn't work properly.
+* The {{code}} formatting sucks.
+* Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf .  I should introduce [[[ ]]] or [[[space]]] or something ... or some way to mark the beginning and end of a URL.
+}*[[[break]]]to: *green {code - IoWiki tends to lose data from large pages when it's used over slow (high latency) network connections.  (This needs to be re-tested since the recent web server changes.)
+- IoWiki has various problems with lynx.
+- I don't know how to make IoWiki work on port 80 on ..MacOS. (I suppose that's really a bug in me, not in IoWiki.)  Advice from ..MacOS experts would be appreciated.
+- If IoWiki is reverse proxied, page editing doesn't work properly.
+- The {{code}} formatting sucks.
+- Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf .  I should introduce [[[ ]]] or [[[space]]] or something ... or some way to mark the beginning and end of a URL.
+}*
+----
+Tue Apr 26 11:20:10 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {code * I'd like - text at the beginning of a line to do the same thing as * text.
+}*[[[break]]]to: *green {code * none
+}*
+----
+Tue Apr 26 10:45:03 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {code * I'd like - test at the beginning of a line to do the same thing as * text.
+}*[[[break]]]to: *green {code * I'd like - text at the beginning of a line to do the same thing as * text.
+}*
+----
+Tue Apr 26 10:44:57 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {code * none
+}*[[[break]]]to: *green {code * I'd like - test at the beginning of a line to do the same thing as * text.
+}*
+----
+Sat Apr 23 14:00:46 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {code * none?
+}*[[[break]]]to: *green {code * none
+}*
+----
+Thu May 19 22:56:18 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {code * recent.changes doesn't make all the pages into WikiWords as it should
+}*[[[break]]]to: *green {code * none?
+}*
+----
+Thu May 19 22:44:05 EST 2005
+
+
+
+[[[break]]]changed line 10 from: *orange {code *Minor bugs to be fixed soon* --- none
+}*[[[break]]]to: *green {code *Minor bugs to be fixed soon*
+
+* recent.changes doesn't make all the pages into WikiWords as it should
+}*
+----
+Thu Apr 14 21:38:43 EST 2005
+
+
+
+[[[break]]]changed line 10 from: *orange {code *Minor bugs to be fixed soon*
+
+* (WikiWord should be hotlinked
+}*[[[break]]]to: *green {code *Minor bugs to be fixed soon* --- none
+}*
+----
+Thu Apr 14 21:26:09 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {diff * ( WikiWord should be hotlinked
+}*[[[break]]]to: *green {diff * (WikiWord should be hotlinked
+}*
+----
+Thu Apr 14 21:26:05 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {diff * (WikiWord should be hotlinked
+}*[[[break]]]to: *green {diff * ( WikiWord should be hotlinked
+}*
+----
+Thu Apr 14 21:22:18 EST 2005
+
+
+
+[[[break]]]deleted at line 12: *red {diff * page history log not showing IP address ---
+
+{pre serving AustralianDVDRentals on port 6666 for IP address 127.0.0.1 at 2005-04-10 13:25:58 EST
+
+serving HomePage,history on port 6666 at 2005-04-10 13:27:20 EST}
+
+}*
+----
+Thu Apr 14 09:27:14 EST 2005
+
+
+
+[[[break]]]changed line 14 from: *orange {diff {code serving AustralianDVDRentals on port 6666 for IP address 127.0.0.1 at 2005-04-10 13:25:58 EST
+}*[[[break]]]to: *green {diff {pre serving AustralianDVDRentals on port 6666 for IP address 127.0.0.1 at 2005-04-10 13:25:58 EST
+}*
+----
+Thu Apr 14 09:27:05 EST 2005
+
+
+
+[[[break]]]changed line 14 from: *orange {diff {pre serving AustralianDVDRentals on port 6666 for IP address 127.0.0.1 at 2005-04-10 13:25:58 EST
+}*[[[break]]]to: *green {diff {code serving AustralianDVDRentals on port 6666 for IP address 127.0.0.1 at 2005-04-10 13:25:58 EST
+}*
+----
+Thu Apr 14 09:26:45 EST 2005
+
+
+
+[[[break]]]changed line 8 from: *orange {diff * Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf .  I should introduce [[[ ]]] or [[[space]]] or something.
+}*[[[break]]]to: *green {diff * Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf .  I should introduce [[[ ]]] or [[[space]]] or something ... or some way to mark the beginning and end of a URL.
+}*
+----
+Thu Apr 14 09:25:38 EST 2005
+
+
+
+[[[break]]]changed line 12 from: *orange {diff * page history log not showing IP address? ---
+}*[[[break]]]to: *green {diff * page history log not showing IP address ---
+}*[[[break]]]changed line 18 from: *orange {diff * (JasonGrossman should be WikiWorded
+}*[[[break]]]to: *green {diff * (WikiWord should be hotlinked
+}*
+----
+Thu Apr 14 09:25:12 EST 2005
+
+
+
+[[[break]]]changed line 14 from: *orange {diff serving AustralianDVDRentals on port 6666 for IP address 127.0.0.1 at 2005-04-10 13:25:58 EST
+serving HomePage,history on port 6666 at 2005-04-10 13:27:20 EST
+}*[[[break]]]to: *green {diff {pre serving AustralianDVDRentals on port 6666 for IP address 127.0.0.1 at 2005-04-10 13:25:58 EST
+
+serving HomePage,history on port 6666 at 2005-04-10 13:27:20 EST}
+
+* (JasonGrossman should be WikiWorded
+}*

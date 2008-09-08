@@ -1,0 +1,40 @@
+*Worlds possible and impossible: An introduction to ..Non-classical logic (PHIL2050)*
+Lectures: Tuesdays, 2--4pm in building 39A. 39A is the enticingly titled ``General Purpose North Building''; location: http://www.uq.edu.au/maps/index.html?menu=1&x=I.29&y=4.38&z=1&id=252&facilityType=&backURL=&mx=215.5575&my=52.38&mapcoord= 
+
+Lecturer: Jason Grossman
+Email: J.Grossman@uq.edu.au
+Phone: 3365 6324
+Room: Logan Smith E353 
+Consultation hours: Wednesdays 3--5pm 
+Email consultation hours: 24 hours a day, 7 days a week 
+ 
+Course textbook: ``Possibilities and Paradox: An Introduction to Modal and ..Many-Valued Logic'' by JC Beall and Bas van Fraassen (Oxford University Press, 2003).
+Errata to the textbook: http://www.princeton.edu/~fraassen/Possib&paradERRATA.htm
+
+Assignments: .UQ-NonClassicalLogic.Assignments
+Online readings: .UQ-NonClassicalLogic.OnlineMaterial 
+Chinese starting points: .UQ-NonClassicalLogicOnlineMaterial.Chinese. 
+Course discussion page: UQNonClassicalLogicDiscussion
+---- 
+Students taking this course will have already studied some classical logic --- that is, one of a number of similar systems of logic which are currently most widely accepted, such as the predicate calculus. The person in the street thinks of some such system simply as "logic", and imagines that it works well (at least within its intended domain). But in fact it does not; and this course gives us a chance to stretch our wings a bit and look at some alternative systems. 
+ 
+To see that classical logic has problems, consider first the famous liar paradox: 
+ 
+-> _This sentence is false._
+
+If that sentence is false then it is true, and vice versa. Classical logicians typically analyse it by saying that it is meaningless, and hence neither true nor false. That seems to do the trick. But now consider the EXTENDED liar paradox: 
+ 
+-> _This sentence is either false or meaningless._
+ 
+This is much worse than the previous example, because if it's meaningless then it's true. 
+ 
+How can classical logic cope with the extended liar paradox? It can't! 
+ 
+Another failure of classical logic is the proof that penguins.rule.the.universe. 
+ 
+This course will consider a number of alternative systems of logic, some of which are nearly as old as formal logic itself, including (at least) paraconsistent, relevant, intuitionistic, fuzzy, modal and deontic logics. 
+ 
+The course will be technical, but will also consider each logic in its philosophical and historical context. 
+---- 
+Course profile: http://luddite.cst.usyd.edu.au/UQ/PHIL2100-profile.pdf
+(This is the same as the course booklet.) 

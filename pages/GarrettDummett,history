@@ -1,0 +1,114 @@
+
+----
+2008-04-17 13:58:02 EST
+
+
+
+[[[break]]]changed line 53 from: *orange {code 
+}*[[[break]]]to: *green {code - ..anti-realist committed to "for all p, if p T, it is possible to know p"
+- willing to accept that some truths are unknown
+- Paradox (K is knowing):
+--> 1. q and ~Kq
+---> Assumed
+--> 2. Possibly K(q and ~Kq)
+---> From ..anti-realist
+--> 3. Possibly (Kq and K~Kq)
+---> Dist. of knowl. over conj. and poss.
+--> 4. Possibly (Kq and ~Kq)
+---> Knowl. entails truth and possibility
+--> 5. 4 is contradiction, therefore ~..anti-realist principle
+---> Reductio coupled with plausability of other steps.
+--> 6. Therefore ..~anti-realism.
+- problems:
+-- implies that if some truths are unknown, then some are unknowable
+--- contrapositive: if all truths are knowable, then all truths are known
+}*[[[break]]]changed line 56 from: *orange {code 
+
+}*[[[break]]]to: *green {code - Need to weed out just what role the social context of a statement plays in Dummett's position.
+- Not sure that I agree with BG's statement: "The sentence is true just if reality is that way; otherwise it is false." p147
+-- Does Dummett need to take on some form of ..anti-representationalism in order for his view to work though?
+-- i.e. If one wants evidential considerations to be relevant to understanding, does one need to hold an ..anti-representationalist view of language?
+--- otherwise we seem to be able to gain understanding just in the way BG indicates above.
+}*
+----
+2008-04-17 13:39:06 EST
+
+
+
+[[[break]]]changed line 41 from: *orange {code - does appear to be a reasonable categorical difference 
+}*[[[break]]]to: *green {code _Maths_
+- does appear to be a reasonable categorical difference in case of maths: when don't have proof or ..counter-example
+-- *green But does this mean that Dummett would accept that one can be a realist re: mathematical properties that have been proved?*
+
+_Dummett's Motiviation_
+- D: Can't understand what it is for a statement to be T without what we've learned to treat as establishing its truth.
+-- *green This seems quite pragmatic, presuming that we learn ..truth-establishing in a social way.*
+- prob re: Goldbach Conjecture: seem to know what it means without having ability to show it is true
+-- *green I think this highlights the large amount of contextual consideration at play in the background of Dummett's position: consider for e.g. how Goldbach's Conjecture woulf be treated in other areas of science (where inductive inference is accepted as valid).*
+- ..anti-realism as an attempt at improving logical positivism 
+}*
+----
+2008-04-17 13:25:02 EST
+
+
+
+[[[break]]]added at line 24: *lime {code - Want to assess truth of counterfactuals: "if jones had been exposed to danger, he would have acted bravely" & "if jones had been exposed to danger, he would not have acted bravely."
+-- Dummett: counterfactual can only be true in virtue of some categorical statement
+-- ..anti-realist: neither counterfactual T => "Jones was brave" is neither true nor false
+-- realist: one or other of the counterfactuals T
+- Dummett then argues that one would have to be naive to be a realist about character
+-- *green but no details of argument given, will ahve to look into this*
+-- BG: ~this on basis that it is intuitive to think about psychological states giving rise to behaviour
+--- Hence Dummett characterised as a naive behaviourist.
+
+_Case Study: The Past_
+- looking at statements about the past that we will most likely never have evidence for
+- Dummett: realist needs to appeal to ..truth-value links between present and past tensed statements
+-- need grasp of this link to gain understanding of what it is for statement re: past to be T
+--- problem: this seems to assume that the realist admits that there is difficulty re: past statements
+--- looking to ground statements re: past in statements re: present
+}*[[[break]]]added at line 25: *lime {code - does appear to be a reasonable categorical difference 
+
+_Fitch's Paradox_
+}*
+----
+2008-04-17 12:30:42 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+A summary of Brian Garrett's chapter on Dummett's ..anti-realism.
+
+*Where can it be found?*
+
+Garrett, What is this thing called metaphysics?, Ch. 9: Realism & ..Anti-Realism.
+----
+*Summary*
+
+_The Dispute_
+- Dummett as trying to find middle ground between idelaist and realist 
+-- but still questioning independence dimension
+- crux of the debate: belief in statements having ..truth-value independently of us having the means to find it
+- dispute over what is the appropriate notion of truth (and thus over meaning)
+- relation of disputed class of statements to a reductive class of statements (e.g. other minds and behaviour)
+-- ..anti-realist: claims in the disputed class actually amount to claims in reductive class
+- note that reductionism is not related to the realist debate in any simple way (see Metaphysics.Realism for more on this)
+-- in particular not necessary or sufficient for ..anti-realism
+
+_Case Study: Character_
+- Under investigation: "Jones was brave"
+-- with no possible evidence as to Jones' bravery
+
+
+----
+*What do I think?*
+
+
+----
+
+Metaphysics.Paper
+
+ChrisWilcox
+}*

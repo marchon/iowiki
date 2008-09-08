@@ -1,0 +1,131 @@
+
+----
+Wed Oct  3 16:21:14 EST 2007
+
+
+
+[[[break]]]changed line 9 from: *orange {code This is right according to some versions of confidence interval theory but not others.  One very influential recent version of confidence interval theory which denies it is Gardner and Altman's:
+}*[[[break]]]to: *green {code This is right according to some versions of confidence interval theory but not others.  One very influential recent version of confidence interval theory which denies it is Gardner and Altman's.  Right in the first two pages (of the book version, at least), they say:
+
+-->``the middle half of the confidence interval (13% to 27%) is more likely to contain the population value than the extreme two quarters (6% to 13% and 27% to 34%)---in fact the middle half forms a 67% confidence interval.'' (pp.3--4)
+}*[[[break]]]deleted at line 21: *red {code I've got this on my desk and can type in a quote tomorrow if that would help. *blue [Perhaps I will grab a copy when we meet; it seems even the library copies don't go back to 1986 (??) Thanks.A.]* *pink I cheat: I use the slightly revised version printed in the following book.  I have read the original article, and I might have a copy somewhere, but it's the book that's on my desk.*
+
+}*
+----
+Fri Sep 28 09:30:57 EST 2007
+
+
+
+[[[break]]]changed line 21 from: *orange {code I've got this on my desk and can type in a quote tomorrow if that would help. *blue [Perhaps I will grab a copy when we meet; it seems even the library copies don't go back to 1986 (??) Thanks.A.]* *pink I cheat: I use the slightly revised version printed in the following book.  I have read the original article, and I might have a copy somewhere, but it's not on my desk.*
+}*[[[break]]]to: *green {code I've got this on my desk and can type in a quote tomorrow if that would help. *blue [Perhaps I will grab a copy when we meet; it seems even the library copies don't go back to 1986 (??) Thanks.A.]* *pink I cheat: I use the slightly revised version printed in the following book.  I have read the original article, and I might have a copy somewhere, but it's the book that's on my desk.*
+}*
+----
+Fri Sep 28 09:30:42 EST 2007
+
+
+
+[[[break]]]changed line 21 from: *orange {code I've got this on my desk and can type in a quote tomorrow if that would help. *blue [Perhaps I will grab a copy when we meet; it seems even the library copies don't go back to 1986 (??) Thanks.A.]* *pink I cheated: I use the slightly revised version printed in this book:*
+}*[[[break]]]to: *green {code I've got this on my desk and can type in a quote tomorrow if that would help. *blue [Perhaps I will grab a copy when we meet; it seems even the library copies don't go back to 1986 (??) Thanks.A.]* *pink I cheat: I use the slightly revised version printed in the following book.  I have read the original article, and I might have a copy somewhere, but it's not on my desk.*
+}*
+----
+Fri Sep 28 09:29:49 EST 2007
+
+
+
+[[[break]]]changed line 21 from: *orange {code I've got this on my desk and can type in a quote tomorrow if that would help. *blue [Perhaps I will grab a copy when we meet; it seems even the library copies don't go back to 1986 (??) Thanks.A.]*
+}*[[[break]]]to: *green {code I've got this on my desk and can type in a quote tomorrow if that would help. *blue [Perhaps I will grab a copy when we meet; it seems even the library copies don't go back to 1986 (??) Thanks.A.]* *pink I cheated: I use the slightly revised version printed in this book:*
+
+@book{J.Gardner:1989,
+	Address = {London},
+	Author = {Martin J.~Gardner and Douglas G.~Altman},
+	Publisher = {British Medical Journal},
+	Title = {Statistics With Confidence --- Confidence intervals and statistical guidelines},
+	Year = {1989}}
+}*
+----
+Thu Sep 27 08:22:58 EST 2007
+
+
+
+[[[break]]]changed line 21 from: *orange {code I've got this on my desk and can type in a quote tomorrow if that would help.
+}*[[[break]]]to: *green {code I've got this on my desk and can type in a quote tomorrow if that would help. *blue [Perhaps I will grab a copy when we meet; it seems even the library copies don't go back to 1986 (??) Thanks.A.]*
+}*
+----
+Wed Sep 26 19:16:27 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code From .InterpretationOfConfidenceIntervals:
+}*[[[break]]]to: *green {code From InterpretationOfConfidenceIntervals :
+}*
+----
+Wed Sep 26 19:16:14 EST 2007
+
+
+
+[[[break]]]added at line 2: *lime {code From .InterpretationOfConfidenceIntervals:
+
+}*
+----
+Wed Sep 26 19:16:01 EST 2007
+
+
+
+[[[break]]]deleted at line 3: *red {code From .InterpretationOfConfidenceIntervals:
+
+}*
+----
+Wed Sep 26 19:15:47 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code From InterpretationOfConfidenceIntervals:
+}*[[[break]]]to: *green {code From .InterpretationOfConfidenceIntervals:
+}*
+----
+Wed Sep 26 19:12:56 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code See list.of.modifications.to.Neymans.theory.  (I'm going to make this wiki do apostrophes soon, but it's not quite working yet.)
+}*[[[break]]]to: *green {code See list.of.modifications.to.Neymans.theory.  (I'm going to make this wiki do apostrophes in links, but it's not quite working yet.)
+}*
+----
+Wed Sep 26 19:12:12 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code There's quite a number of ways in which Neyman's original theory has been modified by subsequent people.  One or two of the modifications seem to be universally accepted.  I'm thinking in particular of the change from the interval having random variables as its endpoints to it having numbers as its endpoints.  Others seem to be accepted by very large numbers of people (otherwise they don't belong on this list) but not everybody.
+}*[[[break]]]to: *green {code From InterpretationOfConfidenceIntervals:
+
+``There is one sense in which the CI is less extreme—it covers a broader range of values then the point estimate; both lower and higher. But it is only less extreme (in a sense important to decision makers) if you take into account that the `true' value is more likely to be lower than the point estimate; i.e. in the lower region of the CI.  This, however, is not permitted. The CI is an interval. And whatever it says of the relation between the data and theta, it says it for the entire interval.''
+
+I (as of 5 minutes ago) call this the _Bland CIs_ rule.  Within a confidence interval, everything is bland.  In particular, it's not a humped probability distribution.  It's just featureless.
+
+This is right according to some versions of confidence interval theory but not others.  One very influential recent version of confidence interval theory which denies it is Gardner and Altman's:
+
+@article{M.J.Gardner:1986,
+	Author = {M.~J.~Gardner and D.~G.~Altman},
+	Date-Added = {2007-07-09 13:13:02 +1000},
+	Date-Modified = {2007-09-18 11:18:40 +1000},
+	Journal = {British Medical Journal},
+	Pages = {746--750},
+	Title = {Statistics in medicine: confidence intervals rather than P values: estimation rather than hypothesis testing},
+	Volume = {292},
+	Year = {1986}}
+
+I've got this on my desk and can type in a quote tomorrow if that would help.
+
+Is Neyman's original theory a BlandCIs theory?  I'm not sure.  To discuss.
+
+.Jason
+}*
+----
+Wed Sep 26 18:58:20 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code See list.of.modifications.to.Neymans.theory.  (I'm going to make this wiki do apostrophes soon, but it's not quite working yet.)
+
+There's quite a number of ways in which Neyman's original theory has been modified by subsequent people.  One or two of the modifications seem to be universally accepted.  I'm thinking in particular of the change from the interval having random variables as its endpoints to it having numbers as its endpoints.  Others seem to be accepted by very large numbers of people (otherwise they don't belong on this list) but not everybody.
+}*

@@ -1,0 +1,135 @@
+
+----
+2008-05-21 14:58:08 EST
+
+
+
+[[[break]]]changed line 44 from: *orange {code -Jole Cameron
+}*[[[break]]]to: *green {code - Jole Cameron
+}*
+----
+2008-05-21 14:57:32 EST
+
+
+
+[[[break]]]added at line 40: *lime {code 
+Yeah, I meant bad logic. I should have checked the title again before I posted. This was in part because my original thoughts were about something slightly different. My original thoughts would have qualified as a "bad maths" issue, but I think that they were wrong. There is no point in changing the title of this page now though.
+
+-Jole Cameron
+}*
+----
+2008-05-21 12:36:50 EST
+
+
+
+[[[break]]]added at line 36: *lime {code 
+*green I think it depends on what you mean by "bad maths" I think Jole means bad reasoning (I could be wrong). Maths can certainly be "bad" if it uses flawed logic.
+In speaking of infinities it is rather easy to get all messed up in what it means physically. 
+Quantum mechanics seems a good place for watching infinities fly about the place doing seemilngly odd things - just look at re-normalization. TeganLarter* 
+}*
+----
+2008-05-21 09:15:25 EST
+
+
+
+[[[break]]]changed line 31 from: *orange {code Jole raises the question "Is it bad maths?" Of course it's not. Maths is maths. If whatever comes out of the theory is considered solely as mathematics, then there is no problem. The problems arise when we start to talk about the physics that the maths imply. What is the nature of the physical reality that the maths seems to require? Such questions lead to metaphysics, about which, enough said.
+}*[[[break]]]to: *green {code Jole raises the question "Is it bad maths?" Of course it's not. Maths is maths. If whatever comes out of the theory is considered solely as mathematics, then there is no problem. The problems arise when we start to talk about the physics that the maths imply. We seem to like confusing maths with physical reality. What is the nature of the physical reality that the maths seems to require? Such questions lead to metaphysics, about which, enough said.
+}*
+----
+2008-05-21 09:13:41 EST
+
+
+
+[[[break]]]changed line 33 from: *orange {code Talking about [0,1], Chaitin (see my post in further reading) has shown that all the information in the universe can be enccoded in binary by using any real number between [0,1] that you like to chose. Interesting.
+}*[[[break]]]to: *green {code Talking about [0,1], Chaitin (see my post under Poetry.Numbers.and.Computability) has shown that all the information in the universe can be enccoded in binary by using any real number between [0,1] that you like to chose. Interesting.
+}*
+----
+2008-05-21 09:09:40 EST
+
+
+
+[[[break]]]added at line 29: *lime {code 
+}*
+----
+2008-05-21 09:09:01 EST
+
+
+
+[[[break]]]added at line 27: *lime {code 
+-
+Jole raises the question "Is it bad maths?" Of course it's not. Maths is maths. If whatever comes out of the theory is considered solely as mathematics, then there is no problem. The problems arise when we start to talk about the physics that the maths imply. What is the nature of the physical reality that the maths seems to require? Such questions lead to metaphysics, about which, enough said.
+
+Talking about [0,1], Chaitin (see my post in further reading) has shown that all the information in the universe can be enccoded in binary by using any real number between [0,1] that you like to chose. Interesting.
+
+Dick Parker
+-
+}*
+----
+2008-05-21 08:04:42 EST
+
+
+
+[[[break]]]changed line 25 from: *orange {code This is related to my lecture on the real number line, near the beginning of the course.
+}*[[[break]]]to: *green {code This is related to my lecture on the real number line, near the beginning of the course, and to what Dayal said about Poincaré recurrence.
+}*
+----
+2008-05-20 19:09:10 EST
+
+
+
+[[[break]]]added at line 21: *lime {code 
+*blue You're absolutely right, Jole.  All one can assert, at most, is that everything in some limited space (usually called a ``phase space'') will happen.
+
+This is related to my lecture on the real number line, near the beginning of the course.
+
+Jason*
+}*
+----
+2008-05-20 19:05:50 EST
+
+
+
+[[[break]]]deleted at line 19: *red {code - Jole Cameron
+
+}*[[[break]]]added at line 21: *lime {code 
+- Jole Cameron 
+}*
+----
+2008-05-20 18:44:47 EST
+
+
+
+[[[break]]]added at line 15: *lime {code 
+You are correct: it doesn't mean you do, but it also doesn't mean you don't. I don't see it as a proof of anything, but I wonder if it is relevant when considering evidence for other ideas. For example, it is used as an argument for the existence of reversed causation. Does the argument change given that possibility or is it still valid? I am not sure how strong the argument in my above post is, but I'd thought I would post it anyway (rather than spend days mulling it over myself when I have assessments to finish). 
+
+- Jole Cameron
+
+Anyway, why could my example be intrinsicly different? Is there something regarding the theories themselves?
+}*
+----
+2008-05-20 17:28:14 EST
+
+
+
+[[[break]]]added at line 10: *lime {code 
+"Surely you could still have an infinite number of distinct configurations without having 'possible' configuration having an actual existence."
+You could. Doesn't mean you do. Personally the whole situation sounds pretty weak sauce to me, but your analogy of [0,1] isn't necessarily the same kind of situation. 
+
+JeffAlstott
+}*
+----
+2008-05-20 11:31:12 EST
+
+
+
+[[[break]]]added at line 0: *lime {code In every lecture in this course, and in every source that has been referred to, it is argued that if a multiverse exists, then everything must happen somewhere. At first this sounds obvious, but upon further thought, I am not sure that it need be the case.
+
+In most if not all multiverse models, you have an infinite number of universes. However, within each universe, there are an infinite number of configurations. Now, when the multiverse argument is mentioned, it is assumed that every universe will exist - that is name a configuration of matter and energy, and a set of values for the fundamental constants for a hypothetical universe, and that universe WILL actually exist somewhere within the larger Universe. 
+
+However, since no one would assert that the set [0,1] encompasses all numbers even though there are infinite distinct numbers between them, why has this argument so strongly asserted for the multiverse? Even if there are an infinite number of universes, it doesn't mean that every configuration of matter and energy within them exists (or will ever exist). Surely you could still have an infinite number of distinct configurations without having "possible" configuration having an actual existence.
+
+...I'll stop there for the moment as my other questions regarding this need more thought.
+Have I forgotten something in my reasoning?
+
+- Jole Cameron
+}*

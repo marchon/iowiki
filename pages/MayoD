@@ -1,0 +1,46 @@
+...Any comments on the notes below are welcome... not sure if I am missing something (sorry that the wording is a bit rough)
+
+# Update 23 May
+
+# A question for Mayo:
+Is a test severe if it is underpowered?
+* not sure that I could pin Mayo down with regard to this.. either:
+* That tests are powered is one of the desiderata of severe tests, but the rationale for why is not clearly discussed; or
+* the new experimentalist + error statistician is unable to to say why an underpowered tests are bad other than to say that such tests are unlikely to differentiate between the hypotheses under question.  my problem is the question of how such a position would respond to the rofecoxib case - where the hypotheses are differentiated but they did not originally have the power to do so; or
+* i am yet to read the part of Mayo which discusses it
+
+# A reply of sorts:
+
+
+Key points and questions from Ch 11
+* Interesting that Mayo attempts to provide an argument for direct inferences from NP statistical tests of trials that will not be repeated (as opposed to Neyman behavioristic conclusions and long-run cases).
+* Disappointing that this argument seems to rely solely on (i) Pearson seemed to think so; (ii) a statement of what Pearson seemed to think, i.e. the Mayo-quoted open question “is it because the formulation of the case in terms of hypothetical repetition helps to that clarity of view needed for sound judgement”  and, maybe on a kind reading, (iii) a suggestion that somehow the employment of new experimentalism helps in a way that is not yet clear to me.
+* A way to argue, on Mayo’s grounds, against making inferences from underpowered studies seems possible.  I think it might go something like this: An argument from error which Mayo does not consider is that of the “improbable result”.  If only one trial will ever be conducted AND we have reasonable error-proabilistic reasons to suggest that the current trial is underpowered AND despite this we find a statistically significant result, there seems to be one of two conclusions we could make (i) assume the observed result is real, the real difference is just larger than what we expected&#61630;reject the null, versus (ii) there is an error which we should rule out, this is the error of believing an improbable result, e.g. if our p-value tells us that such a result would occur 5 out of every 100 times this experiment was repeated, perhaps this is just one of those 5 times&#61630;we should accept the null (this inference is, of course, backed up by the fact that the test had apiori low power).
+* Mayo seems perilously close to accepting this argument but instead appears to make the opposite through her discussion on her “rule of rejection” and “rule of acceptance”.  It would be good to chat about these to ensure I have the picture right.  At the heart of the matter seems to be a dogmatic acceptance of the observed experimental outcome (this may come under the rubric of new experimentalism) and a rejection that the error of believing an improbable result is not an error worth taking into account (?the problem being that once this error is considered, even in a case where it seems “plausible” such as underpowered study with a large significant result, it undermines all error-probabilities). 
+
+
+
+# older discussion
+
+Chapter 10 (Why you cannot be just a little bayesian)
+* The  importance of stopping rules and the likelihood principle.  I need to think through the example of continuing testing until you reach a designated error probability measure (p-value).  
+* The source of the problem, as I understand it, is that with repeated looks at the data ?combined with the intent to continue sampling if the desired significance level is not reached? it is important that the overall p-value is recalculated.  This makes sense.  It does not however except in the infinite case seem possible to sample to a definitely significant result *pink That's right, but in some real-world examples the finite case approaches the infinite case uncomfortably fast. Jason*
+ The distinction between the error-statistician and the bayesian seems good – one wants to rule out errors the other is interested in the evidential relation.  *I wish it was as simple as that.  The ``error statistician'' wants to rule out a particular kind of error, not errors in general.*  The response of the error-statistician to the stopping rule problem is to ensure that the overall error probability takes into account the stopping rule.  *pink Yes ... bearing in mind that ``error probability'' is a term of art.  It's not the probability of an error.*  The bayesian response is to suggest that if the stopping rule is important to the inferences we take from the data then the inferences are wrong – we are taking into account more than just the likelihood.  *pink Generally, yes, but not always.  Everyone agrees that SOME stopping rules should affect the inferences.*  The Bayesian criticism seems to be more than just what Mayo is suggesting ?the bayesian criticism stikes to the heart of what error probabilities are and their lack of direct relation with the hypothesis.  *pink I think so, yes.*
+* I don’t fully understand Armitage’s counter to the Bayesians that they also would infer wrongly from a stopping rule which suggested to keep sampling until you reach a significant result. *pink I haven't seen him say that.  I've seen him ask the question, several times, but he seems to be happy with the Bayesians' answer.* 
+* My reply independent of this: such problems arise for classical statisticians when they fail to take into account the fact that many looks at the data (or sampling to a foregone conclusion) will affect their overall p-value.  That is, when you accept as given a type I error of 1/20 you accept rejecting the null falsely 1 in every 20 times.  If you look at the data more than this or have a stopping rule which keeps sampling until you get a significant result then you will reject the null falsely more than 1 in every 20 times unless you correct for stopping rule or the repeated looks at the data.  The Bayesian is interested in a very different result they have a prior probability distribution which is updated by the data into a posterior probability distribution?there does not seem to be anything which would prevent the bayesian taking consideration of how the data were collected if it was seen to be relevant to the evidence and the hypothesis. *pink Right.  But there's a problem --- maybe a merely technical one --- about how you spell out that final ``if'' without violating the likelihood principle.*
+* The argument Mayo provides on p352 appears fallacious:
+
+1.In certain cases, rejecting a null hypothesis Ho say at level of significance 0.05, corresponds to a result that would lead a Bayesian to assign a low posterior probability to Ho
+
+2.If one is allowed to go on sampling long enough (i.e. the try and try again procedure), then even if Ho is true, one is assured of achieving a 0.05 statistically significant difference from the null hypothesis Ho
+
+3.Therefore, if one is allowed to go on sampling long enough, then, in the cases described in (1), one is assured of reaching a low posterior probability in Ho, even though Ho is true.
+
+* The bayesian it would seem would update on each successive trial.  Here would seem to be a good example of where the Bayesian and classical statistician would come apart.  The problem for the classical statistician here is that the significance level is not maintained?they no longer have a good argument from error.  Berger and Wolpert (as per Mayo) seem to concur that the bayesian would end up with the same confidence interval as the classical statistician (but would interpret it differently) ?the point being that for the bayesian the confidence interval would not include 0 even though the null hypothesis is correct.  This seems false but I need to check.  *pink I'm not sure whether this directly addresses your issue, but  think premise 1 is only approximately true ... and the argument from 1 to 3 doesn't preserve approximate truth*.
+
+
+*Chapter 11 (Why Pearson rejected ..Neyman-Pearson philosophy)
+* Mayo suggests that Bayesians deem the stopping rule as irrelevant and on this basis suggests that Bayesians can miss important information about the data (i.e. the manner in which it was gathered).  However do the points the Bayesians wish to make regarding the stopping rule really outlaw them from including it in their discussions should they deem it necessary to a proper understanding of the information?it would seem to me, no.  *pink That's right, and I think Mayo says that herself in chapter 10, doesn't she?*
+
+
+

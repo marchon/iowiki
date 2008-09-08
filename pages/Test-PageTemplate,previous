@@ -1,0 +1,220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<!-- Template copyright 2005-7 by Jason Grossman.  Thanks to James Koster and Dave Shea for inspiration. -->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!--HeaderText-->
+<title><PAGE NAME></title>
+
+<style type="text/css"><!--
+
+textarea, input,submit {
+	color:#666666;
+	border:1px dotted;
+}
+
+h1 {
+	font-size:200%;
+	color:#000000;
+	font-weight:normal;
+	letter-spacing:1px;
+}
+
+
+em {
+	font-weight:bold;
+}
+
+#title {
+	margin:0 auto 0 auto;
+	text-align:center;
+	margin-bottom:25px;
+}
+
+#title p {
+	font-variant:small-caps;
+	letter-spacing:2px;
+}
+
+#title img {
+	border:none;
+}
+
+#container {
+	width:600px;
+	margin:0 auto 0 auto;
+	text-align: left;
+}
+
+#sidebar {
+	width:140px;
+	float:right;
+}
+
+#sidebar h1 {
+	text-align:right;
+	font-size:200%;
+	color:#111111;
+	border-bottom:1px dashed #eeeeee;
+}
+
+#sidebar p {
+	line-height:20px;
+}
+
+#content {
+	margin-right:160px;
+	padding-right:20px;
+	border-right:1px solid #cccccc;
+}
+
+#content h1 {
+	text-align:left;
+	font-size:115%;
+	font-weight:bold;
+	color:#111111;
+	border-bottom:1px dashed #eeeeee;
+	padding-top:15px !important;
+	padding-top:0;
+}
+
+#content p {
+}
+
+#content ol,ul {
+	padding-left:15px;
+}
+--></style>
+</head>
+
+<body>
+<div id="title">
+<a href="#">
+
+<!-- BEGIN Animal Kill Counter (by sfvegan.org) -->
+<style>
+div.count {
+    color: #f0f0f0;
+    background-color: #404040;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+    padding: 8px;
+    width: 200;
+}
+span.count_desc {
+    font-size: 12px;
+}
+span.generatelink {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 11px;
+    background-color: #f0f0f0;
+}
+a#genlinka {
+    color: #404040;
+}
+</style>
+<div id=counter class=count>
+<div id=counter0><span id="count0">0</span> <span id=desc0> chickens</span></div>
+<div id=counter1><span id="count1">0</span> <span id=desc1> turkeys</span></div>
+<div id=counter2><span id="count2">0</span> <span id=desc2> ducks</span></div>
+<div id=counter3><span id="count3">0</span> <span id=desc3> pigs</span></div>
+<div id=counter4><span id="count4">0</span> <span id=desc4> cattle</span></div>
+<div id=counter5><span id="count5">0</span> <span id=desc5> sheep</span></div>
+<div id=counter6><span id="count6">0</span> <span id=desc6> rabbits</span></div>
+<div id=counter7><span id="count7">0</span> <span id=desc7> </span></div>
+<p>
+<span id=count_descr class=count_desc>
+Number of animals killed in the world by the meat, dairy and egg industries, since you opened this webpage. This counter does not include the billions of fish and sea animals killed annually.</span></div>
+<div><span id=genlink class=generatelink>(<a id=genlinka href="http://sfvegan.org/countergen.html" target="_blank">Get this counter</a>)</span></div><script>
+var persecond = 8;
+var numbers = [ 46622920000, 677536000, 2248138000, 1275803000, 291337000, 504754000, 1052273000, 0];
+var counts = [ 0, 0, 0, 0, 0, 0, 0, 0 ];
+var rate = [ 0, 0, 0, 0, 0, 0, 0, 0 ];
+
+function incrementcounter()
+{
+	var num;
+	var str;
+	var th;
+	for (var i = 0; i < numbers.length; ++i) {
+		counts[i] += rate[i];
+		str = "";
+		num = Math.round(counts[i]);
+		while (num > 1000) {
+			th = num % 1000;
+			if (th < 10)
+				th = "00" + th;
+			else if (th < 100)
+				th = "0" + th;
+			str = "," + th + str;
+			num = Math.floor(num / 1000);
+		}
+		str = num + str;
+		document.getElementById("count" + i).innerHTML = str;
+	}
+}
+
+var intervalid = 0;
+
+function initcounter()
+{
+	var disp;
+
+	for (var i = 0; i < numbers.length; ++i) {
+		if (numbers[i] == 0) {
+			disp = "none";
+		} else {
+			disp = "block";
+		}
+		document.getElementById("counter" + i).style.display = disp;
+		rate[i] = numbers[i] /  365 / 24 / 60 / 60 / persecond;
+		counts[i] = 0;
+	}
+
+	if (intervalid != 0)
+		clearInterval(intervalid);
+
+	intervalid = setInterval("incrementcounter()", 1000 / persecond);
+}
+
+initcounter();
+</script>
+<!-- END Animal Kill Counter -->
+
+
+
+<h1><PAGE NAME></h1>
+</div>
+		
+<div id="container">
+<div id="sidebar">
+						
+<EDIT BUTTON><br>
+<PAGE HISTORY BUTTON><br>
+<a href='../Help'>Help</a>
+
+<br><br>
+						
+<a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a> 
+
+<br><br>
+
+<a 
+href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+</div>
+
+<div id="content">
+<PAGE TEXT>
+
+</div>
+</div>
+		
+<br><br>
+
+</body>
+</html>
+

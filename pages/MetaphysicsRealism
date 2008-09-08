@@ -1,0 +1,139 @@
+----
+# What is it about?
+An attempt to sketch out the battleground of the realist debate in order to see how Dummett's ..anti-realism sits within it.
+
+# Where can it be found?
+Stanford & Routledge Encyclopedias
+----
+# The debate
+*Initial matters*
+- Realism := a,b,c, etc. exist and the fact that they exist and have the properties they do (..F-ness, etc.) is independent of beliefs, linguistic practices, conceptual schemes, etc.
+- Hence 2 methods of attack: ~existence or ~independence.
+- Can deal with sentences involving objects under investigation due to disquotational properties of ..truth-predicate
+-- i.e. 'Fa' is T iff a is F
+- Need to split off issues to do with how to account for similarity (i.e. stuff about universals, etc.)
+
+*Against existence (error theory)*
+_Mathematics (Field)_
+- Problem for Platonist: giving a causal account of way in which subject matter constrains knowledge
+-- This is especially prominent in mathematics (cf. Benacerraf)
+- Platonist response: hard to give causal account of knowledge in general.
+- Field's response to this: Platonist needs to explain why if mathematicians accept 'p', then p most of the time.
+-- Benacerraf implies that this can't be done causally.
+-- And Platonist claim to independence and ..non-spatiotemporal nature makes ..non-causal explanation difficult.
+--- In particular language and mind independence are problems here.
+- Hence Platonist can't account for regularity.
+- Field's positive account: utility of math explained by enabling one to reach conclusions much faster than had one not used mathematics.
+-- Note that he thinks these conclusions are still reachable without mathematics..
+_Morality (Mackie)_
+- Mackie against the existence of moral properties (but not the objects, i.e. people, to which these properties are traditionally attached).
+- P1. Conceptual claim: our concept of a moral fact is a concept of an objectively prescriptive fact => existence of objectively and categorically  prescriptive facts.
+- P2. There are no objectively and categorically prescriptive facts.
+- C. There are no moral facts.
+-- Prescriptive := ought statements.
+-- Categorical := not contingent upon desires or wants of an agent (cf Kant).
+-- Objective := object of knowledge, T v F, perceivable, recognisable, etc.
+--- i.e. highly ambiguous in Mackie
+- Mackie: objective values are weird properties
+-- idea of objective goods being pursued regardless of individual's concerns, beliefs, etc.
+-- need "moral perception" to be aware of objective moral properties.
+- Responses to Mackie's error theory:
+-- contest premises
+-- point to internal tension
+--- Wright: error-theorist aims for norm other than truth (and hence acceptable and ..non-acceptable falsehoods).  Why not just have acceptable falsehoods as truths?
+_Expressivism (Ayer)_
+- denies that sentences are apt to be evaluated in terms of their ..truth-value (i.e. that we are dealing with existent/..non-existent entities
+- plenty of language falls into this category (e.g. imperative, interrogative)
+- hence realist has been mislead by surface grammar
+-- *green this is quite Wittgensteinian*
+- e.g. moral sentences used to express something (e.g. emotion)
+- ..Frege-Geach problem:
+-- How to account for ..non-assertive contexts, e.g. "If murder wrong, then getting brother to murder is wrong." and their use in apparently valid deductive inference (consider what happens if one asserts "murder wrong" along with the preceding).
+--- If semantic functions differ, then inference is invalid.
+
+*Reductionism*
+- Analytic reduction: reducing abstract entities 
+to concrete ones.
+- Can this form the basis of an argument against the existence of the abstract entities?
+-- No, Platonist can respond by arguing that in fact it works the other way: concrete entities are implicitly reliant on the existence of the associated abstract entities.
+- Vindicative vs eliminative (possibly ..non-analytic) reduction:
+-- vindicates a belief (e,g, water = H2O)
+-- eliminates a belief (e.g. polywater = water)
+
+*Against independence*
+- so sentences ..truth-apt and at least sometimes true
+- classic e.g. is idealism
+_Semantic Realism (Dummett~)_
+- semantic realist adopts a notion that it potentially ..recognition-transcendent or bivalent
+-- i.e. a sentence S is determinately T or F regardless of whether we have a method of fining its truth-value
+-- *green see Wright for discussion of relation between transcendence and bivalence)*
+- *red metaphor thesis:* cannot have a general conception of metaphysical realism
+-- e.g. science vs artistic metaphors in debate between Plat. and intuitionist re: maths.
+--- both right and wrong, therefore need to break down disagreement further
+-- *green I don't have a good grip on this.  Think I need to do a little reading on metaphorical vs literal content.*
+-- *fawn I'm interested in metaphor.  Jason*
+-- *green Okay, I think I'm getting a better idea of what Dummett means now: when we talk in general terms about believing objects to be real we are not getting at the crux of the matter.  That sort of talk is just a metaphor for what is really at issue (which is detailed in his constitution thesis below).*
+- *red constitution thesis:* literal content of realist consists in semantic realism
+- thus debate becomes one within theory of meaning
+-- i.e. should be grant meaning to sentences with bivalent truth-conditions?
+- ~constitution:
+-- can have realist claim that doesn't involve metaphor and hence doesn't reduce to semantic realism if reduced to literal claims
+-- semantic realism consistent with idealism, hence can be used to represent literal content of realist claim
+- ~semantic realism:
+-- 1. *red acquisition argument* (D a discourse):
+---> i) we understand D
+---> ii) sentences of D are transcendent as above
+---> iii) i) & ii) with Fregean understanding thesis => we know truth conditions of sentences in D
+---> iv) knowledge ascribed to speaker => in principle possible to have acquired it
+---> v) must in principle be possible to have acquired knowledge of truth conditions of sentences in D
+---> vi) no plausible story re: how we could have acquired this knowledge
+---> therefore ~ii) and we must reject semantic realism re: D
+-- *red Response:* 
+--- understanding viewed as possession of a concept of ..truth-conditions
+--- thus can acquire concept of transcendent state of affairs by understanding statement for which that state of affairs would constitute the ..truth-condition.
+--- this understanding is just achieved as with any other sentence, by understanding words and how they are combined.
+-- 2. *red manifestation argument* (again D a discourse):
+---> i) we understand sentences of D
+---> ii) sentences of D transcendent as above
+---> iii) we know ..truth-conditions of sentences of D (reasoning as above)
+---> iv) knowledge involving linguistic understanding should manifest in use
+---> v) our knowledge of ..truth-conditions re: D should manifest in our use
+---> vi) such knowledge is never manifested 
+---> therefore we do not possess ..truth-conditions of sentences in D (~iii) and so ~ii) and reject semantic realism
+--- so ascription of knowledge of transcendent ..truth-conditions is redundant in an account of understanding
+_Other approaches_
+- Looking for something more than just showing that relevant sentences are ..truth-apt, sometimes true and not ..recognition-transcendent.
+-- as one can easily be a moral realist without being comitted to transcendence
+- points of contention between realist and ..anti-realist:
+-- *red best explanation test:*
+--- realism if distinctive states of affairs of a subject matter feature ineliminably in the best explanation of aspects of experience
+--- *green Need to examine this use of IBE more closely with a view to involving it in my thesis.*
+-- *red Wright:* should use width of cosmological role rather than explanation test
+--- judged by contribution to beliefs in other areas
+--- can see how width leads to conception of independence
+-- *red judgement-dependence:*
+--- how to explain covariance of best opinions and their related facts?
+---> 1. Just attribute best opinions a sort of tracking role (..judgement-dependence).
+---> 2. Attribute opinions a determining role in how the facts vary (..judgement-independence).
+--- How to assess?
+---> Provisional equation: for all x,[C => (A suitable subject _s_ judges that Px iff Px)], C denotes coginitively ideal conditions
+---> ..Judgement-dependent iff:
+---> 1. Equation a priori true.
+---> 2. C must be specifiable in a ..non-trivial way.
+---> 3. Question re: C must be logically independent from class of truths we are interested in.
+---> 4. Must be no better way of accounting for the a priori covariance
+
+*Quietism*
+- Whole debate seen as impossible.
+- 2 strategies:
+-> 1. Show debate rests on unsupported theses to do with relation of mind and world.
+-> 2. Show that points of contention actually have no metaphysical consequences.
+----
+# What do I think?
+- It will be helpful to get clear definitions of metaphor, understanding and meaning as they are in play in the Dummett debate.
+- Also should devote pages to ..recognition-transcendence (and bivalence), the metaphor thesis, the constitution thesis, the acquisition argument, and the manifestation argument.
+----
+
+Metaphysics.Paper
+
+ChrisWilcox

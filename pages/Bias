@@ -1,0 +1,24 @@
+## Bias
+
+# Why is unbiasedness a good thing?
+
+Initial non-technical ideas:  Bias is bad because it suggests that there is a confounder which is systematically swinging your result in one direction or another.  Examples of such bias abound in clinical epidemiology – Hawthorne effect; the bias in treating patients at their nadir (e.g. depression) without control groups to assess how much any benefit is due to natural resolution cf treatment benefits; etc etc
+
+This is (despite the outward similarities) not the technical sense of bias which is a core value within classical statistics.  
+
+Here unbiasedness is the fact that on average (over infinitely many trials) a proposed estimator will equal the true, but unknown, population parameter of interest (theta).
+
+I take it on mathematical faith that it is possible to show that an unbiased estimator will when averaged over the long run provide an estimate which is equivalent to theta.
+
+The argument that bias is a good thing seems to particularly rely on the truth of frequentism.  If you are happy that in the long run your expectation of your results is  meaningful and equal to theta, then unbiasedness would seem to be good.
+
+# Problems with bias
+
+Why does it matter?  What I want is to have some reason to rely on the fact that the estimator of this current trial in front of me in some (undefined sense) a good estimate of theta.
+
+The fact that on infinitely many trials an unbiased estimator will when averaged provide theta is meaningless.  This will never happen.  This is where the example of an estimator which will provide an estimate many degrees away from theta and do so every time but at an equal rate to the left and to the right shows that an unbiased estimator should not matter to even a classical statistician – the estimate is always wrong – the only way it will be of use is if we did an infinite run of trials – which is impossible.
+
+# Notes:
+* My current hold on this (assuming it is correct) relies heavily upon two insights – first that the technical sense of bias relies on the long run expectation of your estimator and second that it can be proven mathematically that an unbiased estimator will yield on the long run (infinite) average the population theta.  
+* It seems, at least superficially, a similarity with this and Bayesian convergence theorems (i.e. in both cases the correct answer is guaranteed in the long run)
+* How much does the fact that classical statisticians will only use unbiased estimators have to do with their confidence that a given result will be correct in the long run.  It seems crucial – but this appears contrary to your argument.  This is perhaps where I still come apart a little.  Do not classical statisticians rely on frequentism – so while they would acknowledge the Bayesian counter-points above – their reply will be – Well, our entire statistical framework relies on frequentism being true; your arguments against bias are essentially arguments against frequentism – if we are not going to reject frequentism, why whould we reject bias?  

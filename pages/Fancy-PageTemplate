@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Centre for Language in Social Life</title>
+<style type="text/css">
+body {
+  background-color: white;}
+ :link { color: #000066 }
+ div.c4 {font-family: Courier New, Courier, mono; font-size: 70%;
+text-align: center; text-decoration: none}
+body {font-family:serif}
+ h2 {color: #000066; font-family: Arial, Helvetica, sans-serif;
+font-style: italic; font-weight: bold}
+    a:link {
+      color:#033EC6;
+      text-decoration:none;font-weight:normal;
+      }
+    a:visited {
+      color:#6F7EA0;
+      text-decoration:none;font-weight:normal;
+      }
+    a:hover {
+      color:#215EEB; 
+      background:white;
+      }
+    a:active {
+      color:#215EEB; 
+      background:white;
+      }
+</style>
+</head>
+<body>
+<div class="j">
+<table border="0" cellspacing="0" cellpadding="0" width="600"
+summary="table for layout">
+<tr>
+<td colspan="2">
+<p><img src="http://luddite.cst.usyd.edu.au/IoWiki/clsl.jpg" alt="Centre for Language in Social Life"
+width="600" height="113" border="0" align="bottom"></p>
+</td>
+</tr>
+
+<tr>
+<td valign="top" height="270">
+<table border="0" cellspacing="0" cellpadding="0" summary=
+"table for layout">
+<tr>
+<td>
+<p><map id="menumap" name="menumap">
+<area shape="rect" coords="100,5,200,40" href="http://www.ling.mq.edu.au/clsl/" alt=
+"people">
+<area shape="rect" coords="100,31,200,51" href="http://www.ling.mq.edu.au/clsl/" alt=
+"people">
+<area shape="rect" coords="100,62,200,82" href="http://www.ling.mq.edu.au/clsl/" alt=
+"projects">
+<area shape="rect" coords="100,93,200,113" href="http://www.ling.mq.edu.au/clsl/"
+alt="publications">
+<area shape="rect" coords="100,124,200,144" href="http://www.ling.mq.edu.au/clsl/" alt=
+"what's on">
+<area shape="rect" coords="100,155,200,175" href="http://www.ling.mq.edu.au/clsl/" alt=
+"photos">
+<area shape="rect" coords="100,186,200,206" href="http://www.ling.mq.edu.au/clsl/" alt=
+"topics for students">
+<area shape="rect" coords="100,217,200,237" href=
+"http://www.ling.mq.edu.au/clsl/" alt="achievements">
+<area shape="rect" coords="100,248,200,268" href="http://www.ling.mq.edu.au/clsl/" alt=
+"links">
+</map> <img usemap="#menumap" src="http://luddite.cst.usyd.edu.au/IoWiki/menu-index.jpg" width=
+"220" height="270" border="0" align="top" alt=
+"menu, repeated below"></p>
+</td>
+</tr>
+</table>
+</td>
+<td valign="top" width="400">
+<PAGE TEXT>
+</td>
+</tr>
+
+<tr>
+<td valign="top" colspan="2" height="15">
+<hr noshade="noshade">
+</td>
+</tr>
+
+<tr>
+<td valign="top" colspan="2" height="15">
+<table border="0" cellspacing="0" cellpadding="0" width="600"
+summary="a small table for layout">
+<tr>
+<td valign="top" width="65">
+<p><map id="map1" name="map1">
+<area shape="rect" coords="0,0,64,50" href="http://www.mq.edu.au"
+alt="Macquarie University">
+</map> <img usemap="#map1" src="http://luddite.cst.usyd.edu.au/IoWiki/Macquarie.gif" width="65" height=
+"51" border="0" align="top" alt="Macquarie logo"></p>
+</td>
+<td align="center" valign="top" width="755">
+<div class="c4">home | <a href="http://www.ling.mq.edu.au/clsl/">people</a> | <a href=
+"http://www.ling.mq.edu.au/clsl/">projects</a> | <a href=
+"http://www.ling.mq.edu.au/clsl/">publications</a> | <a href="http://www.ling.mq.edu.au/clsl/">what's
+on</a> | <a href="http://www.ling.mq.edu.au/clsl/">photos</a> | <a href=
+"http://www.ling.mq.edu.au/clsl/">topics for students</a> | <a href=
+"http://www.ling.mq.edu.au/clsl/">achievements</a><br><hr>
+<EDIT BUTTON> - <PAGE HISTORY BUTTON> - <INSTRUCTIONS BUTTON>

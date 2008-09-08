@@ -1,0 +1,8 @@
+_This will review the state of the art, and say why it's so important._
+
+Every philosopher knows the principle of xxx, usually associated with Carnap, which says that one should not ignore information.  The likelihood principle is a version of this applicable to statistical inference.  It says (roughly) that when one has a sample of data, one should take that sample fully into account when making inferences about hypotheses.  And yet, because of the popularity of evaluating methods of inference on their long-run behaviour, the likelihood principle is frequently broken.
+
+----
+- where can I publish such a long paper? or should it be just a summary? 
+
+- note to self: say something about “the importance of protocol” in Hutchison BJPS, Dowe, Korb etc. 

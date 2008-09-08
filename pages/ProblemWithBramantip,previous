@@ -1,0 +1,13 @@
+Alex has asked me about the problem with the validity of the syllogism form Bramantip, and he's also pointed me to a web page which answers his own question, as follows.
+
+My example of Bramantip was:
+--> All the students in my class are clever.
+--> All clever students pass.
+--> Some passing students are in my class.
+
+In class, Kieran said you couldn't assert the major premise if there were no students in the class.  I said that in English Kieran's right, you can't, but in maths you can.  But I couldn't think how to explain briefly why that is.  The web page which Alex found explains it well, using the _principle of extensionality_:
+ftp://xeny.net/wikipics/Bramantip-extensionality.png
+
+That picture's from http://www.friesian.com/syllog.htm (8/3/2008).
+
+Jason

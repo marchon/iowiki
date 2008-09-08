@@ -1,0 +1,274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+ <head>
+   <link rel="stylesheet" href="http://www.uq.edu.au/hprc/template.css" type="text/css" />
+  <script type="text/javascript" src="http://www.uq.edu.au/template.js"></script>
+<title><PAGE TITLE></title>
+<style type="text/css"><!--
+
+
+
+body {
+
+	background-color:#FFFFFF;
+
+	font-family:Verdana, sans-serif;
+
+	font-size:11px;
+
+	color:#666666;
+
+}
+
+
+a {
+
+	color:#222222;
+
+	text-decoration:none;
+
+}
+
+
+
+textarea, input,submit {
+
+	color:#666666;
+
+	border:none;
+
+}
+
+
+
+h1 {
+
+	font-family:Belle, Bell, Soutane, Souvenir, Georgia, "Times New Roman", Times, serif;
+
+	font-size:200%;
+
+	color:#000000;
+
+	font-weight:normal;
+
+	letter-spacing:1px;
+
+}
+
+
+
+
+
+#title {
+
+	margin:0 auto 0 auto;
+
+	text-align:center;
+
+	margin-bottom:25px;
+
+}
+
+
+
+#title p {
+
+	font-variant:small-caps;
+
+	letter-spacing:2px;
+
+}
+
+
+
+#title img {
+
+	border:none;
+
+}
+
+
+
+#container {
+
+	width:600px;
+
+	margin:0 auto 0 auto;
+
+}
+
+
+
+#sidebar {
+
+	width:140px;
+
+	float:right;
+
+}
+
+
+
+#sidebar h1 {
+
+	text-align:right;
+
+	font-size:200%;
+
+	color:#111111;
+
+	border-bottom:1px dashed #eeeeee;
+
+}
+
+
+
+#sidebar p {
+
+	line-height:20px;
+
+}
+
+
+
+#content {
+
+	margin-right:160px;
+
+	padding-right:20px;
+
+	border-right:1px solid #cccccc;
+
+}
+
+
+
+#content h1 {
+
+	text-align:left;
+
+	font-size:115%;
+
+	font-weight:bold;
+
+	color:#111111;
+
+	border-bottom:1px dashed #eeeeee;
+
+	padding-top:15px !important;
+
+	padding-top:0;
+
+}
+
+
+
+#content p {
+
+	line-height:20px;
+
+}
+
+
+
+#content ol,ul {
+
+	padding-left:15px;
+
+}
+
+--></style>
+
+</head>
+
+
+
+
+ </head>
+
+<body>
+
+
+
+<!--START: Header -->
+
+
+
+<form name="search_form" onsubmit="return goto_url(this)" action="">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+
+<td width="10%" rowspan="2"><a href="http://www.uq.edu.au/"><img src="http://www.uq.edu.au/hprc/images/uq-logo.gif" 
+width="200" height="72" alt="The University of Queensland Homepage" border="0" /></a></td>
+
+    <td width="90%" colspan="2" class="toplinks">
+
+        <!-- Start: Top Bar -->
+
+        <script type="text/javascript" src="http://www.uq.edu.au/templates/header/topbar.js"></script>
+
+
+
+        <noscript>
+
+        <table border="0" cellspacing="0" cellpadding="0" width="100%"><tr><td width="70%" class="toplinks" 
+align="left"><img src="http://www.uq.edu.au/templates/header/default/top-links.gif" width="392" height="17" 
+usemap="#Map" border="0" alt="" /><map name="Map" id="Map"><area shape="rect" coords="23,3,76,15" 
+href="http://www.uq.edu.au/" alt="UQ Homepage" title="UQ Homepage" /><area shape="rect" coords="82,3,129,15" 
+href="http://www.uq.edu.au/search" alt="Search UQ" title="Search UQ" /><area shape="rect" coords="137,3,196,15" 
+href="http://www.uq.edu.au/contacts" alt="Find all Contacts at UQ" title="Find all Contacts at UQ" /><area 
+shape="rect" coords="202,3,241,15" href="http://www.uq.edu.au/study" alt="Study Options at UQ" title="Study Options 
+at UQ" /><area shape="rect" coords="249,3,295,15" href="http://www.uq.edu.au/events" alt="Events at UQ" 
+title="Events at UQ" /><area shape="rect" coords="300,3,334,15" href="http://www.uq.edu.au/maps" alt="UQ Maps" 
+title="UQ Maps" /><area shape="rect" coords="344,3,391,15" href="http://www.uq.edu.au/library" alt="UQ Library" 
+title="UQ Library" /></map></td><td width="30%" align="right"><a href="http://www.my.uq.edu.au"><img 
+src="http://www.uq.edu.au/templates/header/default/my-uq.gif" width="69" height="17" alt="Link to my.UQ" border="0" 
+/></a></td></tr></table>
+
+        </noscript>
+
+        <!-- End: Top Bar -->
+
+    </td>
+
+  </tr>
+
+<tr>
+
+<td width="70%" class="header" align="left"><a href="http://www.uq.edu.au/hprc/index.html"><img 
+src="http://www.uq.edu.au/hprc/images/header.gif" width="379" height="55" alt="Welcome to the The School of History, 
+Philosophy, Religion and Classics Homepage" border="0" /></a></td>
+
+<td width="30%" class="header" align="right"><img src="http://www.uq.edu.au/hprc/images/uq-shield.gif" width="190" 
+height="55" alt="You are at The School of History, Philosophy, Religion and Classics website" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td height="2" class="searchbar" align="right" colspan="3">
+
+</td>
+</tr>
+</table>
+
+<!-- END: Header-->
+
+
+<!-- START: Body -->
+<div style="margin-left : 90px; margin-right: 120px">
+        <h1><PAGE NAME></h1>
+        <PAGE TEXT>
+</div>
+<!-- END: Body -->
+
+
+
+    <!-- Ends the header form -->
+     </form>
+    <!-- Ends the header form -->
+
+  </body>
+</html>

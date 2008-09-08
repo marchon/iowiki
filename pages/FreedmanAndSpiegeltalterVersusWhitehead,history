@@ -1,0 +1,25 @@
+
+----
+Thu Mar  9 11:10:38 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code Whitehead vs. Freedman & Spiegelhalter in _Controlled Clinical Trials_, on whether it makes more sense to run Frequentist or contitionalist trials in the light of the stopping rule principle etc.
+
+e.g.:
+
+@article{Spiegelhalter:1989,
+	Author = {LS Freedman and DJ Spiegelhalter},
+	Journal = {Controlled Clinical Trials},
+	Pages = {10: 357-367},
+	Title = {Comparison of Bayesian with group sequential methods for monitoring clinical trials},
+	Year = {1989}}
+
+
+# Notes
+
+Basic point appears to be: a bayesian stopping rule can work as well as a frequentist rule without the limitations.  "Work as well" is intended to mean that it is correctly conservative in stopping experiments when large treatment differences are apparent early in experiments.  This is dependent on the prior distribution. 
+Of interest to the 'Vioxx project' references are provided for arguments regarding why frequentist methods can overestimate treatment effects if a trial is stopped early (cf bayesian techniques).  The authors state " the mean of the posterior distribution may be used to estimate the treatment effect and this provides a natural shrinkage of unexpectedly extreme treatment differences towards the pretrial expectation" (p366).
+
+Some lingering questions: Is this Bayesian 'monitoring' only - i.e. stopping rule is based on bayesian methodology but the trial ends up being analysed with classical statistics?  -- They're assuming that a Bayesian stopping rule is used only with a Bayesian analysis.  Bayesian stopping rules with Frequentist analysis have problems (and I can't think why anyone would propose such a thing anyway ... although I'm sure people have!)  Jason
+}*

@@ -1,0 +1,81 @@
+
+----
+2008-04-14 11:32:21 EST
+
+
+
+[[[break]]]changed line 39 from: *orange {code - I'm a little concerned about the involvement of loveliness as a criterion for what constutes our best explanations.  It seems that some work needs to be done here in order to fight off the danger of subject best assessments.
+}*[[[break]]]to: *green {code - I'm a little concerned about the involvement of loveliness as a criterion for what constutes our best explanations.  It seems that some work needs to be done here in order to fight off the danger of subjective best assessments.
+}*
+----
+2008-04-14 11:12:32 EST
+
+
+
+[[[break]]]changed line 14 from: *orange {code -- When H is the best of explanations.
+}*[[[break]]]to: *green {code -- When H is the best of explanations ... provided H is also likely.
+}*
+----
+2008-04-14 10:07:44 EST
+
+
+
+[[[break]]]changed line 29 from: *orange {code 
+}*[[[break]]]to: *green {code Why IBE?
+- It is a natural description of familiar aspects of inference:
+-- Inferring an explanation.
+-- Using data to discriminate in theory choice.
+-- Better explanation may arise without new data.
+-- Explains why talk of explanation is common in our inference practices.
+-- Explains role of aesthetics in scientific theory choice.
+-- Accounts for inference involving unobservables.
+}*[[[break]]]changed line 34 from: *orange {code 
+
+}*[[[break]]]to: *green {code - Is there some sort of circularity involved in using IBE (which seems to be what is going on above) to argue for IBE?
+}*
+----
+2008-04-14 10:02:28 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*Summary*
+
+Here Lipton is looking to investigate the relationship between inference and explanation.
+
+Simple view:
+- Our pool of beliefs is filled by inference and then draw upon for explanation.
+-- But we may not have a suitable explanation in the pool.
+--- Hence, we need to search for futher inferences (which may entail the need for further observations).
+
+The simple view underestimates the role of explanation:
+- Sometimes we infer H because H explains (if it's true).
+- When are we justified in doing this?
+-- When H is the best of explanations.
+- This binds explanation to inference to provide a new inductive model.
+
+Actual vs potential explanations:
+- Cannot require the best actual explanation as this question is onyl settled after inference.
+-- Hence, the inference should take the form that the best potential explanation is the actual explanation.
+- But the pool of potential explanations is large.
+-- Hence we need some notion of plausibility to narrow the candidate pool.
+
+Best supported vs most informative explanation:
+- How do we choose when 2 different sets of (plausibility) criteria recommend different explanation?
+-- Seems we are faced with a choice between informativity and likelihood.
+--- But we want our account of inference to explain the likelihood so we should choose informativity as our criterion.
+--- Also, likelihood is directly related to the evidence available and the larger the role played by likelihood, the less interesting the resulting IBE model (because it reverts more and more to standard inference).
+
+
+----
+*What do I think?*
+- I'm a little concerned about the involvement of loveliness as a criterion for what constutes our best explanations.  It seems that some work needs to be done here in order to fight off the danger of subject best assessments.
+-- And if this work results in some other, objective criteria for loveliness, why shouldn't we work with these criteria directly?
+
+
+----
+
+Lipton.IBE
+
+ChrisWilcox
+}*

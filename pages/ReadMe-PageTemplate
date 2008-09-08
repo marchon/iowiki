@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title><PAGE TITLE></title>
+  <style type="text/css"><!--
+    body {
+      color:black;
+      background:#E7E8E9;
+      font:100%/140% soutane, georgia, "palatino linotype", palatino, "book antiqua", "zapf calligraphic", times, "times new roman", serif;
+      margin-left:20px;
+      margin:0; 
+      padding:0
+      }
+    a:link {
+      color:#033EC6;
+      text-decoration:none;font-weight:normal;
+      }
+    a:visited {
+      color:#6F7EA0;
+      text-decoration:none;font-weight:normal;
+      }
+    a:hover {
+      color:#215EEB; 
+      background:white;
+      }
+    a:active {
+      color:#215EEB; 
+      background:white;
+      }
+    ul, pre { margin-top:0px; margin-bottom:0px; }
+    table {
+      margin:1; 
+      padding:1;
+      }
+    #main {
+      margin:0;
+      padding:0;
+      float:left;
+      width:100%;
+      }
+    #content {
+      background:#F2F2F2;
+      border:2px #CFD1D1 solid;
+      margin:1em 2em 0 2em;
+      padding:2em;
+      }
+    #content h1 {
+      color:#9C2525; 
+      font-weight:bold; 
+      font-family: verdana, "lucida sans", "lucida sans unicode", tahoma, arial, helvetica, sans-serif;
+      font-size:150%; 
+      margin:0 0 1.3em 0;
+      }
+    #tabs {
+      margin:0 2em; 
+      padding:0; 
+      height:1.75em;
+      }
+    #tabs ul li a {
+      color:black;
+      background:#CFD1D1;
+      text-decoration:none;
+      font:bold 80%/130% verdana, "lucida sans", "lucida sans unicode", tahoma, arial, helvetica, sans-serif;
+      margin:1em 0 0.5em 0;
+      padding:2px 1.5em;
+      height:auto;
+      display:block;
+      text-align:center;
+      }
+    #tabs ul li a:hover {
+      background:#A2AFCC;
+      }
+    #tabs ul li {
+      display:block; 
+      float:left; 
+      text-align:center;
+      }
+    #tabs ul {
+      margin:0;
+      padding:0;
+      list-style-type:none;
+      text-align:center;
+      border:0;
+      }
+    #tabs a:active {
+      background:#778BBA;
+      }
+    #tabs #browse {
+      background:#778BBA;
+      }
+    --></style>  
+</head>
+
+<body>
+<div id="main">
+    <div id="tabs">
+    </div>
+    <div id="content">
+        <h1><PAGE NAME></h1>
+        <PAGE TEXT>
+    </div>
+    <div id="tabs">
+    </div>
+</div>
+</body>
+</html>

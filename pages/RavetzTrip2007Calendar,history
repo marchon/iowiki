@@ -1,0 +1,71 @@
+
+----
+Tue Dec  5 09:40:00 EST 2006
+
+
+
+[[[break]]]deleted at line 1: *red {code Tue 26 December
+--20:00: leave London
+
+Wed 27 December
+-- 06:45: arrive in Dubai (stay at the Avari hotel)
+
+Thu 28 December
+-> 10:00: leave Dubai
+
+Fri 29 December
+-> 06:55: arrive in Sydney (flight EK 412)
+
+
+
+
+Thu 11 January
+-> 20:00: leave Sydney
+
+Fri 12 January
+-> 06:15: arrive in Dubai
+
+Sat 13 January
+-> 07:45: leave Dubai
+-> 11:35: arrive in London
+}*
+----
+Tue Dec  5 09:23:42 EST 2006
+
+
+
+[[[break]]]changed line 2 from: *orange {code 20:00: leave London
+}*[[[break]]]to: *green {code --20:00: leave London
+}*[[[break]]]changed line 5 from: *orange {code -> 06:45: arrive in Dubai
+}*[[[break]]]to: *green {code -- 06:45: arrive in Dubai (stay at the Avari hotel)
+}*
+----
+Tue Dec  5 09:23:00 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code Tue 26 December
+20:00: leave London
+
+Wed 27 December
+-> 06:45: arrive in Dubai
+
+Thu 28 December
+-> 10:00: leave Dubai
+
+Fri 29 December
+-> 06:55: arrive in Sydney (flight EK 412)
+
+
+
+
+Thu 11 January
+-> 20:00: leave Sydney
+
+Fri 12 January
+-> 06:15: arrive in Dubai
+
+Sat 13 January
+-> 07:45: leave Dubai
+-> 11:35: arrive in London
+}*

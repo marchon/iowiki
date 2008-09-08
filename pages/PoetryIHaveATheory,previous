@@ -1,0 +1,37 @@
+*purple This is a bit hard to explain - so if there's anything you're unclear on, please tell me :D! I'll start off simply so you can all read it (hopefully!).
+
+What's the simplest 2D object you can draw on your paper? I'll give you a hint...
+
+It has only three vertices (points)... no pesky pi (&#960;) to deal with & only needs three lines (edges) all connecting to each vertex. Voilà! You have a triangle!
+
+What I want to describe is a way of using extended forms of Pascal's Triangle to describe dimensional space. Hence my use of triangles & higher dimensions of these triangles (like triangular pyramids). 
+
+---
+
+Let's look at a point (vertex): our 0-dimensional friend only needs one variable (let's say a^1=a) to describe its place in space. It sits there quite lonely... no neighbours, no length, no width, & no breadth.
+
+What about a line (edge)?: This 1-dimensional buddy only has a length... & it also has two points on either end. Let's describe the line mathematically like (a+b)^n... where n is a positive integer > 1.
+
+a is one end, b is the other, & n describes the length & interaction of both points a & b. Let's expand (a+b)^2. We get a^2 + 2ab + b^2. a^2 & b^2 now describe both points & 2ab shows the interaction (the line) between points a^2 & b^2. At least three elements are required to show the interaction between the two 0-dimensional objects. This is to show that there are two vertices, & at least one interaction (the line between those vertices).
+
+---
+
+It turns out this is quite difficult to explain on here...so if anyone wants an explanation of what happens to higher dimensions like 4th dimension, 10th dimension & higher etc.... feel free to e-mail me at u4381517@anu.edu.au so I can give you a visual demonstration.
+
+Is this something I can present in my tutorial? ... It's so much easier working with pictures than plain text!
+
+Christian Maskey*
+
+Does that mean we need three pieces of information two describe a two dimensional object? If so doesn't that imply that your so-called 2D is really 3D?
+
+Andrew Micallef
+
+*purple I guess it depends on what approach you're taking :)... if you're saying that each piece of information constitutes a dimension then yes. 
+
+However, my intention is that a dimension (these being "simplexes/simplices" in this theory) must have a minimum number of interactions for the dimension you're trying to confirm to be successful. Without these interactions higher dimensions cannot form... for example: We could have a space with an arbitrary 27 465 867 0-dimensional points scattered everywhere... now, since they're not interacting with each other they're separate entities - making a space that only has 0-dimensional space but has 27 465 867 pieces of information.
+
+Christian Maskey
+
+Addendum: Also, in the outline above I was only discussing 0 & 1-dimensional objects... it gets more complex & harder to explain when we start adding dimensions... especially 5 or more!
+
+It sounds a bit strange but 2D simplex space needs at least 10 (elements) pieces of information to properly form!*

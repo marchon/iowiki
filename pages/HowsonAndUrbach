@@ -1,0 +1,9 @@
+#Howson and Urbach. Scientific Reasoning: The Bayesian Approach. Third ed. 2006
+
+Chapter 6 (Statistical Inference in Practice: Clinical Trials)
+* I am particularly interested in their suggestion that randomness is not an absolute requirement for making inferences from trials.  While stated like this it is rather simple to agree, however, I am more interested in the grey area: when is randomisation required and what benefits does it bring.
+* H&U consider two classical arguments for randomisation the first that randomisation is required for classical hypothesis testing and the second that it randomisation assists 'eliminative induction'.
+* The reply to the first is interesting in that it brings out the ambiguity present in what we mean by randomisation: r1 being that the sample groups are selected randomly from the population and r2 being that once we have a sample group (however chosen) we subjects from this sample group are randomised into treatment groups.  r2 is what happens, but it seems that r1 is what is required from a classical statistical point of view (they also discuss the subjective element inherent in chosing what to randomise) *pink very nice point --- Jason*
+* The second argument for randomisation is eliminative deduction (which appears to be pretty much the argument supported by the new experimentalists).  The line of argument is that randomisation provides for the equal distrubtion of factors which may effect response to treatment, whether these factors are known or unknow.  The piont H&U make here is that randomisation does not provide an absolute assurance that such factors are equally distributed - it is reather a probabilistic assurance and while such probabilistic assurances will mean something to Bayesians they cannot mean much to classical statisticians.
+*pink
+- There are some drawbacks to randomisation --- see Grossman and Mackenzie.*

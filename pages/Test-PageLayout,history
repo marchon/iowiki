@@ -1,0 +1,96 @@
+
+----
+2008-09-05 18:41:50 EST
+
+
+
+[[[break]]]added at line 0: *lime {code <!-- BEGIN Animal Kill Counter (by sfvegan.org) -->
+<style>
+div.count {
+    color: #f0f0f0;
+    background-color: #404040;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+    padding: 8px;
+    width: 200;
+}
+span.count_desc {
+    font-size: 12px;
+}
+span.generatelink {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 11px;
+    background-color: #f0f0f0;
+}
+a#genlinka {
+    color: #404040;
+}
+</style>
+<div id=counter class=count>
+<div id=counter0><span id="count0">0</span> <span id=desc0> chickens</span></div>
+<div id=counter1><span id="count1">0</span> <span id=desc1> turkeys</span></div>
+<div id=counter2><span id="count2">0</span> <span id=desc2> ducks</span></div>
+<div id=counter3><span id="count3">0</span> <span id=desc3> pigs</span></div>
+<div id=counter4><span id="count4">0</span> <span id=desc4> cattle</span></div>
+<div id=counter5><span id="count5">0</span> <span id=desc5> sheep</span></div>
+<div id=counter6><span id="count6">0</span> <span id=desc6> rabbits</span></div>
+<div id=counter7><span id="count7">0</span> <span id=desc7> </span></div>
+<p>
+<span id=count_descr class=count_desc>
+Number of animals killed in the world by the meat, dairy and egg industries, since you opened this webpage. This counter does not include the billions of fish and sea animals killed annually.</span></div>
+<div><span id=genlink class=generatelink>(<a id=genlinka href="http://sfvegan.org/countergen.html" target="_blank">Get this counter</a>)</span></div><script>
+var persecond = 8;
+var numbers = [ 46622920000, 677536000, 2248138000, 1275803000, 291337000, 504754000, 1052273000, 0];
+var counts = [ 0, 0, 0, 0, 0, 0, 0, 0 ];
+var rate = [ 0, 0, 0, 0, 0, 0, 0, 0 ];
+
+function incrementcounter()
+{
+	var num;
+	var str;
+	var th;
+	for (var i = 0; i < numbers.length; ++i) {
+		counts[i] += rate[i];
+		str = "";
+		num = Math.round(counts[i]);
+		while (num > 1000) {
+			th = num % 1000;
+			if (th < 10)
+				th = "00" + th;
+			else if (th < 100)
+				th = "0" + th;
+			str = "," + th + str;
+			num = Math.floor(num / 1000);
+		}
+		str = num + str;
+		document.getElementById("count" + i).innerHTML = str;
+	}
+}
+
+var intervalid = 0;
+
+function initcounter()
+{
+	var disp;
+
+	for (var i = 0; i < numbers.length; ++i) {
+		if (numbers[i] == 0) {
+			disp = "none";
+		} else {
+			disp = "block";
+		}
+		document.getElementById("counter" + i).style.display = disp;
+		rate[i] = numbers[i] /  365 / 24 / 60 / 60 / persecond;
+		counts[i] = 0;
+	}
+
+	if (intervalid != 0)
+		clearInterval(intervalid);
+
+	intervalid = setInterval("incrementcounter()", 1000 / persecond);
+}
+
+initcounter();
+</script>
+<!-- END Animal Kill Counter -->
+}*

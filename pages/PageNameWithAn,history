@@ -1,0 +1,44 @@
+
+----
+Sun Sep 30 21:32:04 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code .Sonderkündigung
+}*[[[break]]]to: *green {code .Sonderkuendigung
+}*
+----
+Sun Sep 30 21:31:50 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code Sonderkündigung.
+}*[[[break]]]to: *green {code .Sonderkündigung
+}*
+----
+Sun Sep 30 21:31:28 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code Sonderkündigung
+
+Ssdjahdjsadjksad
+}*[[[break]]]to: *green {code Sonderkündigung.
+}*
+----
+Sun Sep 30 21:29:50 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code test
+}*[[[break]]]to: *green {code Sonderkündigung
+
+Ssdjahdjsadjksad
+}*
+----
+Wed Sep 26 18:50:09 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code test
+}*

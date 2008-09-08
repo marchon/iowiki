@@ -1,0 +1,45 @@
+@article{Lindley:1981pb,
+	Author = {Lindley, D. V. and Novick, Melvin R.},
+	Journal = {The Annals of Statistics},
+	Number = {1},
+	Pages = {45--58},
+	Title = {The Role of Exchangeability in Inference},
+	Volume = {9},
+	Year = {1981}}
+
+
+Great paper.  Helpful more for expressing ideas about exchangeability and external validity, than randomisation.
+
+Main message: There is no unique anlysis of data---in order to make inferences you need to consider the unit you wish to make the inference about, and this requires consideration of exchangeability (or cause).
+
+This seems to sit very well with Patrick Suppes hierarchy of models.  And also the idea that there are two different statistical questions happening: what do the data say about an assumed model; and which model do the data support.
+
+Definition of exhangeability, p.47: ``A number n of units is termed exchangeable in X if the joint probability distribution p(X1, X2, X3 ... Xn) is invariant under permuation of the units.  A further unit is exhcangeable in X with the set if all (n +1) units are so exchangeable.
+
+What work is permutation doing here?  I assume that the joint probability distribution remains regardless of how you put together the units.
+
+---> *fawn Usually, exchangeability is defined as follows: a sequence is exchangeable if it doesn't matter what order the members of the sequence happen in.  Typical example: a sequence of coin tosses.  Does that make more sense?  The problem with that definition is that it's tied to temporal sequences, which is unnecessarily restrictive.
+
+---> De Finetti defined it like this: things ``are said to be exchangeable if they play a symmetrical role with respect to every problem of probability''.  I like that a lot, although Alan Hájek says it's ``hopelessly vague'' and I suppose he's right.
+
+---> I define it like this: Two or more observation opportunities are exchangeable iff we have the same information about them; and two or more observation outcomes A and B are exchangeable iff it does us no good, either before or after the fact, to distinguish between the outcome sequences <A, B> and <B, A>.  Exchangeability for events means one or the other of these according to context.  In all cases, assignments of exchangeability, when properly made, are relative to some specified purpose.
+
+---> Take your pick! .Jason*
+
+A link between exchangeability and Fisher's use of `population' and `subpopulation' is made, see p.47
+
+p.51: ``The contrast between the medical and agricultural examples shows that there can be no unique method of analysing the data of Table 2 [Simpson's Paradox].  The inferences in the two cases are completely different: not-T is better in the medical, T in the agricultural, case.  Our argument is that the reason for the difference, and hence the choice of the appropriate analysis, can easily be appreciated using the notion of exchangeability, or equivalently that of subpopulations,  Another advantage carefully discussed by Rubin (1978) , is that the Bayesian argumetnt is consderably simplified with the treatment allocation is performed using a random ..mechanism.''
+
+p.53: ``The second point leads on from this, many sciences are observation and not experimental; sociology, for example.  In these cases factors cannot always be selected in such a way that You expect no ..confounding.''
+
+But you can't get this assurance in controlled studies either (unknown confounders)!!
+
+Same para p.53: ``Observational materials are themselves inadequate in situations like this; some judgement of exchangeability is essential in such cases.  The possibility of stronger judgement of exchangeability in the case of designed experiments as against observational data is one way of accounting for the sueriority of the former type of data collection over the ..later.''
+
+This raises some questions.  Does designed = randomised (I assume not). *fawn [I assume not too.]* Does this assume complete knowledge of the causal processes at play (I assume so---or, one would have to emphasise the `possibility' of stronger judgement of exchangeability). *fawn [I don't think so.  I think he's just agreeing with your arguments about randomisation and similar arguments for the superiority of designed experiments.]*
+
+p.56: ``Once it is recognised that inference involves the passage from a data set to a new unit, it is clear that there is no unique analysis of a data set; for it is possible to imagine two units, linked in quite different manners, to the set.  Thus the data of Table 3, supposed from a city, might be applied in one way (joint exchangeability of disease and test result) to another person from the same city; but otherwise (exchangeability in test result given D) for someone form a different ..environment.''
+
+also p.56: ``In our experience, it is generally fairly easy to make the appropriate judgements of exchangeability, or to recognise the relevant populations.  Sometimes it is necessary to include other variables, for example, true score in the education example of s6.  A useful guide is the notion of causality, of which another useful guide is the temporal order: Varietal choice later produces highet and yield, but sex and treatment later effect recovery.  The imortant point to recognise is that exchangeability is a judgement by You, not a property of the external world.  In this view, causation is a reflection of our judgement about the world and not a truth about it.  In the present state of knowledge we many say smoking cuases lung cancer, yet later we may revise this to say that a genetic factor causes ..both.''
+
+Strange notion of causality.  Seems a slide here from fallibility to scepticism wrt cause.  The fact we may later (on the basis of better data) revise a causal process is NOT an argument agianst the external reality of that cause. *fawn [I agree.  It's not a good argument.  But I think it's a good conclusion anyway.  It's not so much scepticism as perspectivalism.  See http://www.usyd.edu.au/time/price/preprints/CausalPerspectivalism.pdf ]* 

@@ -1,0 +1,66 @@
+
+----
+Tue Dec 11 22:17:14 EST 2007
+
+
+
+[[[break]]]added at line 33: *lime {code 
+----
+
+from draft book:
+
+Any theory of statistical inference can be made objective by revising it so that what were subjective choices become determinate.  A slight modification of Jeffreys's theory, for example, can be seen as an objectification of Subjective Bayesianism: the decisions about prior probability distributions which a Subjective Bayesian makes subjectively a neo-Jeffreys Bayesian can make by using one of the priors which Jeffreys specifies (see \bayesianism).\fn{This is not what Jeffreys's theory actually is:~his theory is meant to prescribe prior probabilities only in cases in which the agent doing the analysis is actually ignorant about the parameters in question.  Also, it would be a misreading of history to think of Jeffreys as attempting to make Subjective Bayesianism more objective, at least initially, since early versions of his theory predate any statement of Subjective Bayesianism, as far as I can tell.  But we need not worry about Jeffreys's actual theory for the moment.  All I am doing is borrowing his mathematics in order to devise a Bayesian theory which is completely objective in the sense I am currently dealing with --- the sense of not allowing any subjectivity in its {\it application\/}.\interfnskip}
+
+Of course there is something wrong with making a subjective theory objective by modifying it in an arbitrary way.  I imagine everyone agrees that there is no virtue in doing so.  Or rather, there is no {\it epistemic\/} virtue.  There is a very great pragmatic virtue in doing so when otherwise the choices allowed by the subjective theory will be used in a pernicious way.  For example, one might argue that a legal system (or an electoral system) in which arbitrary choices are enforced by a constitution is better than one in which arbitrary choices are made by individuals, on the hoof.  This point is under-emphasised by those Bayesians who denigrate Frequentist theory as being just as subjective as Bayesian theory \cite[\p.12 \& passim]{Howson1993}.  In this one important respect Frequentist theories are more objective than Subjective Bayesianism.\fn{For example, by making the significance level required to reject a hypothesis always 5\%, the form of Neyman's theory which has become standard in biomedicine has stopped experimenters from using the arbitrariness of that cut-off to reject any hypotheses they happen not to like.  Similarly, although Neyman's theory of confidence intervals does not adequately {\it justify\/} any particular choice of interval from among the infinite number with a given coverage probability, the arbitrary rules which he and Pearson and their successors have developed for choosing confidence intervals almost always prevent a statistician from making a {\it personal\/} decision about which interval to quote.  As a result, a drug company statistician and a public health advocate will virtually always agree on the correct application of this part of the theory; and this has the very beneficial effect of leaving them time to argue about more important matters such as whether the drug company's analysis is being interpreted correctly, is being advertised in misleading and illegal ways, is being ignored in the company's Third World marketing policy, and so on.  
+}*
+----
+Thu Dec  6 17:34:35 EST 2007
+
+
+
+[[[break]]]added at line 29: *lime {code 
+----
+
+See http://ba.stat.cmu.edu/vol01is03.php on Objective Bayesianism.
+}*
+----
+Wed Aug  2 03:16:52 EDT 2006
+
+
+
+[[[break]]]added at line 24: *lime {code # Conclusion
+
+Frequentists have benefitted from the fact that finding a theory which scientists can use to make (token) non-arbitrary inferences does not require finding a (type) non-arbitrary theory of inference.
+
+}*
+----
+Mon Jul 24 22:03:46 EDT 2006
+
+
+
+[[[break]]]added at line 0: *lime {code #Abstract
+
+Supporters of Bayesian statistical inference have (almost) always vociferously denied that Bayesianism is any less objective than its rivals, notably so-called Neyman-Pearson Frequentism.  I evaluate their arguments, and find that they are right to charge that
+
+\item{1.}Frequentism requires many arbitrary choices to be made by the statistical analyst, and
+
+\item{2.}consequently, Frequentism is at least in the same ballpark of subjectivity as Bayesianism.
+
+Why then do applied scientists continue to imagine that Bayesianism is considerably more subjective than Frequentism?
+
+I believe there is one good reason for this (along with many bad reasons, which I do not consider here [for more details on those, see forthcoming book]).  It is that applied scientists' arbitrary rules for conducting Frequentist inference have been codified into a form  which the statistical community does not allow to be varied analysis by analysis.  An important result of this is that (almost) no subjectivity is applied in the {\it application\/} of these procedures, even though the procedures themselves contain many subjectively-chosen elements.
+
+The fact that very little subjectivity enters into the {\it application\/} of Frequentist procedures gives them an enormous, and real, advantage over most orthodox Bayesian procedures, especially in situations of conflict, most notably (a) the testing of commercial claims and (b) legal proceedings.  Such advantages have always appeared to Bayesians to be illusory --- the advantages of graft over honest toil, to borrow from Russell.  I argue that even though they are in some ways intellectually disreputable, these advantages are nevertheless real.
+
+Up to this point, my argument amounts to a prima facie case in favour of using Frequentist rather than Bayesian methods \dots\ or, at least, rather than orthodox, subjectivist Bayesian methods.  However, there is no reason why Bayesians cannot avail themselves of the same advantages, simply by moving arbitrary (and apparently arbitrary) elements of their procedures from the analysis-of-data stage into the very definitions of their procedures.
+
+I discuss two existing systems of inference, due to Jeffreys and Jaynes, which have done precisely this.  I argue that they suffer from (perhaps relatively minor) deficiencies.  I propose a system which fixes those deficiencies.  My proposed system has all the objectivity of Frequentism and some (although, necessarily, not all) of the many advantages of orthodox Bayesianism.
+
+----
+
+In a moment, I will briefly summarise a number of famous and compelling arguments for preferring Bayesian statistical inference to Frequentist statistical inference.  Despite these arguments, Frequentism is by far the dominant methodology in current science.
+
+[fill in from book manuscript]
+
+JasonGrossman
+}*

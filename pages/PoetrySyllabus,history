@@ -1,0 +1,246 @@
+
+----
+Fri Feb  1 12:41:42 EST 2008
+
+
+
+[[[break]]]changed line 1 from: *orange {code Poetry of the Universe, 2008
+Dayal Wickramasinghe and Jason Grossman
+
+# handbook description
+This course aims to provide a conceptual understanding of some of the many faces of the large-scale universe.
+
+We will discuss general issues relating to the nature of mathematics and science, space and time, and the universe as a whole.
+
+The main topics of the course are: the overall structure of the observable universe; space and time; relativity; black holes; phenomena and reality; anthropic principles; and extraterrestrial life.  Each topic will be introduced in a historical context emphasising how it has evolved over time and is still evolving.
+
+# Assessment: MATH1007
+600-word essay (week 7): 20%
+600-word essay (week 12): 20%
+final exam: 40%
+tutorial participation: 20%
+
+# Assessment: PHIL2058
+600-word essay (week 7): 20%
+600-word essay (week 12): 20%
+3000-word essay (week 14): 40%
+tutorial participation: 20%
+
+# Lectures 
+1.1 Overview (DW)
+2.1 History of Astronomy I: The Music of the Spheres (DW)
+2.2 History of Astronomy II: The Copernican Revolution (DW)
+3.1 The Large Scale Structure of the Universe (DW)
+3.2 Methods of Science (JG)
+4.1 Large Numbers; Real Numbers; Measurement of Spacetime (JG)
+4.2 Relativity Before Einstein (DW)
+5.1 Curved Spaces (+ Light Cones) (DW)
+5.2 Relativity According to Einstein (DW)
+6.1 Time Travel (JG)
+6.2 The Arrow of Time (DW)
+6.3 The Direction of Time (JG)
+7.1 Quantum Theory: Schrödinger's Cat (JG)
+7.2 Quantum Theory: Many Interpretations (JG)
+7.3 Causality I: Causality in Fundamental Physics (JG)
+7.4 Causatily II: Causal Perspectivalism (JG)
+8.1 Toward the Big Bang (DW)
+8.2 Black Holes (DW)
+9.1 Phenomena and Reality I (JG)
+9.2 Anthropic Principles and Multiverses (DW)
+9.3 Phenomena and Reality II (JG)
+10.1 Life in the Universe I: SETI and SETD (JG)
+10.2 Life in the Universe II: weird life (JG)
+10.3 Life in the Universe III: panspermia (DW)
+
+(DW: 12; JG: 12)
+
+}*[[[break]]]to: *green {code See Poetry-Syllabus
+}*
+----
+Wed Jan 30 17:57:59 EST 2008
+
+
+
+[[[break]]]changed line 33 from: *orange {code 6.1 The Arrow of Time (DW)
+6.2 The Direction of Time (JG)
+6.3 Time Travel (JG)
+}*[[[break]]]to: *green {code 6.1 Time Travel (JG)
+6.2 The Arrow of Time (DW)
+6.3 The Direction of Time (JG)
+}*
+----
+Wed Jan 30 17:56:58 EST 2008
+
+
+
+[[[break]]]changed line 24 from: *orange {code 1.1 Overview (JG)
+1.2 Structure of the Universe (DW)
+}*[[[break]]]to: *green {code 1.1 Overview (DW)
+}*[[[break]]]changed line 34 from: *orange {code 6.1 Motion in Spacetime: Paradoxes (JG)
+6.2 Time and Change (JG)
+7.1 The Arrow of Time (DW)
+7.2 The Direction of Time (JG)
+8.1 Quantum Theory (JG)
+8.2 Causality (JG)
+9.1 Toward the Big Bang (DW)
+9.2 Black Holes (DW)
+10.1 Phenomena and Reality I (JG)
+10.2 Anthropic Principles and Multiverses (DW)
+11.1 Phenomena and Reality II (JG)
+11.2 Life in the Universe I: SETI and SETD (JG)
+12.1 Life in the Universe II: weird life (JG)
+12.2 Life in the Universe III: panspermia (DW)
+}*[[[break]]]to: *green {code 6.1 The Arrow of Time (DW)
+6.2 The Direction of Time (JG)
+6.3 Time Travel (JG)
+7.1 Quantum Theory: Schrödinger's Cat (JG)
+7.2 Quantum Theory: Many Interpretations (JG)
+7.3 Causality I: Causality in Fundamental Physics (JG)
+7.4 Causatily II: Causal Perspectivalism (JG)
+8.1 Toward the Big Bang (DW)
+8.2 Black Holes (DW)
+9.1 Phenomena and Reality I (JG)
+9.2 Anthropic Principles and Multiverses (DW)
+9.3 Phenomena and Reality II (JG)
+10.1 Life in the Universe I: SETI and SETD (JG)
+10.2 Life in the Universe II: weird life (JG)
+10.3 Life in the Universe III: panspermia (DW)
+}*
+----
+Fri Aug 31 08:42:16 EST 2007
+
+
+
+[[[break]]]changed line 2 from: *orange {code Dayal Wickramasinge and Jason Grossman
+}*[[[break]]]to: *green {code Dayal Wickramasinghe and Jason Grossman
+}*
+----
+Fri Aug 31 08:29:20 EST 2007
+
+
+
+[[[break]]]changed line 30 from: *orange {code 4.1 Large Numbers; Measurement of Spacetime; Real Numbers (JG)
+}*[[[break]]]to: *green {code 4.1 Large Numbers; Real Numbers; Measurement of Spacetime (JG)
+}*
+----
+Tue Aug 28 16:21:22 EST 2007
+
+
+
+[[[break]]]changed line 14 from: *orange {code final exam: 45%
+tutorial participation: 15%
+}*[[[break]]]to: *green {code final exam: 40%
+tutorial participation: 20%
+}*[[[break]]]changed line 20 from: *orange {code 3000-word essay (week 14): 45%
+tutorial participation: 15%
+}*[[[break]]]to: *green {code 3000-word essay (week 14): 40%
+tutorial participation: 20%
+}*[[[break]]]changed line 24 from: *orange {code 1.1 Overview (DW)
+2.1 Structure of the Universe (DW)
+[Dayal: not sure whether I understand my notes here: it looks from my notes as if you _might_ have wanted to merge your overview lecture with the structure of the universe one, but I think probably I'm misreading it]
+- can I add a lecture somewhere around here on understanding large numbers?  I can teach it if you like.  Jason
+2.3 History of Astronomy I: The Music of the Spheres (DW)
+2.4 History of Astronomy II: The Copernican Revolution (DW)
+2.5 Methods of Science (JG) [I've moved this to later than it was, because I'd like to use what you've talked about in the history of astronomy as a case study: OK?]
+3.1 Measurement of Spacetime; Real Numbers (JG)
+3.2 Continuity and Motion (JG; or could be guest lecture on Zeno's paradoxes)
+3.3 Absolute and Relative Space and Motion; Handedness of Space (JG)
+4.1 Relativity Before Einstein (DW)
+4.2 Curved Spaces (+ Light Cones) (DW)
+4.3 Relativity According to Einstein (DW)
+4.4 Motion in Spacetime: Paradoxes (JG)
+4.5 Time and Change (JG)
+5.1 The Arrow of Time (DW)
+5.2 The Direction of Time (JG)
+5.3 Causality (JG)
+6.1 Toward the Big Bang (DW)
+6.2 Black Holes (DW)
+7.1 Phenomena and Reality I (JG)
+8.1 Anthropic Principles and Multiverses (DW)
+7.2 Phenomena and Reality II (JG)
+9.1 Life in the Universe I: SETI and SETD (JG)
+9.2 Life in the Universe II: weird life (JG)
+9.3 Life in the Universe III: panspermia (DW)
+}*[[[break]]]to: *green {code 1.1 Overview (JG)
+1.2 Structure of the Universe (DW)
+2.1 History of Astronomy I: The Music of the Spheres (DW)
+2.2 History of Astronomy II: The Copernican Revolution (DW)
+3.1 The Large Scale Structure of the Universe (DW)
+3.2 Methods of Science (JG)
+4.1 Large Numbers; Measurement of Spacetime; Real Numbers (JG)
+4.2 Relativity Before Einstein (DW)
+5.1 Curved Spaces (+ Light Cones) (DW)
+5.2 Relativity According to Einstein (DW)
+6.1 Motion in Spacetime: Paradoxes (JG)
+6.2 Time and Change (JG)
+7.1 The Arrow of Time (DW)
+7.2 The Direction of Time (JG)
+8.1 Quantum Theory (JG)
+8.2 Causality (JG)
+9.1 Toward the Big Bang (DW)
+9.2 Black Holes (DW)
+10.1 Phenomena and Reality I (JG)
+10.2 Anthropic Principles and Multiverses (DW)
+11.1 Phenomena and Reality II (JG)
+11.2 Life in the Universe I: SETI and SETD (JG)
+12.1 Life in the Universe II: weird life (JG)
+12.2 Life in the Universe III: panspermia (DW)
+}*
+----
+Tue Aug 28 16:14:14 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code Poetry of the Universe, 2008
+Dayal Wickramasinge and Jason Grossman
+
+# handbook description
+This course aims to provide a conceptual understanding of some of the many faces of the large-scale universe.
+
+We will discuss general issues relating to the nature of mathematics and science, space and time, and the universe as a whole.
+
+The main topics of the course are: the overall structure of the observable universe; space and time; relativity; black holes; phenomena and reality; anthropic principles; and extraterrestrial life.  Each topic will be introduced in a historical context emphasising how it has evolved over time and is still evolving.
+
+# Assessment: MATH1007
+600-word essay (week 7): 20%
+600-word essay (week 12): 20%
+final exam: 45%
+tutorial participation: 15%
+
+# Assessment: PHIL2058
+600-word essay (week 7): 20%
+600-word essay (week 12): 20%
+3000-word essay (week 14): 45%
+tutorial participation: 15%
+
+# Lectures
+1.1 Overview (DW)
+2.1 Structure of the Universe (DW)
+[Dayal: not sure whether I understand my notes here: it looks from my notes as if you _might_ have wanted to merge your overview lecture with the structure of the universe one, but I think probably I'm misreading it]
+- can I add a lecture somewhere around here on understanding large numbers?  I can teach it if you like.  Jason
+2.3 History of Astronomy I: The Music of the Spheres (DW)
+2.4 History of Astronomy II: The Copernican Revolution (DW)
+2.5 Methods of Science (JG) [I've moved this to later than it was, because I'd like to use what you've talked about in the history of astronomy as a case study: OK?]
+3.1 Measurement of Spacetime; Real Numbers (JG)
+3.2 Continuity and Motion (JG; or could be guest lecture on Zeno's paradoxes)
+3.3 Absolute and Relative Space and Motion; Handedness of Space (JG)
+4.1 Relativity Before Einstein (DW)
+4.2 Curved Spaces (+ Light Cones) (DW)
+4.3 Relativity According to Einstein (DW)
+4.4 Motion in Spacetime: Paradoxes (JG)
+4.5 Time and Change (JG)
+5.1 The Arrow of Time (DW)
+5.2 The Direction of Time (JG)
+5.3 Causality (JG)
+6.1 Toward the Big Bang (DW)
+6.2 Black Holes (DW)
+7.1 Phenomena and Reality I (JG)
+8.1 Anthropic Principles and Multiverses (DW)
+7.2 Phenomena and Reality II (JG)
+9.1 Life in the Universe I: SETI and SETD (JG)
+9.2 Life in the Universe II: weird life (JG)
+9.3 Life in the Universe III: panspermia (DW)
+
+(DW: 12; JG: 12)
+
+}*

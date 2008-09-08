@@ -1,0 +1,1 @@
+IoWiki doesn't yet work properly with the lynx %0d%0aweb browser.  I don't know why not.  %0d%0aJason%0d%0a%0d%0aThis, for example, is a line %0d%0aadded in lynx. %0d%0aIt seems to work better but still not quite right %0d%0awith the links browser.%0d%0a%0d%0a%0d%0aThis is a new line added in an *external editor* launched from lynx.  This doesn't work either.  :--(

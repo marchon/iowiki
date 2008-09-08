@@ -1,0 +1,200 @@
+
+----
+Tue Dec 26 16:37:36 EST 2006
+
+
+
+[[[break]]]added at line 3: *lime {code - "Frege and the Philosophy of Mathematics" - Michael D. Resnik 
+
+- Phil David: paper on separoids in _Annals of Mathematics in Artificial Intelligence_ 2001
+- Recanti ``Literal Meaning''
+- Motterlini ``For and Against Method'' (read at home?)
+}*
+----
+Tue Dec 26 16:36:59 EST 2006
+
+
+
+[[[break]]]added at line 2: *lime {code - The Gadfly
+
+}*
+----
+Tue Dec 26 16:02:40 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code -Weatherson, B., “From Classical to Intuitionistic Probability”, Notre Dame --- Journal of Formal Logic (2003); 44(2); 111-123 --- (recommended by Aidan)
+}*[[[break]]]to: *green {code See also bibliography, of course.
+
+- Weatherson, B., “From Classical to Intuitionistic Probability”, Notre Dame --- Journal of Formal Logic (2003); 44(2); 111-123 --- (recommended by Aidan)
+}*
+----
+Thu Dec  8 12:12:21 EST 2005
+
+
+
+[[[break]]]added at line 12: *lime {code 
+----
+
+	From: 	  kfs12@attglobal.net
+	Subject: 	Re: P.S. Re: Bias is OK
+	Date: 	8 December 2005 10:55:25 am GMT+11:00
+	To: 	  Jason.Grossman@staff.usyd.edu.au
+	Reply-To: 	  kfs12@vzavenue.net
+
+Here is an unusual source for EBM articles. Eddy's might be worth a read for
+methodology, others may be of interest:
+
+David M. Eddy
+Evidence-Based Medicine: A Unified Approach
+Health Affairs, January/February 2005; 24(1): 9-17. [Abstract] [Full Text]
+[PDF] [Supplemental Bibliography]
+Stefan Timmermans and Aaron Mauck
+The Promises And Pitfalls Of Evidence-Based Medicine
+Health Affairs, January/February 2005; 24(1): 18-28. [Abstract] [Full Text]
+[PDF]
+
+Annetine C. Gelijns, Lawrence D. Brown, Corey Magnell, Elettra Ronchi, and
+Alan J. Moskowitz
+Evidence, Politics, And Technological Change
+Health Affairs, January/February 2005; 24(1): 29-40. [Abstract] [Full Text]
+[Figures Only] [PDF] [Erratum]
+
+Mark A. Hlatky, Gillian D. Sanders, and Douglas K. Owens
+Evidence-Based Medicine And Policy: The Case Of The Implantable Cardioverter
+Defibrillator
+Health Affairs, January/February 2005; 24(1): 42-51. [Abstract] [Full Text]
+[PDF]
+
+Marshall S. Stanton
+Implantable Cardioverter Defibrillators: An Excellent Case Study
+Health Affairs, January/February 2005; 24(1): 52-54. [Abstract] [Full Text]
+[PDF]
+
+Scott D. Ramsey and Sean D. Sullivan
+Evidence, Economics, And Emphysema: Medicare's Long Journey With Lung Volume
+Reduction Surgery
+Health Affairs, January/February 2005; 24(1): 55-66. [Abstract] [Full Text]
+[PDF]
+
+Thomas R. Fleming
+Surrogate Endpoints And FDA's Accelerated Approval Process
+Health Affairs, January/February 2005; 24(1): 67-78. [Abstract] [Full Text]
+[Figures Only] [PDF]
+
+Earl P. Steinberg and Bryan R. Luce
+Evidence Based? Caveat Emptor!
+Health Affairs, January/February 2005; 24(1): 80-92. [Abstract] [Full Text]
+[PDF]
+
+Karl Claxton, Joshua T. Cohen, and Peter J. Neumann
+When Is Evidence Sufficient?
+Health Affairs, January/February 2005; 24(1): 93-101. [Abstract] [Full Text]
+[PDF]
+
+
+
+--Ken
+
+----- Original Message ----- 
+From: "Jason Grossman" <Jason.Grossman@staff.usyd.edu.au>
+To: "Kenneth F. Schaffner" <kfs12@vzavenue.net>
+Sent: Tuesday, December 06, 2005 9:08 PM
+Subject: Re: P.S. Re: Bias is OK
+
+
+Thank you.
+
+Jason
+
+
+
+}*
+----
+Wed Dec  7 12:02:19 EST 2005
+
+
+
+[[[break]]]added at line 2: *lime {code - 
+@article{D.L.Sackett:1979,
+	Author = {D.~L.~Sackett},
+	Journal = {Journal of Chronic Disease},
+	Title = {Bias in analytic research},
+	Volume = {32},
+	Year = {1979}}
+
+
+}*
+----
+Fri Dec  2 17:46:29 EST 2005
+
+
+
+[[[break]]]deleted at line 4: *red {code 
+-Berry DA, Hochberg Y. Bayesian perspectives on multiple comparisons. Journal of Statistical Planning and Inference 1999; 82:215-277.
+
+-Toward Evidence-Based Medical Statistics. 2: The Bayes Factor
+Goodman Ann Intern Med.1999; 130: 1005-1013. 
+
+-Standing Statistics Right Side Up
+Davidoff Ann Intern Med.1999; 130: 1019-1021. 
+
+-Toward Evidence-Based Statistics
+Caubet Ann Intern Med.2000; 132: 507-508. 
+
+-Toward Evidence-Based Statistics
+Morgan Ann Intern Med.2000; 132: 507
+}*
+----
+Fri Dec  2 17:33:53 EST 2005
+
+
+
+[[[break]]]added at line 5: *lime {code 
+-Toward Evidence-Based Medical Statistics. 2: The Bayes Factor
+Goodman Ann Intern Med.1999; 130: 1005-1013. 
+
+-Standing Statistics Right Side Up
+Davidoff Ann Intern Med.1999; 130: 1019-1021. 
+
+-Toward Evidence-Based Statistics
+Caubet Ann Intern Med.2000; 132: 507-508. 
+
+-Toward Evidence-Based Statistics
+Morgan Ann Intern Med.2000; 132: 507
+}*
+----
+Fri Dec  2 17:19:15 EST 2005
+
+
+
+[[[break]]]added at line 3: *lime {code 
+-Berry DA, Hochberg Y. Bayesian perspectives on multiple comparisons. Journal of Statistical Planning and Inference 1999; 82:215-277.
+}*
+----
+Fri Dec  2 16:23:47 EST 2005
+
+
+
+[[[break]]]changed line 1 from: *orange {code Weatherson, B., “From Classical to Intuitionistic Probability”, Notre Dame 
+Journal of Formal Logic (2003); 44(2); 111-123
+(recommended by Aidan)
+}*[[[break]]]to: *green {code -Weatherson, B., “From Classical to Intuitionistic Probability”, Notre Dame --- Journal of Formal Logic (2003); 44(2); 111-123 --- (recommended by Aidan)
+}*[[[break]]]changed line 5 from: *orange {code -TI: PROBABILITY, SYMMETRY AND FREQUENCY. 
+AU: DAWID,-A-P 
+SO: British-Journal-for-the-Philosophy-of-Science. JE 85; 36: 107-128 
+}*[[[break]]]to: *green {code -TI: PROBABILITY, SYMMETRY AND FREQUENCY. --- AU: DAWID,-A-P --- SO: British-Journal-for-the-Philosophy-of-Science. JE 85; 36: 107-128 
+}*
+----
+Fri Dec  2 16:23:03 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code Weatherson, B., “From Classical to Intuitionistic Probability”, Notre Dame 
+Journal of Formal Logic (2003); 44(2); 111-123
+(recommended by Aidan)
+
+-TI: PROBABILITY, SYMMETRY AND FREQUENCY. 
+AU: DAWID,-A-P 
+SO: British-Journal-for-the-Philosophy-of-Science. JE 85; 36: 107-128 
+}*

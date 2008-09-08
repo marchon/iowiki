@@ -1,0 +1,59 @@
+
+----
+Wed Sep 12 23:56:57 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code - money
+}*[[[break]]]to: *green {code - money (or borrowing capacity)
+}*
+----
+Mon Sep 10 19:12:10 EST 2007
+
+
+
+[[[break]]]changed line 6 from: *orange {code Of course, a PhD doesn't need to convert to an *academic* job - there are other paths to travel, depending on your other qualities.
+}*[[[break]]]to: *green {code Of course, a PhD doesn't need to convert to an *academic* job --- there are other paths to travel, depending on your other qualities.
+}*
+----
+Mon Sep 10 19:02:08 EST 2007
+
+
+
+[[[break]]]changed line 6 from: *orange {code A PhD doesn't need to convert to an academic job - there are other paths to travel, depending on your other qualities.
+}*[[[break]]]to: *green {code Of course, a PhD doesn't need to convert to an *academic* job - there are other paths to travel, depending on your other qualities.
+}*[[[break]]]changed line 8 from: *orange {code Of course, for some jobs a PhD is of negative value.
+
+email me: google for Colin Wright Juggling Maths and see what you find.
+}*[[[break]]]to: *green {code On the other hand, for some jobs a PhD is actually of negative value.
+}*
+----
+Mon Sep 10 00:11:00 EST 2007
+
+
+
+[[[break]]]added at line 4: *lime {code 
+A PhD doesn't need to convert to an academic job - there are other paths to travel, depending on your other qualities.
+
+Of course, for some jobs a PhD is of negative value.
+
+email me: google for Colin Wright Juggling Maths and see what you find.
+}*
+----
+Sun Sep  9 11:43:01 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code In order to turn a PhD into a job, you need:
+}*[[[break]]]to: *green {code In order to turn a PhD into an academic job, you need:
+}*
+----
+Fri Sep 22 11:58:40 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code In order to turn a PhD into a job, you need:
+- luck
+- money
+- a strong ego
+}*

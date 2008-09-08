@@ -1,0 +1,84 @@
+
+----
+2008-08-06 23:09:33 EST
+
+
+
+[[[break]]]changed line 1 from: *orange {code You can get an RSS feed for this site at http://xeny.net/page?action=rss.
+
+See RssFeeds.
+}*[[[break]]]to: *green {code You can get RSS feeds for this site at RssFeeds.
+}*
+----
+2008-08-06 23:09:04 EST
+
+
+
+
+----
+2008-08-06 23:08:47 EST
+
+
+
+[[[break]]]changed line 3 from: *orange {code See RSS
+}*[[[break]]]to: *green {code See RSSFeeds.
+}*
+----
+2008-08-06 23:08:30 EST
+
+
+
+[[[break]]]changed line 3 from: *orange {code At the moment, it's pretty pathetic.  I'm not sure it's even working.  One day, it will tell you about pages which have changed recently, but it will count all changes within the last <something> hours as a single change.
+}*[[[break]]]to: *green {code See RSS
+}*
+----
+2008-05-15 06:25:14 EST
+
+
+
+[[[break]]]changed line 3 from: *orange {code At the moment, it's pretty pathetic.   One day, it will tell you about pages which have changed recently, but it will count all changes within the last <something> hours as a single change.
+}*[[[break]]]to: *green {code At the moment, it's pretty pathetic.  I'm not sure it's even working.  One day, it will tell you about pages which have changed recently, but it will count all changes within the last <something> hours as a single change.
+}*
+----
+Thu Dec  6 17:59:32 EST 2007
+
+
+
+
+----
+Thu Dec  6 17:59:15 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code At the moment, all it tells you is when new pages are created.  It doesn't tell you what's on them or anything.  It's pretty pathetic.  One day, it will tell you about pages which have changed recently, but it will count all changes within the last <something> hours as a single change.
+}*[[[break]]]to: *green {code At the moment, it's pretty pathetic.  One day, it will tell you about pages which have changed recently, but it will count all changes within the last <something> hours as a single change.
+}*
+----
+Sun Sep 23 20:15:44 EST 2007
+
+
+
+[[[break]]]deleted at line 6: *red {code 
+.Jason
+}*
+----
+Sun Sep 23 20:14:14 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code At the moment, all it tells you is when new pages are created.  One day, it will tell you about pages which have changed recently, but it will count all changes within the last <something> hours as a single change.
+}*[[[break]]]to: *green {code At the moment, all it tells you is when new pages are created.  It doesn't tell you what's on them or anything.  It's pretty pathetic.  One day, it will tell you about pages which have changed recently, but it will count all changes within the last <something> hours as a single change.
+}*
+----
+Sun Sep 23 20:11:31 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code You can get an RSS feed for this site at http://xeny.net/page?action=rss.
+
+At the moment, all it tells you is when new pages are created.  One day, it will tell you about pages which have changed recently, but it will count all changes within the last <something> hours as a single change.
+
+See http://en.wikipedia.org/wiki/Rss if you don't know what an RSS feed is.
+
+.Jason
+}*

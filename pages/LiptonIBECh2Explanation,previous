@@ -1,0 +1,46 @@
+----
+*Summary*
+
+Similarly to the problems associated with inductive inference in the previous chapter, we again run into issues to do with justification and description of our explanations.
+
+_Justification_
+- Very difficult to give objective criteria via which the quality of an explanation can be assessed.
+- However, we certainly don't face a sort of infinite regress of why questions (in which our explanations are themselves in need of explanation and so on) as often one level is enough to provide a satisfactory explanation.
+-- e.g. crop failure can be explained by drought without drought also needing to be explained.
+
+_Description_
+Lipton gives 5 problematic accounts of explanation here with the aim of introducing a better one, the causal model, in the next chapter.
+
+-> i) "reason" - an explanation provides a reason to believe that a phenomenon occurs
+-- Runs into problem regarding ..self-evidencing explanations (i.e. where A explains B and B gives evidence for A): if explanation is the provision of reason(s), then self-evidencing explanations are circular.
+
+-> ii) "familiarity" - two versions: 
+-- 1. An explanation connects unfamilar phenomena with ones that are already familiar.
+--- Prob. re: how do we get "bedrock" familiar phenomena?
+--- Prob. re: how exactly does this "connection" work?
+-- 2. Unfamiliar => a tension with other beliefs, explanation removes this tension.
+--- Does not fit the situation in which we want to explain something that is already familiar.
+--- Prob re: explanations that involve other unfamiliar things.
+
+-> iii) "..deductive-nomological" - explain by deducing phenomena from premises including at least one necessary law.
+-- Prob re: scientific practice often fails to do this.
+-- Prob. re: doesn't account for explanatory asymmetry.
+-- Prob. re: inheritance of disjuntive inclusion and logical equivalence problems from the ..hypothetico-deductive inference model
+
+-> iv) "unification" - explain by unifying with other phenomena.
+-- Prob. re: gaining a clear understanding of unification.
+-- Prob re: interpreting causal explanations in a unifying way.
+
+-> v) "necessity" - explain by showing that phenomena had to occur.
+-- Prob. re: logical necessity is rarely used in scientific explanation and it is unclear how one may weaken the necessity requirement.
+-- Prob. re: doesn't account for all causal explanations.
+----
+*What do I think?*
+- Lipton makes a good point against Bandu's argument in this chapter: "the issue is not whether the explanation is true, but whether the truth really explains". p22
+- Is explanation our first step in hypothesis formulation?  And hence, the why-regress desire arises out of a need to put the potential hypothesis on a more rigorous footing (or at least to connect with other elements of our belief system).
+- Can one account for causal explanations under the unification model by treating a causal explanation as a unification in the sense that it incorporates the phenomena into the broader category of "caused things"?
+----
+
+Lipton.IBE
+
+ChrisWilcox

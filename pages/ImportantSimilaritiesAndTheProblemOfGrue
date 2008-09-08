@@ -1,0 +1,24 @@
+----
+In many different contexts it seems that we want to give an account of what are important or essential elements of some kind of similarity judgement and those that are not.  This sort of problem arises when thinking about induction (What are important regularities?), about universals and/or tropes (What are the essential qualities that make up individual and how are they combined?) and when thinking about the structure of concepts (At least on the prototype view - how do we determine sufficiency of conditions for the application of a concept?). 
+
+The problem(s) faced in all these cases seem to be well illustrated by Goodman's Grue paradox - there is a problem when one wants to move from dealing with particular instances to general accounts in trying to sort the wheat from the chaff (i.e. in trying to give an account of why the "important bits" are such).
+
+- Can the problems above be thought of as manifestations of Goodman's problem of induction (i.e. can they all be thought of as involving an inductive step)?
+- Perhaps it is not possible to give a clear account of why certain regularities are relevant to inductive reasoning and others are not.  Perhaps it is precisely in this selection of important regularities (possibly mediated by IBE) that creativity enters into scientific practice and allows for the creation of new theories?
+----
+
+ChrisWilcox
+
+I think you're right.  Well, that was easy to say.  What about the details?  Hm.
+
+Paul Teller has claimed that the grue problem can be solved (or at least fully described) by Bayesianism.  I don't think this quite works, but it's a bit plausible, and given the important link between Bayesianism and IBE you might want the citation:
+
+@article{Teller:1969,
+	Author = {Paul Teller},
+	Journal = {BJPS},
+	Pages = {219-238},
+	Title = {Goodman's Theory of Projection},
+	Volume = {20},
+	Year = {1969}}
+
+Jason

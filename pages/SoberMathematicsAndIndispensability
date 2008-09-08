@@ -1,0 +1,63 @@
+----
+*What is it?*
+
+A paper in which Sober puts forward his contrastive empiricism as a view that doe not have the ontological implications for mathematical entities that would result from acceptance of ..Quine-Putnam.
+
+*Where can it be found?*
+
+Sober, E.; Mathematics and Indispensability; The Philosophical Review, Vol. 102, No. 1, pp. 35 - 57. 
+
+*How does it fit in?*
+
+Obviously, it deals directly with the issue at hand.  In particular with the relation between the indispensability argument, the likelihood principle and empiricism.
+----
+*Summary*
+- indispensability argument as empirical argument for existence of math. entities
+
+_Van Fraassen_
+- Van Fraassen's challenge to IBE: the only scientific question is whether theories are empirically adequate *green where ``empirically adequate'' is a term of art meaning that they ALWAYS match observation, past, present and future*
+-- a kind of agnosticism: non judgement re: ..truth-value of statements involving unobservables
+-- hence all types of unobservable (math or sci) are treated equally by van Fraassen
+- committed to having another epistemic guide for theory choice other than LP (see below)
+
+_Contrastive Empiricism_
+- theories are not assessed in isolation, they are compared
+- Likelihood principle (LP): favouring iff P(O| H1) > P(O|H2), where O and observation and Hx a hypoth. ... *green Maybe this is what Sober says, but that's actually the Law of Likelihood, or something like it.  Jason*
+- *green The Likelihood Principle actually is (roughly): that inferences should depend on O only via P(O| Hi). Jason*
+-- hypoth. indispensable if it makes an impossible observation (under other models) possible
+-- thus degree of support for a theory is relative
+-- note: no implications re: unobservables, theories may involve them
+- can have situations in which no observation can distinguish between competing theories
+-- purely ..LP-based judgements must remain silent on theory choice here
+
+_Contrastive Empiricism & Indispensability_
+- indispensability => no observational difference possible as must be involved in all theories (they form part of the model of the experiment)
+-- this cannot be empirically tested under contrastive empiricism
+- do we really have alternate hypotheses to those of arithmetic?
+- note that there are competing hypotheses in the case of genes or quarks
+-- distinction between a priori and a posteriori indispensability
+
+_Objections_
+- aren't we testing things like 2+2=n?
+-- a false observation for n=4 would be treated as evidence for false background assumptions rather than support for ~(n=4)
+-- accordingly, we can't really caim inductive support from positive instances
+-- point here is that reasons for holding mathematcial beliefs are not purely empirical
+
+_Conclusions_
+- overall point is the doubt "that successful prediction provides a general grounding for the mathematics used in empirical science"
+- another interesting observation is that mathematics is also involved in many unsuccessful theories in much the same way that it is involved in successful ones
+-- do we doubt the mathematical parts of these theories?
+- Sober's fundamental point is that theories (or webs of belief) do not face the tribunal of experience in isolation but rather in competition with other theories/webs.
+-- hence which parts of the theories/webs have been tested by experience depends on how the competitors relate to each other
+- even if Sober's overall model is not accepted, he still argues that empirical considerations must be mediated by likelihoods (even if there are ..non-empirical criteria too)
+----
+*What do I think?*
+- I need to compare Duhem's thesis with Quine's confirmational holism.
+-- from a brief Wikipedia inspection it seems that Duhem's holism did no extend to math. entities/theories.
+- are there any standard responses to Sober's contrastive empiricism?
+-- perhaps in the form of alternatives to LP (although it seems quite plausible)?
+- if, as Field argues, one can reformulate our best scientific theories without the mathematical entities, can these then compete against the theories involving mathematics in such a way as to make mathematics a posteriori indispensable?
+-- highly doubtful, as the whole point of Field's attempt is to formulate theories not involving maths that are as good as those involving maths.  Presumably then, there would be no observational differences between the mathematical and the ..non-mathematical theories
+----
+
+ChrisWilcox

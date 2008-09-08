@@ -1,0 +1,27 @@
+emerge --oneshot --nodeps =sys-apps/coreutils-6.7-r1
+----
+after altering USE flags:
+
+{code
+emerge --update --deep --newuse world
+emerge --depclean
+revdep-rebuild
+}
+----
+when new config files need to be merged in:
+
+{code sudo dispatch-conf}
+----
+adding a new startup service:
+
+{code rc-update add pound default}
+
+--- lots more details at http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&chap=4
+
+----
+
+Do it all, minus one
+
+Jesse Adelman wrote into gentoo-user to ask how to be able to do an emerge -uDN world, but have portage not update one package. Jesse had a version of MythTV that had been removed from the tree that he wished to keep. However, the version in the tree was between a newer and older version, thus causing portage to want to downgrade if he simply put the newer version in package.mask. Vikas Kumar suggested the often forgotten /etc/portage/profile/package.provided. A package placed in this file will not be updated unless another package necessarily depends on a newer version. More information about package.provided is available in the portage man page. Developer Zac Medico suggested to instead simply mask the package versions that are both higher and lower than the version Jesse wanted to keep, which is the best solution. 
+
+----

@@ -1,0 +1,7 @@
+This page uses a template which makes it look a bit like Cloud Wiki.
+
+Cloud Wiki is a wiki written by Scott Dunlop (mailto:sdunlop@users.sourceforge.net) which has similar design principles to IoWiki.  It's more stable than IoWiki (less likely to crash), because it's written in a stable programming language, python, whereas IoWiki is written in an elegant but experimental programming language, Io.
+
+Cloud Wiki is more powerful than IoWiki, but still (deliberately) less powerful than big guns like PmWiki.  See http://cloudwiki.sourceforge.net for more details.
+
+JasonGrossman

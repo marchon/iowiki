@@ -1,0 +1,84 @@
+
+----
+2008-08-22 14:05:09 EST
+
+
+
+[[[break]]]changed line 9 from: *orange {code I'm not absolutely sure that these RSS feeds are working yet.  They were behaving very strangely when I first turned them on, but they seem to be OK now.  Jason
+}*[[[break]]]to: *green {code BUT ... These RSS feeds are not working properly yet :-(
+
+I will fix them eventually, but to fix them I may have to write an RSS server myself, in which case the addresses will change.  Jason
+}*
+----
+2008-08-12 21:54:30 EST
+
+
+
+[[[break]]]changed line 1 from: *orange {code RSS feeds are not working yet. :-(
+}*[[[break]]]to: *green {code You can get an RSS feed for recent changes to this site at http://feed43.com/xeny-net-recent-changes.xml.
+
+You can get a feed for my (Jason's) mini-blog at http://feed43.com/tumblelog.xml.
+
+Both feeds update every 6 hours. If you want to know what's going on on the site more frequently than that, use the RecentChanges page, which updates immediately whenever there's a change. (Well, _almost_ whenever there's a change. There are bugs.)
+
+In case you don't know, an RSS feed is an address you give to an RSS reader to let it keep you up to date with changes to a web page or web site. See http://en.wikipedia.org/wiki/Rss for more details. See http://en.wikipedia.org/wiki/List_of_feed_aggregators for a list of programs that can read RSS feeds.
+----
+I'm not absolutely sure that these RSS feeds are working yet.  They were behaving very strangely when I first turned them on, but they seem to be OK now.  Jason
+}*
+----
+2008-08-07 04:52:07 EST
+
+
+
+[[[break]]]changed line 1 from: *orange {code You can get an RSS feed for recent changes to this site at http://feed43.com/xeny-net-recent-changes.xml.
+
+You can get a feed for my (Jason's) mini-blog at http://feed43.com/tumblelog.xml.
+
+Both feeds update every 6 hours.  If you want to know what's going on on the site more frequently than that, use the RecentChanges page, which updates immediately whenever there's a change.  (Well, _almost_ whenever there's a change.  There are bugs.)
+
+In case you don't know, an RSS feed is an address you give to an RSS reader to let it keep you up to date with changes to a web page or web site.  See http://en.wikipedia.org/wiki/Rss for more details.  See http://en.wikipedia.org/wiki/List_of_feed_aggregators for a list of programs that can read RSS feeds.
+}*[[[break]]]to: *green {code RSS feeds are not working yet. :-(
+}*
+----
+2008-08-07 04:03:13 EST
+
+
+
+[[[break]]]changed line 5 from: *orange {code Both feeds update every 6 hours.  If you want to know what's going on on the site more frequently than that, use RecentChanges page, which updates immediately whenever there's a change.  (Well, almost whenever.  There are bugs.)
+}*[[[break]]]to: *green {code Both feeds update every 6 hours.  If you want to know what's going on on the site more frequently than that, use the RecentChanges page, which updates immediately whenever there's a change.  (Well, _almost_ whenever there's a change.  There are bugs.)
+}*
+----
+2008-08-07 04:02:33 EST
+
+
+
+[[[break]]]changed line 5 from: *orange {code Both feeds update every 6 hours.
+}*[[[break]]]to: *green {code Both feeds update every 6 hours.  If you want to know what's going on on the site more frequently than that, use RecentChanges page, which updates immediately whenever there's a change.  (Well, almost whenever.  There are bugs.)
+}*
+----
+2008-08-07 00:44:55 EST
+
+
+
+[[[break]]]changed line 7 from: *orange {code In case you don't know, an RSS feed is an address you give to an RSS reader to let it keep you up to date with changes to a web page or web site.  See http://en.wikipedia.org/wiki/Rss for more details.
+}*[[[break]]]to: *green {code In case you don't know, an RSS feed is an address you give to an RSS reader to let it keep you up to date with changes to a web page or web site.  See http://en.wikipedia.org/wiki/Rss for more details.  See http://en.wikipedia.org/wiki/List_of_feed_aggregators for a list of programs that can read RSS feeds.
+}*
+----
+2008-08-06 23:35:12 EST
+
+
+
+[[[break]]]added at line 4: *lime {code Both feeds update every 6 hours.
+
+}*
+----
+2008-08-06 23:12:18 EST
+
+
+
+[[[break]]]added at line 0: *lime {code You can get an RSS feed for recent changes to this site at http://feed43.com/xeny-net-recent-changes.xml.
+
+You can get a feed for my (Jason's) mini-blog at http://feed43.com/tumblelog.xml.
+
+In case you don't know, an RSS feed is an address you give to an RSS reader to let it keep you up to date with changes to a web page or web site.  See http://en.wikipedia.org/wiki/Rss for more details.
+}*

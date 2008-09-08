@@ -1,0 +1,53 @@
+----
+*What is it?*
+
+An attempt to explicate the relationship between inductive reasoning and the philosophical discourse regarding universals.
+
+Following on from a discussion regarding the role of universals in Hume's account of causation.  This, and the realisation that Hume's causation involves an inductive move from particular regularity observations to a general causal statement, led me to wonder about the relationship between the universals debate and a descriptive account of inductive reasoning.  Someone else has probably already pointed out the connection but I wanted to work through it myself anyway.
+
+*Some sources*
+
+Lipton - Inference to the best explanation
+-> Contains some detailed discussion of induction.
+Garrett - What is this thing called metaphysics?
+-> Source for general positions in the universals debate.
+Hume - An enquiry concerning human  understanding.
+-> Source for Hume's views.
+----
+*Induction*
+
+First let's try to give a fairly general account of inductive reasoning:
+- observe ..a.1 then ..b.1
+- observe ..a.2 then ..b.2
+- ...
+- observe ..a.n then ..b.n
+--> Therefore, always A then B.
+In the above account A and B must refer in some way to a similarity between elements of the sets _a_ = [..a.1, ... , ..a.n] and _b_ = [..b.1, ... , ..b.n] respectively.
+
+*Attributing Similarity*
+
+So we are in a situation in which we want to describe how we come to an understanding of the simmilarities in _a_ and _b_ that allow us to make the move to talking in terms of A and B.  For the sake of argument, I will assume here that the determination of these simmilarities is unproblematic (even though this may not necessarily be the case).
+
+What philosophical mechanisms could be employed to account for these simmilarities?  The possibilities are those put forward in the debate over the existence of universals.  This leads to the postulation of three main strategies:
+- i) One could account for the simmilarities by arguing that there are one or more universals instantiated in the elements of _a_ and _b_.
+- ii) One could argue along traditional nominalist lines (e.g. one could argue for a general class that would account for the simmilarities of _a_ and _b_).
+- iii) One could employ trope theory to argue that  the members of _a_ and _b_ are actually made up of bundles of abstract particulars and that the simmilarities between some of these bundles are linguistic rather than ontological.
+
+*Problems*
+
+The problems that arise for the above possibilities are just those that arise for them in more general discussions of the similarity problem.  Namely, the universals view can fall victim to criticism on the basis that it entails an ..infinite-regress of universals; the standard nominalist views seem to imply the existence of some other universal (e.g. ..class-membership); finally, the trope theory view fails to give a coherent account of how these abstract particulars are bundled together into objects. 
+----
+*Conclusions*
+
+I think it has been fairly conclusively demonstrated above that any descriptive account of inductive reasoning is inextricably linked to considerations regarding the existence of universals (or more generally, how we account for simmilarities).  The plausibility of the trope theory view might indicate that a move away from ..ontologically-based simmilarity and towards a linguistic one could be fruitful when developing a descriptive account of inductive reasoning.
+
+*Further Work Needed*
+
+- The idea that trope theory implies that one can move from ontological to linguistic similarity concerns might be a little controversial - some further explication of how this happens is probably necessary.
+- The one possible method of escaping the infinite regress argument against the existence of universals is to argue that no new universal is introduced as one moves up the chain of similarities beyond those of the ..first-order (i.e. one would argue that we don't need different similarity relations for universals themselves).  The efficacy of this response will need to be assessed.
+- The difficulty of giving a clear account of how tropes are bundled will need to be addressed.
+- This might tie in to a potential difference between science and mathematics: it seems that mathematicians often (always?) begin with some form of general similarity and then start to work with instances of that similarity in a deductive way.  The scientist however is largely reliant on starting from particular observations and can't escape the need to give an account of the move from talk of particulars to talk of universals.
+- Some of the modified Carnap stuff (Price.Naturalism, Price.Naturalism.Without.Representationalism) can probably be used to argue against the existence of universals view above, this would leave us with trope theory as our only viable choice.
+----
+
+ChrisWilcox

@@ -1,0 +1,3 @@
+Smalltalk at: #x put: 0 !
+----
+a := 'concat', "comments ignored" 'inate'

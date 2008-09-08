@@ -1,0 +1,30 @@
+
+----
+Mon Feb 13 02:20:20 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code code 2050
+Monday 6--8
+}*[[[break]]]to: *green {code Ain't nothing here yet.
+
+There should be some useful content on this page by Monday 20 February.  If there isn't, please feel free to nag me: mailto:J.Grossman@uq.edu.au.
+}*
+----
+Sun Jan  8 15:56:32 EST 2006
+
+
+
+[[[break]]]changed line 2 from: *orange {code Monday 6-8
+}*[[[break]]]to: *green {code Monday 6--8
+----
+back to current.teaching
+}*
+----
+Sun Jan  8 15:55:45 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code code 2050
+Monday 6-8
+}*

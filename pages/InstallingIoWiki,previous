@@ -1,0 +1,27 @@
+I haven't yet rewritten these instructions to work with the latest versions of ..IoWiki which (sadly) use the CGI mechanism.  Until I do that, you'll have to make up the details for yourself.  Here is an outline.
+- First of all, you'll need a web server which can run CGIs.
+- Download Io from http://iolanguage.com/downloads/.  Install.
+- Download the ..IoWiki code from ftp://xeny.net/iowiki/iowiki-0.1.02.tgz.  Put it somewhere where your web server will treat it as a permissible CGI.
+- Download the wrapper to make ..IoWiki work with the latest version of Io, from CurrentIoWrapper (thanks to Danya --- see also below).  This may not exactly work because it was written for an earlier version of ..IoWiki, but we will make it work soon.
+
+*EXTRA INSTRUCTIONS FOR PARTICULAR OPERATING SYSTEMS*
+
+- Macintosh.administrators
+
+JasonGrossman
+----
+_Could you please tell us at least where to take it?  It's usually not that tough to find an old version of interpreter and figure out how edit configs... Google only mentions the place to get 0.940 version and there are 0.1.* versions on your changelogs._ --  DanyaAlexeyevsky
+
+*crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, in case that annoys anybody.  And I don't know where to get the right version of the interpreter from.  Or come to think of it maybe I do.*
+
+*green Update: hooray.  You can get the interpreter from http://io.urbanape.com/release/IoFull-2005-10-17.tar.gz.   So now it makes sense for me to make IoWiki available here.  I'll do that as soon as I get around to it.  In the meantime, I'd be happy to email it to you, if you send me your email address.  * .Jason
+
+_Well, another good news from me: I spent a few hours to make the latest of available IoWiki releases work with current Io. It's a 130-liner, so I'll put it on my page now._ -- DanyaAlexeyevsky
+
+That's FANTASTIC!  Thank you!
+
+I've put a link to the latest version of ..IoWiki above.  What I'll do now (unless you beat me to it!) is use your new code to make ..IoWiki work with the current Io. -- .Jason
+
+_Thanks for the updates! Sorry I forgot to reply earlier. Now I have run rough tests with CGI version made some fixes and now it runs with this wrapper too. -- Danya._
+
+Woo hoo!  I am very grateful.  .Jason

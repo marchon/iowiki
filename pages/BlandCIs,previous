@@ -1,0 +1,32 @@
+See list.of.modifications.to.Neymans.theory.  (I'm going to make this wiki do apostrophes in links, but it's not quite working yet.)
+
+From InterpretationOfConfidenceIntervals :
+
+``There is one sense in which the CI is less extreme—it covers a broader range of values then the point estimate; both lower and higher. But it is only less extreme (in a sense important to decision makers) if you take into account that the `true' value is more likely to be lower than the point estimate; i.e. in the lower region of the CI.  This, however, is not permitted. The CI is an interval. And whatever it says of the relation between the data and theta, it says it for the entire interval.''
+
+I (as of 5 minutes ago) call this the _Bland CIs_ rule.  Within a confidence interval, everything is bland.  In particular, it's not a humped probability distribution.  It's just featureless.
+
+This is right according to some versions of confidence interval theory but not others.  One very influential recent version of confidence interval theory which denies it is Gardner and Altman's:
+
+@article{M.J.Gardner:1986,
+	Author = {M.~J.~Gardner and D.~G.~Altman},
+	Date-Added = {2007-07-09 13:13:02 +1000},
+	Date-Modified = {2007-09-18 11:18:40 +1000},
+	Journal = {British Medical Journal},
+	Pages = {746--750},
+	Title = {Statistics in medicine: confidence intervals rather than P values: estimation rather than hypothesis testing},
+	Volume = {292},
+	Year = {1986}}
+
+I've got this on my desk and can type in a quote tomorrow if that would help. *blue [Perhaps I will grab a copy when we meet; it seems even the library copies don't go back to 1986 (??) Thanks.A.]* *pink I cheat: I use the slightly revised version printed in the following book.  I have read the original article, and I might have a copy somewhere, but it's the book that's on my desk.*
+
+@book{J.Gardner:1989,
+	Address = {London},
+	Author = {Martin J.~Gardner and Douglas G.~Altman},
+	Publisher = {British Medical Journal},
+	Title = {Statistics With Confidence --- Confidence intervals and statistical guidelines},
+	Year = {1989}}
+
+Is Neyman's original theory a BlandCIs theory?  I'm not sure.  To discuss.
+
+.Jason

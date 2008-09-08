@@ -1,0 +1,66 @@
+----
+*What is it?*
+
+Dummett trying to give a general account of what is going on in the realism debate (as well as arguing for ..anti-realist positions with regard to a few different areas).
+
+*Where can it be found?*
+
+Dummett, M.; 'Realism' in Truth and Other Enigmas, pp. 145 - 165.
+
+*How does it fit in?*
+
+It's the fundamental source for Dummett's ..anti-realist position.
+----
+*Summary*
+
+_The realism debate in general_
+- there exists a disputed class of statements (D)
+- debate is with regard to whether or not the statements in D have an objective ..truth-value
+-- realist: elements of D have fixed ..truth-value
+-- ..anti-realist: elements of D are neither T or F
+--- denies law of the excluded middle
+- can also be seen as a debate over the notion of meaning:
+-- realist: meaning is what it is for a statement to be true
+-- ..anti-realist: meaning is knowing what counts as evidence for a statement
+--- hence the ..anti-realist can still give an account of how we know what statements in D mean
+- the different attitudes towards ..truth-values in the debate lead to different conceptions regarding valid deductive inference
+- note that Dummett does not believe that adopting the ..anti-realist position commits one to ..three-valued logic
+-- possibly because statements in D just do not have a ..truth-value
+
+_Evidence_
+- a distinction needs to be made between direct and indirect evidence
+-- but what does indirect evidence mean for the ..anti-realist?
+-- something like: if <direct evidence> then X
+--- can D statements be used in the antecedent?
+---> yes => X a D statement
+---> no => X and antecedent must be given in terms of R statements (see 'Reduction' below)
+- so ..anti-realist is okay with ..truth-values being asserted in cases where there is evidence in principle (i.e. we have an indirect justificastion) but not when we are incapable of obtaining evidence
+- context changes what is considered to be conclusive evidence
+-- e.g. the acceptability of inductive reasoning as conclusive proof in science
+
+_Reduction_
+- ..anti-realist accounts are often reductive:
+-- identify some reductive class of statements R
+-- element of D is T only if some corresponding element of R is T
+-- the reductive class is what provides evidence necessary for meaning on the ..anti-realist account
+--- hence it is essential that statements in R can be understood independently of statements in D
+- reductive account is neither necessary nor sufficient for ..anti-realism however
+
+_Particular applications_
+- covered pretty well in Garrett.Dummett so I'll just cover a few points of interest here
+- only direct evidence available in the case of mathematics
+- ..anti-realism as constructivism in mathematics
+----
+*What do I think?*
+- the context-dependent stuff needs to be worked through a little more
+-- exactly how does a context come about?  is it socially constructed?
+--- if so, then realism (or at the very least the existence of ..truth-values) becomes a social construction too and many on both sides would be unhappy with this characteristion
+--- how does Carnap fit in here?
+- overall two stratgies for criticism:
+--> 1. Descriptive inaccuracy (doesn't adequately capture the realism debate)
+--> 2. Internal problems with Dummett's position
+----
+
+Metaphysics.Paper
+
+ChrisWilcox

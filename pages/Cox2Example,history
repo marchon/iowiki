@@ -1,0 +1,117 @@
+
+----
+Mon Jul 24 09:50:38 EDT 2006
+
+
+
+[[[break]]]added at line 10: *lime {code DougKutach
+}*
+----
+Mon May 29 04:51:52 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code _[Dan: start reading at ``Background'' below]_
+
+}*
+----
+Fri Mar 10 11:33:39 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code # Cox-2 Debate, Power, Neyman-Pearson and Bayesianism  
+# v3 (9/2/06)
+
+* As of v3, I think this is starting to look really interesting from a theoretical perspective as well as clinically.  Jason
+
+
+The example of what happened with the Cox-2 inhibitors (particularly rofecoxib) seems useful to draw out how decisions are made based on evidence from [=RCTs=].
+
+A colleague from the School of Pharmacy (Steve Duffull) and I had discussed the possibility of a small paper examining (or at least reminding people of) the problems of making decisions based on effect size derived from underpowered data.  Starting to think about that paper opened a range of questions regarding what appropriate inferences can be made regarding the data available.  Whatever comes of the small paper I am hoping to get my head around exactly what we can say about the data. 
+
+Although a number of ideas will be presented which are more in-line with a Bayesian (or at least subjectivist) approach, my aim here is to take this, in the most part, as a critique of classical statistics – i.e. argue within, and show the problems of, the framework of classical statistics.  Although Bayesians can provide a ready reply to the problems I will be discussing, I don’t think you have to be a Bayesian to accept the problems of the current classical approach. 
+
+* Nicely worded.  Jason
+ 
+It is worth noting at the outset the crucial philosophical difference between Classical Statisticians and Bayesians.  Bayesians want to know how much the evidence supports the null hypothesis (or the alternate hypothesis) – and via Bayes Theorem they are able to calculate this.  Classical statisticians argue against the intelligibility of Bayes Theorem and argue that it makes no sense to assign a probability judgment to a given hypothesis about the world.  Learning in the classical statistics framework is by error statistics alone – you must assume a hypothesis (such as the null) and then calculate what the probability of the observed evidence is (i.e. P(E|Ho) – when you are calculating this on the basis of an assumed null hypothesis the likelihood is the probability of making an error if you reject the null.
+
+* True but maybe misleading.  More specifically, it's the probability, '''contingent on the null being true''', of making an error '''with respect to the value of the test statistic'''. I know this is much harder to explain to people, but sadly the bits in bold really do matter, especially in clinical trials (for reasons of multiplicity, as explained in my Master's thesis). Jason
+
+# Background 
+
+Cox-2 inhibitor (rofecoxib) was taken off the market late in 2004 due to evidence of an increased risk of cardiovascular disease.  
+
+The primary evidence for the inceased CV risk came from a large RCT testing the hypothesis that rofecoxib would reduce the relapse risk of gastro-intestinal polyps in patients with a history of colorectal adenomas ([=APPROVe=] NEJM 2005;352:1092-102).  
+
+The monitoring of cardiovascular events was planned but the study was not (?or could not be) adequately powered to test the hypothesis that rofecoxib increases cardiovascular risk.
+
+The relative risk for patients taking rofecoxib to suffer a confirmed thrombotic event during the study was 1.92 (95% CI 1.19-3.11; P=0.008).
+
+# What are the correct inferences to draw from this data?
+
+# What I take to be the prevailing line of thought:
+
+The result of the trial has a p-value of 0.008 with regard to the risk of a thrombotic event.  There are a couple of inferences that I think were/are and will continue to be drawn from this data (and data like this)
+
+(i) This p-value is taken as showing that there is a low probability of the null hypothesis being true - the null hypothesis being that there is no increased risk of thrombotic events with rofecoxib.  Thus these results are interpreted as something akin to P(Ho) = 0.008 (or something close to this).  This then forms a probability of the alternative hypothesis (that rofecoxib increases risk of thrombotic events) to something like P(Ha) = 0.992. 
+
+Even if someone correctly noted that classical statistics rules against providing such probability statements and expressed the probability as a likelihood, eg P(E|Ho) then I would still maintain that most people would be happy to suggest that it is appropriate to draw an inference regarding the probability of the null from this likelihood.
+ 
+(ii) While accepting that the study was not powered adequately to find a difference in expected rate of thrombotic events - a statistically significant difference was found - thus the a priori lack of power is irrelevant.
+
+(iii) The magnitude of the observed effect is taken as the true (or at least the most likely to be true) effect
+
+I don't think that the argument - that these inferences are the prevailing line of thought - would be difficult to make if presented to a group of health professionals (i.e. if they were suggested to such a group there would be very little disagreement).  An alternative way of making this point (or at least strengthening this point) would be to point out that the health fraternity has by and large *acted* if this - or something close to this - was the case.  On publication of [=APPROVe=] the results were taken as certainty that rofexicob increased thrombotic events, a large health scandal ensues and rofexocib is withdrawn from the market, at least partially due to the magnitude of this adverse effect.
+
+
+# Each one of these inferences is false - and this is why:  
+
+I should probably note that inference (i) is actively discouraged by classical statistics (it is wrong on all acounts - but it is what people do). (ii) and (iii) however, are largely consistent with classical statistics (with, perhaps, some nuances for more sophisticated forms, here they become misapplications of classical statistics rather than invalid inferences – as shall be discussed).  My argument is that inferences (ii) and (iii) are particularly troubling in certain contexts, such as when we have reasonable information that the observed event was hitherto judged unlikely.
+
+(i) A p-value quite simply does not tell us anything about P(Ho).  What it does provide is the probability of obtaining the result observed and more extreme results assuming the null hypothesis is true (furthermore, it will vary depending on the stopping rule of the trial and how the test-statistic is chosen).  Classical statistics refuses to assign probabilities to hypotheses about the way the world is.  Thus, it is not possible, under either Fisher or Neyman Pearson methods to draw a line of inference from the p-value to the probability of the null hypothesis being true - i.e. it does not provide a measure of whether (or not) the evidence supports the hypothesis (you have to assume the null hypothesis is true in order to calculate it).  
+
+Borrowing from the Bayesians for a moment (who are happy to assign probabilities to scientific hypotheses) it will be possible to show why inference (i) is not only ruled out along classical lines but also invalid - in given contexts - for those not so constrained.  *Proof* The p-value (and P(E|Ho)) says even less about the probability of the alternative hypothesis. The p-value says nothing at all about either the likelihood of the evidence given the alternative hypothesis (P(E|Ha) or the probability of the alternative hypothesis.  Ignoring all background information for the moment, the P(E|Ha) could take any value, including a value less than P(E|Ho).  If it does take a value less than P(E|Ho) then the same data from the trial would actually support the null hypothesis (the bayes factor would be >1).  Thus the context for the proof of inference (i) being invalid within the Bayesian framework is in situations where the observed result is unlikely given the prior distribution for the alternative hypothesis. This may well be the case in studies which are underpowered.
+
+Inference (i) is always incorrect, either within a classical or a Bayesian framework.  This said, in Bayesian terms it is possible you may reach a similar conclusion to inference (i) in a justified manner.  Such a case is where the observed result is similar to the prior for which the power was calculated.  Thus, if you conduct a clinical trial designed and powered (i.e. 80% power to find a predicted effect at an alpha level of 0.05) and observe such an effect, *then* the likelihood of the evidence given the alternative hypothesis will be much greater than the evidence given the null hypothesis.  Using Bayes Theorem your probability for the null hypothesis may be greatly reduced and your probability for the alternative hypothesis greatly increased (though obviously you are not just accepting the p-value and its converse as these probability assignments).  
+
+Classical statistics makes the assumption that when the p-value is significant there is a high likelihood of the evidence under the alternative hypothesis.  Indeed (as far as I can tell) the observed result is assigned the maximal likelihood by fiat in classical statistics.  If at all, this may be justified in only the very local sense of the given trial (within the given trial the observed result is after all, whatever its shortcomings, our only estimate for that trial).  It is of course much more difficult to justify this in a more global sense, particularly in the case where the observed result is unexpected.  More sophisticated accounts of classical (or ‘error’) statistics, such as Mayo’s, seem to make sense of this reasonable desire to say something outside of the local trial by suggesting that such an unexpected result would need to be reproduced in a number of well conducted studies (with adequate power etc) – i.e. ‘severly tested’ – before it could be relied upon.
+
+* This distinction between 'local' error statistics and the other sort ('global'?) is very nice indeed.  I think it helps the explanations along an enormous amount.  Is it original terminology, do you think?  You could make a lot more of it in the intro ... maybe not in the current version of this paper (up to you), but certainly in your thesis and in any theoretical papers you write.
+* Thanks Jason, not sure whether the global/local divide is original or not.. but is certainly coming from seeing how Mayo attempts to peice together classical inferences into something like a workable framework.
+
+(ii) The argument for inference (ii) would go something like the following (one example is in Schulz, KF.Lancet 2005;365:1348-53):  (a) the power calculation is highly subjective: it involves estimation of both control and treatment event rates (interestingly this requires the classical statistician to do something very similar to providing a prior probability distribution on a given hypothesis – something which must rankle somewhat – and I assume part of the problem Fisher had with Neyman and Pearson); in the absence of being able to provide this estimation  it becomes a subjective assessment of the minimum treatment effect which is considered detectable and worth achieving;  finally it is worth noting that there is typically is some fudging in the numbers – i.e. it is often back calculated – so that trials can get off the ground, pass ethics committees and get funding etc.  The underlying point here is that if the calculation of power is so subjective why should it matter if a study was underpowered once it has provided a significant result; (b) the only purpose of having adequate power is in a priori calculation of sample size such that the trial has a reasonable chance of finding a difference if such a difference does exist.  Once a significant difference is observed the power calculation is meaningless.
+
+Even in the very local utilisation of classical statistics a form of the arguments above would only be relevant in the case where it was not possible to calculate power based on an expected treatment difference.  Here the lack of power is unrelated to the prior evidence and understanding of the proposed treatment effect.  Here one may be justified to revert to a Fisherian-type inference based solely on the p-value.  The apriori power is irrelevant to the inferences you may draw from the observed result, but as shown in the discussion regarding inference (i) such a Fisherian would have to accept that this p-value says nothing at all about whether one should accept or reject the hypothesis.  Indeed it is difficult to see what inferences you would be able to make (Fisher leaves it to the individual scientist).
+
+* Excellent.  Jason
+
+If the power is calculable based on expected treatment differences then there is no Fisherian-type escape for the Classical (Neyman-Pearson) Statistician.   Under Neyman-Pearson techniques you are trying to avoid two types of errors – alpha, rejecting the null when it is true, and beta, accepting the null when it is false.  Typically the alpha error level is held constant (e.g. 0.05) and the beta error level is minimised by increasing the sample size.  The important point is that the alpha level and beta level are functions of each other.  If your power is low (i.e. high risk of beta error) then your alpha is affected.  To put it into (?perhaps) more intuitive words: If your power is low and you observe a result which occurs within the critical region (i.e. p-value less than 0.05) then the long run chances of you rejecting the null correctly are not 95%.  (I need to re-word this paragraph, I think I can do it with diagrams but am yet to find better words)
+
+* I think I said some misleading things about this.  It's not the p-value and the power that are functions of each other; it's the p-value '''cutoff''' (5%) and the power that are functions of each other.  So the conclusion you want to draw, I think, is a bit weaker than the one above; it's that a low power means that the experimenters, on Neyman-Pearson grounds, should have set the significance level at 30% or something, not 5%.  They can then argue that they '''always''' set it to 5%, and I can't at the moment think what to say to that, except that it doesn't accord with N-P theory.  Jason
+* Thanks, point taken re the p-value v alpha cut-off - I think I still have a little muddle here, shall continue to think it through..
+
+Thus on all but a very local classical statistical account, the a priori lack of power in the rofecoxib study is actually very relevant.  The agreed lack of power says something about the agreed prior distribution.  Implicitly, it shows that prior to this data the risk of thrombotic events, should it be increased, would only be increased by a small amount - and hence many patients would be required in order to design an adequately powered trial to test the hypothesis.  This suggests that we have good reason to not unquestionably accept the classical statistical assumption of accepting the observed results as being the result with the maximal likelihood.  We have some justification in holding P(E|Ha) as low -  i.e. that this result (or at least the magnitude of this result) has occurred by chance. 
+
+* Excellent.  Jason
+
+Sophisticated classical statisticians, who wish to say something broader than just this trial, will reason that the a priori lack of power shows that this trial was not a severe test and suggest that further studies are required to see if the result can be replicated.  Bayesians will accept the result and update their prior – due to the fact that the prior distribution was closer to the null than this observed result, the combination of the two will lead to a posterior distribution somewhere in between.
+
+(iii) The discussion above also suggests how the classical statistician and Bayesian will consider the observed magnitude of effect.  
+
+Only the local statistician will put any weight into the magnitude as observed.  The sophisticated classical statistician and the Bayesian will hold a much smaller magnitude of effect as more likely given the background information (or in the case of the classical statistician they may choose to withhold judgment). Therefore our expected true effect magnitude will be less than that observed.  In the rofecoxib case this would have large ramifications for decision making.  
+
+As the local statistician is not able to make any conclusion outside of the trial under consideration how the magnitude of effect seen in the [=APPROVe=] study has lead to such large ramifications (drug withdrawn, health scandal) is left unjustified (at least on a rationalist account).     
+
+Why is the local statistician interpretation of the trial the one that appears to be taken up by the health fraternity even though it provides the least justification for any sort of inference outside of the trial?  One possible suggestion would be a negative effect of the EBM hierarchy – with large RCTs being held in such high esteem it seems that little more thought is put into making reasonable inferences from the results. 
+
+* ... from the results even of small ones.  Jason
+
+How big a problem is all of this given that the incorrect inference will give somewhat similar results in trials with larger power and reproduced results?  This point is taken, but how many clinical questions are answered in this way.  While some large RCTs can answer the population question fairly well I would argue that the individual clinical questions are almost always at the very best heavily reliant on underpowered evidence from secondary endpoints.  If this is correct then this debate would have quite large ramifications for practice.
+
+
+See also NeymanPearsonWald ; EBMvsBasicSciences and GoodmanS
+
+
+
+
+}*

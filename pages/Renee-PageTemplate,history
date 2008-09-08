@@ -1,0 +1,156 @@
+
+----
+Wed Nov 22 21:11:15 EST 2006
+
+
+
+[[[break]]]added at line 111: *lime {code <br>
+}*
+----
+Wed Nov 22 21:10:39 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<!-- Template copyright 2005 by Jason Grossman.  Thanks to James Koster and Dave Shea for inspiration. -->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!--HeaderText-->
+<title><PAGE NAME></title>
+
+<style type="text/css"><!--
+
+body {
+	background-color:#FFFFFF;
+	margin:0px;
+	font-family:Verdana, sans-serif;
+	font-size:11px;
+	color:#666666;
+}
+
+a {
+	color:#222222;
+	text-decoration:none;
+}
+
+textarea, input,submit {
+	color:#666666;
+	border:none;
+}
+
+h1 {
+	font-family:Belle, Bell, Soutane, Souvenir, Georgia, "Times New Roman", Times, serif;
+	font-size:200%;
+	color:#000000;
+	font-weight:normal;
+	letter-spacing:1px;
+}
+
+
+#title {
+	margin:0 auto 0 auto;
+	text-align:center;
+	margin-bottom:25px;
+}
+
+#title p {
+	font-variant:small-caps;
+	letter-spacing:2px;
+}
+
+#title img {
+	border:none;
+}
+
+#container {
+	width:600px;
+	margin:0 auto 0 auto;
+}
+
+#sidebar {
+	width:140px;
+	float:right;
+}
+
+#sidebar h1 {
+	text-align:right;
+	font-size:200%;
+	color:#111111;
+	border-bottom:1px dashed #eeeeee;
+}
+
+#sidebar p {
+	line-height:20px;
+}
+
+#content {
+	margin-right:160px;
+	padding-right:20px;
+	border-right:1px solid #cccccc;
+}
+
+#content h1 {
+	text-align:left;
+	font-size:115%;
+	font-weight:bold;
+	color:#111111;
+	border-bottom:1px dashed #eeeeee;
+	padding-top:15px !important;
+	padding-top:0;
+}
+
+#content p {
+	line-height:20px;
+}
+
+#content ol,ul {
+	padding-left:15px;
+}
+--></style>
+</head>
+
+
+
+
+
+
+
+<body>
+<div id="title">
+<a href="#"><img src="http://gallery.tumble.tk/gallery/renee/main.php?g2_view=core.DownloadItem&g2_itemId=448&g2_serialNumber=2" alt="[Tilly bounds]" border="0" title="" /></a>
+<h1><PAGE NAME></h1>
+</div>
+		
+<div id="container">
+<div id="sidebar">
+						
+<EDIT BUTTON><br><PAGE HISTORY BUTTON><br><RESTORE PREVIOUS VERSION BUTTON>
+
+<br><br>
+						
+<a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Site 
+History</a></p>
+
+<br><br>
+
+<a href='../IoWikiInstructions'>Instructions</a><br><a 
+href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+</div>
+
+<div id="content">
+<PAGE TEXT>
+
+</div>
+</div>
+		
+<br><br>
+
+</body>
+</html>
+
+}*

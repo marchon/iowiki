@@ -1,0 +1,399 @@
+
+----
+2008-09-07 10:23:09 EST
+
+
+
+[[[break]]]changed line 12 from: *orange {code -- .Tumblelog?template=Bop
+}*[[[break]]]to: *green {code -- http://xeny.net/Tumblelog?template=Bop
+}*
+----
+2008-09-07 10:22:49 EST
+
+
+
+[[[break]]]changed line 12 from: *orange {code -- Tumblelog?template=Bop
+}*[[[break]]]to: *green {code -- .Tumblelog?template=Bop
+}*
+----
+2008-09-07 10:22:36 EST
+
+
+
+[[[break]]]added at line 11: *lime {code -- Tumblelog?template=Bop
+}*
+----
+2008-05-15 06:26:21 EST
+
+
+
+[[[break]]]changed line 15 from: *orange {code I've recently rewritten IoWiki to run on top of a stable web server instead of its own built-in web server, and that has removed all of the most serious bugs.  However, it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  DanyaAlexeyevsky has written some code which will fix this problem, and I hope to merge that into the main IoWiki code soon.  See InstallingIoWiki for more details.
+}*[[[break]]]to: *green {code I've recently rewritten IoWiki to run on top of a stable web server instead of its own built-in web server, and that has removed all of the most serious bugs.  However, it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  DanyaAlexeyevsky has written some code which will fix this problem, and I may merge that into the main IoWiki code one day.  See InstallingIoWiki for more details.
+}*
+----
+2008-04-16 10:37:35 EST
+
+
+
+[[[break]]]changed line 25 from: *orange {code If you insist on using a more powerful wiki despite my warning that that will cut your productivity, I recommend CloudWiki, which is slightly more powerful and the next best compromise in my opinion, or PmWiki, which is  fairly easy to install and has oodles of features. 
+}*[[[break]]]to: *green {code If you insist on using a more powerful wiki despite my warning that doing so will cut your productivity, I recommend CloudWiki, which is slightly more powerful and the next best compromise in my opinion, or PmWiki, which is  fairly easy to install and has oodles of features. 
+}*
+----
+
+
+
+[[[break]]]deleted at line 5: *red {code test
+
+}*
+----
+
+
+
+[[[break]]]added at line 4: *lime {code test
+
+}*
+----
+Wed Mar 19 11:38:47 EST 2008
+
+
+
+[[[break]]]changed line 3 from: *orange {code IoWiki.Instructions
+}*[[[break]]]to: *green {code .Help
+}*
+----
+Wed Jan 30 12:57:35 EST 2008
+
+
+
+[[[break]]]changed line 17 from: *orange {code In any case, IoWiki needs a rewrite if it's going to serve its original purpose of demonstrating what a nice language Io is.  But it now serves a couple of new purposes: (1) it runs my own wiki very well, and (2) it illustrates what I think is about the right set of features for a wiki program to have.
+}*[[[break]]]to: *green {code In any case, IoWiki needs a rewrite if it's going to serve its original purpose of demonstrating what a nice language Io is.  But it now serves a  new purpose: it illustrates what I think is about the right set of features for a wiki program to have.
+}*
+----
+Wed Jan 30 12:57:11 EST 2008
+
+
+
+[[[break]]]changed line 15 from: *orange {code At the moment (November 2007), I'm not sure when IoWiki is going to be ready to release widely.  I've recently rewritten it to run on top of a stable web server instead of its own built-in web server, and that has removed all of the most serious bugs.  However, it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  DanyaAlexeyevsky has written some code which will fix this problem, and I hope to merge that into the main IoWiki code soon.  See InstallingIoWiki for more details.
+}*[[[break]]]to: *green {code I've recently rewritten IoWiki to run on top of a stable web server instead of its own built-in web server, and that has removed all of the most serious bugs.  However, it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  DanyaAlexeyevsky has written some code which will fix this problem, and I hope to merge that into the main IoWiki code soon.  See InstallingIoWiki for more details.
+}*[[[break]]]changed line 17 from: *orange {code In any case, IoWiki desperately needs a rewrite if it's going to serve its original purpose of demonstrating what a nice language Io is.  But it now serves a couple of new purposes: (1) it runs my own wiki very well, and (2) it illustrates what I think is about the right set of features for a wiki program to have.
+}*[[[break]]]to: *green {code In any case, IoWiki needs a rewrite if it's going to serve its original purpose of demonstrating what a nice language Io is.  But it now serves a couple of new purposes: (1) it runs my own wiki very well, and (2) it illustrates what I think is about the right set of features for a wiki program to have.
+}*
+----
+Thu Dec  6 18:02:03 EST 2007
+
+
+
+[[[break]]]changed line 17 from: *orange {code In any case, IoWiki desperately needs a rewrite if it's going to serve its original purpose of demonstrating what a nice language Io is.  But it now serves a couple of new purposes: (1) it runs my own wiki very well, and (2) it illustrates what I think is a very good design for a wiki.
+}*[[[break]]]to: *green {code In any case, IoWiki desperately needs a rewrite if it's going to serve its original purpose of demonstrating what a nice language Io is.  But it now serves a couple of new purposes: (1) it runs my own wiki very well, and (2) it illustrates what I think is about the right set of features for a wiki program to have.
+}*
+----
+Thu Dec  6 18:01:20 EST 2007
+
+
+
+[[[break]]]added at line 16: *lime {code In any case, IoWiki desperately needs a rewrite if it's going to serve its original purpose of demonstrating what a nice language Io is.  But it now serves a couple of new purposes: (1) it runs my own wiki very well, and (2) it illustrates what I think is a very good design for a wiki.
+
+}*
+----
+Fri Nov 30 00:20:42 EST 2007
+
+
+
+[[[break]]]changed line 15 from: *orange {code At the moment (November 2007), I'm not sure when IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  DanyaAlexeyevsky has written some code which will fix this problem, and I hope to merge that into the main IoWiki code soon.
+}*[[[break]]]to: *green {code At the moment (November 2007), I'm not sure when IoWiki is going to be ready to release widely.  I've recently rewritten it to run on top of a stable web server instead of its own built-in web server, and that has removed all of the most serious bugs.  However, it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  DanyaAlexeyevsky has written some code which will fix this problem, and I hope to merge that into the main IoWiki code soon.  See InstallingIoWiki for more details.
+}*
+----
+Fri Nov 30 00:18:12 EST 2007
+
+
+
+[[[break]]]changed line 15 from: *orange {code At the moment (September 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io.
+}*[[[break]]]to: *green {code At the moment (November 2007), I'm not sure when IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  DanyaAlexeyevsky has written some code which will fix this problem, and I hope to merge that into the main IoWiki code soon.
+}*
+----
+Thu Sep 20 12:58:21 EST 2007
+
+
+
+[[[break]]]changed line 23 from: *orange {code If you insist on using a more powerful wiki despite my warning that that will cut your productivity, I recommend CloudWiki, which is slightly more powerful and the next best compromise in my opinion, or PmWiki, which is elegant and fairly easy to install and has oodles of features. 
+}*[[[break]]]to: *green {code If you insist on using a more powerful wiki despite my warning that that will cut your productivity, I recommend CloudWiki, which is slightly more powerful and the next best compromise in my opinion, or PmWiki, which is  fairly easy to install and has oodles of features. 
+}*
+----
+Thu Sep 20 12:57:55 EST 2007
+
+
+
+[[[break]]]changed line 23 from: *orange {code If you insist on using a more powerful wiki despite my warning that that will cut your productivity, I recommend CloudWiki, which is slightly more powerful, or PmWiki, which is elegant and easy to install and has oodles of features. 
+}*[[[break]]]to: *green {code If you insist on using a more powerful wiki despite my warning that that will cut your productivity, I recommend CloudWiki, which is slightly more powerful and the next best compromise in my opinion, or PmWiki, which is elegant and fairly easy to install and has oodles of features. 
+}*[[[break]]]changed line 25 from: *orange {code Jason Grossman
+}*[[[break]]]to: *green {code JasonGrossman
+}*
+----
+Thu Sep 20 12:56:43 EST 2007
+
+
+
+[[[break]]]deleted at line 22: *red {code * It has key shortcuts (when used with compatible browsers).
+* It doesn't need root privileges, not even for installation (subject to your operating system allowing non-root users to write to TCP ports, of course).
+}*
+----
+Thu Sep 20 12:53:27 EST 2007
+
+
+
+[[[break]]]changed line 18 from: *orange {code * It strikes the right balance (according to me) between features and complexity: enough features to get on with lots of collaborative communication, but not enough features to distract users while they're trying to write. In this respect it's very much like the original wiki program at http://c2.com, as opposed to impressive but relatively difficult to use wikis like MediaWiki.
+}*[[[break]]]to: *green {code * It strikes the right balance (according to me) between features and complexity: enough features to get on with lots of collaborative communication, but not enough features to distract users while they're trying to write. In this respect it's very much like the original wiki program at http://c2.com/cgi/wiki, as opposed to impressive but relatively difficult to use wikis like MediaWiki.
+}*
+----
+Thu Sep 20 12:49:11 EST 2007
+
+
+
+[[[break]]]changed line 15 from: *orange {code At the moment (September 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run as a CGI on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io.
+}*[[[break]]]to: *green {code At the moment (September 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io.
+}*
+----
+Thu Sep 20 12:48:53 EST 2007
+
+
+
+[[[break]]]changed line 15 from: *orange {code At the moment (September 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run as a CGI on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io or in some other language (Smalltalk?).
+}*[[[break]]]to: *green {code At the moment (September 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run as a CGI on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io.
+}*
+----
+Thu Sep 20 10:54:47 EST 2007
+
+
+
+[[[break]]]changed line 15 from: *orange {code At the moment (August 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io or in some other language (Smalltalk?).
+}*[[[break]]]to: *green {code At the moment (September 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run as a CGI on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io or in some other language (Smalltalk?).
+}*
+----
+Sun Sep  9 03:44:53 EST 2007
+
+
+
+[[[break]]]added at line 2: *lime {code IoWiki.Instructions
+
+}*
+----
+Sun Sep  9 03:24:27 EST 2007
+
+
+
+[[[break]]]changed line 18 from: *orange {code * Its markup language is very simple, hence easy to learn.  (It's more or less a subset of Textile markup.)
+}*[[[break]]]to: *green {code * Its markup language is very simple, and hence easy to learn.  (It's more or less a subset of Textile markup.)
+}*
+----
+Sun Sep  9 03:23:21 EST 2007
+
+
+
+[[[break]]]changed line 13 from: *orange {code At the moment (August 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run on top of a stable web server instead of its own built-in web server, which helps a lot.  But it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io or in some other language (Smalltalk?).
+}*[[[break]]]to: *green {code At the moment (August 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run on top of a stable web server instead of its own built-in web server, which helps a lot.  But at the moment it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io or in some other language (Smalltalk?).
+}*[[[break]]]changed line 17 from: *orange {code * It formats its pages using ..HTML/CSS templates which you can edit through the wiki itself.  This means that an IoWiki page can look like almost anything.
+* It has key shortcuts for everything (when used with compatible browsers).
+}*[[[break]]]to: *green {code * It formats its pages using ..HTML/CSS templates which you can edit through the wiki itself.  This means that an IoWiki page can look like almost anything, and more easily so than most (or even all?) other wikis.
+* Its markup language is very simple, hence easy to learn.  (It's more or less a subset of Textile markup.)
+}*[[[break]]]added at line 19: *lime {code * It has key shortcuts (when used with compatible browsers).
+}*[[[break]]]deleted at line 21: *red {code * Its markup language is very simple (hence easy to learn), and more or less a subset of Textile markup (http://www.textism.com/tools/textile).
+}*
+----
+Sun Sep  9 02:40:43 EST 2007
+
+
+
+[[[break]]]deleted at line 3: *red {code 
+IoWiki is more in the spirit of the original wiki than recent ..all-singing ..all-dancing wikis.  This means that it's all about simplicity rather than power.
+
+}*[[[break]]]added at line 15: *lime {code At the moment (August 2007), I'm not sure whether IoWiki is ever going to be stable enough to release widely.  I've just rewritten it to run on top of a stable web server instead of its own built-in web server, which helps a lot.  But it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  One day I might rewrite it in the latest verion of Io or in some other language (Smalltalk?).
+
+}*
+----
+Sun Sep  9 02:06:10 EST 2007
+
+
+
+[[[break]]]changed line 6 from: *orange {code Demo site: http://tumble.tk.
+
+Download: http://luddite.cst.usyd.edu.au/IoWiki/IoWikiDownloads/?M=D
+
+Development of IoWiki is currently frozen.  I'm thinking of reimplementing it in Smalltalk some time.
+}*[[[break]]]to: *green {code Testing stuff:
+- sand.box
+- administrator.documentation
+- known.bugs
+- version.history
+- template examples
+-- CloudWiki-CloudWiki
+-- Io-Documentation
+-- ReadMe-ApparentlyReadOnly
+}*
+----
+Thu Feb 22 12:15:49 EST 2007
+
+
+
+[[[break]]]deleted at line 13: *red {code 
+}*[[[break]]]deleted at line 15: *red {code 
+}*[[[break]]]deleted at line 17: *red {code 
+}*[[[break]]]deleted at line 19: *red {code 
+}*[[[break]]]deleted at line 21: *red {code 
+}*[[[break]]]deleted at line 23: *red {code 
+}*
+----
+Thu Feb 22 12:14:49 EST 2007
+
+
+
+[[[break]]]changed line 10 from: *orange {code IoWiki is currently (late 2006) useable but a bit buggy.  I'm intending to iron out a bunch of bugs in early 2007 and then release version 1.
+}*[[[break]]]to: *green {code Development of IoWiki is currently frozen.  I'm thinking of reimplementing it in Smalltalk some time.
+}*[[[break]]]deleted at line 14: *red {code 
+}*[[[break]]]deleted at line 17: *red {code 
+}*[[[break]]]deleted at line 20: *red {code 
+
+}*[[[break]]]deleted at line 24: *red {code 
+
+}*[[[break]]]deleted at line 28: *red {code 
+
+}*[[[break]]]deleted at line 32: *red {code 
+
+}*[[[break]]]deleted at line 36: *red {code 
+
+}*[[[break]]]deleted at line 40: *red {code 
+
+}*
+----
+Tue Dec 26 14:45:10 EST 2006
+
+
+
+[[[break]]]added at line 9: *lime {code IoWiki is currently (late 2006) useable but a bit buggy.  I'm intending to iron out a bunch of bugs in early 2007 and then release version 1.
+}*
+----
+Tue Dec 26 14:43:41 EST 2006
+
+
+
+[[[break]]]changed line 11 from: *orange {code Do you need IoWiki?  Probably not.  You need a wiki (everyone does), but you probably don't need this one. There are a million other wiki programs that do basically the same thing. But anyway, here are IoWiki's main features:
+}*[[[break]]]to: *green {code IoWiki's main features:
+}*
+----
+Tue Dec 26 14:42:55 EST 2006
+
+
+
+[[[break]]]changed line 14 from: *orange {code * It strikes the right balance (according to me) between features and complexity: enough features to get on with lots of collaborative communication, but not enough features to distract users while they're trying to write. In this respect it's very much like the original wiki program at http://c2.com.
+}*[[[break]]]to: *green {code * It strikes the right balance (according to me) between features and complexity: enough features to get on with lots of collaborative communication, but not enough features to distract users while they're trying to write. In this respect it's very much like the original wiki program at http://c2.com, as opposed to impressive but relatively difficult to use wikis like MediaWiki.
+}*
+----
+Tue Dec 26 14:42:25 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code *IoWiki is a program for running a wiki --- a web site designed to encourage people to contribute to it.*
+}*[[[break]]]to: *green {code IoWiki is a program for running a wiki --- a web site designed to encourage people to contribute to it.
+}*[[[break]]]changed line 4 from: *orange {code *crimson IoWiki is more in the spirit of the original wiki than recent ..all-singing ..all-dancing wikis.  This means that it's all about simplicity rather than power.*
+}*[[[break]]]to: *green {code IoWiki is more in the spirit of the original wiki than recent ..all-singing ..all-dancing wikis.  This means that it's all about simplicity rather than power.
+}*
+----
+Tue Dec 26 14:41:54 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code *crimson IoWiki is a program for running a wiki --- a web site designed to encourage people to contribute to it.*
+}*[[[break]]]to: *green {code *IoWiki is a program for running a wiki --- a web site designed to encourage people to contribute to it.*
+}*
+----
+Tue Dec 26 14:41:25 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code *crimson IoWiki is a program for running a wiki --- a web site designed to encourage people to contribute to it.
+
+
+
+IoWiki's design philosophy is elegance rather than power.
+}*[[[break]]]to: *green {code *crimson IoWiki is a program for running a wiki --- a web site designed to encourage people to contribute to it.*
+}*[[[break]]]added at line 7: *lime {code *crimson IoWiki is more in the spirit of the original wiki than recent ..all-singing ..all-dancing wikis.  This means that it's all about simplicity rather than power.*
+}*[[[break]]]deleted at line 14: *red {code 
+Current status: Finally working over high-latency network connections.  Lots of little bugs have crept in recently, and I'm currently working on those.*
+
+
+
+}*[[[break]]]deleted at line 22: *red {code 
+* It's written in Io, which is one of the most fun languages to write in. (See http://www.iolanguage.com.) So if you need to roll your own wiki program for any reason the IoWiki code gives you something good to start with.
+
+
+
+}*[[[break]]]deleted at line 30: *red {code 
+}*
+----
+Mon Apr 17 16:21:14 EST 2006
+
+
+
+[[[break]]]changed line 9 from: *orange {code Demo site: http://tumble.tk:8080.
+}*[[[break]]]to: *green {code Demo site: http://tumble.tk.
+}*
+----
+Sun Mar 26 18:18:22 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code *crimson IoWiki is a program for running a wiki --- a web site designed to encourage people to contribute to it.
+
+
+
+IoWiki's design philosophy is elegance rather than power.
+
+
+
+Demo site: http://tumble.tk:8080.
+
+Download: http://luddite.cst.usyd.edu.au/IoWiki/IoWikiDownloads/?M=D
+
+
+
+Current status: Finally working over high-latency network connections.  Lots of little bugs have crept in recently, and I'm currently working on those.*
+
+
+
+Do you need IoWiki?  Probably not.  You need a wiki (everyone does), but you probably don't need this one. There are a million other wiki programs that do basically the same thing. But anyway, here are IoWiki's main features: 
+
+
+
+* It's written in Io, which is one of the most fun languages to write in. (See http://www.iolanguage.com.) So if you need to roll your own wiki program for any reason the IoWiki code gives you something good to start with.
+
+
+
+* It strikes the right balance (according to me) between features and complexity: enough features to get on with lots of collaborative communication, but not enough features to distract users while they're trying to write. In this respect it's very much like the original wiki program at http://c2.com.
+
+
+
+* It formats its pages using ..HTML/CSS templates which you can edit through the wiki itself.  This means that an IoWiki page can look like almost anything.
+
+
+
+* It has key shortcuts for everything (when used with compatible browsers).
+
+
+
+* It saves a complete history of page changes in a compact human-readable format.
+
+
+
+* It doesn't need root privileges, not even for installation (subject to your operating system allowing non-root users to write to TCP ports, of course).
+
+
+
+* Its markup language is very simple (hence easy to learn), and more or less a subset of Textile markup (http://www.textism.com/tools/textile).
+
+
+
+If you insist on using a more powerful wiki despite my warning that that will cut your productivity, I recommend CloudWiki, which is slightly more powerful, or PmWiki, which is elegant and easy to install and has oodles of features. 
+
+
+
+Jason Grossman 
+}*

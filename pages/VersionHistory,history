@@ -1,0 +1,302 @@
+
+----
+2008-03-30 15:14:56 EST
+
+
+
+[[[break]]]added at line 2: *lime {code - The changes on the history page are now dated by IoWiki directly rather than by the operating system's date command.  This makes the dating work with more web servers.
+}*
+----
+Sun Mar 23 21:33:33 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code *version CGI 0.1.03 beta*
+- The history pages are marked as not to be indexed by robots (Google etc.) --- something I should have done long ago.
+
+}*
+----
+Tue Sep 25 02:54:42 EST 2007
+
+
+
+[[[break]]]deleted at line 3: *red {code - Undo button implemented.
+}*
+----
+Mon Sep 24 22:20:30 EST 2007
+
+
+
+[[[break]]]deleted at line 4: *red {code - Page names can have apostrophes in them.
+}*
+----
+Mon Sep 24 22:15:06 EST 2007
+
+
+
+[[[break]]]added at line 3: *lime {code - Page names can have apostrophes in them.
+}*
+----
+Mon Sep 24 20:55:40 EST 2007
+
+
+
+[[[break]]]added at line 2: *lime {code - Undo button implemented.
+}*
+----
+Mon Sep 24 20:55:35 EST 2007
+
+
+
+[[[break]]]deleted at line 3: *red {code - Undo button implemented.
+}*
+----
+Mon Sep 24 20:55:03 EST 2007
+
+
+
+[[[break]]]added at line 2: *lime {code - Undo button implemented.
+}*
+----
+Mon Sep 24 12:35:11 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code *version CGI 0.1.02 beta*
+- Page history is working again.
+
+}*
+----
+Wed Sep 19 12:07:32 EST 2007
+
+
+
+[[[break]]]changed line 2 from: *orange {code -  Changed the rule that said a page shouldn't link to itself.
+}*[[[break]]]to: *green {code -  Changed the rule that said a page shouldn't link to itself.  Consistency above all else!  Linking a page to itself helps to teach newbies the rules, and avoids confusion about what the rules are.
+}*
+----
+Wed Sep 19 12:06:58 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code *version CGI 0.1.01 beta*
+-  Changed the rule that said a page shouldn't link to itself.
+
+}*
+----
+Tue Sep 11 22:50:17 EST 2007
+
+
+
+[[[break]]]changed line 6 from: *orange {code - Implemented an RSS feed, accessed using ``?action=rss'' (e.g., http://tumble.tk?action=rss).
+}*[[[break]]]to: *green {code - Implemented an RSS feed, accessed using ``?action=rss'' (e.g., http://xeny.net/rss?action=rss).
+}*
+----
+Tue Sep 11 18:29:26 EST 2007
+
+
+
+[[[break]]]changed line 2 from: *orange {code - Re-written as a CGI script so it doesn't crash every few seconds.
+}*[[[break]]]to: *green {code - Re-written as a CGI script so it doesn't crash every few seconds.  That's why it's now a beta.
+}*
+----
+Tue Sep 11 18:29:09 EST 2007
+
+
+
+[[[break]]]deleted at line 9: *red {code - A page can now be forwarded to any address using the markup redirect://<address> at the beginning of the page.
+}*
+----
+Sun Sep  9 02:42:24 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code *version CGI 0.1 beta*
+- Re-written as a CGI script so it doesn't crash every few seconds.
+
+}*
+----
+Fri May 26 03:00:21 EST 2006
+
+
+
+[[[break]]]added at line 2: *lime {code - Implemented an RSS feed, accessed using ``?action=rss'' (e.g., http://tumble.tk?action=rss).
+}*
+----
+Fri Mar  3 14:29:58 EST 2006
+
+
+
+[[[break]]]added at line 4: *lime {code - A page can now be forwarded to any address using the markup redirect://<address> at the beginning of the page.
+}*
+----
+Fri Feb 17 18:10:20 EST 2006
+
+
+
+[[[break]]]changed line 3 from: *orange {code - Implemented sub-wikis, ..a.k.a. projects, using a hyphen as the project separator --- for example, Wombats-Cuddling.
+}*[[[break]]]to: *green {code - Implemented sub-wikis, ..a.k.a. projects, using a hyphen as the project separator --- for example, .Wombats-Cuddling.
+}*
+----
+Fri Feb 17 18:08:32 EST 2006
+
+
+
+[[[break]]]changed line 3 from: *orange {code - Implemented sub-wikis using the / markup.
+}*[[[break]]]to: *green {code - Implemented sub-wikis, ..a.k.a. projects, using a hyphen as the project separator --- for example, Wombats-Cuddling.
+}*
+----
+Fri Feb 10 00:53:09 EST 2006
+
+
+
+[[[break]]]added at line 3: *lime {code - The HTML which renders email addresses is now (minimally) obfuscated, to thwart simple web-scraping programs run by spammers.  Thanks to Toby Handfield for this idea.
+}*
+----
+Tue Nov 29 18:01:45 EST 2005
+
+
+
+[[[break]]]added at line 2: *lime {code - Implemented sub-wikis using the / markup.
+}*
+----
+Wed Nov 23 09:35:25 EST 2005
+
+
+
+[[[break]]]added at line 1: *lime {code - Re-fixed a few bugs that had crept back in.
+}*
+----
+Tue Nov 22 21:20:32 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code *version 0.941 alpha*
+
+}*
+----
+Sun Nov 13 23:20:07 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code *version 0.94 alpha*
+- IoWiki finally works well over high-latency connections.
+
+*version 0.93 alpha*
+- I have no idea what happened to version 0.93.
+
+}*
+----
+Sun Nov 13 23:19:22 EST 2005
+
+
+
+[[[break]]]changed line 3 from: *orange {code an addition
+}*[[[break]]]to: *green {code 
+}*
+----
+Sun Nov 13 23:19:07 EST 2005
+
+
+
+[[[break]]]changed line 3 from: *orange {code 
+}*[[[break]]]to: *green {code an addition
+}*
+----
+Mon Sep 26 19:00:07 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code *version 0.92 alpha*
+- You can now have links to HTTPS URLs.
+
+}*[[[break]]]changed line 44 from: *orange {code * URLs can now include symbols which otherwise would be markup symbols — e.g., http://en.wikipedia.org/wiki/Unicode_and_HTML.
+}*[[[break]]]to: *green {code * URLs can now include symbols which otherwise would be markup symbols ? e.g., http://en.wikipedia.org/wiki/Unicode_and_HTML.
+}*
+----
+Thu May 12 09:44:49 EST 2005
+
+
+
+[[[break]]]changed line 4 from: *orange {code - You can now use hyphens to introduce dot points instead of (or as well as) asterisks, to make the shift key needed less often (on most keyboards). 
+}*[[[break]]]to: *green {code - The preferred symbol for introducing dot points is now a hyphen instead of an asterisk.  Asterisks still work, but that's undocumented.  There are good reasons for the change, but I can't be bothered to type them up.
+}*
+----
+Tue May 10 14:43:56 EST 2005
+
+
+
+[[[break]]]changed line 2 from: *orange {code - Added email notification of changes.  See the initialisation file for options.
+}*[[[break]]]to: *green {code - Added email notification of changes.  See ..initialisation.io for options.
+}*
+----
+Tue May 10 14:43:44 EST 2005
+
+
+
+[[[break]]]added at line 1: *lime {code - Added email notification of changes.  See the initialisation file for options.
+}*
+----
+Sun May  1 13:17:58 EST 2005
+
+
+
+[[[break]]]changed line 5 from: *orange {code - Fixed a bug which was causing crashes when an ?action URL asked for an unknown action.
+- Fixed a bug with ?action=fillCache.
+}*[[[break]]]to: *green {code - Fixed a bug which was causing crashes when an ?action= URL asked for an unknown action.
+}*
+----
+Tue Apr 26 11:19:47 EST 2005
+
+
+
+[[[break]]]changed line 2 from: *orange {code * The recent changes page is now persistent.  (The maximum length of the recent changes list is set in the initialisation files.)  This is an important change, because it means that the wiki can easily be checked for changes over long periods of time even though the program's still a bit unstable.
+}*[[[break]]]to: *green {code - The recent changes page is now persistent.  (The maximum length of the recent changes list is set in the initialisation files, so it doesn't grow forever.  Log rotation?  Ugh.  Too complicated.)  This is an important change, because it means that the wiki can easily be checked for changes over long periods of time even though the program's still a bit unstable.
+}*[[[break]]]changed line 4 from: *orange {code * I've removed the ability to pre-cache a whole site.  It was buggy, and I now think it's unnecessary: if you want the whole site to live in memory, just put it on a RAM disk.
+* Fixed a bug which was causing crashes when an ?action URL asked for an unknown action.
+* Fixed a bug with ?action=fillCache.
+* Fixed a bug in line breaks in the page history display.
+* Fixed a bug which was preventing hotlinking of ``(WikiWord''.
+}*[[[break]]]to: *green {code - I've removed the ability to pre-cache a whole site.  It was buggy, and I now think it's unnecessary: if you want the whole site to live in memory, just put it on a RAM disk.
+- Fixed a bug which was causing crashes when an ?action URL asked for an unknown action.
+- Fixed a bug with ?action=fillCache.
+- Fixed a bug in line breaks in the page history display.
+- Fixed a bug which was preventing hotlinking of ``(WikiWord''.
+}*
+----
+Tue Apr 26 11:09:27 EST 2005
+
+
+
+[[[break]]]added at line 2: *lime {code - You can now use hyphens to introduce dot points instead of (or as well as) asterisks, to make the shift key needed less often (on most keyboards). 
+}*
+----
+Thu Apr 14 21:39:42 EST 2005
+
+
+
+[[[break]]]changed line 7 from: *orange {code * Fixed a bug which was preventing hotlinking in ``(WikiWord''.
+}*[[[break]]]to: *green {code * Fixed a bug which was preventing hotlinking of ``(WikiWord''.
+}*
+----
+Thu Apr 14 21:39:19 EST 2005
+
+
+
+[[[break]]]changed line 7 from: *orange {code * Fixed a bug which was preventing hotlinking in (WikiWord).
+}*[[[break]]]to: *green {code * Fixed a bug which was preventing hotlinking in ``(WikiWord''.
+}*
+----
+Thu Apr 14 21:39:09 EST 2005
+
+
+
+[[[break]]]added at line 6: *lime {code * Fixed a bug which was preventing hotlinking in (WikiWord).
+}*
+----
+Wed Apr 13 15:12:48 EST 2005
+
+
+
+[[[break]]]added at line 2: *lime {diff * I've removed the ability to pre-cache a whole site.  It was buggy, and I now think it's unnecessary: if you want the whole site to live in memory, just put it on a RAM disk.
+}*

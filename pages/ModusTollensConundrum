@@ -1,0 +1,41 @@
+A Random Interesting Conundrum......
+
+
+P1:  If a modus tollens argument has true premises, then it is sound. 
+P2:  The argument is unsound 
+C:   Therefore, its premises are false.
+
+(The above argument is not my own, but was taken from some internet site ages ago when I was looking up random stuff.  Unfortunately I can’t remember which site, but I suspect that it was from Wikipedia.)
+
+What is going on here?
+
+Modus Tollens arguments are deductively valid.  So for the argument above to be sound, then the premises must be true.
+
+P2 is true, if the argument is unsound.  But for the argument to be unsound then (since it is presumably valid), one of the premises must be false.
+
+P1 is true (seemingly).
+
+P2 cannot be false since, for it to be false the argument must be sound.  But the argument cannot be sound whilst P2 is false.  
+Hence it is logically impossible for P2 to be false.  
+So, P2 must be true.
+
+If the premises are true and the argument is deductively valid, then the truth of the conclusion should be guaranteed.  But C is seemingly false.
+
+How intriguing!
+Does anyone have any thoughts?  
+Is this just a version of the liar or does it involve additional issues? 
+
+Cool - My first edit!
+EmilyBye
+
+
+*green It's a very nice argument.  I _think_ it's a version of the liar and doesn't involve any additional issues.  I wonder whether there's a simple definition of what counts as a version of the liar and what doesn't.  Not sure.  
+
+This has made me think about classifying paradoxes in general.  I guess the most important issue is the one you've already raised: does paradox A raise new issues over and above those raised by paradox B?  (And in this case I think it probably doesn't ... although I'm not a professional logician, so I might ask around about this.)
+
+I expect that a few things have been written on classifying paradoxes.  The only one I know that says anything non-obvious is Graham Priest, _Beyond the Limits of Thought_, which you can get in the library:* *blue SS&H BC199.L54 P75 1995*. .Jason
+
+
+Ps. How do you do colors?
+
+*orange Here's* *red how* *fawn you* *blue do* *pink colours*.  *green Edit this page to see how I did that, and/or see the link on the right called "Instructions" for more details.*

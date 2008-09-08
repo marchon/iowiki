@@ -1,0 +1,46 @@
+In FreeBSD 7, the instructions which are currently given all over the place, including in the current version of the FreeBSD handbook, don't work because {code mount_devfs} doesn't exist any more.  You have to replace {code mount_devfs} with {code mount -t devfs}.  It says this in {code man jail}, but it's easy to miss.
+----
+Jail environment sshd
+
+To start sshd in the jail environment, add the following line to /etc/rc.conf:
+{code
+    sshd_enable="YES" 
+}
+----
+Running the jail with its daemons:
+
+{code ifconfig vr0 inet alias 209.146.250.44/32
+mount -t procfs proc /usr/jails/alpha/proc
+jail /usr/jails/alpha alpha.xeny.net 209.146.250.44 /bin/sh /etc/rc
+}
+
+... but you don't need this with ezjail ... except maybe the first line.
+----
+To make a new jail with ezjail (once you've done all the initial config, which I have):
+
+{code ezjail-admin create -f xeny fully-qualified-hostname dns-address}
+
+(the ``-f xeny'' bit is to use my local flavour)
+
+then run it: 
+
+{code /usr/local/etc/rc.d/ezjail.sh start}
+
+start a shell in it:
+
+{code jls}
+{code jexec <jail number> sh} or {code jexec <jail number> bash} or {code jexec <jail number> fish}
+
+_and change the root password_
+----
+If you need ports in the a new jail (which you probably do):
+
+{code cd /usr/local/
+
+fetch ftp://ftp.freebsd.org/pub/FreeBSD/ports/ports/ports.tar.gz
+
+tar xfz ports.tar.gz
+
+rm ports.tar.gz 
+}
+

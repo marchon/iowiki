@@ -1,0 +1,62 @@
+
+----
+
+
+
+[[[break]]]changed line 25 from: *orange {code *orange Greg, I'm not sure what you mean by 'makes it actually random'. As far as I can tell randomisation is always a matter making do with what one has. It seems to me that gathering a sample and 'randomising' the grouping within a sample are distinct processes. In terms of plain english I think that randomised-good would mean; randomised as effectively as can be expected given the constaints imposed by the nature of the sample (not just its size but other factors such as unknown and thus uncomputed variables). Even if the heirarchy is in legislation it seems to me that there are problems with the plain english meaning of 'random'. Random is difficult to define and if random is ambiguous, then randomised-good is likely to be ambiguous too. In my view, it seems that nothing is 'ideally random', therefore all randomisation will fail to some extent. If an acceptable extent of randomness is not clearly stipulated then it follows that 'properly randomised' is ambiguous, and thus problematic if used as part of a guideline ranking evidence in terms of usefulness. Even if 'properly randomised' is clearly stipulated, it would need to include stipulations about the nature of samples which would be suitable candidates for 'proper randomisation', otherwise tiny samples are in.
+}*[[[break]]]to: *green {code *orange Greg, I'm not sure what you mean by 'makes it actually random'. As far as I can tell (which probably isn't very far), randomisation (in RCTs) is always a matter of making the best of what one has - nothing is ideally random. 
+
+In terms of plain english I think that randomised-good would mean; randomised as effectively as can be expected given the constaints imposed by the nature of the sample (not just its size but other factors such as unknown and thus uncomputed variables). 
+
+It seems to me that gathering a sample and 'randomising' the grouping within a sample are distinct processes. Even if the heirarchy is in legislation it seems to me that there are problems with the plain english meaning of 'random'. Random is difficult to define and if random is ambiguous, then randomised-good is likely to be ambiguous too. In my view, with regard to RCTs, it seems that nothing is 'ideally random', therefore all randomisation will fail to some extent. If an acceptable extent of randomness is not clearly stipulated then it follows that 'properly randomised' is ambiguous, and thus problematic if used as part of a guideline ranking evidence in terms of usefulness. Even if the meaning of 'properly randomised' is clearly stipulated, it would need to include stipulations about the nature of samples which would be suitable candidates for 'proper randomisation', otherwise tiny samples are in. I think...
+}*
+----
+
+
+
+[[[break]]]added at line 23: *lime {code 
+*orange Greg, I'm not sure what you mean by 'makes it actually random'. As far as I can tell randomisation is always a matter making do with what one has. It seems to me that gathering a sample and 'randomising' the grouping within a sample are distinct processes. In terms of plain english I think that randomised-good would mean; randomised as effectively as can be expected given the constaints imposed by the nature of the sample (not just its size but other factors such as unknown and thus uncomputed variables). Even if the heirarchy is in legislation it seems to me that there are problems with the plain english meaning of 'random'. Random is difficult to define and if random is ambiguous, then randomised-good is likely to be ambiguous too. In my view, it seems that nothing is 'ideally random', therefore all randomisation will fail to some extent. If an acceptable extent of randomness is not clearly stipulated then it follows that 'properly randomised' is ambiguous, and thus problematic if used as part of a guideline ranking evidence in terms of usefulness. Even if 'properly randomised' is clearly stipulated, it would need to include stipulations about the nature of samples which would be suitable candidates for 'proper randomisation', otherwise tiny samples are in.
+
+Hamish*
+}*
+----
+Fri Mar 14 00:26:22 EST 2008
+
+
+
+[[[break]]]added at line 13: *lime {code 
+I have a bit of a legal issue with our discussion of the evidence hierarchy. Specifically with the concept of 'properly randomised'. From what I gather from the class, 'properly randomised' is a technical maths term referring to some kind of process, method or formula for making something random.
+
+That's nice, but if this stuff is contained in legislation or subordinate legislation, the rules to statutory interpretation step in. They say that terms can only be given a technical meaning if an 'plain English' meaning fails for some reason (or the act defines the technical term).
+
+The plain English meaning of 'properly randomised' is 'randomised-good'. Randomised in a way that makes it actually random. So the absurdly small sample-space example wouldn't be 'properly randomised' by my mind. Even if it is sufficient for a technical definition.
+
+If the hierarchy is written in anything other than legislation I don't have a problem. 
+
+-Greg.Sadler
+}*
+----
+Tue Mar  4 21:20:38 EST 2008
+
+
+
+[[[break]]]added at line 12: *lime {code Lorenzo White. 
+}*
+----
+Tue Mar  4 20:52:57 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code YOYOYO My name is Lorenzo (tall person, often up the front). 
+I have a friend whose dad works in the department of health and ageing and, after an interesting discussion about issues raised in today's lecture, he pointed me towards the evidence hierarchy used by the Australian Government (specifically the Dept. Of Health and Ageing). He mentioned that one of the problems with all this stuff (esp. getting the OK for new chems to put on the market) is that often government ministers and senior bureaurocrats have an agenda that is influenced by powerful pharmaceutical lobbies and industry groups. So the poor people on the barricades at the TGA and similar government departments must face pressure not only from corporations and industry heavy weights but also from their own administration. Therein I think lays the problem with all this stuff. Just as Lewontin points out the social and political causes of disease, i maintain that as long as we organise ourselves into a system in which profits and private industry are considered more important than the social function of government, even the best evidence hierarchy will have only a minimal impact on public health and medical outcomes. As Jason said today, the opinions of powerful people on committees often carry much more sway than the evidence. Instead of just taking panadol we have to pull the rotten tooth out at the root and think about which aspects of our political and economic organisation lead to the sorts of situations that my friend's dad was talking about (and of course how to address them!)
+
+Anyway here is the link: 
+
+http://www.aodgp.gov.au/internet/main/publishing.nsf/Content/pbacguidelines-index~pbacguidelines-part3~pbacguidelines-part3_d
+
+The actual hierarchy is about half way down, you have to wade through a bit of un-language (bureaurocrat speak) to get there. A classic example of this un-information is the justification for why the sorts of evidence at the top (level 1) of the hierarchy are preferred: 
+
+"This source of evidence is most preferred because it maximises both internal validity by directly measuring effectiveness in a scientifically rigorous study design and external validity by examining dosing practices that reflect regular clinical practice. The design allows the equi-effective doses to emerge from the different dose-response curves reflecting different potencies."
+
+Yuck!
+}*

@@ -1,0 +1,49 @@
+
+----
+
+
+
+[[[break]]]changed line 1 from: *orange {code See AdamHomePage .
+}*[[[break]]]to: *green {code See AdamHomePage.
+}*
+----
+Sun Sep  9 01:58:26 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code See AdamHomePage.
+}*[[[break]]]to: *green {code See AdamHomePage .
+}*
+----
+Sun Sep  9 01:58:14 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code redirect://AdamHomePage
+}*[[[break]]]to: *green {code See AdamHomePage.
+}*
+----
+Tue May 30 16:05:03 EST 2006
+
+
+
+[[[break]]]deleted at line 1: *red {code See AdamHomePage.
+
+----
+
+Adam, if you want AdamLaCaze to automatically go to your home page, replace everything on this page with the following, which must start right at the beginning of the page:
+
+}*
+----
+Tue Mar 28 20:19:17 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code See AdamHomePage.
+
+----
+
+Adam, if you want AdamLaCaze to automatically go to your home page, replace everything on this page with the following, which must start right at the beginning of the page:
+
+redirect://AdamHomePage
+}*

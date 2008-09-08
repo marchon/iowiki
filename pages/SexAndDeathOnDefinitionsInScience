@@ -1,0 +1,25 @@
+We brushed on the more general idea of definitions when discussing the definition of gene and the following question was raised:
+
+Why can't we just choose a definition and run with it?
+
+I argue that we can. One of the wonderful things about today is that we no longer use a hammer and chisel to write things down. Things aren't set in stone.
+
+The following pattern is familiar to anyone who has studied mathematics:
+
+definition, lemma, lemma, theorem, corollary, corollary -> repeat
+
+And this works (to a fairly good degree). A definition of some phenomenon is decided upon, and then its properties are studied. The problem is that definitions in science are more fluid, because we didn't invent this universe (to the best of our knowledge). We did however invent mathematics, so we can take the definition that we like and discover the properties as we like to. The universe is a little different in that we have to shape our definitions to our observations.
+
+It doesn't always work so nicely in mathematics, however. Here's a good example from abstract algebra:
+
+There is an argument over the definition of a ring (http://mathworld.wolfram.com/Ring.html). A lot of people think that the most general definition of a ring is not as useful as the definition that always includes a multiplicative identity. Why? Because most of the rings we're actually interested in do, and always having to qualify the idendity is irritating to us good mathematicians (a good mathematician is a lazy mathematician). So we might as well have the less general definition of ring for our everyday studies of them.
+
+This sort of conclusion about ring theory could really only have been thought about after some considerable exploration of the phenomenon. Actually historically, people were doing ring theory  for ages before a definition was thought about and even before they even thought about what rings are (and so have all of you, assuming you went to primary school and high school), but more recently my statement is pretty true and provides a good example in a way, of what my actual point is.
+
+In science as in mathematics (forget Godel for a little while) I think it is important that we work in a consistent framework. If we don't agree about our fundamentals, our definitions and basic theories, then we cannot make much progress past this point as less fundamental theories may be inconsistent with each other.
+
+I think the real challenge is not being too attached to any definition in science, as new evidence is bound to force us to change our minds about our definition.
+
+Stuart
+
+----

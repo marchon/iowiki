@@ -1,0 +1,574 @@
+
+----
+2008-08-22 14:05:35 EST
+
+
+
+[[[break]]]changed line 132 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RssFeeds'>RSS</a><br><a href='../RecentChanges'>Recent Changes</a> 
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a> 
+}*
+----
+2008-08-12 21:55:36 EST
+
+
+
+[[[break]]]changed line 132 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a>
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RssFeeds'>RSS</a><br><a href='../RecentChanges'>Recent Changes</a> 
+}*
+----
+2008-08-07 04:52:46 EST
+
+
+
+[[[break]]]changed line 132 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RssFeeds'>RSS</a><br><a href='../RecentChanges'>Recent Changes</a>
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a>
+}*
+----
+2008-08-07 00:08:15 EST
+
+
+
+[[[break]]]changed line 132 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RssFeeds'>RSS Feeds</a><br><a href='../RecentChanges'>Recent Changes</a>
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RssFeeds'>RSS</a><br><a href='../RecentChanges'>Recent Changes</a>
+}*
+----
+2008-08-07 00:07:51 EST
+
+
+
+[[[break]]]changed line 132 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a>
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RssFeeds'>RSS Feeds</a><br><a href='../RecentChanges'>Recent Changes</a>
+}*
+----
+2008-05-25 19:23:00 EST
+
+
+
+[[[break]]]changed line 32 from: *orange {code 	border:dotted;
+}*[[[break]]]to: *green {code 	border:1px dotted;
+}*
+----
+2008-05-25 19:21:37 EST
+
+
+
+[[[break]]]changed line 32 from: *orange {code 	border:none;
+}*[[[break]]]to: *green {code 	border:dotted;
+}*
+----
+
+
+
+[[[break]]]changed line 119 from: *orange {code <a href="#"><img src="ftp://xeny.net/wikipics/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*[[[break]]]to: *green {code <a href="#"><img src="ftp://xeny.net/wikipics/nest.jpg" alt=" " border="0" title="" /></a>
+}*
+----
+
+
+
+[[[break]]]changed line 119 from: *orange {code <a href="#"><img src="http://www.tumble.tk/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*[[[break]]]to: *green {code <a href="#"><img src="ftp://xeny.net/wikipics/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*
+----
+Wed Mar 19 11:34:40 EST 2008
+
+
+
+[[[break]]]changed line 128 from: *orange {code <a href='../IoWikiInstructions'>Help</a>
+}*[[[break]]]to: *green {code <a href='../Help'>Help</a>
+}*
+----
+Mon Mar 17 19:56:23 EST 2008
+
+
+
+[[[break]]]changed line 128 from: *orange {code <a href='../IoWikiInstructions'>Instructions</a>
+}*[[[break]]]to: *green {code <a href='../IoWikiInstructions'>Help</a>
+}*
+----
+Mon Mar 17 19:55:23 EST 2008
+
+
+
+[[[break]]]added at line 126: *lime {code <PAGE HISTORY BUTTON><br>
+}*[[[break]]]deleted at line 131: *red {code <PAGE HISTORY BUTTON>
+
+<br><br>
+						
+}*
+----
+Mon Mar 17 19:54:17 EST 2008
+
+
+
+[[[break]]]changed line 126 from: *orange {code <EDIT BUTTON><br><PAGE HISTORY BUTTON>
+}*[[[break]]]to: *green {code <EDIT BUTTON><br>
+<a href='../IoWikiInstructions'>Instructions</a>
+
+<br><br>
+
+<PAGE HISTORY BUTTON>
+}*[[[break]]]changed line 134 from: *orange {code <a href='../IoWikiInstructions'>Instructions</a><br><a 
+}*[[[break]]]to: *green {code <a 
+}*
+----
+Fri Feb 29 17:31:13 EST 2008
+
+
+
+[[[break]]]added at line 21: *lime {code 	text-align: center;
+}*[[[break]]]added at line 64: *lime {code 	text-align: left;
+}*
+----
+Sun Feb 24 17:25:00 EST 2008
+
+
+
+[[[break]]]changed line 20 from: *orange {code 	line-height:140%;
+}*[[[break]]]to: *green {code 	line-height:160%;
+}*[[[break]]]changed line 100 from: *orange {code 	line-height:20px;
+}*[[[break]]]to: *green {code 	line-height:25px;
+}*
+----
+Sun Feb 24 17:23:17 EST 2008
+
+
+
+[[[break]]]changed line 20 from: *orange {code 	font-size:140%;
+}*[[[break]]]to: *green {code 	line-height:140%;
+}*
+----
+Sun Feb 24 17:22:41 EST 2008
+
+
+
+[[[break]]]added at line 19: *lime {code 	font-size:140%;
+}*
+----
+Wed Jan 30 17:59:00 EST 2008
+
+
+
+[[[break]]]changed line 34 from: *orange {code 	font-family:Belle, Bell, Soutane, Souvenir, Georgia, "Times New Roman", Times, serif;
+}*[[[break]]]to: *green {code 	font-family:Soutane, Souvenir, Georgia, "Times New Roman", Times, serif;
+}*
+----
+Mon Dec 10 11:35:51 EST 2007
+
+
+
+[[[break]]]added at line 41: *lime {code em {
+	font-weight:bold;
+}
+
+}*
+----
+Tue Sep 25 02:48:12 EST 2007
+
+
+
+[[[break]]]changed line 119 from: *orange {code <EDIT BUTTON><br><RESTORE PREVIOUS VERSION BUTTON><br><PAGE HISTORY BUTTON>
+}*[[[break]]]to: *green {code <EDIT BUTTON><br><PAGE HISTORY BUTTON>
+}*
+----
+Mon Sep 24 20:52:18 EST 2007
+
+
+
+[[[break]]]changed line 119 from: *orange {code <EDIT BUTTON><br><PAGE HISTORY BUTTON><br><RESTORE PREVIOUS VERSION BUTTON>
+}*[[[break]]]to: *green {code <EDIT BUTTON><br><RESTORE PREVIOUS VERSION BUTTON><br><PAGE HISTORY BUTTON>
+}*
+----
+Mon Sep 24 20:39:08 EST 2007
+
+
+
+[[[break]]]changed line 123 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a></p>
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a>
+}*
+----
+Mon Sep 24 20:29:04 EST 2007
+
+
+
+[[[break]]]deleted at line 129: *red {code 
+<br><br><br>
+
+NEWS: <a href="http://xeny.net/server.crashes.largely.eliminated">server crashes largely eliminated</a>
+}*
+----
+Fri Sep 14 05:08:19 EST 2007
+
+
+
+[[[break]]]changed line 132 from: *orange {code NEWS: <a href="http://xeny.net/server.crashes.largely.eliminated">server crashes largely eliminated?</a>
+}*[[[break]]]to: *green {code NEWS: <a href="http://xeny.net/server.crashes.largely.eliminated">server crashes largely eliminated</a>
+}*
+----
+Sun Sep  9 02:56:19 EST 2007
+
+
+
+[[[break]]]changed line 4 from: *orange {code <!-- Template copyright 2005 by Jason Grossman.  Thanks to James Koster and Dave Shea for inspiration. -->
+}*[[[break]]]to: *green {code <!-- Template copyright 2005-7 by Jason Grossman.  Thanks to James Koster and Dave Shea for inspiration. -->
+}*
+----
+Sun Sep  9 02:51:09 EST 2007
+
+
+
+[[[break]]]changed line 130 from: *orange {code <br><br>
+}*[[[break]]]to: *green {code <br><br><br>
+}*
+----
+Sun Sep  9 02:50:49 EST 2007
+
+
+
+[[[break]]]changed line 132 from: *orange {code news: server.crashes.largely.eliminated?
+}*[[[break]]]to: *green {code news: <a href="http://xeny.net/server.crashes.largely.eliminated">server crashes largely eliminated?</a>
+}*
+----
+Sun Sep  9 02:49:49 EST 2007
+
+
+
+[[[break]]]added at line 128: *lime {code 
+<br><br>
+
+news: server.crashes.largely.eliminated?
+}*
+----
+Thu Jul  5 19:05:41 EST 2007
+
+
+
+[[[break]]]changed line 123 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes (Site 
+History)</a></p>
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a></p>
+}*
+----
+Mon Apr 23 00:20:17 EST 2007
+
+
+
+[[[break]]]changed line 123 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Site 
+History</a></p>
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes (Site 
+History)</a></p>
+}*
+----
+Sun Apr 22 22:38:08 EST 2007
+
+
+
+[[[break]]]changed line 112 from: *orange {code <a href="#"><img src="http://luddite.cst.usyd.edu.au/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*[[[break]]]to: *green {code <a href="#"><img src="http://www.tumble.tk/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*
+----
+Sun Aug 20 11:10:29 EST 2006
+
+
+
+[[[break]]]changed line 123 from: *orange {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent 
+Changes</a></p>
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Site 
+History</a></p>
+}*
+----
+Mon Jul 10 22:52:31 EST 2006
+
+
+
+[[[break]]]changed line 110 from: *orange {code <body ondblclick="document.location = &quot;SandBox?action=edit&quot;;">
+}*[[[break]]]to: *green {code <body>
+}*
+----
+Sun Jul  9 16:31:34 EST 2006
+
+
+
+[[[break]]]changed line 110 from: *orange {code <body>
+}*[[[break]]]to: *green {code <body ondblclick="document.location = &quot;SandBox?action=edit&quot;;">
+}*
+----
+Thu Jun 22 13:33:28 EST 2006
+
+
+
+[[[break]]]changed line 112 from: *orange {code <a href="#"><img src="http://www.tumble.tk/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*[[[break]]]to: *green {code <a href="#"><img src="http://luddite.cst.usyd.edu.au/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*
+----
+Wed May 10 12:17:08 EST 2006
+
+
+
+[[[break]]]changed line 119 from: *orange {code 						<EDIT BUTTON><br><PAGE HISTORY BUTTON>
+}*[[[break]]]to: *green {code <EDIT BUTTON><br><PAGE HISTORY BUTTON><br><RESTORE PREVIOUS VERSION BUTTON>
+}*
+----
+Tue May  2 21:39:56 EST 2006
+
+
+
+[[[break]]]changed line 111 from: *orange {code 		<div id="title">
+				<a href="#"><img src="http://www.tumble.tk/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+				<h1><PAGE NAME></h1>
+        </div>
+}*[[[break]]]to: *green {code <div id="title">
+<a href="#"><img src="http://www.tumble.tk/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+<h1><PAGE NAME></h1>
+</div>
+}*[[[break]]]changed line 116 from: *orange {code 		<div id="container">
+				<div id="sidebar">
+}*[[[break]]]to: *green {code <div id="container">
+<div id="sidebar">
+}*[[[break]]]added at line 120: *lime {code <br><br>
+						
+}*[[[break]]]added at line 123: *lime {code <br><br>
+
+}*[[[break]]]added at line 125: *lime {code </div>
+}*[[[break]]]added at line 126: *lime {code <div id="content">
+<PAGE TEXT>
+}*[[[break]]]changed line 128 from: *orange {code 				</div>
+				<div id="content">
+				            
+                            <PAGE TEXT>
+                            
+				</div>
+		</div>
+}*[[[break]]]to: *green {code </div>
+</div>
+}*
+----
+Tue May  2 21:38:08 EST 2006
+
+
+
+[[[break]]]changed line 119 from: *orange {code 						<p><EDIT BUTTON><br><PAGE HISTORY BUTTON></p>
+}*[[[break]]]to: *green {code 						<EDIT BUTTON><br><PAGE HISTORY BUTTON>
+}*[[[break]]]changed line 124 from: *orange {code <p><a href='../IoWikiInstructions'>Instructions</a><br><a 
+href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a></p>
+}*[[[break]]]to: *green {code <a href='../IoWikiInstructions'>Instructions</a><br><a 
+href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+}*
+----
+Sun Apr  2 17:34:35 EST 2006
+
+
+
+[[[break]]]changed line 17 from: *orange {code 	margin:10px;
+}*[[[break]]]to: *green {code 	margin:0px;
+}*
+----
+Thu Mar 23 04:06:42 EST 2006
+
+
+
+[[[break]]]changed line 119 from: *orange {code 						<p><EDIT BUTTON></p>
+}*[[[break]]]to: *green {code 						<p><EDIT BUTTON><br><PAGE HISTORY BUTTON></p>
+}*[[[break]]]changed line 121 from: *orange {code                         <p><PAGE HISTORY BUTTON><br><a href='../RecentChanges'>Recent Changes</a></p>
+}*[[[break]]]to: *green {code <p><a href='HomePage'>Site Home</a><br><a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a><br><a href='../IoWikiInstructions'>Instructions</a></p>
+}*[[[break]]]changed line 123 from: *orange {code 						<p><a href='../IoWikiInstructions'>Instructions</a><br><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a></p>
+}*[[[break]]]to: *green {code <p><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a></p>
+}*[[[break]]]deleted at line 125: *red {code <p><a href='HomePage'>Site Home</a><br><a href='SiteContents'>Site Contents</a></p>
+}*
+----
+Wed Mar  8 14:10:50 EST 2006
+
+
+
+[[[break]]]changed line 121 from: *orange {code                         <p><PAGE HISTORY BUTTON></p>
+}*[[[break]]]to: *green {code                         <p><PAGE HISTORY BUTTON><br><a href='../RecentChanges'>Recent Changes</a></p>
+}*[[[break]]]changed line 123 from: *orange {code 						<p><a href='../RecentChanges'>Recent Changes</a></p>
+}*[[[break]]]to: *green {code 						<p><a href='../IoWikiInstructions'>Instructions</a><br><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a></p>
+}*[[[break]]]changed line 125 from: *orange {code 						<p><a href='../IoWikiInstructions'>Instructions</a></p>
+						
+						<p><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a></p>
+
+<p><a href='HomePage'>Site Home</a><br><a href='HomePage'>Site Contents</a></p>
+
+<p><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*[[[break]]]to: *green {code <p><a href='HomePage'>Site Home</a><br><a href='SiteContents'>Site Contents</a></p>
+}*
+----
+Wed Mar  8 13:59:35 EST 2006
+
+
+
+[[[break]]]changed line 127 from: *orange {code 						<p><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a><hr style="height: 1px solid #cccccc"><a href='HomePage'>Site Home</a><br><a href='HomePage'>Site Contents</a>	<hr><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*[[[break]]]to: *green {code 						<p><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a></p>
+
+<p><a href='HomePage'>Site Home</a><br><a href='HomePage'>Site Contents</a></p>
+
+<p><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*
+----
+Wed Mar  8 13:57:39 EST 2006
+
+
+
+[[[break]]]changed line 127 from: *orange {code 						<p><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+<hr><a href='HomePage'>Site Home</a><br><a href='HomePage'>Site Contents</a>	<hr><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*[[[break]]]to: *green {code 						<p><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a><hr style="height: 1px solid #cccccc"><a href='HomePage'>Site Home</a><br><a href='HomePage'>Site Contents</a>	<hr><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*
+----
+Wed Mar  8 13:52:53 EST 2006
+
+
+
+[[[break]]]changed line 127 from: *orange {code 						<p><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a></p>
+				
+<p>Home Pages:<br><a href='HomePage'>Site Home</a><br><a href='HomePage'>Site Contents</a>	<hr><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*[[[break]]]to: *green {code 						<p><a href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+<hr><a href='HomePage'>Site Home</a><br><a href='HomePage'>Site Contents</a>	<hr><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*
+----
+Wed Mar  8 13:52:09 EST 2006
+
+
+
+[[[break]]]changed line 129 from: *orange {code <p><a href='HomePage'>Site Home</a> &mdash; <a href='HomePage'>Site Contents</a>		
+						<p>Personal Home Pages:<br><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*[[[break]]]to: *green {code <p>Home Pages:<br><a href='HomePage'>Site Home</a><br><a href='HomePage'>Site Contents</a>	<hr><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*
+----
+Wed Mar  8 13:51:18 EST 2006
+
+
+
+[[[break]]]changed line 129 from: *orange {code 						<p>Home pages:<br><a href='HomePage'>site</a><br><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*[[[break]]]to: *green {code <p><a href='HomePage'>Site Home</a> &mdash; <a href='HomePage'>Site Contents</a>		
+						<p>Personal Home Pages:<br><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*
+----
+Wed Mar  8 13:47:03 EST 2006
+
+
+
+[[[break]]]changed line 129 from: *orange {code 						<p>Home pages: <a href='HomePage'>site</a> &mdash; <a href='AdamHomePage'>Adam</a> &mdash; <a href='HomePage'>Jason</a></p>
+}*[[[break]]]to: *green {code 						<p>Home pages:<br><a href='HomePage'>site</a><br><a href='AdamHomePage'>Adam</a><br><a href='HomePage'>Jason</a></p>
+}*
+----
+Wed Mar  8 13:46:19 EST 2006
+
+
+
+[[[break]]]changed line 129 from: *orange {code 						<p><a href='../HomePage'>Home</a></p>
+}*[[[break]]]to: *green {code 						<p>Home pages: <a href='HomePage'>site</a> &mdash; <a href='AdamHomePage'>Adam</a> &mdash; <a href='HomePage'>Jason</a></p>
+}*
+----
+Mon Mar  6 10:47:19 EST 2006
+
+
+
+[[[break]]]changed line 20 from: *orange {code 	color:#777777;
+}*[[[break]]]to: *green {code 	color:#666666;
+}*
+----
+Fri Mar  3 14:22:44 EST 2006
+
+
+
+[[[break]]]changed line 20 from: *orange {code 	color:#404040;
+}*[[[break]]]to: *green {code 	color:#777777;
+}*
+----
+Fri Mar  3 14:21:55 EST 2006
+
+
+
+[[[break]]]changed line 20 from: *orange {code 	color:#555555;
+}*[[[break]]]to: *green {code 	color:#404040;
+}*
+----
+Thu Mar  2 21:08:35 EST 2006
+
+
+
+[[[break]]]changed line 19 from: *orange {code 	font-size:5px;
+}*[[[break]]]to: *green {code 	font-size:11px;
+}*
+----
+Thu Mar  2 14:39:02 EST 2006
+
+
+
+[[[break]]]changed line 19 from: *orange {code 	font-size:11px;
+	color:#666666;
+}*[[[break]]]to: *green {code 	font-size:5px;
+	color:#555555;
+}*
+----
+Thu Feb 23 20:13:28 EST 2006
+
+
+
+[[[break]]]changed line 28 from: *orange {code textarea {
+}*[[[break]]]to: *green {code textarea, input,submit {
+}*[[[break]]]deleted at line 30: *red {code 	padding:5px;
+	border:none;
+}
+
+input,submit {
+	color:#666666;
+	padding:5px;
+}*
+----
+Thu Feb 23 20:12:27 EST 2006
+
+
+
+[[[break]]]deleted at line 36: *red {code         height:400px;
+}*
+----
+Thu Feb 23 20:11:03 EST 2006
+
+
+
+[[[break]]]changed line 28 from: *orange {code textarea,input,submit {
+}*[[[break]]]to: *green {code textarea {
+	color:#666666;
+	padding:5px;
+	border:none;
+}
+
+input,submit {
+}*
+----
+Wed Feb 22 18:50:26 EST 2006
+
+
+
+[[[break]]]changed line 114 from: *orange {code 				<a href="#"><img src="http://tumble.tk/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*[[[break]]]to: *green {code 				<a href="#"><img src="http://www.tumble.tk/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*
+----
+Mon Dec 19 10:49:48 EST 2005
+
+
+
+[[[break]]]changed line 114 from: *orange {code 				<a href="#"><img src="http://tumble.tk/nest.jpg" alt="Sitting quietly doing nothing, spring comes and the grass grows by itself" border="0" title="" /></a>
+}*[[[break]]]to: *green {code 				<a href="#"><img src="http://tumble.tk/nest.jpg" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*
+----
+Mon Dec 19 10:48:32 EST 2005
+
+
+
+[[[break]]]changed line 114 from: *orange {code 				<a href="#"><img src="http://tumble.tk/nest.jpg" alt="logo" border="0" title="" /></a>
+}*[[[break]]]to: *green {code 				<a href="#"><img src="http://tumble.tk/nest.jpg" alt="Sitting quietly doing nothing, spring comes and the grass grows by itself" border="0" title="" /></a>
+}*
+----
+Tue Nov 29 10:21:13 EST 2005
+
+
+
+[[[break]]]changed line 125 from: *orange {code 						<p><a href='RecentChanges'>Recent Changes</a></p>
+}*[[[break]]]to: *green {code 						<p><a href='../RecentChanges'>Recent Changes</a></p>
+}*[[[break]]]changed line 127 from: *orange {code 						<p><a href='IoWikiInstructions'>Instructions</a></p>
+}*[[[break]]]to: *green {code 						<p><a href='../IoWikiInstructions'>Instructions</a></p>
+}*[[[break]]]changed line 131 from: *orange {code 						<p><a href='HomePage'>Home</a></p>
+}*[[[break]]]to: *green {code 						<p><a href='../HomePage'>Home</a></p>
+}*

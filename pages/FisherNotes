@@ -1,0 +1,15 @@
+Just some rough and ready notes from a quick scan... not sure I will need them
+
+Intro (p1-24)
+Fisher's statement regarding the 'use' of statistics (i) study of populations; (ii) study of variation; (iii) study of the methods of the reduction of data
+* It seems noteworthy that hypothesis testing; furthering science etc are not mentioned.  Fisher places significance testing under (i).
+
+from p8
+"The statistical examination of a body of data is thus logically simiar tho the genral alternation of inductive and deductive methods throughout the sciences.  A hypothesis is conceived and defined with all necessary exactitude; its logical consequences are ascertained by a deductive argument; these consequences are compared with the available observations' if these are completely in accord with the deductions the hypothesis is justified at least until fresh and more stringest observations are available...
+... The deduction of inferneces respecting samples form assumptions resptecting the populations form which they are drawn, shows us the position in Statistics of the classical Theory of Probability.  For a given population we may claculate the probability with which any given smaple will occur, and if we can solve the purley mathematical problem presented we can calculate the probabiliy of occurrence of any given statistic calculated from such as sample...
+(on the what is wrong with Inverse probability) ...  Inferences respecting populations, from which known samples have been drawn, cannot by this method be expressed in terms of probability, save in those cases in which there is an observational basis for making exact probability statements in advance about the population in question.
+(two para on he then ?strangely *pink [Fisher was a master self-contradictor]* suggests) ... The rejection of the theory of inverse probability was for a time wrongly taken to imply that we cannot draw, from knowledge of a sample, inferences respecting the corresponding population.  Such a view would enteriely deny validity to all experimental science."
+
+* Seems to me that the deductive inference is possible because of the assumptions made in the specification... Does not the suggestion that inductive inference from sample to population is possible also require these same assumptions (and thus become deductive -- in the sense the the first inferences are deductive?)
+-> *green Henry Kyburg has a paper arguing exactly that.  Let me know if you'd like the reference.  Jason*
+*blue Thanks for reading despite my appalling typing (can't believe how much I rely on autocorrect).  Would love the reference, year and journal would be heaps I can track down the rest, Cheers A*

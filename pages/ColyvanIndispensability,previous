@@ -1,0 +1,95 @@
+*What is it?*
+
+An argument for the  existence of mathematical entities.
+
+*Where is found?*
+- Colyvan, M. 2001, The indispensability of mathematics, New York: Oxford University Press.
+- Colyvan, Mark, "Indispensability Arguments in the Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy  (Spring 2008 Edition), Edward N. Zalta (ed.), forthcoming URL = http://plato.stanford.edu/archives/spr2008/entries/mathphil-indis/.
+----
+*The argument (Quine/Putnam)*
+
+_P1_ We ought to have ontological commitment to all and only the entities that are indispensable to our best scientific theories.
+
+_P2_ Mathematical entities are indispensable to our best scientific theories.
+
+_C_ We ought to have ontological commitment to mathematical entities.
+
+_Note:_ Argument form is valid, thus need to  criticise premises and/or general unsatisfactory nature of argument (e.g. doesn't give satisfactory account of maths).
+
+----
+*Why P1?*
+
+Argued for on basis of _confirmational_ holism and naturalism.  Naturalism is used to justify the only part whereas holism is used to justify the all part (on basis that theories are confirmed/disconfirmed as wholes).
+
+
+*Why P2?*
+
+Indispensable := not eliminable _and_ theory resulting from elimination would be unattractive (in terms of empirical success, unifactory, power, simplicity, explanatory power, fertility, etc.).
+
+----
+*Criticisms*
+
+_General_
+
+- Parsons: doesn't account for obviousness of basic math statements.
+
+- Kitcher: doesn't explain _why_ maths is indispensable.
+
+
+_~P1_
+
+- Maddy:
+-> Should not have ontological commitment to _all_ indispensable entities.
+-- Naturalism => respect for working sci. but many such sci. do not adopt realist attitudes to all entities in theories.
+--- Holism is in conflict with this practice but we should side with naturalism and not treat theories as wholes.
+---> *blue I don't know why that counts as siding with naturalism.  (I realise I'm arguing against Colyvan here, not against you, Chris.)  One can be naturalist and holist but anti-realist.* 
+-- Math. parts of theories are generally idealised and thus the entities posited in it should not be treated as real.
+--- Thus indispensability of math to sci. theory does not imply its truth (if one sides with the naturalist over the confirmational holist) and so no implications as to the existence of the math entities involved should be made.
+-- Set theorists do not look to physics (or other applications) when assessing the viability of new candidates for the axioms of  set theory.
+--- Thus holism advocates a revision of standard math practice which seems unsatisfactory.
+
+- Sober:
+-> ~Math. theories sharing empirical support gained by sci. theories.
+-- Theories gain support due to competition with other hypotheses.
+-- Core of math. theories same across all competing sci. theories. 
+-- Thus no competition in case of math. and as such theories cannot be supported through empirical confirmation.
+--- Note: not strictly ~P1 but does negatively impact confirmational holism. 
+---> *blue This is ~P2, isn't it? Jason*
+---> *green I'd have to go to the original to be sure but I don't think that Sober is arguing that  scientific theories could be formulated without maths.  Rather I think his point is that this maths is not unique to each theory and as such one must question any empirical support it is supposed to derive from the confirmation of one particular theory.*
+---> *pink I may be going beyond what Sober meant, but the reason I thought it was ~P2 is this.  From what Sober says, there must be a theory which doesn't have maths in it which would do really badly if compared empirically to scientific theories.  That entails that P2 is false.  Jason*
+
+
+_~P2_
+
+- Field (a type of instrumentalist account): 
+-> Maths not indispensable to science, rather use is pragmatic.
+-- Math theories don't have to be T to be useful, just have to be conservative.
+-- Maths theories used because they make calculations simpler.
+-- Sci theories can be "nominalised" (i.e. constructed without quantification over math entities).
+--- Note: Field has done this for some Newtonian gravitational theory.
+
+----
+*What do I think?*
+
+All of the arguments above seem convincing in their own way.  The committed indispensability realist could always avoid the criticism of Sober and Maddy by arguing that confirmational holism should take precedence over naturalism where the two are in conflict but the rather large revision to scientific and mathematical practice that this would entail must detract significantly from the realist position's appeal.
+
+Additionally, there seems to me to be something strange with a theory that allows for the exist of some mathematical entities (due to their involvement in scientific  theory) and not others when they have both been derived in very similar ways, mathematically speaking.
+
+Furthermore, given the deductive nature of mathematics is one to posit  the existence of all the mathematical entities that are indispensable to the math. theory that is indispensable to a sci. one?  If so, then it seems that this must track back to the various original axioms and thus that one may be able to justify the existence of all mathematical entities on the basis of one math. theory's involvement in a sci. theory.
+---> *blue Excellent question.  I guess Quine's answer would be no: you only posit the entities you actually quantify over.  But I can't see any particular reason to go with Quine on this.  Jason*
+---> *green No, and I think many mathematicians would have significant problems with stopping the reification at just the math entities directly involved in the sci. theory.  This would mean that many of the proofs leading to valuable insights regarding the nature of a real mathematical entity would involve math. entities that were not considered real.*
+--- *pink I hadn't thought of that.  Poof go the proofs. Jason*
+---> *green An additional point may be made with regard to numerical computations involved in the application of a lot of differential equation problems: is it the discrete, numerical version of the math. entity that exists as a result its involvement in a successful sci. theory, or is it the more pure, continuous equation?*
+--- *pink Excellent!  It gets more and more complicated the more you think about how science actually operates.  I'm sure some scientists would give you one answer and other scientists the opposite.  One reason I'm so sure about that is that in some areas of science discrete calculations are easier but in other areas it's actually the other way around.  In statistics, the equations for continuous probability distributions are often much simpler than the equations for the equivalent discrete probability distributions ... and sometimes you end up doing discrete numerical analysis to make everything discrete either way, but sometimes you don't.  So statisticians often make discrete things continuous, in exactly the reverse of what physicists tend to do.  But then: I've got at least one example of a statistician saying that the underlying reality is really discrete!  (Basu 1975, I think)  Jason*
+--- *green A further point regarding the complications of this position just struck me: often there is more than one proof strategy that can be used.  Consider for example the epsilon-delta, sequence, and open set definitions of continuity.  If one is going to allow the existence of the entities posited in proofs, which of these constructions should be posited as real (or should they all)?  What happens in the (possible but maybe not extant) case that a proof has not been formulated in the all of the different ways, should the existence of the mathematical object imply the existence of all the possible proof entities even when they haven't yet been constructed mathematically?*
+
+Possibly a more satisfactory version of the above argument may be constructed by positing the existence of only those entities that are indispensable to the fundamental character of a sci. theory?  In this way perhaps one could maintain a realist position with regard to sci. entities but not math. ones.  Of course, there may be some issues to do with how exactly one would go about determining whether or not an entity was indispensable to the fundamental character of a theory (although these seem surmountable at first anyway).
+---> *blue Really interesting idea.  I'm not sure what you mean by the fundamental character of a theory.  Some examples?  Jason*
+---> *green Damn, I thought I'd done a response to this this morning but I must have hit cancel instead of save!*
+---> *green Anyway, when I came up with this I was thinking about the relation between a sci. theory and a given discipline (e.g. biology, physics, etc. - although one could probably be even more fine grained about it).  If one changes the mathematical entities involved in a sci. theory but does not change any of the sci. entities there is no question of the theory no longer being thought as part of a particular discipline.  However, if one changes the sci. entities while leaving the math. ones intact, this does not seem to be the case.  In this way at least it appears that the sci. entities are more fundamental to the character of a sci. theory.*
+---> *crimson  Right.  That makes sense.  But we're assuming that maths is indispensable here, aren't we?  And you're talking about changing the mathematical entities anyway.  Which is fine; but if that's allowed then all sorts of other things should be allowed too, I guess.  Like changing just some of the scientific entities but not all of them.  Which would typically leave the theory in the same scientific discipline it started off in.  Unless I'm missing something.  This does make my brain hurt a bit.  Jason*
+---> *green My aim (which I was not at all clear about above) with the rejigging of the indispensability stuff was to try to explore a way in which one might be a realist about sci. entities but not math. ones.  Your point about changing only some of the sci. entities is good one though.  I'm not convinced that it's fatal to the argument yet but certainly it requires a response from anyone wanting to argue for sci. realism in this fashion.*
+---> *green As a first thought: perhaps one may argue that it is the broader categories of sci. entities that are real rather than the entities themselves?  (The aim of this would be to make it impossible for a critic to remove one or two sci. entities from a theory at a time.)  This definitely needs more thought though.*
+
+
+ChrisWilcox

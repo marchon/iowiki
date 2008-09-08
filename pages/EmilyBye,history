@@ -1,0 +1,169 @@
+
+----
+Fri Sep 15 12:02:45 EST 2006
+
+
+
+[[[break]]]deleted at line 3: *red {code 
+possible philosophy of biology issue: the contradiction between:
+
+-- the likelihood that the best philosophy of biology story about the emotions says that they have no *fundamentally* normative content
+
+and
+
+-- the fact that lots of people, presumably including philosophers of biology, still think they do (have fundamentally normative content).
+
+_______________________________________________
+
+
+A Random Interesting Conundrum......
+
+
+P1:  If a modus tollens argument has true premises, then it is sound. 
+P2:  The argument is unsound 
+C:   Therefore, its premises are false.
+
+(The above argument is not my own, but was taken from some internet site ages ago when I was looking up random stuff.  Unfortunately I can’t remember which site, but I suspect that it was from Wikipedia.)
+
+What is going on here?
+
+Modus Tollens arguments are deductively valid.  So for the argument above to be sound, then the premises must be true.
+
+P2 is true, if the argument is unsound.  But for the argument to be unsound then (since it is presumably valid), one of the premises must be false.
+
+P1 is true (seemingly).
+
+P2 cannot be false since, for it to be false the argument must be sound.  But the argument cannot be sound whilst P2 is false.  
+Hence it is logically impossible for P2 to be false.  
+So, P2 must be true.
+
+If the premises are true and the argument is deductively valid, then the truth of the conclusion should be guaranteed.  But C is seemingly false.
+
+How intriguing!
+Does anyone have any thoughts?  
+Is this just a version of the liar or does it involve additional issues? 
+
+Cool - My first edit!
+Emily
+Ps. How do you do colors?
+
+
+
+
+
+}*
+----
+Fri Sep 15 12:01:33 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code - philosophy.of.biology.and.normativity
+- modus.tollens.conundrum
+
+}*
+----
+Wed Sep 13 20:15:29 EST 2006
+
+
+
+[[[break]]]added at line 11: *lime {code A Random Interesting Conundrum......
+}*[[[break]]]deleted at line 13: *red {code A Random Interesting Conundrum
+_______________
+}*[[[break]]]changed line 20 from: *orange {code The above argument is not my own, but was taken from some internet site ages ago when I was looking up random stuff.  Unfortunately I can’t remember which site, but I suspect that it was from Wikipedia.
+_______________
+}*[[[break]]]to: *green {code (The above argument is not my own, but was taken from some internet site ages ago when I was looking up random stuff.  Unfortunately I can’t remember which site, but I suspect that it was from Wikipedia.)
+}*[[[break]]]deleted at line 25: *red {code 
+}*[[[break]]]deleted at line 39: *red {code 
+}*[[[break]]]added at line 40: *lime {code Is this just a version of the liar or does it involve additional issues? 
+}*[[[break]]]deleted at line 43: *red {code 
+Ps. How do you do colors?
+
+}*[[[break]]]changed line 47 from: *orange {code _______________________________________________
+}*[[[break]]]to: *green {code Ps. How do you do colors?
+}*
+----
+Tue Sep 12 16:02:21 EST 2006
+
+
+
+[[[break]]]added at line 45: *lime {code Emily
+_______________________________________________
+
+
+
+
+}*
+----
+Tue Sep 12 16:00:21 EST 2006
+
+
+
+[[[break]]]changed line 23 from: *orange {code So, what is going on here?
+}*[[[break]]]to: *green {code What is going on here?
+
+}*[[[break]]]added at line 42: *lime {code Ps. How do you do colors?
+
+}*
+----
+Tue Sep 12 15:55:34 EST 2006
+
+
+
+[[[break]]]added at line 7: *lime {code 
+_______________________________________________
+
+
+
+A Random Interesting Conundrum
+_______________
+
+P1:  If a modus tollens argument has true premises, then it is sound. 
+P2:  The argument is unsound 
+C:   Therefore, its premises are false.
+
+The above argument is not my own, but was taken from some internet site ages ago when I was looking up random stuff.  Unfortunately I can’t remember which site, but I suspect that it was from Wikipedia.
+_______________
+
+So, what is going on here?
+
+Modus Tollens arguments are deductively valid.  So for the argument above to be sound, then the premises must be true.
+
+P2 is true, if the argument is unsound.  But for the argument to be unsound then (since it is presumably valid), one of the premises must be false.
+
+P1 is true (seemingly).
+
+P2 cannot be false since, for it to be false the argument must be sound.  But the argument cannot be sound whilst P2 is false.  
+Hence it is logically impossible for P2 to be false.  
+So, P2 must be true.
+
+If the premises are true and the argument is deductively valid, then the truth of the conclusion should be guaranteed.  But C is seemingly false.
+
+How intriguing!
+
+Does anyone have any thoughts?
+
+Cool - My first edit!
+
+
+}*
+----
+Wed Jul 26 02:52:09 EDT 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code possible philosoophy of biology issue: the contradiction between:
+}*[[[break]]]to: *green {code possible philosophy of biology issue: the contradiction between:
+}*
+----
+Wed Jul 26 02:49:57 EDT 2006
+
+
+
+[[[break]]]added at line 0: *lime {code possible philosoophy of biology issue: the contradiction between:
+
+-- the likelihood that the best philosophy of biology story about the emotions says that they have no *fundamentally* normative content
+
+and
+
+-- the fact that lots of people, presumably including philosophers of biology, still think they do (have fundamentally normative content).
+}*

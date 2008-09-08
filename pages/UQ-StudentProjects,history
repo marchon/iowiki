@@ -1,0 +1,89 @@
+
+----
+Sun Oct 22 00:04:02 EST 2006
+
+
+
+[[[break]]]deleted at line 3: *red {code Dates below are deadlines by which we should have our next catch-up meeting.  .Jason
+}*[[[break]]]changed line 5 from: *orange {code EmilyBye 18 August
+}*[[[break]]]to: *green {code EmilyBye 
+}*[[[break]]]changed line 7 from: *orange {code ZachMcKenzie 18 August
+}*[[[break]]]to: *green {code ZachMcKenzie 
+}*[[[break]]]changed line 9 from: *orange {code SaraLane 18 August
+
+LachlanMcCallum 30 August
+
+MatthewOstwald 30 August
+}*[[[break]]]to: *green {code SaraLane 
+}*
+----
+Fri Aug 11 16:24:13 EST 2006
+
+
+
+[[[break]]]changed line 3 from: *orange {code Dates in plain text are dates on which we had meetings (except that I didn't start recording meetings until 7 August).  Dates in bold are deadlines by which we should have our next catch-up meeting.  .Jason
+}*[[[break]]]to: *green {code Dates below are deadlines by which we should have our next catch-up meeting.  .Jason
+}*[[[break]]]changed line 5 from: *orange {code EmilyBye *18 August*
+}*[[[break]]]to: *green {code EmilyBye 18 August
+}*[[[break]]]changed line 7 from: *orange {code ZachMcKenzie 10 August --- *18 August*
+}*[[[break]]]to: *green {code ZachMcKenzie 18 August
+}*[[[break]]]changed line 9 from: *orange {code SaraLane *18 August*
+}*[[[break]]]to: *green {code SaraLane 18 August
+}*[[[break]]]changed line 11 from: *orange {code LachlanMcCallum *30 August*
+}*[[[break]]]to: *green {code LachlanMcCallum 30 August
+}*[[[break]]]changed line 13 from: *orange {code MatthewOstwald *30 August*
+}*[[[break]]]to: *green {code MatthewOstwald 30 August
+}*[[[break]]]changed line 15 from: *orange {code ThomasShanahan *30 August*
+}*[[[break]]]to: *green {code ThomasShanahan 30 August
+}*
+----
+Fri Aug 11 13:10:22 EST 2006
+
+
+
+[[[break]]]changed line 7 from: *orange {code ZachMcKenzie *18 August*
+}*[[[break]]]to: *green {code ZachMcKenzie 10 August --- *18 August*
+}*[[[break]]]added at line 9: *lime {code 
+LachlanMcCallum *30 August*
+
+MatthewOstwald *30 August*
+
+ThomasShanahan *30 August*
+}*
+----
+Mon Aug  7 07:59:17 EDT 2006
+
+
+
+[[[break]]]changed line 7 from: *orange {code ZachMackenzie *18 August*
+}*[[[break]]]to: *green {code ZachMcKenzie *18 August*
+}*
+----
+Mon Aug  7 01:44:07 EDT 2006
+
+
+
+[[[break]]]changed line 3 from: *orange {code Dates are deadlines by which we should have our next catch-up meeting.  .Jason
+}*[[[break]]]to: *green {code Dates in plain text are dates on which we had meetings (except that I didn't start recording meetings until 7 August).  Dates in bold are deadlines by which we should have our next catch-up meeting.  .Jason
+}*[[[break]]]changed line 5 from: *orange {code EmilyBye
+}*[[[break]]]to: *green {code EmilyBye *18 August*
+}*[[[break]]]changed line 7 from: *orange {code ZachMackenzie
+}*[[[break]]]to: *green {code ZachMackenzie *18 August*
+}*[[[break]]]changed line 9 from: *orange {code SaraLane
+}*[[[break]]]to: *green {code SaraLane *18 August*
+}*
+----
+Mon Aug  7 01:41:30 EDT 2006
+
+
+
+[[[break]]]added at line 0: *lime {code UQ student projects, semester 2, 2006
+
+Dates are deadlines by which we should have our next catch-up meeting.  .Jason
+
+EmilyBye
+
+ZachMackenzie
+
+SaraLane
+}*

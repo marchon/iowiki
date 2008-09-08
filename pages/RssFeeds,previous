@@ -1,0 +1,9 @@
+You can get an RSS feed for recent changes to this site at http://feed43.com/xeny-net-recent-changes.xml.
+
+You can get a feed for my (Jason's) mini-blog at http://feed43.com/tumblelog.xml.
+
+Both feeds update every 6 hours. If you want to know what's going on on the site more frequently than that, use the RecentChanges page, which updates immediately whenever there's a change. (Well, _almost_ whenever there's a change. There are bugs.)
+
+In case you don't know, an RSS feed is an address you give to an RSS reader to let it keep you up to date with changes to a web page or web site. See http://en.wikipedia.org/wiki/Rss for more details. See http://en.wikipedia.org/wiki/List_of_feed_aggregators for a list of programs that can read RSS feeds.
+----
+I'm not absolutely sure that these RSS feeds are working yet.  They were behaving very strangely when I first turned them on, but they seem to be OK now.  Jason

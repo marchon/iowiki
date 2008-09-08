@@ -1,0 +1,62 @@
+
+----
+Wed Dec  5 20:26:45 EST 2007
+
+
+
+[[[break]]]changed line 4 from: *orange {code In addition to commenting on its ostensible sub ject matter, this paper demonstrates the importance, when discussing partial belief, of separating the terminology of mental states and their contents (which I call credences) from the terminology of the mathematical representations of those things (which I call probabilities ). Both of these terms are in common use, of course, but they are normally used as near-synonyms. I show, by example, how they can be put to a better use, to mark a vital distinction between content and representation. 
+}*[[[break]]]to: *green {code In addition to commenting on its ostensible subject matter, this paper demonstrates the importance, when discussing partial belief, of separating the terminology of mental states and their contents (which I call credences) from the terminology of the mathematical representations of those things (which I call probabilities ). Both of these terms are in common use, of course, but they are normally used as near-synonyms. I show, by example, how they can be put to a better use, to mark a vital distinction between content and representation. 
+}*
+----
+Wed Dec  5 20:26:35 EST 2007
+
+
+
+[[[break]]]changed line 4 from: *orange {code In addition to commenting on its ostensible sub ject matter, this paper demonstrates the importance, when discussing partial belief, of separating the terminology of mental states and their contents (which I call credences ) from the terminology of the mathematical representations of those things (which I call probabilities ). Both of these terms are in common use, of course, but they are normally used as near-synonyms. I show, by example, how they can be put to a better use, to mark a vital distinction between content and representation. 
+}*[[[break]]]to: *green {code In addition to commenting on its ostensible sub ject matter, this paper demonstrates the importance, when discussing partial belief, of separating the terminology of mental states and their contents (which I call credences) from the terminology of the mathematical representations of those things (which I call probabilities ). Both of these terms are in common use, of course, but they are normally used as near-synonyms. I show, by example, how they can be put to a better use, to mark a vital distinction between content and representation. 
+}*
+----
+Wed Dec  5 20:26:11 EST 2007
+
+
+
+[[[break]]]changed line 4 from: *orange {code In addition to commenting on its ostensible sub ject matter, this paper demonstrates the importance, when discussing partial belief, of separating the terminology of mental states and their contents (which I call credences ) from the terminology of the mathematical representations of those things 
+(which I call probabilities ). Both of these terms are in common use, of course, but they are normally used as near-synonyms. I show, by example, how they 
+can be put to a better use, to mark a vital distinction between content and representation. 
+}*[[[break]]]to: *green {code In addition to commenting on its ostensible sub ject matter, this paper demonstrates the importance, when discussing partial belief, of separating the terminology of mental states and their contents (which I call credences ) from the terminology of the mathematical representations of those things (which I call probabilities ). Both of these terms are in common use, of course, but they are normally used as near-synonyms. I show, by example, how they can be put to a better use, to mark a vital distinction between content and representation. 
+}*
+----
+Wed Dec  5 20:21:33 EST 2007
+
+
+
+[[[break]]]changed line 11 from: *orange {code You can get the latest draft at ftp://xeny.net/representation.of.credences.pdf.
+}*[[[break]]]to: *green {code You can get the latest draft at ftp://xeny.net/representation-of-credences.pdf.
+}*
+----
+Wed Dec  5 20:20:35 EST 2007
+
+
+
+[[[break]]]changed line 8 from: *orange {code #But
+This paper is currently on the back burner.  Here's the problem.  The standard mathematicians’ argument in favour of using the real numbers willy nilly seems to be that the property of completeness (explained in the paper) is essential. I’m just not sure what to make of this argument. Apart from that, I think the paper is fine, although criticisms are welcome.
+}*[[[break]]]to: *green {code #But...
+...this paper is currently on the back burner.  Here's the problem.  The standard mathematicians’ argument in favour of using the real numbers willy nilly seems to be that the property of completeness (explained in the paper) is essential. I’m just not sure what to make of this argument. Apart from that, I think the paper is fine, although criticisms are welcome.
+}*
+----
+Wed Dec  5 20:20:16 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code #Abstract
+It is often thought that credences must be represented by the real number  system. I give three arguments in favour of this belief, and argue against all of them. In order to prove that there is at least one alternative, I then describe a different way of representing credences.
+ 
+In addition to commenting on its ostensible sub ject matter, this paper demonstrates the importance, when discussing partial belief, of separating the terminology of mental states and their contents (which I call credences ) from the terminology of the mathematical representations of those things 
+(which I call probabilities ). Both of these terms are in common use, of course, but they are normally used as near-synonyms. I show, by example, how they 
+can be put to a better use, to mark a vital distinction between content and representation. 
+
+#But
+This paper is currently on the back burner.  Here's the problem.  The standard mathematicians’ argument in favour of using the real numbers willy nilly seems to be that the property of completeness (explained in the paper) is essential. I’m just not sure what to make of this argument. Apart from that, I think the paper is fine, although criticisms are welcome.
+
+You can get the latest draft at ftp://xeny.net/representation.of.credences.pdf.
+}*

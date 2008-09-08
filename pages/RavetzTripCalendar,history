@@ -1,0 +1,155 @@
+
+----
+Sat Dec 23 05:13:10 EST 2006
+
+
+
+[[[break]]]changed line 2 from: *orange {code --20:00: leave London
+}*[[[break]]]to: *green {code --20:00: leave London Heathrow on Emirates EK4
+}*[[[break]]]added at line 11: *lime {code      (stay at 'Sir Stamford at Circular Quay' Hotel
+}*[[[break]]]changed line 34 from: *orange {code -- 20:00: leave Sydney
+}*[[[break]]]to: *green {code -- 20:00: leave Brisbane on flight EK433
+}*[[[break]]]changed line 37 from: *orange {code -- 06:15: arrive in Dubai
+}*[[[break]]]to: *green {code -- 06:15: arrive in Dubai, stay at Avari Hotel
+}*[[[break]]]changed line 40 from: *orange {code -- 07:45: leave Dubai
+-- 11:35: arrive in London
+}*[[[break]]]to: *green {code -- 07:45: leave Dubai on flight EK 1
+-- 11:35: arrive in London Heathrow
+}*
+----
+Thu Dec 21 15:47:47 EST 2006
+
+
+
+[[[break]]]deleted at line 12: *red {code -- try to catch up with Stephen Healy
+}*
+----
+Thu Dec 14 11:05:53 EST 2006
+
+
+
+[[[break]]]changed line 15 from: *orange {code -- 10.25: QANTAS flight 922 to Cairns
+
+Best to have a room where we can unwind.  We arrive on the 29th, so will need a room for the two nights.  I hope that we will be able to get over the worst of the jetlag on the 29th, and have the 30th for sightseeing,  as the Harbour.
+}*[[[break]]]to: *green {code -- 10.25: fly to Cairns (QANTAS flight 922)
+}*[[[break]]]changed line 20 from: *orange {code -- Barrier Reef or other scenery
+}*[[[break]]]to: *green {code -- Barrier Reef and other Queensland scenery
+}*
+----
+Thu Dec 14 11:05:07 EST 2006
+
+
+
+[[[break]]]changed line 12 from: *orange {code -- try to catch up with Stephen Healy?
+}*[[[break]]]to: *green {code -- try to catch up with Stephen Healy
+
+Sunday 31 December
+-- 10.25: QANTAS flight 922 to Cairns
+
+Best to have a room where we can unwind.  We arrive on the 29th, so will need a room for the two nights.  I hope that we will be able to get over the worst of the jetlag on the 29th, and have the 30th for sightseeing,  as the Harbour.
+}*
+----
+Tue Dec  5 10:27:26 EST 2006
+
+
+
+[[[break]]]changed line 8 from: *orange {code -> 10:00: leave Dubai
+}*[[[break]]]to: *green {code -- 10:00: leave Dubai
+}*[[[break]]]changed line 11 from: *orange {code -> 06:55: arrive in Sydney (flight EK 412)
+-> try to catch up with Stephen Healy?
+}*[[[break]]]to: *green {code -- 06:55: arrive in Sydney (flight EK 412)
+-- try to catch up with Stephen Healy?
+}*[[[break]]]changed line 15 from: *orange {code -> Barrier Reef or other scenery
+}*[[[break]]]to: *green {code -- Barrier Reef or other scenery
+}*[[[break]]]changed line 18 from: *orange {code -> arrive Brisbane? (TBA)
+-> staying at 106 Gladstone Road, Highgate Hill (with many thanks to Paul Griffiths)
+}*[[[break]]]to: *green {code -- arrive Brisbane? (TBA)
+-- staying at 106 Gladstone Road, Highgate Hill (thanks to Paul Griffiths and Karola Stotz)
+}*[[[break]]]changed line 22 from: *orange {code -> 10ish? to 5ish?: evidence workshop
+-> 7ish: workshop dinner
+}*[[[break]]]to: *green {code -- 10ish? to 5ish?: evidence workshop
+-- 7ish: workshop dinner
+}*[[[break]]]changed line 26 from: *orange {code -> 10ish? to 5ish?: evidence workshop
+}*[[[break]]]to: *green {code -- 10ish? to 5ish?: evidence workshop
+}*[[[break]]]changed line 29 from: *orange {code -> discussions on linkage grant
+}*[[[break]]]to: *green {code -- discussions on linkage grant
+}*[[[break]]]changed line 32 from: *orange {code -> 20:00: leave Sydney
+}*[[[break]]]to: *green {code -- 20:00: leave Sydney
+}*[[[break]]]changed line 35 from: *orange {code -> 06:15: arrive in Dubai
+}*[[[break]]]to: *green {code -- 06:15: arrive in Dubai
+}*[[[break]]]changed line 38 from: *orange {code -> 07:45: leave Dubai
+-> 11:35: arrive in London
+}*[[[break]]]to: *green {code -- 07:45: leave Dubai
+-- 11:35: arrive in London
+}*
+----
+Tue Dec  5 09:47:39 EST 2006
+
+
+
+[[[break]]]added at line 16: *lime {code Sun 7 January
+-> arrive Brisbane? (TBA)
+-> staying at 106 Gladstone Road, Highgate Hill (with many thanks to Paul Griffiths)
+}*
+----
+Tue Dec  5 09:46:49 EST 2006
+
+
+
+[[[break]]]changed line 12 from: *orange {code -> try to catch up with Stephen Healy
+}*[[[break]]]to: *green {code -> try to catch up with Stephen Healy?
+
+early January
+-> Barrier Reef or other scenery
+}*
+----
+Tue Dec  5 09:46:19 EST 2006
+
+
+
+[[[break]]]added at line 11: *lime {code -> try to catch up with Stephen Healy
+}*
+----
+Tue Dec  5 09:45:42 EST 2006
+
+
+
+[[[break]]]added at line 13: *lime {code Mon 8 January
+-> 10ish? to 5ish?: evidence workshop
+-> 7ish: workshop dinner
+}*[[[break]]]added at line 14: *lime {code Tue 9 January
+-> 10ish? to 5ish?: evidence workshop
+
+Wed 10 January
+-> discussions on linkage grant
+}*
+----
+Tue Dec  5 09:40:46 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code Tue 26 December
+--20:00: leave London
+
+Wed 27 December
+-- 06:45: arrive in Dubai (stay at the Avari hotel)
+
+Thu 28 December
+-> 10:00: leave Dubai
+
+Fri 29 December
+-> 06:55: arrive in Sydney (flight EK 412)
+
+
+
+
+Thu 11 January
+-> 20:00: leave Sydney
+
+Fri 12 January
+-> 06:15: arrive in Dubai
+
+Sat 13 January
+-> 07:45: leave Dubai
+-> 11:35: arrive in London
+}*

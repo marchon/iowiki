@@ -1,0 +1,30 @@
+
+----
+Fri Sep 14 05:07:44 EST 2007
+
+
+
+[[[break]]]changed line 7 from: *orange {code mailto:Jason@xeny.net
+}*[[[break]]]to: *green {code .Jason
+}*
+----
+Sun Sep  9 02:55:18 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code If you're still getting crashes, please let me know.
+}*[[[break]]]to: *green {code If you're still getting crashes often enough for it to be annoying, please let me know.
+}*
+----
+Sun Sep  9 02:54:29 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code After years of procrastinating, I've finally changed the way this wiki's run so that it shouldn't crash much any more.  Getting rid of crashes completely won't be happening for months if ever (because it would mean rewriting the wiki program from scratch, which would be fun but very time-consuming), but now I think it will crash extremely rarely.
+
+If you're still getting crashes, please let me know.
+
+Thanks.
+
+mailto:Jason@xeny.net
+}*

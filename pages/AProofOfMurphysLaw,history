@@ -1,0 +1,81 @@
+
+----
+Sun Mar 26 19:18:29 EST 2006
+
+
+
+[[[break]]]changed line 18 from: *orange {code *black Failed to Connect
+}*[[[break]]]to: *green {code *Failed to Connect
+}*
+----
+Sun Mar 26 19:18:01 EST 2006
+
+
+
+[[[break]]]changed line 18 from: *orange {code Failed to Connect
+}*[[[break]]]to: *green {code *black Failed to Connect
+}*[[[break]]]changed line 26 from: *orange {code - Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.
+}*[[[break]]]to: *green {code - Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.*
+}*
+----
+Wed Mar  1 22:13:11 EST 2006
+
+
+
+[[[break]]]changed line 3 from: *orange {code correspondence to grow-your-penis-now@tumble.tk
+}*[[[break]]]to: *green {code correspondence to order-viagra-online@tumble.tk
+}*
+----
+Wed Mar  1 18:57:36 EST 2006
+
+
+
+[[[break]]]changed line 15 from: *orange {code The clever maneuvre on which the nub of our proof will be based is this.  Consider subspaces of *V* such that
+}*[[[break]]]to: *green {code The clever manoeuvre on which the nub of our proof will be based is this.  Consider subspaces of *V* such that
+}*
+----
+Wed Mar  1 18:57:01 EST 2006
+
+
+
+[[[break]]]changed line 20 from: *orange {code The connection was refused when attempting to contact tumble.tk.
+}*[[[break]]]to: *green {code The connection was refused when attempting to contact ..tumble.tk.
+}*
+----
+Wed Mar  1 18:56:34 EST 2006
+
+
+
+[[[break]]]added at line 14: *lime {code The clever maneuvre on which the nub of our proof will be based is this.  Consider subspaces of *V* such that
+
+
+Failed to Connect
+----
+The connection was refused when attempting to contact tumble.tk.
+----
+Though the site seems valid, the browser was unable to establish a connection.
+
+- Could the site be temporarily unavailable? Try again later.
+- Are you unable to browse other sites?  Check the computer's network connection.
+- Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.
+}*
+----
+Wed Mar  1 18:52:33 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code Jason Grossman and Neil Halliday
+University of Life
+correspondence to grow-your-penis-now@tumble.tk
+
+# Abstract
+
+Murphy's Law states that what can go wrong will go wrong [Murphy posthum. 1893].  We prove this law from a set of very plausible premises.  First we sketch the proof, and then we provide a rigorous proof; finally, we discuss how the premises might be varied to take into account a number of prominent positions in metaphysics and ethics.
+
+# 1. A sketch of the proof
+
+Let *w* represent a thing which can go wrong.
+
+Let *V* be an arbitrary infinite-dimensional vector space.  Let ||*V*|| be the natural norm (inner product) on *V*.
+
+}*

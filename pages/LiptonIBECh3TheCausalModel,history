@@ -1,0 +1,89 @@
+
+----
+
+
+
+[[[break]]]changed line 30 from: *orange {code -> When one is dealing with the philosophical investigation of the nature of explanation, it could be argued that one is in the broadest possible context (perhaps "the ontological context" might be a good label).  Hence no ..context-based ..cut-off of the ..why-regress is possible and thus a _complete_ explanation must be given.  This is why Lipton's argument above is unsatisfactory in this circumstance (at the very least some argument must be given as to why the philosophical context is not unlimited).
+}*[[[break]]]to: *green {code -> When one is dealing with the philosophical investigation of the nature of explanation, it could be argued that one is in the broadest possible context (perhaps "the ontological context" might be a good label).  Hence no ..context-based {cut-off} of the {why-regress} is possible and thus a _complete_ explanation must be given.  This is why Lipton's argument above is unsatisfactory in this circumstance (at the very least some argument must be given as to why the philosophical context is not unlimited).
+}*
+----
+Thu Mar 20 18:00:57 EST 2008
+
+
+
+[[[break]]]added at line 18: *lime {code 
+This can be clarified by thinking about it in terms of tokens and types: what one requires is the presence of a token of a certain type in the causal history of P and the absence of a token of the same type in the causal history of ~Q.  However, not just any type will do - it must be of relevance to the phenomena to be explained thus giving some account of how the particular token(s) connect with the phenomena.
+
+An additional point that arises out of consideration regarding explanations of these contrastive cases is that in order for contrastive questions to be meaningful, the contrasted phenomena must have a casual history that is similar enough to highlight potentially significant differences.
+
+Finally, Lipton discusses how these contrastive questions can be used in order to conductive some sort of "causal triangulation" with regard to illuminating a more general explanation of the phenomena of interest.
+}*[[[break]]]deleted at line 27: *red {code 
+}*
+----
+Thu Mar 20 17:50:32 EST 2008
+
+
+
+[[[break]]]changed line 18 from: *orange {code 
+}*[[[break]]]to: *green {code The problems of the potential accounts above lead Lipton to postulate a difference condition for appropriate causal contrastive explanations: to explain "why P rather than Q", one must cite a causal difference between P and ~Q consisting of a cause of P and a correspondence absence of a similar cause in the case of ~Q.
+}*[[[break]]]added at line 25: *lime {code - In scientific circumstances, does one ever really need to deal at the level of general explanation?
+
+}*
+----
+Thu Mar 20 17:46:34 EST 2008
+
+
+
+[[[break]]]changed line 8 from: *orange {code Next, Lipton points out that the causal model is too weak as it stands (e.g. the big bang may be pointed to as a cause of everything - but this is not a very good explanation), one needs to give some account of how one selects causes to be used in explanations.  As a first step to doing this Lipton points out that a lot of the time we are only concerned with _contrastive explanations_, i.e. answers to questions of the form "why this rather than that?"
+}*[[[break]]]to: *green {code Next, Lipton points out that the causal model is too weak as it stands (e.g. the big bang may be pointed to as a cause of everything - but this is not a very good explanation), one needs to give some account of how one selects causes to be used in explanations.  As a first step to doing this Lipton points out that a lot of the time we are only concerned with _contrastive explanations_, i.e. answers to questions of the form "why this rather than that?" (Where the "this" term is referred to as the "fact" and the "that" term as the "foil".)
+
+As the fact and the foil are not necessarily logically incompatible and explaining a contrast is sometimes harder and sometimes easier than explaining a fact on its own, one cannot merely reduce the contrastive to the non-contrastive (although it may be possible to go the other way and represent the general explanatory case as "why P rather than ~P?).
+
+How then is one to give a causal account of explanation with regard to these contrastive questions.  
+
+Lewis postulates an explanation based on citing differences in the causal histories of the contrasted events.  However, this doesn't rule out causal explanations that aren't actually all that explanatory. 
+
+Another possibility is to select explanatory causes that raise the probability of the fact without raising the probability of the foil.  Unfortunately, this is rather too explanatorily permissive.
+}*
+----
+Thu Mar 20 16:20:04 EST 2008
+
+
+
+[[[break]]]changed line 14 from: *orange {code 
+}*[[[break]]]to: *green {code - I had a clarifying discussion regarding Lipton's ..why-regress ..cut-off today in respect to the way it relates to the infinite ..why-regress argument aimed against those who postulate the existence of universals.
+-> The key consideration to come out of the discussion was the idea of an explanation context.   Suppose an explanation is given in a certain context, explaining crop failure by appeal to a drought to a child for instance.  Then it seems reasonable that one may cut off the ..why-regress when further explanation would require answering questions no longer appropriate to the context (the postulation of quarks for example). Thus different contexts may require that explanations of the same phenomena end at different point along the chain of ..why-regresses.
+-> When one is dealing with the philosophical investigation of the nature of explanation, it could be argued that one is in the broadest possible context (perhaps "the ontological context" might be a good label).  Hence no ..context-based ..cut-off of the ..why-regress is possible and thus a _complete_ explanation must be given.  This is why Lipton's argument above is unsatisfactory in this circumstance (at the very least some argument must be given as to why the philosophical context is not unlimited).
+-- If one accepts the unlimited nature of the philosophical context postulated above, then it seems likely that explanation and inference are one and the same within this context.
+}*
+----
+Thu Mar 20 12:33:33 EST 2008
+
+
+
+[[[break]]]added at line 7: *lime {code Next, Lipton points out that the causal model is too weak as it stands (e.g. the big bang may be pointed to as a cause of everything - but this is not a very good explanation), one needs to give some account of how one selects causes to be used in explanations.  As a first step to doing this Lipton points out that a lot of the time we are only concerned with _contrastive explanations_, i.e. answers to questions of the form "why this rather than that?"
+}*
+----
+Thu Mar 20 12:28:51 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*Summary*
+
+Under the causal model an explanation gives a causal history of the phenomena.  
+
+The first problem that strikes one when considering this model is that the nature of causation is still a active area of philosophical debate.  Hence, supports of the causal model need to argue why this ongoing debate does not negatively impact the validity of the model.  Lipton does this by returning to his response to the potential why-regress: one does not need to explain "all the way down".
+
+
+
+----
+*What do I think?*
+- I'm not entirely sure that I find Lipton's response to concerns regarding the nature of causation satisfying.  Perhaps there is some sort of ..type-token distinction that can be made here?  That is, Lipton's original reponse to the why-regress was satisfactory because it was dealing with an explanatory regress of particular instances of explanation but it fails to satisfy when dealing with the (potential) mechanism of explanation itself.
+
+----
+
+Lipton.IBE
+
+ChrisWilcox
+}*

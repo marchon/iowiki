@@ -1,0 +1,291 @@
+
+----
+2008-08-24 03:26:20 EST
+
+
+
+[[[break]]]added at line 35: *lime {code If you need ports in the a new jail (which you probably do):
+
+{code cd /usr/local/
+
+fetch ftp://ftp.freebsd.org/pub/FreeBSD/ports/ports/ports.tar.gz
+
+tar xfz ports.tar.gz
+
+rm ports.tar.gz 
+}
+
+}*
+----
+Tue Mar 11 01:28:57 EST 2008
+
+
+
+[[[break]]]changed line 32 from: *orange {code {code jexec <jail number> sh}
+}*[[[break]]]to: *green {code {code jexec <jail number> sh} or {code jexec <jail number> bash} or {code jexec <jail number> fish}
+}*
+----
+Tue Mar 11 01:27:49 EST 2008
+
+
+
+[[[break]]]changed line 21 from: *orange {code ezjail-admin create -f xeny fully-qualified-hostname dns-address
+}*[[[break]]]to: *green {code {code ezjail-admin create -f xeny fully-qualified-hostname dns-address}
+}*[[[break]]]changed line 25 from: *orange {code _then run it with {code /usr/local/etc/rc.d/ezjail.sh start} and change the root password_
+}*[[[break]]]to: *green {code then run it: 
+
+{code /usr/local/etc/rc.d/ezjail.sh start}
+
+start a shell in it:
+
+{code jls}
+{code jexec <jail number> sh}
+
+_and change the root password_
+}*
+----
+Tue Mar 11 01:25:33 EST 2008
+
+
+
+[[[break]]]changed line 21 from: *orange {code ezjail-admin create xeny fully-qualified-hostname dns-address
+}*[[[break]]]to: *green {code ezjail-admin create -f xeny fully-qualified-hostname dns-address
+}*[[[break]]]changed line 23 from: *orange {code (the ``xeny'' bit is to use my local flavour)
+}*[[[break]]]to: *green {code (the ``-f xeny'' bit is to use my local flavour)
+}*
+----
+Tue Mar 11 01:23:42 EST 2008
+
+
+
+[[[break]]]changed line 21 from: *orange {code ezjail-admin create fully-qualified-hostname dns-address
+}*[[[break]]]to: *green {code ezjail-admin create xeny fully-qualified-hostname dns-address
+
+(the ``xeny'' bit is to use my local flavour)
+}*
+----
+Tue Mar 11 01:20:15 EST 2008
+
+
+
+[[[break]]]changed line 17 from: *orange {code ... but you don't need this with ezjail.
+}*[[[break]]]to: *green {code ... but you don't need this with ezjail ... except maybe the first line.
+}*
+----
+Tue Mar 11 01:09:38 EST 2008
+
+
+
+[[[break]]]changed line 23 from: *orange {code _then change the root password_
+}*[[[break]]]to: *green {code _then run it with {code /usr/local/etc/rc.d/ezjail.sh start} and change the root password_
+}*
+----
+Tue Mar 11 01:07:12 EST 2008
+
+
+
+[[[break]]]added at line 15: *lime {code 
+... but you don't need this with ezjail.
+----
+To make a new jail with ezjail (once you've done all the initial config, which I have):
+
+ezjail-admin create fully-qualified-hostname dns-address
+
+_then change the root password_
+----
+}*
+----
+Sun Mar  9 22:34:15 EST 2008
+
+
+
+[[[break]]]changed line 1 from: *orange {code In FreeBSD 7, the instructions which are currently given all over the place, including in the current version of the FreeBSD handbook, don't work because {code mount_devfs} doesn't exist any more.  You have to replace {code mount_devfs} with {code mount -t devfs}.
+}*[[[break]]]to: *green {code In FreeBSD 7, the instructions which are currently given all over the place, including in the current version of the FreeBSD handbook, don't work because {code mount_devfs} doesn't exist any more.  You have to replace {code mount_devfs} with {code mount -t devfs}.  It says this in {code man jail}, but it's easy to miss.
+}*
+----
+Sun Mar  9 22:33:35 EST 2008
+
+
+
+[[[break]]]deleted at line 16: *red {code ----
+
+Advice from http://www.troelsjust.dk/?page_id=204.
+
+cd /jails/beta
+
+
+touch /jails/beta/etc/fstab
+
+cp /etc/resolv.conf /jails/beta/etc/resolv.conf
+}
+
+Cat the following into /jails/bet/etc/rc.conf:
+
+{code
+hostname="jail0.example.com"			# Set this!
+ifconfig_em0="inet 10.0.0.20 netmask 255.0.0.0"	# Set the IP address of the jail.
+defaultrouter="10.0.0.1"			# Set to default gateway (or NO).
+clear_tmp_enable="YES"				# Clear /tmp at startup.
+sshd_enable="YES"				# Enable SSH access.
+}
+}*
+----
+Sun Mar  9 22:22:55 EST 2008
+
+
+
+[[[break]]]changed line 14 from: *orange {code jail /usr/jail/alpha alpha.xeny.net 209.146.250.44 /bin/sh /etc/rc
+}*[[[break]]]to: *green {code jail /usr/jails/alpha alpha.xeny.net 209.146.250.44 /bin/sh /etc/rc
+}*
+----
+Sun Mar  9 22:22:32 EST 2008
+
+
+
+[[[break]]]changed line 10 from: *orange {code Getting ready to run the jail with its daemons:
+}*[[[break]]]to: *green {code Running the jail with its daemons:
+}*[[[break]]]changed line 14 from: *orange {code 
+}*[[[break]]]to: *green {code jail /usr/jail/alpha alpha.xeny.net 209.146.250.44 /bin/sh /etc/rc
+}*
+----
+Sun Mar  9 22:21:26 EST 2008
+
+
+
+[[[break]]]changed line 10 from: *orange {code Ethernet
+}*[[[break]]]to: *green {code Getting ready to run the jail with its daemons:
+}*[[[break]]]changed line 12 from: *orange {code {code ifconfig vr0 inet alias 209.146.250.44/32}
+}*[[[break]]]to: *green {code {code ifconfig vr0 inet alias 209.146.250.44/32
+mount -t procfs proc /usr/jails/alpha/proc
+
+}
+}*
+----
+Sun Mar  9 22:20:18 EST 2008
+
+
+
+[[[break]]]changed line 6 from: *orange {code 
+}*[[[break]]]to: *green {code {code
+}*[[[break]]]added at line 7: *lime {code }
+----
+Ethernet
+}*[[[break]]]added at line 8: *lime {code {code ifconfig vr0 inet alias 209.146.250.44/32}
+}*[[[break]]]added at line 9: *lime {code 
+}*
+----
+Sun Mar  9 21:40:56 EST 2008
+
+
+
+[[[break]]]deleted at line 14: *red {code ln -s dev/null kernel
+}*
+----
+Sun Mar  9 21:23:44 EST 2008
+
+
+
+[[[break]]]deleted at line 12: *red {code Execute the following:
+{code 
+
+mkdir -p /usr/jails/beta/dev
+
+mkdir -p /usr/jails/beta/etc
+
+mkdir -p /usr/jails/beta/usr/ports
+
+mkdir -p /usr/jails/beta/usr/src
+
+mkdir -p /usr/jails/beta/usr/tmp
+
+chmod 777 /usr/jails/beta/usr/tmp
+
+sysinstall nonInteractive=yes _ftpPath=ftp://ftp.freebsd.org/pub/FreeBSD mediaSetFTP distSetMinimum installRoot=/jails/beta releaseName=7.0-RELEASE installCommit
+
+}*
+----
+Sun Mar  9 21:10:47 EST 2008
+
+
+
+[[[break]]]added at line 13: *lime {code 
+mkdir -p /usr/jails/beta/dev
+
+mkdir -p /usr/jails/beta/etc
+
+mkdir -p /usr/jails/beta/usr/ports
+
+mkdir -p /usr/jails/beta/usr/src
+
+mkdir -p /usr/jails/beta/usr/tmp
+
+chmod 777 /usr/jails/beta/usr/tmp
+
+}*
+----
+Sun Mar  9 20:58:18 EST 2008
+
+
+
+[[[break]]]changed line 10 from: *orange {code {code sysinstall nonInteractive=yes _ftpPath=ftp://ftp.freebsd.org/pub/FreeBSD mediaSetFTP distSetMinimum installRoot=/jails/beta releaseName=7.0-RELEASE installCommit}
+}*[[[break]]]to: *green {code Advice from http://www.troelsjust.dk/?page_id=204.
+
+Execute the following:
+{code 
+sysinstall nonInteractive=yes _ftpPath=ftp://ftp.freebsd.org/pub/FreeBSD mediaSetFTP distSetMinimum installRoot=/jails/beta releaseName=7.0-RELEASE installCommit
+
+cd /jails/beta
+
+ln -s dev/null kernel
+
+touch /jails/beta/etc/fstab
+
+cp /etc/resolv.conf /jails/beta/etc/resolv.conf
+}
+
+Cat the following into /jails/bet/etc/rc.conf:
+
+{code
+hostname="jail0.example.com"			# Set this!
+ifconfig_em0="inet 10.0.0.20 netmask 255.0.0.0"	# Set the IP address of the jail.
+defaultrouter="10.0.0.1"			# Set to default gateway (or NO).
+clear_tmp_enable="YES"				# Clear /tmp at startup.
+sshd_enable="YES"				# Enable SSH access.
+}
+}*
+----
+Sun Mar  9 20:48:11 EST 2008
+
+
+
+[[[break]]]added at line 7: *lime {code 
+----
+{code sysinstall nonInteractive=yes _ftpPath=ftp://ftp.freebsd.org/pub/FreeBSD mediaSetFTP distSetMinimum installRoot=/jails/beta releaseName=7.0-RELEASE installCommit}
+}*
+----
+Sun Mar  9 18:23:48 EST 2008
+
+
+
+[[[break]]]added at line 1: *lime {code ----
+Jail environment sshd
+
+To start sshd in the jail environment, add the following line to /etc/rc.conf:
+
+    sshd_enable="YES" 
+}*
+----
+Sun Mar  9 18:06:14 EST 2008
+
+
+
+[[[break]]]changed line 1 from: *orange {code In FreeBSD 7, the instructions which are currently given all over the place, including in the current version of the FreeBSD handbook, don't work because mount_devfs doesn't exist any more.  You have to replace mount_devfs with mount -t devfs.
+}*[[[break]]]to: *green {code In FreeBSD 7, the instructions which are currently given all over the place, including in the current version of the FreeBSD handbook, don't work because {code mount_devfs} doesn't exist any more.  You have to replace {code mount_devfs} with {code mount -t devfs}.
+}*
+----
+Sun Mar  9 18:05:31 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code In FreeBSD 7, the instructions which are currently given all over the place, including in the current version of the FreeBSD handbook, don't work because mount_devfs doesn't exist any more.  You have to replace mount_devfs with mount -t devfs.
+}*

@@ -1,0 +1,205 @@
+----
+*green This is a little chaotic at present* *red .* *green  I'm going to try to bring things under control using a separate page for each chapter over the next week*
+
+_Introduction_ (ChrisWilcox-Thesis-Introduction)
+*green (contextual clarity (hopefully) goes here)*
+
+- context:
+-- realism debate
+--- 2 (interrelated) dimensions: independence and existence (not too much detail on this here)
+--- traditionally Platonism has been argument along the existence dimension with regard to mathematical objects
+-- realism debate in mathematics
+--- basic realist/nominalist divide should be sufficient here (although should note that things are a little more complicated than that)
+-- scientific realism (maybe?)
+--- IBE and indispensability seem closely related
+--- a lot of scientific realists base their realism on IBE applied to scientific theories
+--- are they therefore committed to indispensability re: mathematical objects too?
+
+- potential motivating examples:
+-- Fermat's last theorem
+--- interesting because it has changed status (within the mathematical community at least) recently and before that enjoyed a lot of inductive support (contrast with something like the Riemann hypoth. or Goldbach's conj.)
+-- Brownian motion
+--- good solid applied example with heavy reliance on mathematics that I'm reasonably familiar with (measure theory)
+--- does it really feature in our *best* scientific theories though?
+--- *red Great question.  Seems to me it doesn't, and Quine would certainly agree, but many people insist that the 2nd Law of Thermodynamics is fundamental, so maybe they'd think yes.  Jason*
+-- differing mathematical descriptions:
+--- e.g. competing set theories (ZFC vs NF perhaps) *red (and also ZFC vs NBG, which is less weird for most people to think about)*
+--- e.g. point set and algebraic topology
+--- point (at least in the second case): (non-mathematical) connectedness between these types of description, i.e. a problem solved under one description is held to be a problem solved under _all_ descriptions and also is not seen to make those other descriptions illegitimate (or increase the likelihood thereof)
+-- *red Suggestion: write down what the motivating examples demonstrate BEFORE you start fleshing out the examples, and preferably before you start on other parts of the thesis.  Once you get into all details, you may lose sight of the forest for the trees, and then it's hard to remember the punchline.*
+
+- argument structure:
+-- will first focus on giving clear account of what is happening in the indispensability argument
+-- move from more to less embracing arguments
+-- see what sort of mathematical ontology results from indispensability and discuss whether it matches up with the sort of intuitions behind Platonism
+-- next examine the foundations that indispensability is built on: naturalism, confirmational holism and (possibly) indispensability itself
+-- finally see whether ..IBE-based sci realist is actually committed to indispensability re: math. entities
+-- (alternatively, depending on word count, could just go straight to the summing up from the foundational criticism)
+
+*red Might be best not to number the chapters yet, because I can see chapter 1 (at least) turning into more than 1 chapter.  Jason*
+
+_Ch.1 The Indispensability Argument for Mathematical Realism_ (ChrisWilcox-Thesis-Ch1)
+
+- what is an indispensability argument?
+
+- what are mathematical entities?
+-- objects vs statements
+-- *green aren't there two types of stuff we're interested in here - the properties of objects (e.g. the fact that a particular set is measurable) and the relations that objects stand in (e.g. the measure of some set in comparison to another)?*
+-- *red Sounds to me like the internal relations / external relations debate that Russell wrote about interminably.*
+
+- what is it for a mathematical entity (or anything else) to be indispensable to a scientific theory?
+
+- what are our *best* scientific theories?
+-- two dimensions here: best and scientific (or possibly also theory) but better to set aside demarcation problem (too large to deal with here) *red ``theory'' is definitely also a problem --- one to be set aside, but explicitly so*
+-- so best in what sense: accuracy, simplicity, breadth of application, most widely believed (by who?), most fundamental (probably same as breadth), most explanatory or some combination of these?
+--- the involvement of explanation could bring all the stuff to do with loveliness from Lipton
+
+- the Quinean backdrop
+-- naturalism
+--- the descriptive thesis: philosophy should be continuous with sci.
+--- the normative thesis: sci. is our best guide to the nature of the world and so we _ought_ to posit the reality only of those things our best sci. theories are committed to
+-- the ontic thesis: to be is to be the value of a variable (i.e. should posit the reality of domain of quantification)
+-- confirmational holism
+
+- perhaps an example from Colyvan would be useful here?
+
+- which dimensions of realism does Colyvan's position involve?
+-- existence dimension:
+--- of the set of properties of mathematical objects, which, if any, does Colyvan hold to exist independently?
+--- can this set of properties be broken up in some interesting way? (relational vs internal perhaps?)
+-- independence dimension?  (do I really want to explore this?  it'll involve quite a bit of setting up for what might not be much payoff)
+--- semantic realism (evidence-transcendent truth)
+---> seems that C's realist may not be committed to this (as their mathematics is rooted in the applications of science)
+--- width of cosmological role
+---> might be interesting to explore whether C's realist must (or should) hold that a mathematical entity involved in disparate theories must/should be viewed as the same entity
+--- judgement-dependence
+---> does some sort of dependence "leak in" through the definition of best?  (probably not)
+--- cognitive command (disagreements on subject matter imply cognitive malfunction on at least one side)
+---> under C's conception does mathematics lose some of its strength here (by the slip in standards of justification between mathematics and science)? 
+
+_Ch.2 The Consequences of Indispensability_ (ChrisWilcox-Thesis-Ch2)
+
+- assuming the truth of the premises and just seeing what happens
+-- (really need to work out one or more normative frameworks to situate this descriptive stuff within - *green possibly view results as constraints upon the kind of naturalism that can be involved in indispensability (i.e. what kind of naturalist _can't_ you be given the results of C's realism)?*) *red I like that option.*
+-- but perhaps the best I can hope for here (given that I am supposed to be buying into the premises of C's argument) is to point out that the results are a bit counterintuitive (although a contradiction would be lovely)?
+--- and at tension with current mathematical practice perhaps?  (if one infers anything from the fact that some mathematical avenues involve "real" entities whereas others do not) *red Interesting.  Tell me more please.*
+
+- overdescription of mathematical objects (this is basically one of Benacerraf's problems for the Platonist)
+-- see mathematical description stuff in intro (2 types of competing description here: compatible vs non-compatible)
+-- implies a separation between the object itself and its description which in turn calls into question how many of an object's qualities are just byproducts of its description
+--- if one can separate even one property off as such a byproduct, how can one be certain that the rest won't follow under different future descriptions?
+--- and if that happens, if all the object's properties are called into question, then just what sort of independently existing object is one left with?  is its independence in any way useful?
+
+- what status do proofs have? (and why does this matter?)
+-- if one examines scientific practice, does one find that mathematical investigations (by this I mean investigation into the properties of mathematical objects involved in scientific theories) play a role?
+-- if so, then the practice of mathematics is inextricably intertwined with the practice of science
+-- also, the practice of mathematics involves proofs and if the antecedent above holds, this part of mathematical practice is scientific practice too
+-- how (and why) then, does one distinguish between proofs (and the entities involved therein) undertaken in a scientific context and those undertaken in a mathematical one?
+
+- what about idealisations/simplifications (discrete to continuous and ..vice-versa)? (e.g. discrete versions of flow equations in physics; use of continuous representations of discrete distributions in statistics)
+-- Colyvan might respond to this by claiming that such things are not involved in our _best_ scientific theories
+-- is that really descriptively accurate, surely most if not all theories involve some degree of idealisation/simplification?
+-- *green again, maybe see results of this as restrictions upon what can be involved in definition of best scientific theories?*
+
+- do we end up with two classes of mathematical entities and/or relations?
+-- i.e. those that enjoy use in our best scientific theories and those that do not  
+- and what significance does any such distinction hold?  
+-- can this distinction really be justified on the basis of involvement in scientific theories?
+--- i.e. why is one element of the description of a mathematical object held to exist whereas other elements of the _same_ description are not?
+- is this in accordance with the "spirit" of Platonism?  (perhaps a characterisation of "classic" Platonism in terms of the dimensions of realism might be useful here in order to see whether anything important gets lost in C's version)
+
+- how might C's theory be modified to overcome the above incongruities?
+-- and what might the implications of this modifed theory be?
+
+*green I may have a potential argument:*
+- what emerges from the indispensability argument is a new class of "..mathematico-scientific" entities
+-- mathematical entities as instantiated in scientific theories
+- the properties of an entity in this class are inextricably tied to the theory/theories in which it plays a role
+-- because it is this context that provides the reification (e.g. this group G with this subset S of its associated properties is real in that it describes natural phenomena P)
+--> (is C necessarily committed to this?)
+- thus the same _mathematical_ entity instantiated in two different theoretical contexts results in two _different_ ..mathematico-scientific entities
+--> *red I don't see how we know that they're different.  But in any case I think you can skip this point and your argument still works.*
+-- e.g. a group G used to represent
+- this means that the class of ..mathematico-scientific entities should really be viewed as a subclass of the class of scientific entities
+- given this, they are distinct from the class of mathematical entities in that they are not _abstract_
+-- actually, most of the points above can probably be brought to bear here in order to show how ..mathematico-scientific entities differ from mathematical entities
+- hence the ontological status of ..mathematico-scientific entities has no implication for the ontological status of mathematical ones
+*green there's something truthy in here but I'm not sure I've managed to pin down its exact nature yet*
+- *green might some sort of universal/particular or type/token distinction be useful here (probably universal/particular)?  (i.e. by claiming that indispensability only gets us reification of the tokens/particulars but what the mathematical involves (and what the Platonist is after reification of) is the abstract universal/type)*
+
+*green Just quickly jotting down some thoughts I had in the library today (10/7) regarding a possible (partial) approach.*
+
+Approach:
+- lets allow ..IBE-based sci. realism
+- lets allow indispensability-based math. realism to work in much the same way
+- even if we do this, it is by no means clear that what we get out can accurately be termed Platonism
+
+What's needed:
+- clear sketch of how ..IBE-based sci. realism works and how this links in with indispensability
+-- possibly also need to look at how they might not be linked (if space)
+- clear portrayal of the sort of "mathematical" entity resultant from indispensability
+- clear portrayal of mathematical entities involved in "classical" Platonism
+- analysis of the differences as to their importance
+-- in particular, what is involved in the notion of an "abstract" entity?
+
+*green Some notes on considerations arising from rereading the "what is a mathematical object?" section of Forster's Axioms of Set Theory.*
+- 2 considerations:
+-- transparency of identity
+--- does the link with particular theories at least muddy the waters here for the objects resultant from indispensability?
+-- the empty widget
+--- if we don't have confirmational holism for mathematics (i.e. if we don't get the whole system from one scientific application), how do we get an empty widget from indispensability?
+--- this one will probably cost too much in shoe leather though
+- also, how uncontroversial are the above notions?
+(certainly transparency of ID seems like the one of the most uncontroversial things one could say about math. entities)
+
+
+
+_Ch.3 Questioning the Foundations_ (ChrisWilcox-Thesis-Ch3)
+
+- the Quinean ontological machine: extracting the entities a theory is committed to and then forcing them down into existence
+-- actually a little more complicated than this: we have naturalism telling us where to look, confirmational holism telling us what to extract (i.e. everything a theory is committed to) and the ontic thesis doing the reification work
+
+- confirmational holism:
+-- Maddy: (some) scientific practice doesn't reflect this belief
+--- criticism re: type of naturalism this is reliant upon 
+---> (although, is this move really open to C?  i.e. does Quinean naturalism imply Maddy's naturalism)
+-- Sober: contrastive empiricism
+--- Colyvan's reaction (need to go back to the book to get good, accurate account of this)
+--- my assessment
+-- how close can we get to indispensability without confirmational holism?  is this close enough for mathematical realism? (see Colyvan ch. 2)
+--- idea here is to show that one can possibly still get something like the indispensability argument going without confirmational holism and thus motivate move into criticisms of Quinean naturalism
+
+- Quinean naturalism:
+-- Price criticism: no semantic ladder (so maybe viewed as ~ "forcing" part of machine)
+-- Yablo criticism: no metaphorical/literal distinction (so maybe viewed as ~ "extraction" part of machine)
+-- naturalisms other than Quinean
+--- do they carry ontological commitments in the context of mathematics (i.e. what range of naturalism is C limited to)?
+
+- indispensability
+-- Field: mathematical entities are not indispensable
+-- Colyvan's reaction
+-- my assessment 
+---(dealing with how Sober and Field connect might help to clarify matters here)
+--- concerns re: the richness of Field's replacement structures?
+--- a possibly interesting avenue: do Field's replacements exhibit the same properties re: the independence dimensions of realism as math. entities?
+
+_Ch.4 The Relationship of IBE and Indispensability_ (ChrisWilcox-Thesis-Ch4)
+*green This chapter is on the ..back-burner for a bit while I grind through the nitty gritty of the more central stuff*
+
+- IBE-based scientific realism
+- does IBE entail indispensability?
+- does indispensability entail IBE?
+
+- Colyvan as attempting to use commensurability with scientific realist as foundation for his argument?
+-- i.e. taking what the IBE-based scientific realist assumes to be the case and then attempting to show that this entails a commitment to indispensability re: mathematical entities
+--- maybe "entails" is a bit strong... 
+
+_Conclusion_ (ChrisWilcox-Thesis-Conclusion)
+*green (profundity (hopefully) goes here)*
+
+- on some level the insight of ..IBE-based sci. realism and ..indispensability-based mathematical realism is valuable: we do just deal with these objects as existing in some sense in usual practice
+- however, the implications of this insight should be limited to phenomenological rather than ontological investigations 
+
+----
+
+ChrisWilcox

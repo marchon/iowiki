@@ -1,0 +1,21 @@
+
+----
+Sun Sep  9 23:44:50 EST 2007
+
+
+
+[[[break]]]changed line 5 from: *orange {code Stir-fry in olive oil with mustard, lemon juice and a tiny bit of fresh chilli until half cooked.
+}*[[[break]]]to: *green {code Stir-fry in olive oil with mustard, lemon juice and a tiny bit of fresh chilli until *half* cooked. *Remember not to overcook.*
+}*
+----
+Mon Aug  6 21:07:44 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code zucchinis
+cabbage
+etc.
+
+Stir-fry in olive oil with mustard, lemon juice and a tiny bit of fresh chilli until half cooked.
+Serve warm.
+}*

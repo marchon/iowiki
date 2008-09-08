@@ -1,0 +1,73 @@
+
+----
+Mon Jan 22 12:25:31 EST 2007
+
+
+
+[[[break]]]deleted at line 8: *red {code 
+
+}*
+----
+Mon Jan 22 12:25:15 EST 2007
+
+
+
+[[[break]]]added at line 3: *lime {code something to do with "what scientists actually do"?  maybe "what scientists actually do and why"?
+
+
+# fieldwork? e.g.:
+
+
+\section scientific methods as vague definitions versus scientific methods as specific things that scientists actually do (jargon: operationalised)
+
+Fieldwork: Find a scientist or science student.  Ask for the definition of:
+
+* a p-value or a significance test
+
+* a confidence interval
+
+Compare with the real definitions in the box on the right
+
+Some examples of incorrect definitions you might get
+
+Q: How do we know the ``real'' definitions are right?
+
+A: Because they're what the statistical computer programs calculate.  (They're also what books on theoretical statistics give as the correct definitions.  But the main point is that they're what the programs calculate.  So they would be the OPERATIONAL definitions even if the theoretical books disagreed.)
+
+
+}*
+----
+Mon Jan 15 21:10:00 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code ## title ideas
+}*[[[break]]]to: *green {code # title ideas
+}*
+----
+Mon Jan 15 21:09:24 EST 2007
+
+
+
+[[[break]]]added at line 3: *lime {code # bits and pieces
+
+}*
+----
+Mon Jan 15 21:08:59 EST 2007
+
+
+
+[[[break]]]changed line 5 from: *orange {code _David Hume_
+}*[[[break]]]to: *green {code _--- David Hume on wishful thinking_
+}*
+----
+Mon Jan 15 21:08:22 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code ## title ideas
+something with "Philosophy of Science", "Uncertainty" and "Politics"?
+
+Boyle was a great partisan of the mechanical philosophy, a theory which, by discovering some of the secrets of nature and allowing us to imagine the rest, is so agreeable to the natural vanity and curiosity of men. 
+_David Hume_
+}*

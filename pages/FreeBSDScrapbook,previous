@@ -1,0 +1,4 @@
+making.a.FreeBSD.jail
+
+freebsd-update fetch
+freebsd-update install

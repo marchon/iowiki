@@ -1,0 +1,13 @@
+
+----
+Sun Nov  5 22:36:33 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code jason@gentoo ~> su
+Password: 
+Welcome to fish, the friendly interactive shell
+Type help for instructions on how to use fish
+root@gentoo /h/jason> su postgres
+postgres@gentoo /home/jason $ createdb fionagallery -E UNICODE
+}*

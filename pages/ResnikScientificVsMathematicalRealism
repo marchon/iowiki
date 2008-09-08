@@ -1,0 +1,61 @@
+----
+*What is it?*
+
+An attempt to rescue at least some conception of mathematical realism based on indispensability from the criticisms of Maddy and Sober.  Resnik attempts to do this by formulating a new, pragmatic indispensability argument.  One of the consequences of his line of reasoning is that mathematical realism (at least with regard to those parts of mathematics used in science) is held to be less problematic than scientific realism.
+
+*Where can it be found?*
+
+Resnik, M.D.; Scientific vs Mathematical Realism: the indispensability argument; Philosophia Mathematica, vol. 3, pp 166-174
+
+*How does it fit in?*
+
+As an example of the way on which one may attempt to vary the standard argument.  Unfortunately, I believe there are several problems with the reasoning given.  Firstly, the notion of naturalism at play is questionable; secondly, the contrastive nature of Sober's criticism seems to get lost; and thirdly, it seems to presuppose the attitude that scientists must take towards the mathematics they make use of.
+----
+*Summary*
+- unusual aspects of the definition of the standard argument:
+-- indispensability defined both in terms of scientific theories and scientific practice
+-- naturalism: science is the ultimate arbiter of truth and existence
+- thinks Sober is right to criticise the descriptive accuracy of holism
+-- but his theory does not rely upon it
+-- makes some criticism of Sober re: holists actually going the "other way" and saying that not only is there no logical relation between observation and the indispensable parts of a theory, there is actually no logical relation between observation and any part of a theory
+--- *green but surely they do hold that some sort of relation holds between observation and evidence and furthermore that this relation must be the same for all parts of a theory?*
+--- *green wouldn't Sober's criticism still hold then?*
+- interprets Maddy's first criticism as being that we can't just rely on mathematics' part in a theory, need also to be able to show that scientists presuppose its truth
+-- claims that scientists do just that: "in claiming, for example, that some data are normally distributed they presuppose that real numbers defining the distribution curve exist"
+--- *green I'm really not clear on _why_ this _must_ be the case.  Surely the scientists could merely be taking an instrumentalist approach to the maths involved (via Field's fictionalism for example)?  Am I missing something here Jason?*
+--- *blue The way you've carefully said ``must'' and ``could'' there, I'm sure you're right.  See Basu 1975 (citation available by email).  And arguably you could say something even stronger if you wanted.  Jason*
+-- further on he says: "scientists not only refer to mathematical objects but also freely appeal to their mathematical properties"
+--- *green Again, I really don't see how just this  fact alone forces them into an existence claim.  Surely, this is just the sort of the thing that the indispensability argument is meant to show?*
+_Pragmatic Indispensability, Pt 1_
+-> 1. Laws of science and derivations therefrom assume the existence/truth of much of maths
+-> 2. These assumptions are indispensable for scientific practice
+-> 3. Therefore, we are justified in drawing conclusions from science only if we are justified in taking maths used in science to be true
+- Argues for 1 on the basis of "Quine's criterion of ontic commitment"
+-- *green how is this different from the ..Quine-Putnam indispensability argument?*
+--- *green if it's not any different, then Resnik's argument just presupposes the standard indispensability argument*
+-- *green in any event, can't Carnap be used t counter here?*
+- does make a good distinction between theoretical and practical indispensability
+-- *green the latter may be able to be wielded against Field*
+_Pragmatic Indispensability, Pt 2_
+-> 4. Justified in doing sci
+-> 5. Doing sci involves drawing conclusions from and within it
+-> 6. Justified in doing 5 only if we take math to be T
+-> 7. Therefore, justified in taking maths to be true
+-> 8. Therefore maths is true
+- naturalism bridges gap between 7 and 8
+-- claims there is a pragmatic incoherence in realising that one is justified in believing P while denying P
+_Math realism without sci. realism_
+- Resnik view is that the things involved in our scientific model via which we connect with observation must be assumed to be T and hence exist
+- thus only scientific entities involved in our theories in this way can claim unproblematic realism
+- makes claim that a "fictionalist approach to mathematics is not an indispensable component of science proper or scientific methodology"
+-- *green This just seems to be the result of his confusion re: the scientist's attitude towards mathematics above.*
+- acknowledges that both indispensability arguments leave a large amount of maths unaccounted for 
+----
+*What do I think?*
+- Overall, it looks like he just assumes what he is trying to prove.
+- I would question the descriptive accuracy of 1 and 2 above (and consequently, so is 6).
+-- this seems to be what Field does
+- surely most scientific realists would find any position that claimed that scientific entities are more likely to exist the further removed they are from testing to be quite odd?
+----
+
+ChrisWilcox

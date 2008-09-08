@@ -1,0 +1,21 @@
+(I think this has moved to ThisProbabilityProblem.)
+----
+I have a probability problem that I feel I should be able to solve but I am coming up blank.  Alternatively, perhaps it is harder than I think, or I need to reformulate to make it manageable, any suggestions along these lines would also be super helpful.
+
+The problem concerns randomisation in Randomised Controlled Trials.  I want to suggest that randomisation buys some epistemological `good' by increasing the probability that a finite number of confounders (known, or unknown) are evenly divided, through the process of randomisation, into two equally sized groups.  I am happy that it does, but I want to pin some numbers to this claim (as much to get a feel for it as anything else).
+
+Suppose there are X confounding factors each distributed within the population.  The individuals in the population can possess none, or any number of the confounding factors.
+
+A sample of size N is (randomly) taken from this population, and then randomised into two groups.  What is the probability that the X confounding factors will be evenly distributed bewteen the groups (within some small margin or error)?
+
+For starters I am interested in the case where X = 30, and N = 2000.    The distribution of X's I am not too fussed about, maybe each confounder is present in 10% of the population.  A margin of error of 10% appears reasonable.
+
+Now let me display my mathematical naivety.  I thought I should start easy; with X = 1 (distributed in 10% of the population), and N = 200.  Now it is clear that the 20 members of the population with the confounding factor have an equal chance of being in either group (I'll call them Group A and Group B)---that's what randomisation does---but this is not the probability I am interested in.  Rather, what I want is the probability that, post-randomisation, Group A has 9, 10 or 11 members who possess the confounding factor.
+
+I figure I should be able to get this probability through the Binomial function (not that I have completely figured out which figures to plug where).  But I hesitate here because I see no step from calculating this `easy-case' probability to the  harder one that I want to get to (where X = 30, N= 2000).  Am I missing something about the Binomial function, or is this considerably harder than I first thought?  Or am I not in the right book, let alone on the right page?
+
+---
+
+Perhaps one way is to calculate for X = 1, N = 2000 and then, since the distribution of factors is independent, do *something* to this probability to solve for X = 30??
+
+

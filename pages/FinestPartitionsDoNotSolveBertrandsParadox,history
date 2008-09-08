@@ -1,0 +1,70 @@
+
+----
+Wed Nov 16 09:01:13 EST 2005
+
+
+
+[[[break]]]changed line 9 from: *orange {code Maybe I spoke too soon about not putting this into the encyclopedia article, since the encyclopedia won't come out for ages (I presume).  Maybe the encyclopedia article should at least hint at these issues, and I should meanwhile be turning them into a paper.  Jason
+}*[[[break]]]to: *green {code Maybe I spoke too soon about not putting this into the encyclopedia article, since the encyclopedia won't come out for ages (I presume).  Maybe the encyclopedia article should at least hint at these issues, and I should meanwhile be turning them into a paper.  If you (Alan) could send me relevant bits of encyclopedia draft, that would be helpful.  Jason
+}*
+----
+Tue Nov 15 22:46:35 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code Some claim (citation?) that the ambiguities which Betrand thought were unresolvable can be resolved by taking the sample space to be the _finest_ partition of the set of possible outcomes.
+
+}*
+----
+Tue Nov 15 22:44:09 EST 2005
+
+
+
+[[[break]]]changed line 1 from: *orange {code 1. The finest partition of squares and cubes is the set containing every square and every cube.  That doesn't help.
+}*[[[break]]]to: *green {code 1. The finest partition of squares and cubes is the set containing every square and every cube.  That doesn't help to solve Bertrand's paradox.
+}*[[[break]]]changed line 3 from: *orange {code 2. The finest partition of possible worlds may (or even will generally?) have no cardinality, at least on Lewis's model.  So that doesn't help.
+}*[[[break]]]to: *green {code 2. The finest partition of possible worlds may (or even will generally?) have no cardinality, at least on Lewis's model.  So that doesn't help to solve Bertrand's paradox either.
+}*
+----
+Tue Nov 15 22:43:33 EST 2005
+
+
+
+[[[break]]]added at line 6: *lime {code Maybe I spoke too soon about not putting this into the encyclopedia article, since the encyclopedia won't come out for ages (I presume).  Maybe the encyclopedia article should at least hint at these issues, and I should meanwhile be turning them into a paper.  Jason
+
+----
+
+}*
+----
+Tue Nov 15 16:01:41 EST 2005
+
+
+
+[[[break]]]changed line 3 from: *orange {code 2. The finest partition of possible worlds may (or even will generally?) have no cardinality, at least on Lewis's model.
+}*[[[break]]]to: *green {code 2. The finest partition of possible worlds may (or even will generally?) have no cardinality, at least on Lewis's model.  So that doesn't help.
+}*
+----
+Tue Nov 15 16:01:11 EST 2005
+
+
+
+
+----
+Tue Nov 15 16:00:36 EST 2005
+
+
+
+[[[break]]]added at line 1: *lime {code 
+2. The finest partition of possible worlds may (or even will generally?) have no cardinality, at least on Lewis's model.
+
+3. What was number 3?
+
+Alan Hájek, Jason Grossman
+}*
+----
+Tue Nov 15 15:59:16 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code 1. The finest partition of squares and cubes is the set containing every square and every cube.  That doesn't help.
+}*

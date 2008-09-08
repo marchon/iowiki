@@ -1,0 +1,28 @@
+
+----
+Mon Aug  7 09:16:26 EDT 2006
+
+
+
+[[[break]]]changed line 5 from: *orange {code => I have also been doing a bit of reading on the Axiom of Choice. This is very interesting!!!! It seems that most working mathematicians quite happily accept the axiom of choice. There was a "Constructive Analysis" movement in the 1970's which attempted to replace AC with the axiom of countable choice -very interesting, I will find more information about it tomorrow. AC is the least constructive statement about mathematics I have every seen! It leaves me with a bit of a funny taste in my mouth... An interesting question seems to be: if AC asserts the existence of this 'choice function' for collections of non-empty sets, are there any of these choice functions which would be outside the scope of human comprehension or definability? (answer is most likely- yes) How do we define these terms 'find', 'comprehend', 'define'? If the Anti-constructive nature of AC is what we dislike, then is there a middle ground between ZFC and Brouwer's (spelling, sorry) Constructivism?? 
+}*[[[break]]]to: *green {code => I have also been doing a bit of reading on the Axiom of Choice. This is very interesting!!!! It seems that most working mathematicians quite happily accept the axiom of choice. There was a "Constructive Analysis" movement in the 1970's which attempted to replace AC with the axiom of countable choice -very interesting, I will find more information about it tomorrow. AC is the least constructive statement about mathematics I have every seen!   *green Right. Jason*  It leaves me with a bit of a funny taste in my mouth... An interesting question seems to be: if AC asserts the existence of this 'choice function' for collections of non-empty sets, are there any of these choice functions which would be outside the scope of human comprehension or definability? (answer is most likely- yes) *green Yes.*  How do we define these terms 'find', 'comprehend', 'define'? *green Very very good question.*  If the Anti-constructive nature of AC is what we dislike, then is there a middle ground between ZFC and Brouwer's (spelling, sorry) Constructivism?? 
+}*[[[break]]]changed line 7 from: *orange {code My favorite... Empirical Platonism- If we can you countable choice to produce "all of the mathematics that is indispensable to science", then doesn't that leave us with very little evidence in favor of the truth of AC?
+}*[[[break]]]to: *green {code My favorite... Empirical Platonism- If we can you countable choice to produce "all of the mathematics that is indispensable to science", then doesn't that leave us with very little evidence in favor of the truth of AC? *green Maybe.  But another possibility is that the TRUTH of AC isn't what's at issue, but rather whether we should use it.*
+}*
+----
+Mon Aug  7 09:05:08 EDT 2006
+
+
+
+[[[break]]]added at line 0: *lime {code => I am working through "New Foundations" by WVOQ. This is very interesting, but there is still a few points I am not quite clear on.
+ 
+Constructive Set Theory has also caught my attention... No has been able to prove that Heyating (spelling - the 'a' is in the wrong place, I'm sorry) Arithmetic can be represented within constructive set theory, is that right? hmmmm.... is this a problem for the constructivist ideal?? (I think not).
+ 
+=> I have also been doing a bit of reading on the Axiom of Choice. This is very interesting!!!! It seems that most working mathematicians quite happily accept the axiom of choice. There was a "Constructive Analysis" movement in the 1970's which attempted to replace AC with the axiom of countable choice -very interesting, I will find more information about it tomorrow. AC is the least constructive statement about mathematics I have every seen! It leaves me with a bit of a funny taste in my mouth... An interesting question seems to be: if AC asserts the existence of this 'choice function' for collections of non-empty sets, are there any of these choice functions which would be outside the scope of human comprehension or definability? (answer is most likely- yes) How do we define these terms 'find', 'comprehend', 'define'? If the Anti-constructive nature of AC is what we dislike, then is there a middle ground between ZFC and Brouwer's (spelling, sorry) Constructivism?? 
+ 
+My favorite... Empirical Platonism- If we can you countable choice to produce "all of the mathematics that is indispensable to science", then doesn't that leave us with very little evidence in favor of the truth of AC?
+ 
+=> I have also been doing a bit of reading on decision theory... This seems to be an area which is very active at the moment... 
+ 
+=> What IS the philosophical significance of BTDF? (I will get back to you)...
+}*

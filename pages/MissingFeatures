@@ -1,0 +1,13 @@
+_``Every program attempts to expand until it can read mail.''_ --- Jamie Zawinski
+
+I'm planning to add the following features to future releases:
+
+- site index
+- site search
+- RSS change notification
+
+I'm thinking about also implementing live-editable tables.
+
+I'm not planning any other features.  ..IoWiki is going to remain simple, dammit.  If you really need something more complicated, I recommend CloudWiki or PmWiki.
+
+JasonGrossman

@@ -1,0 +1,32 @@
+
+----
+Mon Jul 24 23:25:33 EDT 2006
+
+
+
+[[[break]]]added at line 0: *lime {code The bounded rationality literature is almost entirely descriptive: it consists almost entirely of descriptions of how epistemic agents actually behave, and of psychological and philosophical consequences of those descriptions; it is therefore no threat to my views on how inferences {\it ought\/} to be made.
+
+In response to my third point, the bounded rationality literature is sometimes taken to be normative as well as descriptive.  It is hard to be absolutely sure whether this reading is right or wrong, but I think it is wrong.  Consider the following quotations from a representative paper in the bounded rationality literature.  On the one hand, the bounded rationality position is set up in clear opposition to both the statistical view and Kahneman and Tversky's ``heuristics and biases'' view (which describes actual departures from a probabilistic norm).  It describes these views thus:
+
+\quote{[A] discrepancy between  the dictates of classical rationality and actual reasoning is what  defines a reasoning error in this program. Both views accept the  laws of probability and statistics as normative, but they disagree  about whether humans can stand up to these norms. \cite[\p.650]{Gigerenzer:1996}}
+
+\noindent \dots\ and {\it criticises\/} such views for
+
+\quote{lead[ing] us to believe that humans are hopelessly lost in the face of  real-world complexity \cite[\p.651]{Gigerenzer:1996}}
+
+\noindent Passages such as this might be (and often are) read as saying that the normativity of the old program is wrong and is to be replaced by a new normativity, that of bounded rationality.  On the other hand, and on the very same page, Gigerenzer and Todd say:
+
+\quote{[bounded rationality] algorithms are designed to be fast and frugal without a significant loss of inferential accuracy  \cite[\p.651]{Gigerenzer:1996}}
+
+\noindent This implies that there is some {\it other\/} standard of inferential accuracy, apart from bounded rationality, which bounded rationality approximates to.  It is implicit in the experimental work of the bounded rationality school that there is such a standard and that that standard of inferential accuracy is Bayesian (see \cite{Gigerenzer:1996} again and, especially, \cite{Gigerenzer1999}).
+
+Hence, the normativity of the statistical view of inference is both denied and taken for granted.  It seems most likely to me that the authors of this literature are not in the least confused, and that they regard their view as {\it not\/} normative, but find it hard to say so because the normative character of the view they oppose has lent it stature.  Be that as it may, as long as bounded rationality measures its correctness on the basis of its approximate {\it agreement\/} with inferential statistics it will be impossible for it to be any better justified than inferential statistics is, and hence it poses no normative threat.
+
+So, a fully normative version of bounded rationality is no better justified than inferential statistics is, at present; but maybe it is plausible that it will be better justified in the future.  Unfortunately, to give it the detailed discussion it deserves would take us too far afield.  I will not consider bounded rationality any further at all in this thesis.  Instead, I will continue to discuss what we ought to do with limited data but unlimited computational time.
+
+Does this mean that the conclusions I draw here are hostage to the possibility that bounded rationality gives us the correct description of our epistemic constraints?  Not at all, for two reasons:\bigskip
+
+\item{(1)} Of course we are all bound by computational constraints, just as bounded rationality supposes.  But in a world of large scientific research budgets and fast computers, what happens when we try to estimate the size of those constraints?  It may well be that {\it zero\/} is a better estimate of our constraints than any particular finite number.  In that case, there is nothing particularly inaccurate about my theory at all (even though it is not perfectly accurate), because any other estimate of what our constraints are would also be inaccurate to some degree.  In other words, unbounded rationality may be the most rational estimate of what type of bounded rationality we employ in science.
+
+\item{(2)} My discussion of unbounded rationality is a limiting case of bounded rationality: it is what bounded rationality becomes as the bound tends to infinity.  Even if normative bounded rationality turns out to be what we will all end up studying one day, it will be useful (and, at a guess, probably essential) to have a well worked out theory of what happens in the limit.
+}*

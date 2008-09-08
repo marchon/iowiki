@@ -1,0 +1,8 @@
+{code 
+Directory clone setPath("/whatever") files foreach(i, i moveTo(i action)
+
+
+
+
+SystemCall clone setCommand("ls") run stdout readLines foreach(println)
+}

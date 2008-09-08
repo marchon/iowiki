@@ -1,0 +1,32 @@
+
+----
+
+
+
+[[[break]]]changed line 9 from: *orange {code *italics Windows cannot access this folder. Make sure you typed the file name correctly and that you have permission to access the folder.
+}*[[[break]]]to: *green {code "Windows cannot access this folder. Make sure you typed the file name correctly and that you have permission to access the folder.
+}*[[[break]]]changed line 12 from: *orange {code The connection with the server was reset.*
+}*[[[break]]]to: *green {code The connection with the server was reset."
+}*
+----
+
+
+
+[[[break]]]changed line 9 from: *orange {code *italic Windows cannot access this folder. Make sure you typed the file name correctly and that you have permission to access the folder.
+}*[[[break]]]to: *green {code *italics Windows cannot access this folder. Make sure you typed the file name correctly and that you have permission to access the folder.
+}*
+----
+
+
+
+[[[break]]]added at line 1: *lime {code 
+*blue Something seems to have changed last night.  Maybe something to do with the university's network.  I'm on to it.
+
+Jason, Thursday 27/3/2008*
+}*
+----
+
+
+
+[[[break]]]added at line 0: *lime {code I can't seem to access the lecture notes. Has anyone else had this problem, and if so, how do I fix it?
+}*

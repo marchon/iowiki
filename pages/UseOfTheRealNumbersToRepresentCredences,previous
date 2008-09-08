@@ -1,0 +1,9 @@
+#Abstract
+It is often thought that credences must be represented by the real number  system. I give three arguments in favour of this belief, and argue against all of them. In order to prove that there is at least one alternative, I then describe a different way of representing credences.
+ 
+In addition to commenting on its ostensible sub ject matter, this paper demonstrates the importance, when discussing partial belief, of separating the terminology of mental states and their contents (which I call credences) from the terminology of the mathematical representations of those things (which I call probabilities ). Both of these terms are in common use, of course, but they are normally used as near-synonyms. I show, by example, how they can be put to a better use, to mark a vital distinction between content and representation. 
+
+#But...
+...this paper is currently on the back burner.  Here's the problem.  The standard mathematicians’ argument in favour of using the real numbers willy nilly seems to be that the property of completeness (explained in the paper) is essential. I’m just not sure what to make of this argument. Apart from that, I think the paper is fine, although criticisms are welcome.
+
+You can get the latest draft at ftp://xeny.net/representation-of-credences.pdf.

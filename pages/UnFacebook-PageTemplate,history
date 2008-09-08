@@ -1,0 +1,194 @@
+
+----
+Thu Sep 13 14:07:17 EST 2007
+
+
+
+[[[break]]]changed line 58 from: *orange {code 	width:800px;
+}*[[[break]]]to: *green {code 	width:600px;
+}*[[[break]]]changed line 63 from: *orange {code 	width:80px;
+}*[[[break]]]to: *green {code 	width:140px;
+}*[[[break]]]changed line 79 from: *orange {code 	margin-right:60px;
+}*[[[break]]]to: *green {code 	margin-right:160px;
+}*[[[break]]]changed line 112 from: *orange {code <a href="#"><img src="http://xeny.net/fb.png" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*[[[break]]]to: *green {code <a href="#"><img src="ftp://xeny.net/fb.png" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*
+----
+Thu Sep 13 14:06:35 EST 2007
+
+
+
+[[[break]]]changed line 58 from: *orange {code 	width:1000px;
+}*[[[break]]]to: *green {code 	width:800px;
+}*[[[break]]]changed line 63 from: *orange {code 	width:40px;
+}*[[[break]]]to: *green {code 	width:80px;
+}*[[[break]]]changed line 112 from: *orange {code <a href="#"><img src="http://www.tumble.tk/fb.png" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*[[[break]]]to: *green {code <a href="#"><img src="http://xeny.net/fb.png" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*
+----
+Thu Sep 13 14:05:38 EST 2007
+
+
+
+[[[break]]]changed line 58 from: *orange {code 	width:600px;
+}*[[[break]]]to: *green {code 	width:1000px;
+}*
+----
+Thu Sep 13 14:04:45 EST 2007
+
+
+
+[[[break]]]changed line 63 from: *orange {code 	width:140px;
+}*[[[break]]]to: *green {code 	width:40px;
+}*
+----
+Thu Sep 13 14:03:40 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<!-- Template copyright 2005-7 by Jason Grossman.  Thanks to James Koster and Dave Shea for inspiration. -->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!--HeaderText-->
+<title><PAGE NAME></title>
+
+<style type="text/css"><!--
+
+body {
+	background-color:#FFFFFF;
+	margin:0px;
+	font-family:Verdana, sans-serif;
+	font-size:11px;
+	color:#666666;
+}
+
+a {
+	color:#222222;
+	text-decoration:none;
+}
+
+textarea, input,submit {
+	color:#666666;
+	border:none;
+}
+
+h1 {
+	font-family:Belle, Bell, Soutane, Souvenir, Georgia, "Times New Roman", Times, serif;
+	font-size:200%;
+	color:#000000;
+	font-weight:normal;
+	letter-spacing:1px;
+}
+
+
+#title {
+	margin:0 auto 0 auto;
+	text-align:center;
+	margin-bottom:25px;
+}
+
+#title p {
+	font-variant:small-caps;
+	letter-spacing:2px;
+}
+
+#title img {
+	border:none;
+}
+
+#container {
+	width:600px;
+	margin:0 auto 0 auto;
+}
+
+#sidebar {
+	width:140px;
+	float:right;
+}
+
+#sidebar h1 {
+	text-align:right;
+	font-size:200%;
+	color:#111111;
+	border-bottom:1px dashed #eeeeee;
+}
+
+#sidebar p {
+	line-height:20px;
+}
+
+#content {
+	margin-right:60px;
+	padding-right:20px;
+	border-right:1px solid #cccccc;
+}
+
+#content h1 {
+	text-align:left;
+	font-size:115%;
+	font-weight:bold;
+	color:#111111;
+	border-bottom:1px dashed #eeeeee;
+	padding-top:15px !important;
+	padding-top:0;
+}
+
+#content p {
+	line-height:20px;
+}
+
+#content ol,ul {
+	padding-left:15px;
+}
+--></style>
+</head>
+
+
+
+
+
+
+
+<body>
+<div id="title">
+<a href="#"><img src="http://www.tumble.tk/fb.png" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+<h1><PAGE NAME></h1>
+</div>
+		
+<div id="container">
+<div id="sidebar">
+						
+<EDIT BUTTON><br><PAGE HISTORY BUTTON><br><RESTORE PREVIOUS VERSION BUTTON>
+
+<br><br>
+						
+<a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a></p>
+
+<br><br>
+
+<a href='../IoWikiInstructions'>Instructions</a><br><a 
+href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+
+<br><br><br>
+
+NEWS: <a href="http://xeny.net/server.crashes.largely.eliminated">server crashes largely eliminated?</a>
+</div>
+
+<div id="content">
+<PAGE TEXT>
+
+</div>
+</div>
+		
+<br><br>
+
+</body>
+</html>
+
+}*

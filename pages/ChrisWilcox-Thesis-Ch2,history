@@ -1,0 +1,369 @@
+
+----
+2008-09-05 16:53:35 EST
+
+
+
+[[[break]]]added at line 0: *lime {code *green Now (probably) human-readable up to the bit where I investigate what the QOM delivers.*
+}*[[[break]]]changed line 14 from: *orange {code Now, as Colyvan notes, what exactly is means for a mathematical object to be abstract is quite a difficult and unsettled issue amongst Platonists.  Indeed, what it is for an object to be abstract more generally is quite a quite a difficult and unsettled issue in \emph{philosophy}.  However, I believe that his response to this difficulty is unsatisfactory: Colyvan responds by simply ignoring the abstract nature of mathematical objects, focussing instead on the mathematical properties that are highlighted by their involved in scientific theories.  Unfortunately, in setting aside these problematic properties he has robbed the scientific realist of the precisely the sorts of things they would point to in order to justify their anti-Platonist stance.  
+
+Furthermore, he has provided an account of the nature of mathematical objects that most Platonists would hold to be too limited.  But just what does it mean for a mathematical object to be abstract.  I will now explore a range of options via which the abstractness desiderata may be satisfied.
+}*[[[break]]]to: *green {code Now, as Colyvan notes, what exactly is means for a mathematical object to be abstract is quite a difficult and unsettled issue amongst Platonists.  Indeed, what it is for an object to be abstract more generally is quite a quite a difficult and unsettled issue in \emph{philosophy}.  However, I believe that his response to this difficulty is unsatisfactory: Colyvan responds by simply ignoring the abstract nature of mathematical objects, focussing instead on the mathematical properties that are highlighted by their involved in scientific theories.  Unfortunately, in setting aside these problematic properties he has robbed the scientific realist of the precisely the sorts of things they would point to in order to justify their anti-Platonist stance.  Furthermore, he has provided an account of the nature of mathematical objects that most Platonists would hold to be too limited.  But just what does it mean for a mathematical object to be abstract.  I will now explore a range of options via which the abstractness desiderata may be satisfied.
+}*[[[break]]]changed line 22 from: *orange {code However,there is a possible way of addressing the common intuition behind the abstractness desideratum in a more minimal way: namely, via the claim that mathematical objects should be multiply-instantiable - i.e. they should be types rather than tokens.
+}*[[[break]]]to: *green {code However, there is a possible way of addressing the common intuition behind the abstractness desideratum in a more minimal way: namely, via the claim that mathematical objects should be multiply-instantiable - i.e. they should be types rather than tokens.
+}*[[[break]]]changed line 70 from: *orange {code This argument may be weakened, and made less controversial, by eliminating the involvement of essentialism and instead claiming that abstractness is just some (possibly accidental) property of mathematical objects (the absence of which need not necessarily entail that the object is no longer a mathematical one).  On this view then, the scientific realist would claim that it is indeed strange that the abstractness property is \emph{never} instantiated under the Quinean model.  Accordingly, it seems that at the very least Colyvan owes the scientific realist who holds this view more of an explanation as why this property is never instantiated. 
+}*[[[break]]]to: *green {code This argument may be weakened (and made less controversial) by eliminating the involvement of essentialism and instead claiming that abstractness is just some (possibly accidental) property of mathematical objects (the absence of which need not necessarily entail that the object is no longer a mathematical one).  On this view then, the scientific realist would claim that it is indeed strange that the abstractness property is \emph{never} instantiated under the Quinean model.  Accordingly, it seems that at the very least Colyvan owes the scientific realist who holds this view more of an explanation as why this property is never instantiated. 
+}*
+----
+2008-09-05 16:49:33 EST
+
+
+
+[[[break]]]deleted at line 1: *red {code *green Don't worry about looking at this too much at the moment Jason (just in case you were). It'll  need a fair bit of cleaning and tightening before it's cogent.  I'll give a cleanup over the next day or two.*
+}*[[[break]]]changed line 5 from: *orange {code When one looks to criticise the indispensability argument, the obvious way in which to do is to criticise the truth of the premises (indeed, Chapter 3 will focus largely on these types of criticism).  However, there is another viable critical strategy: it seems highly questionable that the indispensability argument can produce ``mathematical'' entities that will either satisfy the Platonist or force the scientific realist into accepting Platonism.  Accordingly, the focus of this chapter will be on accepting the truth of the premises of the argument (and certain background assumptions) and then investigating exactly what one can get out of the Quinean ontological machine.  I will argue that at the very least more work needs to be done before the QOM can produced anything that is likely to be recognised as a mathematical entity by the scientific realist or the Platonist.  I will begin by explicitly stating just what parts of Colyvan's argument I will be holding to be true.
+}*[[[break]]]to: *green {code When attempting to criticise the indispensability argument, one obvious (and popular) strategy is to question the truth of one or more of its premises (indeed, Chapter 3 will focus largely on these types of criticism).  However, there is another viable, and heretofor overlooked, critical strategy: namely to argue for the claim that it seems highly questionable that the indispensability argument can produce the sort of ``mathematical'' entities that will satisfy either the Platonist or the IBE-based scientific realist (hereafter referred to simply as the ``scientific realist'').  Accordingly, in this chapter I will not question the truth of the premises of the indispensability argument (or indeed certain other supporting background assumptions), I will assume them to be true and then investigate exactly what one can get out of the indispensability argument, comparing the results to what would commonly be expected by Platonists and scientific realists.  Following on from this, I will argue that at the very least more work needs to be done before the proponents of indispensability can be claimed to have produced ``mathematical objects'' in a sense that is acceptable to most stakeholders in the debate.  I will begin by outlining just which parts of Colyvan's argument I will be holding to be true.
+}*[[[break]]]changed line 9 from: *orange {code Firstly (and most obviously), I will be assuming that all of the Quinean theses are true.  That is I will assume that theories are confirmed as wholes (confirmational holism); that we should look to science (in particular our best scientific theories) to determine the nature of the world (the normative stand of Quinean naturalism); and that the ontological commitments of our best scientific theories are to be determined by determining the domain of quantification of the bound variables involved in their logical representations (the Quinean ontic thesis).  I will also assume (contra Field) that mathematical entities are indeed indispensable for formulating our best scientific theories.  Furthermore, I will assume that the IBE-based scientific realist is, by virtue of their scientific realist commitments, also committed to the indispensability argument for Platonism in mathematics.  My claim in this chapter is that even assuming all this, it is highly questionable whether the indispensability argument carries any weight.  The reason for this lies in commonly held views regarding the nature of mathematical entities.
+}*[[[break]]]to: *green {code Firstly (and most obviously), I will be assuming that all of the background Quinean doctrines are true.  That is, I will assume that theories are confirmed as wholes (confirmational holism); that we should look to science (in particular our best scientific theories) in order to determine the nature of the world (the normative stand of Quinean naturalism); and that the ontological commitments of our best scientific theories are to be ascertained by determining the domain of quantification of the bound variables involved in the logical representations of those theories (the Quinean ontic thesis).  Additionally, I will assume (contra Field) that mathematical entities are indeed indispensable for the formulation of our best scientific theories.  Finally, I will also assume that the scientific realist is, by virtue of their scientific realist commitments, also committed to the indispensability argument for Platonism in mathematics (i.e. that acceptence of IBE-based realism implies acceptance that the indispensability argument produces ``real'' objects).  My claim in this chapter is that even assuming all this, it is highly questionable whether the indispensability argument should convince anyone.  The reason for this is based largely in certain commonly held views regarding the nature of mathematical entities.
+}*[[[break]]]changed line 13 from: *orange {code As indicated above, in order to see why the indispensability argument should not be attractive to either the scientific realist or the Platonist one must examine the nature of mathematical entities in more detail. By nature here, I really mean the \emph{properties} of such entities.  And there is one property in particular upon which I wish to focus my investigation: abstractness.
+}*[[[break]]]to: *green {code As indicated above, in order to see why the indispensability argument should not be attractive to either the scientific realist or the Platonist one must examine the nature of mathematical entities in more detail. By nature here, I primarily mean the \emph{properties} normally attributed to such entities.  Indeed there is one particular property (or group of properties) upon which I wish to focus my investigation: those conveying abstractness upon mathematical entities.
+}*[[[break]]]changed line 15 from: *orange {code Now, as Colyvan notes, what exactly is means for an object to be abstract is quite a difficult and unsettled issue in philosophy.  However, I believe that his response to this is unsatisfactory.  In setting aside these problematic properties he has robbed the scientific realist of the precisely the sorts of things they would point to in order to justify their anti-Platonism and has provided an account of the nature of mathematical objects that most Platonists would hold to be too limited.  Accordingly, I will now explore the range of options via which the abstractness desiderata may be satisfied.
+}*[[[break]]]to: *green {code Now, as Colyvan notes, what exactly is means for a mathematical object to be abstract is quite a difficult and unsettled issue amongst Platonists.  Indeed, what it is for an object to be abstract more generally is quite a quite a difficult and unsettled issue in \emph{philosophy}.  However, I believe that his response to this difficulty is unsatisfactory: Colyvan responds by simply ignoring the abstract nature of mathematical objects, focussing instead on the mathematical properties that are highlighted by their involved in scientific theories.  Unfortunately, in setting aside these problematic properties he has robbed the scientific realist of the precisely the sorts of things they would point to in order to justify their anti-Platonist stance.  
+}*[[[break]]]changed line 17 from: *orange {code As Rosen notes~\footnote{\citet{Rosen:2006}} there is as yet no standard philosophical account of the difference between abstract and concrete objects.  However, as he also notes, if anything is to be considered an abstract object, then it is generally acknowledged that mathematical objects should be so considered.  There are several candidate methods for making the abstract/concrete distinction.  I will only briefly discuss a few of the more popular options: firstly, one may claim that abstract objects are non-spatiotemporal (i.e. that they exist outside of space and time); secondly, they may be held to be causally inert (i.e. unable to impact upon the physical world); finally, abstract objects may be considered to be the result of a process of abstraction applied to concrete objects (such as that proposed by Locke or the more recent, Fregean conception put forward by Hale and Wright).  It should be acknowledged that all of the above conceptions have their problems and as such any conception of mathematical objects involving them should be considered to be uncontroversial.  However, there is a possible way of minimally addressing the common intuition behind the abstractness desideratum: namely, via the claim that mathematical objects should be multiply-instantiable - i.e. they should be types rather than tokens. 
+}*[[[break]]]to: *green {code Furthermore, he has provided an account of the nature of mathematical objects that most Platonists would hold to be too limited.  But just what does it mean for a mathematical object to be abstract.  I will now explore a range of options via which the abstractness desiderata may be satisfied.
+}*[[[break]]]changed line 19 from: *orange {code By multiple instantiability here I mean that the \emph{same} mathematical entity should be able to posited to exist instantiated in one theory here and in another theory there.  In much the same way that one electron is held to be instantiated here and another there according to many theories.  However, the analogy differs when one considers the level at which existence in posited in each instance.  In the case of the electron, there is no temptation (*green or is there? maybe I need to weaken this? - Jason?*) to claim the existence of the \emph{type} "electron."  However, this is exactly what many (if not most) Platonists \emph{would} wish to claim was the case in the mathematical context.  Thus what has emerged is a sort of cline~\footnote{A cline is an axis along which one may map out points with having to posit some underlying continuum - a much better model for many philosophical debates.} of ways in which one may satisfy the abstractness desiderata in more or less controversial ways: from fully-fledged abstractness properties such as causal inertness at one extreme of controversiality to multiple-instantiability at the other.  What I argue that Colyvan must do in order to satisfy the Platonist and cause problems for the scientific realist is place his mathematical objects on his cline.  However, it is not at all clear that the QOM provides him with the tools necessary to do so.
+}*[[[break]]]to: *green {code As Rosen observes~\footnote{\citet{Rosen:2006}} there is as yet no standard philosophical account of the difference between abstract and concrete objects.  However, as he also points out, if anything is to be considered an abstract object, then it is generally acknowledged that mathematical objects should be so considered.  Thus, if the abstractness property exists (and it is a widely held view that it does), then mathematical objects must possess it.  
+
+There are several potential methods via which the abstract/concrete distinction may be made.  Given that my primary concern is with the abstractness of mathematical objects more generally conceived, I will limit my discussion here to a brief sketch a few of the more popular options (so as to convey a general idea of the sorts of properties commonly subsumed under the heading of abstractness): firstly, one may claim that abstract objects are non-spatiotemporal (i.e. that they exist outside of space and time); secondly, they may be held to be causally inert (i.e. unable to cause change to occur in the physical world); finally, abstract objects may be defined by considering a process of abstraction applied to concrete objects (such as that proposed by Locke or the more recent Fregean conception put forward by Hale and Wright - note that such a process should not necessarily be interpreted as the process via which such objects are brought into existence, it may just as easily be interpreted as the process via which we come to intuit their existence).  It should be acknowledged that all of the conceptions discussed have been subject to serious objections and as such any conception of mathematical objects involving them should be considered to be uncontroversial.  
+
+However,there is a possible way of addressing the common intuition behind the abstractness desideratum in a more minimal way: namely, via the claim that mathematical objects should be multiply-instantiable - i.e. they should be types rather than tokens.
+
+By multiple instantiability here I mean that the \emph{same} mathematical entity (consider a particular Abelian group for example) should be able to posited to exist instantiated in one theory here and in another theory there.  A useful analogy can be drawn here to a more tangible scientific object type such as a hydrogen atom. According to most theories the hydrogen atom type is held to be multiply-instantiated in various molecules (i.e. the molecules involve different tokens of the same type).  However, the analogy with mathematical objects differs in an important way: with regard to the level at which existence is posited.  In the case of the hydrogen atom, it is generally held that only the particular hydrogen atom tokens exist, not the hydrogen atom type; whereas in the mathematical case type-level existence is exactly what many (if not most) Platonists \emph{would} wish to claim was the case.  Again, this claim certainly could not be said to be uncontroversial (although it is almost certainly a less controversial claim that any of the other particular abstractness claims above) but it does help one to develop a feel for the scope of ways in which the abstractness desiderata may be satisfied.
+
+What has begun to emerge from the discussion above is a sort of cline~\footnote{A cline is an axis that is not necessarily a continuum - a more accurate model for many philosophical debates.} along which one may place ways of satisfying the abstractness desiderata, ordered in terms of the level of controversy one would court by holding such a view: from the fully-fledged abstractness properties such as causal inertness at one extreme to multiple-instantiability at the other.  What I argue that Colyvan must do (and has not done) in order to develop a position that at least has a chance of  satisfying the Platonist and causing problems for the scientific realist, is place his mathematical objects somewhere on his cline.  However, as we shall see, it is not at all clear that the Quinean ontological machine provides him with the tools necessary to do so.
+}*[[[break]]]changed line 23 from: *orange {code not enough blah
+}*[[[break]]]to: *green {code - key point from first chapter: reification does not necessarily mean that all properties come too
+- and unclear as to how to cut this off in a principled way in this context
+- ?some problematic e.g.s here?
+- so what properties are we guaranteed will come from the QOM?
+- those that are involved in our best scientific theories?
+- but not all properties are involved in our best scientific theories
+- most crucially, difficult to see how abstractness properties are involved
+- hence doesn't look like one can get our objects that would be considered to be properly mathematical by many
+
+response 1:
+- could argue that it is mathematical practice that obtains priviledged status via maths' involvement in our best sci. theories
+- and this practice involves commitment to abstractness in some sense
+- but does this really gel with the Quinean view? seems that we have moved away from science being used to investigate the nature of the world here
+- unless one considers maths to be science
+- but then what did we need involvement in our best scientific theories for in the first place? our best mathematical theories would just be members of the set of our best scientific ones
+- and we end up with a different sort of argument for Platonism:
+--> 1. We should believe in things that are indispensable to our best scientific practice
+--> 2. Mathematics is part of our best scientific practice
+--> 3. Mathematical entities are indispensable for mathematics
+--> 4. Therefore we should believe in mathematical entities
+- and many (including some Platonists and scientific realists) would probably wish to question 1 and 2
+- also does not necessarily get all abstractness properties (certainly gets multiple-instantiability but unclear as to status of others)
+
+response 2:
+- one should somehow "cut off" the level at which indispensability is assessed to the "outside" of objects
+- but what about when mathematical objects are overdescribed?
+-- point-set topology vs algebraic topology
+-- different axiomatisations of set theory
+- and what about simplifications/idealisations
+- are all of these properties reified?
+- or are some of them just not our "best" scientific theories?
+}*[[[break]]]changed line 25 from: *orange {code _Why the Scientific Realist Doesn't Have to be a Platonist_
+}*[[[break]]]to: *green {code _Why the Scientific Realist Does Not Have to be a Platonist (at least not yet)_
+}*[[[break]]]changed line 27 from: *orange {code By now it has become clear that at the very least more of a story needs to be told (by the proponent of the indispensability argument) before the resultant mathematical objects can be claimed to satisfy the abstractness desiderata (in some form or another).  Given this state of affairs, how might the scientific realist can about mounting a defense of their anti-Platonism?
+}*[[[break]]]to: *green {code By now it has become clear that at the very least more of a story needs to be told (by the proponent of the indispensability argument) before the mathematical objects resultant can be claimed to satisfy the abstractness desiderata (in some form or another).  Given this state of affairs, how might the scientific realist go about mounting a defense of their anti-Platonism?  One plausible defense can take both strong and weak forms.  I will first go through the strong defense in detail before discussing how it can be weakened (possibly in order to make it less controversial).
+}*[[[break]]]changed line 29 from: *orange {code One plausible defense can take both strong and weak forms.  I will first go through the strong defense in detail before discussing how it can be weakened (possibly in order to make it less controversial).
+}*[[[break]]]to: *green {code The strong defense is based on an essentialist~\footnote{For more discussion of the essentialism and the essential\accidental distinction see \citet{???:????}.} claim regarding the nature of mathematical entities.  
+}*[[[break]]]changed line 31 from: *orange {code The strong defense is based on an essentialist~\footnote{For more discussion of the essentialism and the essential\accidental distinction see \citet{???:????}.} claim regarding the nature of mathematical entities.  Here the scientific realist claims that the property of abstractness (whatever form it may take) is essential to nature of a mathematical entity (i.e. it is not metaphysically possible for a mathematical entity \emph{not} to be abstract in some sense).  Accordingly, given that the QOM (in its current state at least) fails to create \emph{any} objects with abstract properties, it fails to create anything that the scientific realist would recognise as a mathematical object.  Rather what the QOM creates should be more accurately termed mathematico-scientific objects, objects that are better seen as a subset of the set of scientific objects.  Given this, it is no wonder that the scientific realist has difficulties avoiding the conclusion of Colyvan's argument: anything property via which the scientific realist might try to get a ``grip'' on mathematical entities in order to rule them out of the class of existing objects has been stripped away.  To give up the existence of these anemic mathematico-scientific entities would be to give up the existence of all scientific entities.
+}*[[[break]]]to: *green {code Here the scientific realist claims that the property of abstractness (whatever form it may take) is essential to nature of a mathematical entity (i.e. it is not metaphysically possible for a mathematical entity \emph{not} to be abstract in some sense).  Accordingly, given that the QOM (in its current state at least) fails to create \emph{any} objects with abstract properties, it fails to create anything that the scientific realist would recognise as a mathematical object.  Rather what the QOM creates should be more accurately termed mathematico-scientific objects, objects that are better seen as a subset of the set of scientific objects.  Given this, it is no wonder that the scientific realist has difficulties avoiding the conclusion of Colyvan's argument: anything property via which the scientific realist might try to get a ``grip'' on mathematical entities in order to rule them out of the class of existing objects has been stripped away.  To give up the existence of these anemic mathematico-scientific entities would be to give up the existence of all scientific entities.
+}*[[[break]]]changed line 39 from: *orange {code The strong Platonist response here again involves using an essentialist view of metaphysics to deny that any object without some property of abstractness is a mathematical object.  According to this view, the indispensability argument (as currently proposed anyway) fails to be an argument for Platonism.
+}*[[[break]]]to: *green {code The strong Platonist response here again involves using an essentialist view of metaphysics to deny that any object without some property of abstractness is a mathematical object.  According to this view, the indispensability argument (as currently proposed anyway) fails to be an argument for Platonism.  As noted above, it is merely an argument for scientific realism.
+}*[[[break]]]changed line 45 from: *orange {code Well, so what blah?
+}*[[[break]]]to: *green {code - Well, so what - abstractness is dumb!
+}*[[[break]]]changed line 47 from: *orange {code _Some Further Problematic Cases_
+}*[[[break]]]to: *green {code - two kinds of revisionary (possibly):
+-- a. (I might be okay with this kind) ~ popular dumbness
+-- b. (I'm definitely not okay with this kind) ~ Mathematics generally involves manipulation of types (cf. isomorphism)
+--- but maybe this is just another way of pointing out how maths is distinct from science
+}*[[[break]]]changed line 49 from: *orange {code *green Candidates:*
+- idealisation
+-- continuous pr distributions
+- simplification
+-- discrete versions of PDEs
+- compatible overdescription
+-- algebraic vs point-set topology
+- incompatible overdescription
+-- different axiomatisations of set theory
+-- not able to formulate some problems under all descriptions
+}*[[[break]]]to: *green {code - Still, Colyvan is left with a position that is quite a bit more controversial that it may have appeared to be at first. 
+
+_Conclusion_
+
+Note that I do not hold that Colyvan is incapable of reponding to this challenge, only that it hasn't happened yet, that there seems to be no obvious way of doing so and that the onus is on him to either respond or embrace the controversial nature of his position. 
+
+Then lead into the next chapter by noting that even if he manages to do so there are more fundamental concerns with the argument.
+}*
+----
+2008-09-04 16:31:01 EST
+
+
+
+[[[break]]]changed line 19 from: *orange {code By multiple instantiability here I mean that the \emph{same} mathematical entity should be able to posited to exist instantiated in one theory here and in another theory there.  In much the same way that one electron is held to be instantiated here and another there according to many theories.  However, the analogy differs when one considers the level at which existence in posited in each instance.  In the case of the electron, there is no temptation (*green or is there? maybe I need to weaken this? - Jason?*) to claim the existence of the \emph{type} "electron."  However, this is exactly what many (if not most) Platonists \emph{would} wish to claim was the case in the mathematical context.  Thus what has emerged is a sort of cline~\footnote{A cline is an axis along which one may map out points with having to posit some underlying continuum - a much better model for many philosophical debates.} of ways in which one may satisfy the asbtractness desiderata in more or less controversial ways: from fully-fledged abstractness properties such as causal inertness at one extreme of controversiality to multiple-instantiability at the other.  What I argue that Colyvan must do in order to satisfy the Platonist and cause problems for the scientific realist is place his mathematical objects on his cline.  However, it is not at all clear that the QOM provides him with the tools necessary to do so.
+}*[[[break]]]to: *green {code By multiple instantiability here I mean that the \emph{same} mathematical entity should be able to posited to exist instantiated in one theory here and in another theory there.  In much the same way that one electron is held to be instantiated here and another there according to many theories.  However, the analogy differs when one considers the level at which existence in posited in each instance.  In the case of the electron, there is no temptation (*green or is there? maybe I need to weaken this? - Jason?*) to claim the existence of the \emph{type} "electron."  However, this is exactly what many (if not most) Platonists \emph{would} wish to claim was the case in the mathematical context.  Thus what has emerged is a sort of cline~\footnote{A cline is an axis along which one may map out points with having to posit some underlying continuum - a much better model for many philosophical debates.} of ways in which one may satisfy the abstractness desiderata in more or less controversial ways: from fully-fledged abstractness properties such as causal inertness at one extreme of controversiality to multiple-instantiability at the other.  What I argue that Colyvan must do in order to satisfy the Platonist and cause problems for the scientific realist is place his mathematical objects on his cline.  However, it is not at all clear that the QOM provides him with the tools necessary to do so.
+}*[[[break]]]deleted at line 25: *red {code _Some Problematic Cases_
+
+overdescription blah
+
+}*[[[break]]]changed line 41 from: *orange {code Fundamentally, the reasons why the Platonist should not support the indispensability argument are the same as those given by the scientific realist for not finding its conclusion compelling: it fails to deliver mathematical objects as the Platonist conceives of them.  Again, such a response has strong and weak forms.
+}*[[[break]]]to: *green {code Fundamentally, the reasons why the Platonist should not support the indispensability argument are the same as those given by the scientific realist for not finding its conclusion compelling: it fails to deliver mathematical objects as the Platonist conceives of them.  While Platonists may differ over what particular form the abstractness property may take, they do not differ over the more general issue of whether or not mathematical objects have \emph{some} sort of abstractness.  Again, the Platonist response has strong and weak forms.
+
+The strong Platonist response here again involves using an essentialist view of metaphysics to deny that any object without some property of abstractness is a mathematical object.  According to this view, the indispensability argument (as currently proposed anyway) fails to be an argument for Platonism.
+}*[[[break]]]changed line 43 from: *orange {code The strong response again involves the Platonist using essentialism to deny that any object without abstractness properties is a mathematical object.  While particular Platonists may differ over what particular form the abstractness property may take, they do not differ over whether or not mathematical objects have \emph{some} abstract property in general.  
+}*[[[break]]]to: *green {code Similarly, on the weakened account (where mathematical entities are seen as undifferentiated bundles of properties) the fact that the abstractness property is \emph{never} instantiated seems just as odd (and hence in need of explanation).  
+}*[[[break]]]changed line 45 from: *orange {code _A Possible Response?_
+}*[[[break]]]to: *green {code _A Possible Response_
+}*[[[break]]]added at line 47: *lime {code 
+_Some Further Problematic Cases_
+
+*green Candidates:*
+- idealisation
+-- continuous pr distributions
+- simplification
+-- discrete versions of PDEs
+- compatible overdescription
+-- algebraic vs point-set topology
+- incompatible overdescription
+-- different axiomatisations of set theory
+-- not able to formulate some problems under all descriptions
+}*
+----
+2008-09-04 15:54:10 EST
+
+
+
+[[[break]]]added at line 0: *lime {code *green Don't worry about looking at this too much at the moment Jason (just in case you were). It'll  need a fair bit of cleaning and tightening before it's cogent.  I'll give a cleanup over the next day or two.*
+}*[[[break]]]changed line 40 from: *orange {code Fundamentally, the reasons why the Platonist should not support the indispensability argument are the same as those given by the scientific realist for not finding its conclusion compelling: it fails to deliver mathematical objects as the Platonist conceives of them. 
+}*[[[break]]]to: *green {code Fundamentally, the reasons why the Platonist should not support the indispensability argument are the same as those given by the scientific realist for not finding its conclusion compelling: it fails to deliver mathematical objects as the Platonist conceives of them.  Again, such a response has strong and weak forms.
+
+The strong response again involves the Platonist using essentialism to deny that any object without abstractness properties is a mathematical object.  While particular Platonists may differ over what particular form the abstractness property may take, they do not differ over whether or not mathematical objects have \emph{some} abstract property in general.  
+}*
+----
+2008-09-04 15:46:40 EST
+
+
+
+[[[break]]]changed line 16 from: *orange {code As Rosen notes~\footnote{\citet{Rosen:2006}} there is as yet no standard philosophical account of the difference between abstract and concrete objects.  However, as he also notes, if anything is to be considered an abstract object, then it is generally acknowledged that mathematical objects should be so considered.  There are several candidate methods for making the abstract/concrete distinction.  I will only briefly discuss a few of the more popular options: firstly, one may claim that abstract objects are non-spatiotemporal (i.e. that they exist outside of space and time); secondly, they may be held to be causally inert (i.e. unable to impact upon the physical world); finally, abstract objects may be considered to be the result of a process of abstraction applied to concrete objects (such as that proposed by Locke or the more recent, Fregean conception put forward by Hale and Wright).  It should be acknowledged that all of the above conceptions have their problems and as such any conception of mathematical objects involving them should be considered to be uncontroversial.  However, there is a possible way of minimally addressing the common intuition behind the abstractness desideratum: namely, via the claim that mathematical objects should be multiply-instantiatiable - i.e. they should be types rather than tokens. 
+}*[[[break]]]to: *green {code As Rosen notes~\footnote{\citet{Rosen:2006}} there is as yet no standard philosophical account of the difference between abstract and concrete objects.  However, as he also notes, if anything is to be considered an abstract object, then it is generally acknowledged that mathematical objects should be so considered.  There are several candidate methods for making the abstract/concrete distinction.  I will only briefly discuss a few of the more popular options: firstly, one may claim that abstract objects are non-spatiotemporal (i.e. that they exist outside of space and time); secondly, they may be held to be causally inert (i.e. unable to impact upon the physical world); finally, abstract objects may be considered to be the result of a process of abstraction applied to concrete objects (such as that proposed by Locke or the more recent, Fregean conception put forward by Hale and Wright).  It should be acknowledged that all of the above conceptions have their problems and as such any conception of mathematical objects involving them should be considered to be uncontroversial.  However, there is a possible way of minimally addressing the common intuition behind the abstractness desideratum: namely, via the claim that mathematical objects should be multiply-instantiable - i.e. they should be types rather than tokens. 
+}*[[[break]]]changed line 34 from: *orange {code The strong defense is based on an essentialist~\footnote{For more discussion of the essentialism and the essential\accidental distinction see \citet{???:????}.} claim regarding the nature of mathematical entities.  Here the scientific realist claims that the property of abstractness (whatever form it may take) is essential to nature of a mathematical entity (i.e. it is not metaphysically possible for a mathematical entity \emph{not} to be abstract in some sense).  Accordingly, given that the QOM (in its current state at least) fails to create \emph{any} objects with abstract properties, it fails to create anything that the scientific realist would recognise as a mathematical object.
+}*[[[break]]]to: *green {code The strong defense is based on an essentialist~\footnote{For more discussion of the essentialism and the essential\accidental distinction see \citet{???:????}.} claim regarding the nature of mathematical entities.  Here the scientific realist claims that the property of abstractness (whatever form it may take) is essential to nature of a mathematical entity (i.e. it is not metaphysically possible for a mathematical entity \emph{not} to be abstract in some sense).  Accordingly, given that the QOM (in its current state at least) fails to create \emph{any} objects with abstract properties, it fails to create anything that the scientific realist would recognise as a mathematical object.  Rather what the QOM creates should be more accurately termed mathematico-scientific objects, objects that are better seen as a subset of the set of scientific objects.  Given this, it is no wonder that the scientific realist has difficulties avoiding the conclusion of Colyvan's argument: anything property via which the scientific realist might try to get a ``grip'' on mathematical entities in order to rule them out of the class of existing objects has been stripped away.  To give up the existence of these anemic mathematico-scientific entities would be to give up the existence of all scientific entities.
+
+This argument may be weakened, and made less controversial, by eliminating the involvement of essentialism and instead claiming that abstractness is just some (possibly accidental) property of mathematical objects (the absence of which need not necessarily entail that the object is no longer a mathematical one).  On this view then, the scientific realist would claim that it is indeed strange that the abstractness property is \emph{never} instantiated under the Quinean model.  Accordingly, it seems that at the very least Colyvan owes the scientific realist who holds this view more of an explanation as why this property is never instantiated. 
+}*[[[break]]]changed line 38 from: *orange {code ye olde greek blah
+}*[[[break]]]to: *green {code Fundamentally, the reasons why the Platonist should not support the indispensability argument are the same as those given by the scientific realist for not finding its conclusion compelling: it fails to deliver mathematical objects as the Platonist conceives of them. 
+
+_A Possible Response?_
+
+Well, so what blah?
+}*
+----
+2008-09-04 15:28:07 EST
+
+
+
+[[[break]]]changed line 26 from: *orange {code particular issues blah
+}*[[[break]]]to: *green {code overdescription blah
+}*[[[break]]]changed line 30 from: *orange {code IBE-based blah
+}*[[[break]]]to: *green {code By now it has become clear that at the very least more of a story needs to be told (by the proponent of the indispensability argument) before the resultant mathematical objects can be claimed to satisfy the abstractness desiderata (in some form or another).  Given this state of affairs, how might the scientific realist can about mounting a defense of their anti-Platonism?
+
+One plausible defense can take both strong and weak forms.  I will first go through the strong defense in detail before discussing how it can be weakened (possibly in order to make it less controversial).
+
+The strong defense is based on an essentialist~\footnote{For more discussion of the essentialism and the essential\accidental distinction see \citet{???:????}.} claim regarding the nature of mathematical entities.  Here the scientific realist claims that the property of abstractness (whatever form it may take) is essential to nature of a mathematical entity (i.e. it is not metaphysically possible for a mathematical entity \emph{not} to be abstract in some sense).  Accordingly, given that the QOM (in its current state at least) fails to create \emph{any} objects with abstract properties, it fails to create anything that the scientific realist would recognise as a mathematical object.
+}*
+----
+2008-09-04 15:09:51 EST
+
+
+
+[[[break]]]added at line 17: *lime {code By multiple instantiability here I mean that the \emph{same} mathematical entity should be able to posited to exist instantiated in one theory here and in another theory there.  In much the same way that one electron is held to be instantiated here and another there according to many theories.  However, the analogy differs when one considers the level at which existence in posited in each instance.  In the case of the electron, there is no temptation (*green or is there? maybe I need to weaken this? - Jason?*) to claim the existence of the \emph{type} "electron."  However, this is exactly what many (if not most) Platonists \emph{would} wish to claim was the case in the mathematical context.  Thus what has emerged is a sort of cline~\footnote{A cline is an axis along which one may map out points with having to posit some underlying continuum - a much better model for many philosophical debates.} of ways in which one may satisfy the asbtractness desiderata in more or less controversial ways: from fully-fledged abstractness properties such as causal inertness at one extreme of controversiality to multiple-instantiability at the other.  What I argue that Colyvan must do in order to satisfy the Platonist and cause problems for the scientific realist is place his mathematical objects on his cline.  However, it is not at all clear that the QOM provides him with the tools necessary to do so.
+
+}*
+----
+2008-09-04 13:53:51 EST
+
+
+
+[[[break]]]changed line 16 from: *orange {code As Rosen notes~\footnote{\citet{Rosen:2006}} there is as yet no standard philosophical account of the difference between abstract and concrete objects.  However, as he also notes, if anything is to be considered an abstract object, then it is generally acknowledged that mathematical objects should be so considered.  There are several candidate methods for making the abstract/concrete 
+distinction.  I will only briefly discuss a few of the more popular options: firstly, one may claim that abstract objects are non-spatiotemporal (i.e. that they exist outside of space and time); secondly, they may be held to be causally inert (i.e. unable to impact upon the physical world); finally, abstract objects may be considered to be the result of a process of abstraction applied to concrete objects (such as that proposed by Locke or the more recent, Fregean conception put forward by Hale and Wright).  It should be acknowledged that all of the above conceptions have their problems and as such any conception of mathematical objects involving them should be considered to be uncontroversial.  However, there is a possible way of minimally addressing the common intuition behind the abstractness desideratum: namely, via the claim that mathematical objects should be multiply-instantiatiable - i.e. they should be types rather than tokens. 
+}*[[[break]]]to: *green {code As Rosen notes~\footnote{\citet{Rosen:2006}} there is as yet no standard philosophical account of the difference between abstract and concrete objects.  However, as he also notes, if anything is to be considered an abstract object, then it is generally acknowledged that mathematical objects should be so considered.  There are several candidate methods for making the abstract/concrete distinction.  I will only briefly discuss a few of the more popular options: firstly, one may claim that abstract objects are non-spatiotemporal (i.e. that they exist outside of space and time); secondly, they may be held to be causally inert (i.e. unable to impact upon the physical world); finally, abstract objects may be considered to be the result of a process of abstraction applied to concrete objects (such as that proposed by Locke or the more recent, Fregean conception put forward by Hale and Wright).  It should be acknowledged that all of the above conceptions have their problems and as such any conception of mathematical objects involving them should be considered to be uncontroversial.  However, there is a possible way of minimally addressing the common intuition behind the abstractness desideratum: namely, via the claim that mathematical objects should be multiply-instantiatiable - i.e. they should be types rather than tokens. 
+}*
+----
+2008-09-04 13:52:33 EST
+
+
+
+[[[break]]]changed line 14 from: *orange {code Now, as Colyvan notes, what exactly is means for an object to be abstract is quite a difficult and unsettled issue in philosophy.  However, I believe that his response to this is unsatisfactory.  In setting aside these problematic properties he has robbed the scientific realist of the precisely the sorts of things they would point to in order to justify their anti-Platonism and has provided an account of the nature of mathematical objects that most Platonists would hold to be too limited.  Accordingly, I will now discuss the range of options via which the abstractness desiderata may be satisfied.
+
+}*[[[break]]]to: *green {code Now, as Colyvan notes, what exactly is means for an object to be abstract is quite a difficult and unsettled issue in philosophy.  However, I believe that his response to this is unsatisfactory.  In setting aside these problematic properties he has robbed the scientific realist of the precisely the sorts of things they would point to in order to justify their anti-Platonism and has provided an account of the nature of mathematical objects that most Platonists would hold to be too limited.  Accordingly, I will now explore the range of options via which the abstractness desiderata may be satisfied.
+}*[[[break]]]added at line 16: *lime {code As Rosen notes~\footnote{\citet{Rosen:2006}} there is as yet no standard philosophical account of the difference between abstract and concrete objects.  However, as he also notes, if anything is to be considered an abstract object, then it is generally acknowledged that mathematical objects should be so considered.  There are several candidate methods for making the abstract/concrete 
+distinction.  I will only briefly discuss a few of the more popular options: firstly, one may claim that abstract objects are non-spatiotemporal (i.e. that they exist outside of space and time); secondly, they may be held to be causally inert (i.e. unable to impact upon the physical world); finally, abstract objects may be considered to be the result of a process of abstraction applied to concrete objects (such as that proposed by Locke or the more recent, Fregean conception put forward by Hale and Wright).  It should be acknowledged that all of the above conceptions have their problems and as such any conception of mathematical objects involving them should be considered to be uncontroversial.  However, there is a possible way of minimally addressing the common intuition behind the abstractness desideratum: namely, via the claim that mathematical objects should be multiply-instantiatiable - i.e. they should be types rather than tokens. 
+}*
+----
+2008-09-04 13:22:06 EST
+
+
+
+[[[break]]]changed line 8 from: *orange {code Firstly (and most obviously), I will be assuming that all of the Quinean theses are true.  That is I will assume that theories are confirmed as wholes (confirmational holism); that we should look to science (in particular our best scientific theories) to determine the nature of the world (the normative stand of Quinean naturalism); and that the ontological commitments of our best scientific theories are to be determined by determining the domain of quantification of the bound variables involved in their logical representations (the Quinean ontic thesis).  I will also assume (contra Field) that mathematical entities are indeed indispensable for formulating our best scientific theories.  Furthermore, I will assume that the scientific realist is also committed to the indispensability argument for Platonism in mathematics.  Even assuming all this, it is highly questionable whether the indispensability argument carries any weight.  The reason for this lies in commonly held views regarding the nature of mathematical entities.
+}*[[[break]]]to: *green {code Firstly (and most obviously), I will be assuming that all of the Quinean theses are true.  That is I will assume that theories are confirmed as wholes (confirmational holism); that we should look to science (in particular our best scientific theories) to determine the nature of the world (the normative stand of Quinean naturalism); and that the ontological commitments of our best scientific theories are to be determined by determining the domain of quantification of the bound variables involved in their logical representations (the Quinean ontic thesis).  I will also assume (contra Field) that mathematical entities are indeed indispensable for formulating our best scientific theories.  Furthermore, I will assume that the IBE-based scientific realist is, by virtue of their scientific realist commitments, also committed to the indispensability argument for Platonism in mathematics.  My claim in this chapter is that even assuming all this, it is highly questionable whether the indispensability argument carries any weight.  The reason for this lies in commonly held views regarding the nature of mathematical entities.
+}*[[[break]]]changed line 12 from: *orange {code abstract blah
+}*[[[break]]]to: *green {code As indicated above, in order to see why the indispensability argument should not be attractive to either the scientific realist or the Platonist one must examine the nature of mathematical entities in more detail. By nature here, I really mean the \emph{properties} of such entities.  And there is one property in particular upon which I wish to focus my investigation: abstractness.
+
+Now, as Colyvan notes, what exactly is means for an object to be abstract is quite a difficult and unsettled issue in philosophy.  However, I believe that his response to this is unsatisfactory.  In setting aside these problematic properties he has robbed the scientific realist of the precisely the sorts of things they would point to in order to justify their anti-Platonism and has provided an account of the nature of mathematical objects that most Platonists would hold to be too limited.  Accordingly, I will now discuss the range of options via which the abstractness desiderata may be satisfied.
+
+
+}*[[[break]]]added at line 17: *lime {code _Some Problematic Cases_
+
+particular issues blah
+
+}*
+----
+2008-09-04 12:58:40 EST
+
+
+
+[[[break]]]changed line 8 from: *orange {code Firstly (and most obviously), I will be assuming that all of the Quinean theses are true.  That is I will assume that theories are confirmed as wholes (confirmational holism); that we should look to science (in particular our best scientific theories) to determine the nature of the world (the normative stand of Quinean naturalism); and that the ontological commitments of our best scientific theories are to be determined by determining the domain of quantification of the bound variables involved in their logical representations (the Quinean ontic thesis).  I will also assume (contra Field) that mathematical entities are indeed indispensable for formulating our best scientific theories.  Furthermore, I will 
+assume that the scientific realist is also committed to the indispensability argument for Platonism in mathematics.  Even assuming all this, it is highly questionable whether the indispensability argument carries any weight.  The reason for this lies in commonly held views regarding the nature of mathematical entities.
+}*[[[break]]]to: *green {code Firstly (and most obviously), I will be assuming that all of the Quinean theses are true.  That is I will assume that theories are confirmed as wholes (confirmational holism); that we should look to science (in particular our best scientific theories) to determine the nature of the world (the normative stand of Quinean naturalism); and that the ontological commitments of our best scientific theories are to be determined by determining the domain of quantification of the bound variables involved in their logical representations (the Quinean ontic thesis).  I will also assume (contra Field) that mathematical entities are indeed indispensable for formulating our best scientific theories.  Furthermore, I will assume that the scientific realist is also committed to the indispensability argument for Platonism in mathematics.  Even assuming all this, it is highly questionable whether the indispensability argument carries any weight.  The reason for this lies in commonly held views regarding the nature of mathematical entities.
+}*
+----
+2008-09-04 12:57:44 EST
+
+
+
+[[[break]]]changed line 4 from: *orange {code When one looks to criticise the indispensability argument, the obvious way in which to do is to criticise the truth of the premises (indeed, Chapter 3 will focus largely on these types of criticism).  However, there is another viable critical strategy: it seems highly questionable that the indispensability argument can produce ``mathematical'' entities that will either satisfy the Platonist or force the scientific realist into accepting Platonism.  Accordingly, the focus of this chapter will be on accepting the truth of the premises of the argument (and certain background assumptions) and then investigating exactly what one can get out of the Quinean ontological machine.  I will argue that at the very least more work needs to be done before the QOM can produced anything that is likely to be recognised as a mathematical entity by the scientific realist or the Platonist.
+}*[[[break]]]to: *green {code When one looks to criticise the indispensability argument, the obvious way in which to do is to criticise the truth of the premises (indeed, Chapter 3 will focus largely on these types of criticism).  However, there is another viable critical strategy: it seems highly questionable that the indispensability argument can produce ``mathematical'' entities that will either satisfy the Platonist or force the scientific realist into accepting Platonism.  Accordingly, the focus of this chapter will be on accepting the truth of the premises of the argument (and certain background assumptions) and then investigating exactly what one can get out of the Quinean ontological machine.  I will argue that at the very least more work needs to be done before the QOM can produced anything that is likely to be recognised as a mathematical entity by the scientific realist or the Platonist.  I will begin by explicitly stating just what parts of Colyvan's argument I will be holding to be true.
+}*[[[break]]]changed line 6 from: *orange {code _What I am Embracing_
+}*[[[break]]]to: *green {code _Embracing Colyvan's Argument_
+}*[[[break]]]changed line 8 from: *orange {code love-in blah
+}*[[[break]]]to: *green {code Firstly (and most obviously), I will be assuming that all of the Quinean theses are true.  That is I will assume that theories are confirmed as wholes (confirmational holism); that we should look to science (in particular our best scientific theories) to determine the nature of the world (the normative stand of Quinean naturalism); and that the ontological commitments of our best scientific theories are to be determined by determining the domain of quantification of the bound variables involved in their logical representations (the Quinean ontic thesis).  I will also assume (contra Field) that mathematical entities are indeed indispensable for formulating our best scientific theories.  Furthermore, I will 
+assume that the scientific realist is also committed to the indispensability argument for Platonism in mathematics.  Even assuming all this, it is highly questionable whether the indispensability argument carries any weight.  The reason for this lies in commonly held views regarding the nature of mathematical entities.
+}*
+----
+2008-09-04 12:43:05 EST
+
+
+
+[[[break]]]changed line 4 from: *orange {code structuring blah
+}*[[[break]]]to: *green {code When one looks to criticise the indispensability argument, the obvious way in which to do is to criticise the truth of the premises (indeed, Chapter 3 will focus largely on these types of criticism).  However, there is another viable critical strategy: it seems highly questionable that the indispensability argument can produce ``mathematical'' entities that will either satisfy the Platonist or force the scientific realist into accepting Platonism.  Accordingly, the focus of this chapter will be on accepting the truth of the premises of the argument (and certain background assumptions) and then investigating exactly what one can get out of the Quinean ontological machine.  I will argue that at the very least more work needs to be done before the QOM can produced anything that is likely to be recognised as a mathematical entity by the scientific realist or the Platonist.
+}*
+----
+2008-09-03 21:15:45 EST
+
+
+
+[[[break]]]changed line 2 from: *orange {code *green Just quickly jotting down some thoughts I had in the library today (10/7) regarding a possible (partial) approach.*
+}*[[[break]]]to: *green {code _Introduction_
+}*[[[break]]]changed line 4 from: *orange {code Approach:
+- lets allow ..IBE-based sci. realism
+- lets allow indispensability-based math. realism to work in much the same way
+- even if we do this, it is by no means clear that what we get out can accurately be termed Platonism
+
+What's needed:
+- clear sketch of how ..IBE-based sci. realism works and how this links in with indispensability
+-- possibly also need to look at how they might not be linked (if space)
+- clear portrayal of the sort of "mathematical" entity resultant from indispensability
+- clear portrayal of mathematical entities involved in "classical" Platonism
+- analysis of the differences as to their importance
+-- in particular, what is involved in the notion of an "abstract" entity?
+
+*green Some notes on considerations arising from rereading the "what is a mathematical object?" section of Forster's Axioms of Set Theory.*
+- 2 considerations:
+-- transparency of identity
+--- does the link with particular theories at least muddy the waters here for the objects resultant from indispensability?
+-- the empty widget
+--- if we don't have confirmational holism for mathematics (i.e. if we don't get the whole system from one scientific application), how do we get an empty widget from indispensability?
+--- this one will probably cost too much in shoe leather though
+- also, how uncontroversial are the above notions?
+(certainly transparency of ID seems like the one of the most uncontroversial things one could say about math. entities)
+----
+}*[[[break]]]to: *green {code structuring blah
+
+_What I am Embracing_
+
+love-in blah
+
+_What is a Mathematical Entity?_
+
+abstract blah
+}*[[[break]]]changed line 28 from: *orange {code ChrisWilcox-ThesisOutline
+}*[[[break]]]to: *green {code _What Does the Quinean Ontological Machine Deliver?_
+}*[[[break]]]added at line 29: *lime {code not enough blah
+
+_Why the Scientific Realist Doesn't Have to be a Platonist_
+
+IBE-based blah
+
+_Why the Platonist Should not Accept Indispensability_
+
+ye olde greek blah
+----
+}*
+----
+2008-07-14 22:36:53 EST
+
+
+
+[[[break]]]added at line 15: *lime {code 
+*green Some notes on considerations arising from rereading the "what is a mathematical object?" section of Forster's Axioms of Set Theory.*
+- 2 considerations:
+-- transparency of identity
+--- does the link with particular theories at least muddy the waters here for the objects resultant from indispensability?
+-- the empty widget
+--- if we don't have confirmational holism for mathematics (i.e. if we don't get the whole system from one scientific application), how do we get an empty widget from indispensability?
+--- this one will probably cost too much in shoe leather though
+- also, how uncontroversial are the above notions?
+(certainly transparency of ID seems like the one of the most uncontroversial things one could say about math. entities)
+}*
+----
+2008-07-10 23:07:06 EST
+
+
+
+[[[break]]]changed line 2 from: *orange {code *green Just quickly jotting down some thoughts I had in the library today (10/7) regarding a possible approach.*
+}*[[[break]]]to: *green {code *green Just quickly jotting down some thoughts I had in the library today (10/7) regarding a possible (partial) approach.*
+}*[[[break]]]changed line 11 from: *orange {code - 
+
+
+}*[[[break]]]to: *green {code -- possibly also need to look at how they might not be linked (if space)
+- clear portrayal of the sort of "mathematical" entity resultant from indispensability
+- clear portrayal of mathematical entities involved in "classical" Platonism
+- analysis of the differences as to their importance
+-- in particular, what is involved in the notion of an "abstract" entity?
+}*
+----
+2008-07-10 23:02:04 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*green Just quickly jotting down some thoughts I had in the library today (10/7) regarding a possible approach.*
+
+Approach:
+- lets allow ..IBE-based sci. realism
+- lets allow indispensability-based math. realism to work in much the same way
+- even if we do this, it is by no means clear that what we get out can accurately be termed Platonism
+
+What's needed:
+- clear sketch of how ..IBE-based sci. realism works and how this links in with indispensability
+- 
+
+
+----
+
+ChrisWilcox-ThesisOutline
+
+ChrisWilcox
+}*

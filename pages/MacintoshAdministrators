@@ -1,0 +1,5 @@
+* Almost all Macintosh disks use the HFS+ format.  This format stores data in files with case-insensitive names by default, although it can be made to use case-sensitive names.  Now, ..IoWiki depends on the file system to organise its data (deliberately, so that your wiki pages are still organised even if you lose Io).  Consequently, ..IoWiki on most Macintoshes thinks that the pages BenTrotter and BentRotter are the same page.
+
+-> If you're running a small site, you can probably live with this problem, praying each morning that nobody will make pairs of pages in which only the case of the letters distinguishes them.  If you're running a big site or if you're a perfectionist, you can fix the problem fairly easily.  All you need to do is run ..IoWiki from a case-sensitive partition.  An easy way to do this is to use Disk Utility to make a case-sensitive disk image, copy ..IoWiki onto that and run it from its new location.  Email me (JasonGrossman) if you need more detailed instructions on how to do that.
+
+JasonGrossman

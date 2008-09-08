@@ -1,0 +1,47 @@
+Bits of undergraduate logic are taught at ANU in Philosophy, Computer Science and Mathematics.  Logic related research is done at RSISE and NICTA, and possibly other places too.  All this is pretty much independent now, and students often learn the same thing many times, yet get no contact with research academics.  We would like all these groups and activities to work together to their mutual benefit.
+
+*Existing Courses with Logic Content:*
+- Math1005 Mathematical Modelling (Maths, ..Judy-Anne Osborne, Elizabeth Omerod)
+- Comp2600 Formal Methods (DCS Clem ..Baker-Finch)
+- ARTS1000 Logical Thinking
+- Phil2080 Logic (Philosophy ?) --- no longer taught
+- Several logic and AI related postgrad courses in DCS (taught by RSISE and NICTA people)
+- the advanced logic summer school is a special case: it's open to undergraduates but is expensive and doesn't count for undergraduate credit)
+
+*Stakeholders*
+
+The RSISE Logic and Computation Program now has a counterpart in NICTA, so NICTA may be a stakeholder in teaching logic.
+
+Bob Williamson is Research Director of NICTA (nationally) and he's just become head of the Computer Science Lab (CSL) at ANU as well.
+
+John Slaney is the leader of the RSISE logic group, and key member of the NICTA group.  He has lots of logic teaching experience.  Uses a constraint solver in teaching.
+
+Greg's supervisor is Raj, modal logician at RSISE.
+
+*Maths Foundations Course Opportunity*
+
+In 2007, maths asked RSISE if it could teach its 3rd-year Foundations of Maths course.  Raj asked Greg if he would like to coordinate it, with help from several RSISE/NICTA researchers.  At the time he had different priorities.  Maths still needs someone to teach it. I've offered to teach a little bit of it if he takes it.  We both need to think about whether he or I could co-ordinate it (but Greg has first dibs).
+
+Maths: Greg's been talking at a more "grass-roots" level with ..Judy-Anne Osborne, who is teaching a first year maths course with a fair bit of logic content, and there are several courses in DCS with logic content, whose lecturers I know.
+
+*Funding Ideas*
+
+The VC's fund is offering up to $10,000 for projects which integrate teaching and research.
+http://billboard.anu.edu.au/news_view.asp?id=33069  We should apply for this.  Greg to look into this.
+
+*New Advanced Logic Course*
+
+possible topics for an advanced logic course include:
+- lambda calculus (for interactive theorem proving, logical frameworks etc)
+- paraconsistent logic
+Previously Jason's taught from textbooks on ..non-classical logic by Priest, van Frassen and Beal. (awesome - look in the acknowledgements, I think you'll find Greg there, because JC Beal and I worked through van Frassens earlier book together)
+- modal logics (and philosophical issues about possibility?)
+
+*Next Steps*
+Suggest meeting:
+Maths: Steve Roberts (Jason)
+Computer Science: Clem Baker-Finch (Greg - Clem's in), who's senior theory guy & course co-ordinator for Formal Methods course, which includes theorem-proving
+RSISE: Raj (Greg - Raj is in, we have been discussing this for some time), Greg (Greg - Greg's in)
+Philosophy: Jason (Jason), bosses (Jason)
+NICTA: Peter Baumgartner? or Mike Norrish?
+

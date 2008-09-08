@@ -1,0 +1,150 @@
+
+----
+2008-05-28 11:58:49 EST
+
+
+
+[[[break]]]deleted at line 1: *red {code test
+
+}*
+----
+2008-05-28 11:58:31 EST
+
+
+
+[[[break]]]added at line 0: *lime {code test
+
+}*
+----
+2008-05-26 15:26:17 EST
+
+
+
+[[[break]]]added at line 41: *lime {code -- *blue Examples off the top of my head:
+--- one of those symmetry group things from particle physics
+--- conjugate distributions in Bayesian statistics (citation from Gelman et al)
+-- Jason*
+}*
+----
+2008-05-26 14:40:44 EST
+
+
+
+[[[break]]]changed line 11 from: *orange {code 
+}*[[[break]]]to: *green {code -- Both these schools of thought think that when you're looking at a theory you're also looking at a practice.  (Or should be.)
+}*
+----
+2008-05-26 14:39:28 EST
+
+
+
+[[[break]]]added at line 6: *lime {code *blue
+-- Two major schools of opposition to just considering science to consist of scientific theories:
+-- (1) The Kuhnian school, which says that a scientific paradigm includes tacit knowledge which is not theoretical.
+-- (2) The ``new experimentalists'', e.g. Hacking, who say that experiment has a life separate from theory.  I don't know what the new experimentalists say about maths.
+
+Jason*
+}*
+----
+2008-05-23 16:13:56 EST
+
+
+
+[[[break]]]changed line 29 from: *orange {code -- *green perhaps we could have a chat aboput this on Monday Jason?*
+}*[[[break]]]to: *green {code -- *green perhaps we could have a chat about this on Monday Jason?*
+- I've had a few more thoughts on this: perhaps one could argue something along the lines of future scientific theories really being what one should be concerned about.  In a sense we already have the "value" from our current scientific theories, its not going anywhere.  What we should be concerned about is extrapolating from the inquiry practices that led to these theories and trying to apply these extrapolations in such a way as to maximise the likelihood of obtaining "valuable" theories in the future.
+-- and so in the present case we would be concerned with whether or not mathematics played an indispensable role in these extrapolations
+}*
+----
+2008-05-22 17:49:46 EST
+
+
+
+[[[break]]]changed line 28 from: *orange {code 
+}*[[[break]]]to: *green {code - *green hmmm, it seems "obvious" to me that you need to consider the ..practice-context rather than just the theory itself but I'm having a hard time developing a principled way of saying why*
+-- *green perhaps we could have a chat aboput this on Monday Jason?*
+}*
+----
+2008-05-22 17:41:01 EST
+
+
+
+[[[break]]]added at line 32: *lime {code - it's possible that there is another "general pattern" (to go along with the induction/Goodman one) emerging here: namely idea that certain considerations can't be separated from each other (e.g. genes/environment, empirical/innate concepts)
+}*
+----
+2008-05-22 17:28:59 EST
+
+
+
+[[[break]]]deleted at line 20: *red {code _Why would one want to consider scientific practice rather than just theories?_
+
+}*[[[break]]]added at line 26: *lime {code - A possible response by Field may be that one does not need to consider scientific practice, just the theories themselves, this leads to a further question:
+
+_Why would one want to consider scientific practice rather than just theories?_
+
+}*
+----
+2008-05-22 17:27:14 EST
+
+
+
+[[[break]]]changed line 25 from: *orange {code - if Fields replacement structures do not have the same level of informational content as the mathematical one's 
+}*[[[break]]]to: *green {code - if Field's replacement structures do not have the same level of informational content as the mathematical ones and if it can be shown that scientists exploit the informational content of mathematical structures in best practice, then I believe one can argue that Field's (philosophical) position would have a deleterious impact on science
+-- and this basically would amount to a rejection of the naturalist assumption (certainly it would amount to a  rejection of the Quinean naturalist position but I also think it would be in conflict with any position that could claim naturalist affiliation) 
+}*
+----
+2008-05-22 17:22:35 EST
+
+
+
+[[[break]]]added at line 8: *lime {code 
+}*[[[break]]]added at line 10: *lime {code 
+}*[[[break]]]added at line 16: *lime {code 
+_Why would one want to consider scientific practice rather than just theories?_
+
+
+_Does Field's position amount to a rejection of naturalism with regard to a ..practice-based indispensability argument?_
+- on some level Field's position is definitely revisionist with regard to scientific practice, the question really is whether it is revisionist in a deleterious way
+- if Fields replacement structures do not have the same level of informational content as the mathematical one's 
+}*
+----
+2008-05-22 17:16:10 EST
+
+
+
+[[[break]]]changed line 9 from: *orange {code 
+}*[[[break]]]to: *green {code _What would a ..practice-based indispensability argument look like?_
+- exactly the same as the regular one except that the indispensability premiss would be replced with something like "mathematics is indispensable to our best scientific practice"
+_How could this be a concern for Field?_
+- mathematical objects in general and rich in informational content (i.e. they generally have lots of additional propoerties that aren't exploited when they are employed in scientific theories)
+- it is possible that consideration of these additional properties and their interpretation in particular scientific contexts may lead to new avenues of scientific inquiry
+-- *green so a key concern is whether or not this is descriptively accurate with regard to scientific practice*
+- the concern would then be whether or not Field's replacements for the mathematical structures also possessed this rich informational content
+-- if they do not, then it seems we have potential grounds to argue that they do not adequately replace the mathematical entities
+}*[[[break]]]changed line 12 from: *orange {code 
+
+}*[[[break]]]to: *green {code - need to investigate the nature of Field's replacement structures a bit more with a view to assessing their informational content compared to the original mathematical entities
+- need to have a chat to Jason about whether or not scientists actually do exploit the properties of mathematical objects when sourcing new avenue of inquiry
+}*
+----
+2008-05-22 16:58:59 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+Field argues against the indispensability argument on the grounds that the mathematics used in scientific theories is not actually indispensable.  Resnik makes an interesting distinction between indispensability with regard to scientific theories and indispensability with regard to scientific practice.  Does this distinction have implications for Field's position?  That is, can one mount an indispensability argument based on scientific practice rather than scientific theories?  
+
+Another consideration is whether it is possible to make a hard and fast distinction between scientific theory and scientific practice.  If not, then what implications does this have for Field's position?
+----
+*Discussion*
+
+----
+*Further Considerations*
+
+
+----
+
+ChrisWilcox
+}*

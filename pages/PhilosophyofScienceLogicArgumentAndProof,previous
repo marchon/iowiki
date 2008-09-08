@@ -1,0 +1,98 @@
+I thought I'd post this here sort of because I want to bring it up in the tute today. Having to write out an idea is the perfect way of crystallising it.
+
+First, Jason said in the philosophy students are taught to use the words argument and proof interchangeably. Having spent half a decade as a philosophy student -  I've never seen those terms conflated, and have regularly seen them distinguished. However, I have no problem adopting a new meaning for a term, so I didn't have a problem with this.
+
+Jason went on to look at examples like *"My dad has a blue fountain pen; therefore my dad can write"* or *"Most dads have shinny shoes; therefore your dad's shoes are shinny"*. He called these 'good arguments'.
+
+These are simply not good arguments - they're the very definition of a logical fallacy. (http://en.wikipedia.org/wiki/Appeal_to_probability)
+
+Jason also said in class that if we didn't accept these as good arguments, we would become socially paralised. 
+
+To make sense of this, I'd like to go back to my first point. Argument and Proof ought to be considered very different terms.
+
+Your father's possession of a pen provides a very compelling argument that he can write. If we were engaging in probability, I'd be happy to bet a lot of money that he can write. But his ability to write is certainly not proved by his possession of a pen.
+
+I think that we ought to consider a proof to be a threshold higher than an argument. 
+
+-Greg.Sadler
+
+*green I've done no logic before and found this confusing as well. I will try to be very cautious in anything I say here, because my reading has been quite limited. 
+
+I thought Jason's examples of 'my dad has a blue fountain pen, therefore he can write' were examples of inductively valid arguments. I don't know how to define an inductively valid argument, and Jason said that it was far more complicated than the corresponding definition of a deductively valid argument (which still appears to have some difficulties). What I understood was that the above argument is deductively invalid, but may be inductively valid (or maybe just invalid). 
+
+I interpreted this to extend to the use of inductive reasoning in science. Take, for example, a zoologist who makes the following argument, which I think follows the form of the fountain pen argument (please correct me if I'm wrong! I'm new at this).
+
+This bird I have discovered has wings
+Every bird that has wings that I have encountered previously can fly
+--
+Therefore this bird can fly. 
+
+We all know this to be incorrect, as there are several examples of large flightless birds with wings, just as there are probably Dad's with fountain pens who can't write. But most of the time, it is likely to be a good 'argument' (inductively?) that a bird that has wings can fly.
+
+From the readings and the lecture, I thought that the point (and the big problem) with inductive arguments is that a sufficient number of observations can be generalised to theory, such as 'all birds that have wings can fly'. This seems to be the point of the swan example that is often brought up...
+
+What I don't know is how 'valid' this inductive argument is, either pre-Hume or post-Hume, and whether in inductive logic, it is acceptable to use the terms argument and proof interchangeably. Intuitively, I cannot accept an inductive argument as a 'proof', but am happy to accept it as an argument that appeals to probability. 
+
+Hopefully we will cover this in the course...
+
+Can someone please post something about inductive arguments and validity? 
+
+Mel*
+
+*blue Greg, the reason argument and proof are the same is because every 'proof' is merely an argument of proof. Does the argument prove anything? Well if it doesn't then it is a proof proven wrong, if it does prove something it is a proof waiting to be proven wrong. Just my 'been doing philosophy for a quarter of a score of years' opinion. Of course if you come up with an argument that is never proven wrong, you may have a proof for why the terms should not be conflated.*
+
+*pink That final point is very interesting, and I'd like to see it expanded. But it's not what I meant. I regret saying that argument and proof are exactly the same. What I meant to say is that _in deductive logic_ argument and proof are the same. Outside deductive logic, I guess every proof is an argument but not every argument is a proof. Jason*
+
+From the 4 pm tutorial yesterday.
+
+I put up an example of an argument that supposedly satisfied the first definition of deductive validity ("premises true implies conclusion is true") but didnot satisfy the second definition ("follows from the premises"). This was the argument:
+- (1) Jason is an awful lecturer.
+- (2) All polar bears can do the macarena.
+----
+- (3) Therefore, Paris is the capital of France.
+Since (1),(2) imply (3), this argument is deductively valid.
+
+
+
+Iain pointed out to me after the lecture that there was a sleight of hand in this, however. I used the conclusion "Paris is the capital of France" as something that is truth-independent of the premises. But if this is the case then "Paris is the capital of France" is a hidden axiom, and so the above syllogism is an enthymeme that should be written as:
+- (0) Paris is the capital of France.
+- (1) Jason is an awful lecturer.
+- (2) All polar bears can do the macarena.
+----
+- (3) Therefore, Paris is the capital of France.
+which is a deductively valid argument by both definitions, although with some redundancy.
+
+Still, what if I write the following?
+- (1) Jason is an awful lecturer.
+- (2) All polar bears can do the macarena.
+----
+- (3) Therefore P is true if P is true.
+I think I'm safe with this one. Axiomatization to this depth is going to get ugly. 
+
+
+Sexily yours,
+
+
+Hugh Parsonage. 
+
+I'm a little bit at work at the moment (and a little bit ought not be posting on wikis), so I don't have my notes with me. But, if I recall correctly, the first definion had words to the effect of 'the conclusion _must be true if_ the premises are true'.
+
+To me, vested in lawyer-speak, "must be true if" has the same meaning as "follows from". That's to say. The truth of (3) has nothing to do with the truth of (1) and (2). Therefore to say that '(3) must be true if (1) and (2) are true' is incorrect.
+
+The word 'must' describes a feature or behavior that is mandatory. There is no sense in which Jason's poor teaching and polar bears wonderful dancing neccistate or are mandatory requirements of French planning decisions or French history.
+
+greg.sadler
+
+*red To what Hugh said and the argument he used as an example, he said it satisfied the first definition of deductive validity: 
+
+"premises true implies conclusion true": the conclusion is true both when the premises are true and when the premises are false, so the premises being true doesn't influence the conclusion one bit. So it doesn't satisfy the 1st definition. What it* *black DOES* *red satisfy is: "premises true OR untrue implies conclusion is true" so would be a tautology, and not a very good argument. ...u4309050*
+
+*blue Perhaps not surprisingly, it depends on how you treat the word ``if''.  Maybe more surprisingly, if we follow the way logicians usually treat the word ``if'', Hugh is absolutely right.  In my opinion, this is a big problem, and one of the reasons why we need to replace classical logic.  It's called ``the problem of the material conditional''.  
+
+For a defence of the way logicians (usually) use ``if'', see http://www.earlham.edu/~peters/courses/log/mat-imp.htm.
+
+If this all seems too complicated, don't worry: it's a topic in advanced logic which I don't expect anyone to go into unless they find it fun.  
+
+Jason*
+
+*red Hang on, I don't understand. Are you saying the argument "P is true. Q is true. Therefore R is true (P and Q don't mention R)" is deductively valid?* *blue Yes, according to classical logic, provided R is true.  It's a problem with classical logic.  Alternative systems have other problems.  Jason* *red Or are you talking about "P is true. Q is true. Therefore P is true" which is fine.*

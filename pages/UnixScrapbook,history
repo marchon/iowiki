@@ -1,0 +1,129 @@
+
+----
+Tue May  2 15:41:01 EST 2006
+
+
+
+[[[break]]]added at line 4: *lime {code hdiutil resize -help
+
+}*
+----
+Fri Apr 14 21:39:59 EST 2006
+
+
+
+[[[break]]]added at line 6: *lime {code zsh
+autoload zmv
+
+----
+
+}*
+----
+Tue Feb 28 17:20:41 EST 2006
+
+
+
+[[[break]]]added at line 2: *lime {code sudo /Developer/Tools/SetFile -a v /usr
+
+}*
+----
+Sat Feb  4 19:22:25 EST 2006
+
+
+
+[[[break]]]changed line 17 from: *orange {code umount /dev/disk3s2
+}*[[[break]]]to: *green {code umount /dev/disk1s2
+}*
+----
+Sat Feb  4 19:22:13 EST 2006
+
+
+
+[[[break]]]changed line 5 from: *orange {code umount /dev/disk3s2
+}*[[[break]]]to: *green {code umount /dev/disk1s2
+
+hdiutil detach /dev/disk1
+
+hdiutil compact cover.sparseimage
+}*[[[break]]]changed line 9 from: *orange {code mount -t hfs -o union /dev/disk3s2 ~
+}*[[[break]]]to: *green {code mount -t hfs -o union /dev/disk1s2 ~
+}*[[[break]]]added at line 14: *lime {code 
+hdiutil detach /dev/disk1
+
+hdiutil compact cover.sparseimage
+
+}*[[[break]]]changed line 17 from: *orange {code mount -t hfs  /dev/disk3s2 /ermintrude/backup-mountpoint/
+}*[[[break]]]to: *green {code mount -t hfs  /dev/disk1s2 /ermintrude/backup-mountpoint/
+}*
+----
+Sat Feb  4 19:17:04 EST 2006
+
+
+
+[[[break]]]added at line 4: *lime {code umount /dev/disk3s2
+
+}*
+----
+Sat Feb  4 19:16:37 EST 2006
+
+
+
+[[[break]]]added at line 2: *lime {code ----
+
+hdiutil attach cover.sparseimage -nomount
+
+mount -t hfs -o union /dev/disk3s2 ~
+
+----
+
+umount /dev/disk3s2
+
+hdiutil attach cover.sparseimage -nomount
+
+mount -t hfs  /dev/disk3s2 /ermintrude/backup-mountpoint/
+
+----
+
+}*
+----
+Sat Feb  4 18:00:20 EST 2006
+
+
+
+[[[break]]]deleted at line 1: *red {code 
+}*[[[break]]]added at line 3: *lime {code sudo /usr/local/sbin/openvpn --config ~/openvpn.config
+
+}*
+----
+Thu Feb  2 13:31:45 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code 
+PasswordlessSSH
+
+/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend # try it!
+
+
+# mencoder /Temp\ DND/temp-sw/VTS_06_1.VOB -o ~/Desktop/movie.avi  -alang en -chapter
+# mencoder /Users/jason/Desktop/stream.dump -o ~/Desktop/movie.avi  -alang en  -vf-ad
+# mplayer -dumpstream -dumpfile /Volumes/Arbitrary/stream.dump dvd://
+
+
+"/Applications/Mencoder OS X.app//Contents/Resources"/mencoder /Users/jason/Desktop/SIXFEETUNDERSEASON3/VIDEOTS/VTS026.VOB -o ~/Desktop/movie.avi -alang en -vf-add scale -zoom -xy 640 -oac mp3lame -lameopts vol=0 -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=3800:vqcomp=0.7:vqblur=0.2:mpeg_quant 
+
+
+hdiutil resize -size 2g diskname
+
+
+wget -Y off http://localhost:8080
+
+
+
+configure --cache-file=/Users/jason/.config.cache --build=powerpc-apple-darwin
+
+
+pdf2ps -sDEVICE=pdfwrite -sOutputFile=test.pdf thesis.pdf
+
+don't forget about rpl
+}*

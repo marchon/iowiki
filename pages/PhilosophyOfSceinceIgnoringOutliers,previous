@@ -1,0 +1,48 @@
+*fawn Can someone elaborate to me why Jason said, descriptively, that scientists ignore outliers?
+
+It seems to me that outliers are what is interesting. They’re the bits that people ought to investigate and ought to get excited about. Speaking to social scientists they, descriptively, claim to follow my normative ideas. They investigate outliers.
+
+Jason argued that investigating outliers is time consuming. But surely where data conforms to the theory or hypothesis there isn’t much to do. Useful information will come from finding reasons to reject outliers, or learning something from them.*
+Greg.Sadler
+
+*blue This isn't exactly answering your question but, by the way, I don't think that scientists generally ought to ignore outliers.  On the other hand, I don't have a simple theory about what they should do instead.  I do have a theory about where to look for such a theory, namely in (normative theoretical) statistics.
+
+Ideally,  scientists should find reasons to reject outliers, or learn something from them.  However, that often isn't possible, because the amount of data is overwhelming, and by definition outliers don't conform to the theory or hypothesis (at least, not to the version of the theory or hypothesis which ends up being analysed, and often there's a good reason why that's the version which gets analysed).  So the question of what they should do is a complicated one.
+
+Jason*
+
+*green Ignoring outliers may seem more dramatic than it actually is (I'm being entirely descriptive for now). Across experimental scientific disciplines, data is usually generated as a set of repeats. In molecular biology, each data point for an experiment is typically repeated three times (e.g., if you are testing three different drugs for their ability to inhibit a biochemical reaction, you would run three samples per drug). The whole experiment is then repeated a minimum of three times (usually more often, if time and resources permit), giving you a total of 9 data points per drug from three separate experiments. If 8 of the 9 data points are approximately equal, but the 9th point is significantly different, chances are that you missed a step, or accidentally added a reagent twice, or forgot to mix it, or the pipette calibration was out (biologists use very small volumes, which means there is a large margin for error), or a bit of the sample spilled, and so forth. Sometimes you are aware of these errors; most of the time you aren't. Lab work can be incredibly tedious, and it is difficult to focus intensely for four hours to ensure every data point is as accurate as possible. Errors in equipment (such as pipettes) also occur readily. Thus most 'outliers' are interpreted to represent error, based on experience. 
+
+Jason has asked for a method to address outliers. I don't know much about statistics, but I think it would be a possibility to adopt a principle of reproducibility - i.e., if the outliers are fairly consistent in terms of number, numerical value, qualitative analysis, or other measures over a series of experiments, then the outliers should be investigated more closely.*
+
+-- *blue Good, but this leaves a lot of things open.  E.g.: what if there isn't a sequence of experiments?  Maybe there is no general solution to this problem (although I continue to hope there is).  Jason*
+
+*green Defining 'consistency' has inherent problems, and precludes outliers that might appear random but actually indicate higher-order complexity or something else important. The problem with random outliers is that it is extremely difficult to investigate them, as by my above definition, they are not reproducible (to a reasonable, not exact value). I wish I knew more about mathematical modelling, because there may be a system for estimating the significance of random outliers.
+
+Token normative claim: Scientists should be trained in statistical analysis and mathematical modelling! (I'm certainly not... first year maths and stats doesn't cut it!)*
+
+-- *blue Yes, as long as it's not just indoctrination into one method or another ... what you find in statistics textbooks is very contentious, but the textbooks themselves don't tell you that! A few universities have picked up on this relatively recently and are starting to compare various statistical schools of thought with each other.  I don't know about the ANU.  Jason*
+
+*green Melanie*
+
+As an interesting aside, I was speaking to a psychology friend of mine who is being taught statistics by a professor of mathematics who recently discovered a flaw in a statistical assumption that psychology researchers were making that invalidates ``30%'' of studies. Ouch.
+
+I'll try and get some evidence that is less anecdotal and alcohol-fuelled than this before my next post.
+
+New post from my friend:
+
+Regression and ANOVA are 2 important (and closely related) statistical techniques upon which psychologists rely to analyse their data. Both of them have an assumption of homogeneity of variance - that your groups/conditions all have the same amount of variance. For a long time, everyone's assumed that both these techniques are fairly robust to violations of this assumption. Respected textbooks say it's ok if the variance ratio is as large as 10:1. Prof. Smithson proved recently that that's totally wrong, that actually even a ratio of 2:1 totally mucks with the data and leads to the false identification of an interaction effect or vice versa. Unfortunately, most psychologists don't even report a homogeneity of variance test in their research, so many decades of research have been called into question by this. ARGH! 
+
+Hugh.
+
+I don't know if this got mentioned (it's a looooong post...) but it has to be perfectly correct to ignore outliers, if you repeat the experiment and there are a completely new set of outliers in no way related to the previous ones, or they disappear. I don't know if we are talking about the same thing, but I remember being told by a physics demonstrator, that "outliers" are the points that are associated with mistakes because they don't stay the same from experiment to experiment ... and the essence of a proper experiment is repeatability. ... so you ignore the parts that aren't repeated ... u4309050
+
+*blue That assumes that you are certain that your experiments are controlled. -Hugh*
+
+*purple I agree with Hugh's last statement AND It can be almost impossible to controll all relevant variables in some experiments in many sciences that I'm aware of (lots of biology and ecology, psychology and social sciences, and to some extent in chemistry and physics). 
+
+Noramatively, I think it's sensible in science to try to explain your outliers, even postulate radical explanations if you can think of any.
+
+Descriptively - Probably, most of the time outliers result from experimental error, but maybe sometimes they result from an unknown variable. But if you're in the habit of simply ignoring anything that isn't repeated (outliers that change) then you're not likely to be looking for patterns in those outliers. If there is a pattern with clues to a new discovery; you're unlikely to see it. Normatively - I'm not saying scientists should be devoting their careers to this sort of thinking, but they should keep it in mind when interpreting their data.
+
+Hamish*

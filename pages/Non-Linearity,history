@@ -1,0 +1,28 @@
+
+----
+Tue Jul 25 01:10:52 EDT 2006
+
+
+
+[[[break]]]added at line 0: *lime {code Non-linearity is all the rage.
+
+Non-linearity is a property of a relationship between two _descriptions_, not two _things_.  I want to show that this distinction is important, and that it's not meaningless.  (Or vice versa!)
+
+Is this distinction between things and descriptions an important distinction?  Yes.  Because:
+
+-> A non-linear relationship can always be made into a linear relationship, or vice versa, by changing the descriptions.  Sometimes the changes we need to make to make that happen are natural, useful ones.  Examples: 
+
+--> The output of a transistor sound system is linearly related to its energy consumption if it's measured in watts but not if it's measured in sound pressure level.  The former is easier to measure and commoner, but the latter is more useful.  This suggests -- and rightly so -- that we need to know what we're going to ''use'' a pair of descriptions for before we can say whether they're linearly related to each other or not.
+
+--> Intelligence is approximately linearly related to (er ... something) if it's measured on some IQ scales but not if it's measured on others.
+
+--> The momentum of an object is linearly related to its velocity measured as a scalar but not to its velocity measured as a vector.
+
+-> Consequently, "what you're doing [when you say something is non-linear] is making claims about its objectivity, but not being up-front about that."  (That's Alison Moore's paraphrase of what I'm saying.  That doesn't mean she agrees with it.)
+
+Is this a distinction that makes sense?  That's a harder question, at least for some people.  But the answer is yes, in this context at least (even for the most hardened anti-realists).  Because:
+
+-> Even if there are no such things as _things_, only descriptions, it still makes a big difference whether something is positioned grammatically as being a _thing_ or as a _description_.  The difference is that when we're talking about something as if it's a _thing_, we're almost never talking about our description of it.  We're talking about it.  If it doesn't exist then the truth values (and assertability values) of sentences about it no doubt supervene (depend) on our descriptions of it; but we're still not talking _about_ those descriptions.  (Thanks to Huw Price for explaining this to me.)  This point is usually made, at least when the thing in question is a property, by talking about HumeanProjection: we say that we are Humeanly projecting the property.  The point applies just as well for objects.
+
+--> examples to follow
+}*

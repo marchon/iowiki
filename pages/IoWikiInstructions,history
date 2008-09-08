@@ -1,0 +1,786 @@
+
+----
+Thu Dec 13 13:27:48 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code Contrary to popular belief, the end of the year is one of the best times to look for, awesome descion
+}*[[[break]]]to: *green {code This is a wiki --- a web site designed to encourage you to contribute to it.
+
+_You can edit almost any page on this wiki._  Try it out now, in the sand.box (a place where no-one will mind if you make a mess).
+
+While you're editing, you can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+
+If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with two dots, like this: {..cute.wombats}.  (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+
+You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  See CamelCasePlaysNicelyWithDots.
+
+Please sign what you write, preferably by typing your name as a link like this: WillowRosenberg.  That will let people know who's said what, and as a nice side-effect it will automatically give you a wiki home page that's easy for people to find.
+
+For sociological arguments about how wikis work, see http://c2.com/cgi/wiki?WhyWikiWorks.
+
+To see what people have written in this wiki recently, look at recent.changes.
+
+----
+
+# Access Keys
+
+In most web browsers, you can use a special key --- usually Alt or ctrl --- along with the initial letter of one of ..IoWiki's buttons to activate that button.  Try it, by pressing Alt-e and ctrl-e.
+
+----
+
+# ..Mark-Up Codes
+
+The rest of this page describes the mark-up codes you can use to posh up your pages a bit.  These codes are deliberately restricted to things that are semantically useful, not too distracting, and not too arty.  (Arty is good, but it discourages collaboration, so it's not good _here_.  See http://c2.com/cgi/wiki?WhyDoesntWikiDoHtml for arguments about this sort of issue.)
+
+{code _text_} to have {code text} emphasised, _like this_.
+
+{code *text*} to have {code text} displayed in bold, *like this*.
+
+{code *red text*} to have {code text} displayed in *red red*, and similarly for all these colours:
+*green green* *blue blue*  *fawn fawn* *crimson crimson* *red red* *purple purple* *lime lime* *orange orange* *pink pink* *black black*.
+
+To make a list of dot points, start lines with hyphens, like this:
+
+{code - dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates}
+
+to get this:
+
+- dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+Similarly, start a paragraph with {code ->} to have it indented but without a dot:
+
+->indented paragraph, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+You can use {code --}, {code ---}, {code -->} and {code --->} to get extra levels of indenting.
+
+Any web hyperlinks you type (http://tumble.tk, mailto:Jason@xeny.net, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: 
+
+http://www.geocities.com/falconfacts/pics/ebphotos/eba1.jpg
+
+# Turning off mark-up codes
+
+Use [[[(]]]text[[[)]]] to have text displayed without any of the above mark-up.  This is useful when you want to use characters like {*} and {_} which you don't want to disappear, and when you don't want a word in ..CamelCase to be linked to anything.
+
+Use [[[(]]]code text[[[)]]] to have text displayed without mark-up and in a typewriter font suitable for computer code, {code like this}.
+
+Use [[[(]]]pre text[[[)]]] to have text displayed without mark-up, in a typewriter font and with spaces and tabs preserved.  This is useful for formatted tables and formatted computer code.
+
+# Character set
+
+If your browser and operating system allow it, you can use any Unicode character with ..IoWiki, in one of three ways: by typing it straight in, by copy and pasting it from somewhere, or using HTML character codes.  For the third method, see HTML.markup.codes.
+
+Here are some example characters.  How they look will depend on what fonts you're using.
+&#9786;&#9731;&#9734;&#10081;&#966;&#8756;&#8557;&#8576;&#8578;&#8984;&#8592;&#8594;&#8593;&#8595;&#10056;&#9834;&#9729;&#9679;
+
+And there are easy ways of typing in the following special characters:
+{--}   for --
+{---}   for ---
+{``}   for ``
+{''}    for ''
+
+Oh, and bits of text in triple square brackets [[[like this]]] may give unpredictable results, so try to avoid them, OK?
+
+----
+
+This wiki is run using IoWiki.
+
+JasonGrossman
+}*
+----
+Wed Dec 12 00:54:22 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code This is a wiki --- a web site designed to encourage you to contribute to it.
+
+_You can edit almost any page on this wiki._  Try it out now, in the sand.box (a place where no-one will mind if you make a mess).
+
+While you're editing, you can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+
+If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with two dots, like this: {..cute.wombats}.  (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+
+You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  See CamelCasePlaysNicelyWithDots.
+
+Please sign what you write, preferably by typing your name as a link like this: WillowRosenberg.  That will let people know who's said what, and as a nice side-effect it will automatically give you a wiki home page that's easy for people to find.
+
+For sociological arguments about how wikis work, see http://c2.com/cgi/wiki?WhyWikiWorks.
+
+To see what people have written in this wiki recently, look at recent.changes.
+
+----
+
+# Access Keys
+
+In most web browsers, you can use a special key --- usually Alt or ctrl --- along with the initial letter of one of ..IoWiki's buttons to activate that button.  Try it, by pressing Alt-e and ctrl-e.
+
+----
+
+# ..Mark-Up Codes
+
+The rest of this page describes the mark-up codes you can use to posh up your pages a bit.  These codes are deliberately restricted to things that are semantically useful, not too distracting, and not too arty.  (Arty is good, but it discourages collaboration, so it's not good _here_.  See http://c2.com/cgi/wiki?WhyDoesntWikiDoHtml for arguments about this sort of issue.)
+
+{code _text_} to have {code text} emphasised, _like this_.
+
+{code *text*} to have {code text} displayed in bold, *like this*.
+
+{code *red text*} to have {code text} displayed in *red red*, and similarly for all these colours:
+*green green* *blue blue*  *fawn fawn* *crimson crimson* *red red* *purple purple* *lime lime* *orange orange* *pink pink* *black black*.
+
+To make a list of dot points, start lines with hyphens, like this:
+
+{code - dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates}
+
+to get this:
+
+- dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+Similarly, start a paragraph with {code ->} to have it indented but without a dot:
+
+->indented paragraph, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+You can use {code --}, {code ---}, {code -->} and {code --->} to get extra levels of indenting.
+
+Any web hyperlinks you type (http://tumble.tk, mailto:Jason@xeny.net, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: 
+
+http://www.geocities.com/falconfacts/pics/ebphotos/eba1.jpg
+
+# Turning off mark-up codes
+
+Use [[[(]]]text[[[)]]] to have text displayed without any of the above mark-up.  This is useful when you want to use characters like {*} and {_} which you don't want to disappear, and when you don't want a word in ..CamelCase to be linked to anything.
+
+Use [[[(]]]code text[[[)]]] to have text displayed without mark-up and in a typewriter font suitable for computer code, {code like this}.
+
+Use [[[(]]]pre text[[[)]]] to have text displayed without mark-up, in a typewriter font and with spaces and tabs preserved.  This is useful for formatted tables and formatted computer code.
+
+# Character set
+
+If your browser and operating system allow it, you can use any Unicode character with ..IoWiki, in one of three ways: by typing it straight in, by copy and pasting it from somewhere, or using HTML character codes.  For the third method, see HTML.markup.codes.
+
+Here are some example characters.  How they look will depend on what fonts you're using.
+&#9786;&#9731;&#9734;&#10081;&#966;&#8756;&#8557;&#8576;&#8578;&#8984;&#8592;&#8594;&#8593;&#8595;&#10056;&#9834;&#9729;&#9679;
+
+And there are easy ways of typing in the following special characters:
+{--}   for --
+{---}   for ---
+{``}   for ``
+{''}    for ''
+
+Oh, and bits of text in triple square brackets [[[like this]]] may give unpredictable results, so try to avoid them, OK?
+
+----
+
+This wiki is run using IoWiki.
+
+JasonGrossman
+}*[[[break]]]to: *green {code Contrary to popular belief, the end of the year is one of the best times to look for, awesome descion
+}*
+----
+Tue Dec 11 22:53:04 EST 2007
+
+
+
+[[[break]]]changed line 67 from: *orange {code &#9731;&#8549; &#8550; &#8551; &#8557; &#8576; &#8577; &#8578;&#8963; &#9095; &#8997; &#8984; &#8592; &#8594; &#8593; &#8595; &#8598; &#8600; &#8679; &#8682; &#8676; &#8677; &#8965; &#8617; &#9099; &#9003; &#8998; &#9167;&#10081;&#966;&#8756;&#10058;&#10056;&#9834;&#8251;&#9832;.&#9729;&#8594;&#3675;&#9731;&#12320;&#65018;&#8984;&#64257;&#9679;&#9495;&#9733;&#9499;&#9475;&#9834;&#9475; &#9487;&#9734;&#9491; &#915;§&#9786;&#9673;
+}*[[[break]]]to: *green {code &#9786;&#9731;&#9734;&#10081;&#966;&#8756;&#8557;&#8576;&#8578;&#8984;&#8592;&#8594;&#8593;&#8595;&#10056;&#9834;&#9729;&#9679;
+}*
+----
+Tue Dec 11 22:50:46 EST 2007
+
+
+
+[[[break]]]changed line 66 from: *orange {code Here are some example characters: 
+}*[[[break]]]to: *green {code Here are some example characters.  How they look will depend on what fonts you're using.
+&#9731;&#8549; &#8550; &#8551; &#8557; &#8576; &#8577; &#8578;&#8963; &#9095; &#8997; &#8984; &#8592; &#8594; &#8593; &#8595; &#8598; &#8600; &#8679; &#8682; &#8676; &#8677; &#8965; &#8617; &#9099; &#9003; &#8998; &#9167;&#10081;&#966;&#8756;&#10058;&#10056;&#9834;&#8251;&#9832;.&#9729;&#8594;&#3675;&#9731;&#12320;&#65018;&#8984;&#64257;&#9679;&#9495;&#9733;&#9499;&#9475;&#9834;&#9475; &#9487;&#9734;&#9491; &#915;§&#9786;&#9673;
+}*
+----
+Tue Dec 11 22:45:56 EST 2007
+
+
+
+[[[break]]]changed line 64 from: *orange {code The following characters can be entered directly into ..IoWiki pages, by typing them in if your operating system will let you do that or by copying them from here and pasting them in.
+}*[[[break]]]to: *green {code If your browser and operating system allow it, you can use any Unicode character with ..IoWiki, in one of three ways: by typing it straight in, by copy and pasting it from somewhere, or using HTML character codes.  For the third method, see HTML.markup.codes.
+}*[[[break]]]changed line 66 from: *orange {code {!"#&'()*+,-./0123456789:;<=>?ABCDEFGHIJKLMNOPQ
+RSTUVWXYZ@[?]^_`abcdefghijklmnopqrstuvwxyz
+|~¡¢?¥¦§¨????±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐ
+ÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóô??????} 
+
+Other characters can be entered using HTML.markup.codes.
+}*[[[break]]]to: *green {code Here are some example characters: 
+}*
+----
+Tue Dec 11 22:18:10 EST 2007
+
+
+
+[[[break]]]changed line 25 from: *orange {code # Mark-Up Codes
+}*[[[break]]]to: *green {code # ..Mark-Up Codes
+}*
+----
+Mon Nov 26 00:34:06 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code Gear up for grub with a tripleheader of pigskin, including a meeting of brothers in Dallas. Everybody knows it's been a rough year for her, but find out who else had issues
+}*[[[break]]]to: *green {code This is a wiki --- a web site designed to encourage you to contribute to it.
+
+_You can edit almost any page on this wiki._  Try it out now, in the sand.box (a place where no-one will mind if you make a mess).
+
+While you're editing, you can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+
+If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with two dots, like this: {..cute.wombats}.  (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+
+You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  See CamelCasePlaysNicelyWithDots.
+
+Please sign what you write, preferably by typing your name as a link like this: WillowRosenberg.  That will let people know who's said what, and as a nice side-effect it will automatically give you a wiki home page that's easy for people to find.
+
+For sociological arguments about how wikis work, see http://c2.com/cgi/wiki?WhyWikiWorks.
+
+To see what people have written in this wiki recently, look at recent.changes.
+
+----
+
+# Access Keys
+
+In most web browsers, you can use a special key --- usually Alt or ctrl --- along with the initial letter of one of ..IoWiki's buttons to activate that button.  Try it, by pressing Alt-e and ctrl-e.
+
+----
+
+# Mark-Up Codes
+
+The rest of this page describes the mark-up codes you can use to posh up your pages a bit.  These codes are deliberately restricted to things that are semantically useful, not too distracting, and not too arty.  (Arty is good, but it discourages collaboration, so it's not good _here_.  See http://c2.com/cgi/wiki?WhyDoesntWikiDoHtml for arguments about this sort of issue.)
+
+{code _text_} to have {code text} emphasised, _like this_.
+
+{code *text*} to have {code text} displayed in bold, *like this*.
+
+{code *red text*} to have {code text} displayed in *red red*, and similarly for all these colours:
+*green green* *blue blue*  *fawn fawn* *crimson crimson* *red red* *purple purple* *lime lime* *orange orange* *pink pink* *black black*.
+
+To make a list of dot points, start lines with hyphens, like this:
+
+{code - dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates}
+
+to get this:
+
+- dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+Similarly, start a paragraph with {code ->} to have it indented but without a dot:
+
+->indented paragraph, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+You can use {code --}, {code ---}, {code -->} and {code --->} to get extra levels of indenting.
+
+Any web hyperlinks you type (http://tumble.tk, mailto:Jason@xeny.net, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: 
+
+http://www.geocities.com/falconfacts/pics/ebphotos/eba1.jpg
+
+# Turning off mark-up codes
+
+Use [[[(]]]text[[[)]]] to have text displayed without any of the above mark-up.  This is useful when you want to use characters like {*} and {_} which you don't want to disappear, and when you don't want a word in ..CamelCase to be linked to anything.
+
+Use [[[(]]]code text[[[)]]] to have text displayed without mark-up and in a typewriter font suitable for computer code, {code like this}.
+
+Use [[[(]]]pre text[[[)]]] to have text displayed without mark-up, in a typewriter font and with spaces and tabs preserved.  This is useful for formatted tables and formatted computer code.
+
+# Character set
+
+The following characters can be entered directly into ..IoWiki pages, by typing them in if your operating system will let you do that or by copying them from here and pasting them in.
+
+{!"#&'()*+,-./0123456789:;<=>?ABCDEFGHIJKLMNOPQ
+RSTUVWXYZ@[?]^_`abcdefghijklmnopqrstuvwxyz
+|~¡¢?¥¦§¨????±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐ
+ÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóô??????} 
+
+Other characters can be entered using HTML.markup.codes.
+
+And there are easy ways of typing in the following special characters:
+{--}   for --
+{---}   for ---
+{``}   for ``
+{''}    for ''
+
+Oh, and bits of text in triple square brackets [[[like this]]] may give unpredictable results, so try to avoid them, OK?
+
+----
+
+This wiki is run using IoWiki.
+
+JasonGrossman
+}*
+----
+Fri Nov 23 19:13:03 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code This is a wiki --- a web site designed to encourage you to contribute to it.
+
+_You can edit almost any page on this wiki._  Try it out now, in the sand.box (a place where no-one will mind if you make a mess).
+
+While you're editing, you can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+
+If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with two dots, like this: {..cute.wombats}.  (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+
+You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  See CamelCasePlaysNicelyWithDots.
+
+Please sign what you write, preferably by typing your name as a link like this: WillowRosenberg.  That will let people know who's said what, and as a nice side-effect it will automatically give you a wiki home page that's easy for people to find.
+
+For sociological arguments about how wikis work, see http://c2.com/cgi/wiki?WhyWikiWorks.
+
+To see what people have written in this wiki recently, look at recent.changes.
+
+----
+
+# Access Keys
+
+In most web browsers, you can use a special key --- usually Alt or ctrl --- along with the initial letter of one of ..IoWiki's buttons to activate that button.  Try it, by pressing Alt-e and ctrl-e.
+
+----
+
+# Mark-Up Codes
+
+The rest of this page describes the mark-up codes you can use to posh up your pages a bit.  These codes are deliberately restricted to things that are semantically useful, not too distracting, and not too arty.  (Arty is good, but it discourages collaboration, so it's not good _here_.  See http://c2.com/cgi/wiki?WhyDoesntWikiDoHtml for arguments about this sort of issue.)
+
+{code _text_} to have {code text} emphasised, _like this_.
+
+{code *text*} to have {code text} displayed in bold, *like this*.
+
+{code *red text*} to have {code text} displayed in *red red*, and similarly for all these colours:
+*green green* *blue blue*  *fawn fawn* *crimson crimson* *red red* *purple purple* *lime lime* *orange orange* *pink pink* *black black*.
+
+To make a list of dot points, start lines with hyphens, like this:
+
+{code - dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates}
+
+to get this:
+
+- dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+Similarly, start a paragraph with {code ->} to have it indented but without a dot:
+
+->indented paragraph, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+You can use {code --}, {code ---}, {code -->} and {code --->} to get extra levels of indenting.
+
+Any web hyperlinks you type (http://tumble.tk, mailto:Jason@xeny.net, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: 
+
+http://www.geocities.com/falconfacts/pics/ebphotos/eba1.jpg
+
+# Turning off mark-up codes
+
+Use [[[(]]]text[[[)]]] to have text displayed without any of the above mark-up.  This is useful when you want to use characters like {*} and {_} which you don't want to disappear, and when you don't want a word in ..CamelCase to be linked to anything.
+
+Use [[[(]]]code text[[[)]]] to have text displayed without mark-up and in a typewriter font suitable for computer code, {code like this}.
+
+Use [[[(]]]pre text[[[)]]] to have text displayed without mark-up, in a typewriter font and with spaces and tabs preserved.  This is useful for formatted tables and formatted computer code.
+
+# Character set
+
+The following characters can be entered directly into ..IoWiki pages, by typing them in if your operating system will let you do that or by copying them from here and pasting them in.
+
+{!"#&'()*+,-./0123456789:;<=>?ABCDEFGHIJKLMNOPQ
+RSTUVWXYZ@[?]^_`abcdefghijklmnopqrstuvwxyz
+|~¡¢?¥¦§¨????±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐ
+ÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóô??????} 
+
+Other characters can be entered using HTML.markup.codes.
+
+And there are easy ways of typing in the following special characters:
+{--}   for --
+{---}   for ---
+{``}   for ``
+{''}    for ''
+
+Oh, and bits of text in triple square brackets [[[like this]]] may give unpredictable results, so try to avoid them, OK?
+
+----
+
+This wiki is run using IoWiki.
+
+JasonGrossman
+}*[[[break]]]to: *green {code Gear up for grub with a tripleheader of pigskin, including a meeting of brothers in Dallas. Everybody knows it's been a rough year for her, but find out who else had issues
+}*
+----
+Sun Sep  9 03:24:49 EST 2007
+
+
+
+[[[break]]]changed line 50 from: *orange {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: 
+}*[[[break]]]to: *green {code Any web hyperlinks you type (http://tumble.tk, mailto:Jason@xeny.net, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: 
+}*
+----
+Sun Sep  9 03:16:10 EST 2007
+
+
+
+[[[break]]]changed line 83 from: *orange {code This wiki is run using IoWiki.  For more details, see http://iowiki.sourceforge.net.
+}*[[[break]]]to: *green {code This wiki is run using IoWiki.
+}*
+----
+Sun Sep  9 03:15:05 EST 2007
+
+
+
+[[[break]]]changed line 50 from: *orange {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: http://www.geocities.com/falconfacts/pics/ebphotos/eba1.jpg
+}*[[[break]]]to: *green {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: 
+
+http://www.geocities.com/falconfacts/pics/ebphotos/eba1.jpg
+}*
+----
+Sun Sep  9 03:14:24 EST 2007
+
+
+
+[[[break]]]changed line 50 from: *orange {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: ftp://xeny.net/bbc.gif
+}*[[[break]]]to: *green {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: http://www.geocities.com/falconfacts/pics/ebphotos/eba1.jpg
+}*
+----
+Sun Sep  9 03:11:21 EST 2007
+
+
+
+[[[break]]]changed line 50 from: *orange {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this:ftp://xeny.net/bbc.gif
+}*[[[break]]]to: *green {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: ftp://xeny.net/bbc.gif
+}*
+----
+Sun Sep  9 03:10:43 EST 2007
+
+
+
+[[[break]]]changed line 50 from: *orange {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this:
+http://luddite.cst.usyd.edu.au/IoWiki/laser-eyes.jpg
+}*[[[break]]]to: *green {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this:ftp://xeny.net/bbc.gif
+}*
+----
+Thu Dec 14 22:31:23 EST 2006
+
+
+
+[[[break]]]changed line 5 from: *orange {code While you're editing, sfsfyou can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+}*[[[break]]]to: *green {code While you're editing, you can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+}*
+----
+Thu Dec 14 14:37:54 EST 2006
+
+
+
+[[[break]]]changed line 5 from: *orange {code While you're editing, you can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+}*[[[break]]]to: *green {code While you're editing, sfsfyou can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+}*
+----
+Tue May  2 21:50:00 EST 2006
+
+
+
+[[[break]]]changed line 3 from: *orange {code _You can edit almost any page on this wiki._  Try it out now, in the sand.box (a place where no-one will mind if you play).
+}*[[[break]]]to: *green {code _You can edit almost any page on this wiki._  Try it out now, in the sand.box (a place where no-one will mind if you make a mess).
+}*
+----
+Tue Mar 28 20:23:40 EST 2006
+
+
+
+[[[break]]]changed line 19 from: *orange {code *Access Keys*
+}*[[[break]]]to: *green {code # Access Keys
+}*[[[break]]]changed line 25 from: *orange {code *Mark-Up Codes*
+}*[[[break]]]to: *green {code # Mark-Up Codes
+}*[[[break]]]changed line 53 from: *orange {code *Turning off mark-up codes*
+}*[[[break]]]to: *green {code # Turning off mark-up codes
+}*[[[break]]]changed line 61 from: *orange {code *Character set*
+}*[[[break]]]to: *green {code # Character set
+}*
+----
+Tue Mar 28 12:33:00 EST 2006
+
+
+
+[[[break]]]changed line 34 from: *orange {code *green green* *blue blue*  *fawn fawn* *crimson crimson* *red red* *purple purple* *lime lime* *orange orange* *pink pink*.
+}*[[[break]]]to: *green {code *green green* *blue blue*  *fawn fawn* *crimson crimson* *red red* *purple purple* *lime lime* *orange orange* *pink pink* *black black*.
+}*
+----
+Tue Feb 28 13:54:24 EST 2006
+
+
+
+[[[break]]]changed line 50 from: *orange {code Any web hyperlinks you type ({code http://tumble.tk}, {code Jason@tumble.tk:}, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this:
+}*[[[break]]]to: *green {code Any web hyperlinks you type (http://tumble.tk, Jason@tumble.tk, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this:
+}*
+----
+Tue Feb 28 13:53:49 EST 2006
+
+
+
+[[[break]]]changed line 50 from: *orange {code Any web hyperlinks hyperlinks you type ({code http://...}, {code mailto:...}, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this:
+}*[[[break]]]to: *green {code Any web hyperlinks you type ({code http://tumble.tk}, {code Jason@tumble.tk:}, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this:
+}*
+----
+Tue Nov 22 11:46:48 EST 2005
+
+
+
+[[[break]]]changed line 3 from: *orange {code You can *edit* almost any page on this wiki.  Try it out now, in the sand.box (a place where no-one will mind if you play).
+}*[[[break]]]to: *green {code _You can edit almost any page on this wiki._  Try it out now, in the sand.box (a place where no-one will mind if you play).
+}*[[[break]]]changed line 5 from: *orange {code While you're editing, you can write a phrase that *links* to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+}*[[[break]]]to: *green {code While you're editing, you can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+}*[[[break]]]changed line 7 from: *orange {code If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with *two* dots, like this: {..cute.wombats}.  (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+}*[[[break]]]to: *green {code If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with two dots, like this: {..cute.wombats}.  (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+}*[[[break]]]changed line 11 from: *orange {code Please *sign* what you write, preferably by typing your name as a link like this: WillowRosenberg.  That will let people know who's said what, and as a nice side-effect it will automatically give you a wiki home page that's easy for people to find.
+}*[[[break]]]to: *green {code Please sign what you write, preferably by typing your name as a link like this: WillowRosenberg.  That will let people know who's said what, and as a nice side-effect it will automatically give you a wiki home page that's easy for people to find.
+}*[[[break]]]changed line 13 from: *orange {code For sociological arguments about *how wikis work*, see http://c2.com/cgi/wiki?WhyWikiWorks.
+}*[[[break]]]to: *green {code For sociological arguments about how wikis work, see http://c2.com/cgi/wiki?WhyWikiWorks.
+}*[[[break]]]changed line 15 from: *orange {code To see *what people have written* in this wiki recently, look at recent.changes.
+}*[[[break]]]to: *green {code To see what people have written in this wiki recently, look at recent.changes.
+}*
+----
+Mon Nov 14 00:11:33 EST 2005
+
+
+
+[[[break]]]deleted at line 85: *red {code 
+----
+
+testing adding a bit to a long page
+}*
+----
+Sat Sep 10 10:26:48 EST 2005
+
+
+
+[[[break]]]changed line 65 from: *orange {code {!"#&'()*+,-./0123456789:;<=>?ABCDEFGHIJKLMNOPQRSTUVWXYZ@[\]^_`abcdefghijklmnopqrstuvwxyz|~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ}
+}*[[[break]]]to: *green {code {!"#&'()*+,-./0123456789:;<=>?ABCDEFGHIJKLMNOPQRSTUVWXYZ@[?]^_`abcdefghijklmnopqrstuvwxyz|~¡¢?¥¦§¨????±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóô??????}
+}*[[[break]]]changed line 69 from: *orange {code ..IoWiki also has easy ways of typing in the following special characters:
+}*[[[break]]]to: *green {code And there are easy ways of typing in the following special characters:
+}*
+----
+Thu May 12 09:42:40 EST 2005
+
+
+
+[[[break]]]changed line 36 from: *orange {code To make a list of dot points, start lines with hyphens or asterisks, followed by a space, like this:
+}*[[[break]]]to: *green {code To make a list of dot points, start lines with hyphens, like this:
+}*[[[break]]]changed line 48 from: *orange {code You can use {code --}, {code ---}, {code **}, {code ***}, {code -->} and {code --->} to get extra levels of indenting.
+}*[[[break]]]to: *green {code You can use {code --}, {code ---}, {code -->} and {code --->} to get extra levels of indenting.
+}*
+----
+Tue May  3 21:56:10 EST 2005
+
+
+
+[[[break]]]deleted at line 23: *red {code *Projects*
+
+You can give wiki pages a different layout (borders, colours, etc.).  See .projects to find out how you can do this and walled.gardens to find out why you probably shouldn't. 
+
+}*
+----
+Tue May  3 21:54:28 EST 2005
+
+
+
+[[[break]]]changed line 23 from: *orange {code *Walled Gardens*
+}*[[[break]]]to: *green {code *Projects*
+}*[[[break]]]changed line 25 from: *orange {code If you're feeling evil, you can make your pages separate from the rest of the wiki.  See walled.gardens to find out how you can do this and why you probably shouldn't. 
+}*[[[break]]]to: *green {code You can give wiki pages a different layout (borders, colours, etc.).  See .projects to find out how you can do this and walled.gardens to find out why you probably shouldn't. 
+}*
+----
+Tue May  3 21:41:32 EST 2005
+
+
+
+[[[break]]]changed line 25 from: *orange {code If you're feeling evil, you can make your pages separate from the rest of the wiki: see walled.gardens to find out how to do this and why you probably shouldn't. 
+}*[[[break]]]to: *green {code If you're feeling evil, you can make your pages separate from the rest of the wiki.  See walled.gardens to find out how you can do this and why you probably shouldn't. 
+}*
+----
+Tue May  3 21:41:09 EST 2005
+
+
+
+[[[break]]]changed line 25 from: *orange {code If you're feeling evil, you can make your pages separate from the rest of the wiki: see WalledGarden to find out how to do this and why you probably shouldn't. 
+}*[[[break]]]to: *green {code If you're feeling evil, you can make your pages separate from the rest of the wiki: see walled.gardens to find out how to do this and why you probably shouldn't. 
+}*
+----
+Tue May  3 21:40:49 EST 2005
+
+
+
+[[[break]]]changed line 29 from: *orange {code The rest of this page describes the *mark-up codes* you can use to posh up your pages a bit (plus a couple of advanced features which you can ignore).  These codes are deliberately restricted to things that are semantically useful, not too distracting, and not too arty.  (Arty is good, but it discourages collaboration, so it's not good _here_.  See http://c2.com/cgi/wiki?WhyDoesntWikiDoHtml for arguments about this sort of issue.)
+}*[[[break]]]to: *green {code *Mark-Up Codes*
+
+The rest of this page describes the mark-up codes you can use to posh up your pages a bit.  These codes are deliberately restricted to things that are semantically useful, not too distracting, and not too arty.  (Arty is good, but it discourages collaboration, so it's not good _here_.  See http://c2.com/cgi/wiki?WhyDoesntWikiDoHtml for arguments about this sort of issue.)
+}*
+----
+Tue May  3 21:40:24 EST 2005
+
+
+
+[[[break]]]added at line 22: *lime {code *Walled Gardens*
+
+If you're feeling evil, you can make your pages separate from the rest of the wiki: see WalledGarden to find out how to do this and why you probably shouldn't. 
+
+}*[[[break]]]deleted at line 74: *red {code 
+*Projects*
+
+If you want to keep a project about (say) wombats separate from the rest of the wiki, you can name its pages wombat!cuddling, wombat!vicious, etc.  This has two advantages:
+
+- Pages that are part of such a project don't need to have dots or ..CamelCase in their names.  
+
+- The administrator of your web server can give each project a different page template (colours etc.).
+
+_But_ ... wikis are meant to aim for collaboration, and you may find that people are most likely to help you write your wiki pages if you _don't_ divide them into separate projects. 
+}*
+----
+Tue May  3 21:37:22 EST 2005
+
+
+
+[[[break]]]added at line 8: *lime {code You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  See CamelCasePlaysNicelyWithDots.
+
+}*
+----
+Tue May  3 21:36:40 EST 2005
+
+
+
+[[[break]]]deleted at line 73: *red {code *..CamelCase*
+
+You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  A link written in CamelCase links to the same place as the equivalent link written with a dot (e.g., CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase to share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then we'd end up with CamelCase apartheid: CamelCase people would end up writing on a different page from dot people.  But since CuteWombats and cute.wombats point to the same place that won't happen.
+
+}*
+----
+Tue May  3 21:35:57 EST 2005
+
+
+
+[[[break]]]changed line 23 from: *orange {code The rest of this page describes the *mark-up codes* you can use to posh up your pages a bit.  These codes are deliberately restricted to things that are semantically useful, not too distracting, and not too arty.  (Arty is good, but it discourages collaboration, so it's not good _here_.  See http://c2.com/cgi/wiki?WhyDoesntWikiDoHtml for arguments about this sort of issue.)
+}*[[[break]]]to: *green {code The rest of this page describes the *mark-up codes* you can use to posh up your pages a bit (plus a couple of advanced features which you can ignore).  These codes are deliberately restricted to things that are semantically useful, not too distracting, and not too arty.  (Arty is good, but it discourages collaboration, so it's not good _here_.  See http://c2.com/cgi/wiki?WhyDoesntWikiDoHtml for arguments about this sort of issue.)
+}*
+----
+Tue May  3 21:34:54 EST 2005
+
+
+
+[[[break]]]changed line 7 from: *orange {code If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with *two* dots, like this: {..cute.wombats}.  _(Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)_
+}*[[[break]]]to: *green {code If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with *two* dots, like this: {..cute.wombats}.  (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+}*
+----
+Tue May  3 21:34:36 EST 2005
+
+
+
+[[[break]]]changed line 7 from: *orange {code If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with *two* dots, like this: {..cute.wombats}.
+
+- (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+}*[[[break]]]to: *green {code If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with *two* dots, like this: {..cute.wombats}.  _(Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)_
+}*
+----
+Tue May  3 21:34:14 EST 2005
+
+
+
+[[[break]]]changed line 77 from: *orange {code You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  A link written in CamelCase links to the same place as the equivalent link written with a dot (e.g., CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*[[[break]]]to: *green {code You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  A link written in CamelCase links to the same place as the equivalent link written with a dot (e.g., CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase to share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then we'd end up with CamelCase apartheid: CamelCase people would end up writing on a different page from dot people.  But since CuteWombats and cute.wombats point to the same place that won't happen.
+}*
+----
+Tue May  3 21:27:55 EST 2005
+
+
+
+[[[break]]]changed line 77 from: *orange {code You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  A link written in CamelCase links to the same place as the equivalent link written with a dot (i.e., CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*[[[break]]]to: *green {code You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  A link written in CamelCase links to the same place as the equivalent link written with a dot (e.g., CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*
+----
+Tue May  3 21:27:41 EST 2005
+
+
+
+[[[break]]]changed line 77 from: *orange {code You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  A page link written in CamelCase links to the same place as the equivalent link written with a dot (so CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*[[[break]]]to: *green {code You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  A link written in CamelCase links to the same place as the equivalent link written with a dot (i.e., CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*
+----
+Tue May  3 21:27:18 EST 2005
+
+
+
+[[[break]]]changed line 77 from: *orange {code You may be used to using wikis which make page links using CamelCase instead of dots.  If you're not, you can skip this section.  CamelCase is two or wore words capitalised and smashed together (like this: CuteWombats).  You can do that in this wiki too.  A page link written in CamelCase links to the same place as the equivalent link written with a dot (so CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*[[[break]]]to: *green {code You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  A page link written in CamelCase links to the same place as the equivalent link written with a dot (so CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*
+----
+Tue May  3 21:26:26 EST 2005
+
+
+
+[[[break]]]changed line 77 from: *orange {code You may be used to using wikis which make page links using CamelCase instead of dots.  CamelCase which is two or wore words capitalised and smashed together (like this: CuteWombats).  You can do that in this wiki too.  A page link written in CamelCase links to the same place as the equivalent link written with a dot (so CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*[[[break]]]to: *green {code You may be used to using wikis which make page links using CamelCase instead of dots.  If you're not, you can skip this section.  CamelCase is two or wore words capitalised and smashed together (like this: CuteWombats).  You can do that in this wiki too.  A page link written in CamelCase links to the same place as the equivalent link written with a dot (so CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*
+----
+Tue May  3 21:25:52 EST 2005
+
+
+
+[[[break]]]changed line 75 from: *orange {code *CamelCase*
+}*[[[break]]]to: *green {code *..CamelCase*
+}*
+----
+Tue May  3 21:25:32 EST 2005
+
+
+
+[[[break]]]deleted at line 7: *red {code - ..CamelCase, which is two or wore words capitalised and smashed together: CuteWombats
+
+}*[[[break]]]changed line 11 from: *orange {code -- (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+}*[[[break]]]to: *green {code - (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+}*[[[break]]]added at line 75: *lime {code 
+*CamelCase*
+
+You may be used to using wikis which make page links using CamelCase instead of dots.  CamelCase which is two or wore words capitalised and smashed together (like this: CuteWombats).  You can do that in this wiki too.  A page link written in CamelCase links to the same place as the equivalent link written with a dot (so CuteWombats and cute.wombats point to the same page).  This is to make it easy for people who like using dots and people who like using CamelCase can share the same wiki.  If CuteWombats pointed to one place and cute.wombats pointed to a different place then CamelCase people would end up writing on a different page from dot people, but since CuteWombats and cute.wombats point to the same place that won't happen.
+}*
+----
+Tue May  3 21:21:22 EST 2005
+
+
+
+[[[break]]]changed line 11 from: *orange {code -->(Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+}*[[[break]]]to: *green {code -- (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+}*
+----
+Tue May  3 21:21:02 EST 2005
+
+
+
+[[[break]]]changed line 5 from: *orange {code While you're editing, you can write a phrase that *links* to another wiki page, new or old, by writing one of the following patterns:
+
+- a dot at the beginning of the page's name: .wombats
+
+- a dot somewhere in the middle of the page's name: cute.wombats
+}*[[[break]]]to: *green {code While you're editing, you can write a phrase that *links* to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+}*[[[break]]]changed line 13 from: *orange {code If you need to use a word which contains a dot or ..CamelCase, like ``..IoWiki'', but you don't want it to be a link to a page, precede it with *two* dots, like this: {..IoWiki}.
+}*[[[break]]]to: *green {code If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with *two* dots, like this: {..cute.wombats}.
+}*
+----
+Tue Apr 26 11:11:40 EST 2005
+
+
+
+[[[break]]]changed line 7 from: *orange {code * a dot at the beginning of the page's name: .wombats
+}*[[[break]]]to: *green {code - a dot at the beginning of the page's name: .wombats
+}*[[[break]]]changed line 9 from: *orange {code * a dot somewhere in the middle of the page's name: cute.wombats
+}*[[[break]]]to: *green {code - a dot somewhere in the middle of the page's name: cute.wombats
+}*[[[break]]]changed line 11 from: *orange {code * ..CamelCase, which is two or wore words capitalised and smashed together: CuteWombats
+}*[[[break]]]to: *green {code - ..CamelCase, which is two or wore words capitalised and smashed together: CuteWombats
+}*[[[break]]]changed line 85 from: *orange {code * Pages that are part of such a project don't need to have dots or ..CamelCase in their names.  
+}*[[[break]]]to: *green {code - Pages that are part of such a project don't need to have dots or ..CamelCase in their names.  
+}*[[[break]]]changed line 87 from: *orange {code * The administrator of your web server can give each project a different page template (colours etc.).
+}*[[[break]]]to: *green {code - The administrator of your web server can give each project a different page template (colours etc.).
+}*
+----
+Tue Apr 26 11:10:49 EST 2005
+
+
+
+[[[break]]]changed line 40 from: *orange {code To make a list of dot points, start lines with asterisks, with a space after each asterisk, like this:
+}*[[[break]]]to: *green {code To make a list of dot points, start lines with hyphens or asterisks, followed by a space, like this:
+}*[[[break]]]changed line 42 from: *orange {code {code * dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates}
+}*[[[break]]]to: *green {code {code - dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates}
+}*[[[break]]]changed line 46 from: *orange {code * dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+}*[[[break]]]to: *green {code - dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+}*[[[break]]]changed line 52 from: *orange {code You can use {code **}, {code ***}, {code -->} and {code --->} to get extra levels of indenting.
+}*[[[break]]]to: *green {code You can use {code --}, {code ---}, {code **}, {code ***}, {code -->} and {code --->} to get extra levels of indenting.
+}*

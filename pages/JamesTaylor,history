@@ -1,0 +1,84 @@
+
+----
+2008-09-03 15:42:48 EST
+
+
+
+[[[break]]]added at line 25: *lime {code 
+----
+
+Additional topic 3 September: internal and external proofs; e.g. applications of http://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem
+}*
+----
+2008-08-18 21:24:07 EST
+
+
+
+[[[break]]]added at line 19: *lime {code 
+Alternative Set Theory:
+- Pure sets are constructed by induction
+- Automatically avoids the paradoxes
+- Is simple and doesnt rely on 9 axioms
+- Similar in many ways to Wildberger's set-up and also to hyperreals, and natural numbers
+}*
+----
+2008-08-12 14:57:37 EST
+
+
+
+[[[break]]]changed line 6 from: *orange {code Paradoxes of naive set theory --- basically only two? (need to check that):
+}*[[[break]]]to: *green {code Paradoxes of naive set theory --- basically only three? (Philosophers argue a lot about what counts as a set-theoretic paradox and what counts as a "semantic" paradox.)
+}*[[[break]]]deleted at line 10: *red {code Philosophers argue a lot about what counts as a set-theoretic paradox and what counts as a "semantic" paradox.
+}*
+----
+2008-08-12 14:48:05 EST
+
+
+
+[[[break]]]deleted at line 12: *red {code alternative set theories: http://plato.stanford.edu/entries/settheory-alternative/
+
+}*[[[break]]]changed line 19 from: *orange {code - Do alternative set theories look like they might be helpful?
+}*[[[break]]]to: *green {code - Do alternative set theories look like they might be helpful?  See
+-- http://plato.stanford.edu/entries/settheory-alternative/
+-- http://plato.stanford.edu/entries/quine-nf/
+-> The author of the latter page will be in Australia briefly after our next meeting, so maybe think of questions to ask him.
+}*
+----
+2008-08-12 14:45:38 EST
+
+
+
+[[[break]]]changed line 8 from: *orange {code - Burali-Forti's paradox: 1897?, the largest ordinal
+}*[[[break]]]to: *green {code - ..Burali-Forti's paradox: 1897?, the largest ordinal
+}*
+----
+2008-08-12 14:45:16 EST
+
+
+
+[[[break]]]added at line 1: *lime {code 
+Normal J. Wildberger:
+- http://web.maths.unsw.edu.au/~norman/papers/Ordinals.pdf
+
+Paradoxes of naive set theory --- basically only two? (need to check that):
+- Cantor's paradox: 187?, the largest cardinal
+- Burali-Forti's paradox: 1897?, the largest ordinal
+- Russell's paradox: the set of sets that are not members of themselves, 1900
+Philosophers argue a lot about what counts as a set-theoretic paradox and what counts as a "semantic" paradox.
+
+alternative set theories: http://plato.stanford.edu/entries/settheory-alternative/
+
+# Questions to follow up
+
+None of these compulsory (i.e. do none or more):
+- Are Wildburger's infinitesimals helpful with the original problem about Cantor's infinities not being fine-grained enough?
+- How are other types of infinitesimal related to Wildburger's?  Are they more helpful?
+- Do alternative set theories look like they might be helpful?
+}*
+----
+2008-07-29 17:30:46 EST
+
+
+
+[[[break]]]added at line 0: *lime {code http://en.wikipedia.org/wiki/Ordinal_number#Transfinite_induction
+}*

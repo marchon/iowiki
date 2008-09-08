@@ -1,0 +1,82 @@
+Today we wrapped up our discussion of genes as instructions. I think the angle he attacked the computer program analogy from was a little misleading.
+
+Jason's argument seemed came from the perspective of the programmer, someone writing code in a human readable computer language. This is analagous, I think, to a god writing an organism's genome in a god readable language, and having it compiled into DNA. The conclusion he draws from this analogy is most certainly correct, but I think it's the wrong perspective.
+
+I think the analogy works best when we look at a program from the machine's perspective. When a program is compiled, it is translated into a stream of bits (1s and 0s). When a program is executed, the bits are interpreted by the CPU into the appropriate instruction, which might be an add, a multiplication, a bit-shift operation etc. 
+
+I think this is very much like what seems to be happening in genetics. Replace the bits with the bases and we get an analogy that works quite well. How the bases are ordered and paired has an influence over the effect of that DNA. Similarly, the ordering of the bits in a program influences what the effects of the program are.
+
+When interpreted by the computer a stream of bits has a meaning, it is in essence a language. When a human looks at the bit stream, it's literally just a bunch of 1s and 0s (although we can force ourselves to think like a machine however, as we did design the way they work). This is where the difference that Jason is worried about could be seen to appear. To us, the base sequence of DNA could look like a language, that we could interpret as instructions, but to the DNA, it's just chemistry, as Jason says.
+
+I'm still not sure if I completely agree with this conclusion, as I believe that the mere fact that we give a language to chemistry:
+ {pre
+    H     H    
+    \    /
+H - C - C - O - H
+    /    \
+   H     H               anyone? }
+
+that we might as well act as if it is coded. But this has more to do with my philosophy of science than simply genetics by itself.
+
+Feel free to tear this apart as much as you like, Jason.
+
+Stuart
+
+*green [You haven't quite got the right number of bonds in this diagram.  If you tell me what molecule you were aiming for (ethanol?) I can fix it for you if you like. Morgan] *
+
+*blue [please do fix it (C2H6O), it's been a long time since I've done any chemistry. Stuart.]* *orange done. *
+
+----
+
+*In Defence of Genes as Language*
+
+I agree with Stuart.  Especially for his second conclusion (about chemistry being a language).  Here is my argument in support of Genes as Language.
+
+What do we mean by language?  Obviously this is a whole philosophical topic by itself.  But here is my best attempt to pick out the essential features of a language, being as general as possible.  Language is:
+
+-	a means of communication information
+-	reasonably constant in meaning:  input x should be understood to give output y regardless of who the input originated from.  
+-	able to be broken down into smaller units (such as words) that can be recombined in ways to give new meanings
+
+The genetic code is a composed of the nucleotide bases A, T, G, and C, and these are organised into three letter codon eg. ATG, CAC etc.  Many codons are strung together to form genes (yes, yes, I know – the definition of a gene is controversial.  I have left this definition vague so as to capture both the evolutionary gene of Dawkins, and the standard molecular biology definition:  A gene is the portions of DNA required to give a functional gene product).
+
+Each codon can be ‘read’ by a ribosome, which then attaches a particular amino-acid (the building blocks of proteins) to a growing protein.  The correspondence of each codon to a particular amino-acid forms the basis of the genetic code.
+
+The genetic code has two main features:  It is conserved, and has a high level of redundancy.  By conserved, I mean that correlation of each codon for a certain type of amino-acid is the same (conserved) between almost (but not quite) all types of life:  ATG codes for the amino acid methionine whether you are a human, a plant or a bacterium.  By redundancy, I mean that more than one three-letter combination of A, T, G and C may code for the same amino-acid.  Think of it like synonyms in English – both Cat and Feline can refer to the same thing, just as the codons TCT and AGC both code for the amino acid serine.
+
+So this means the DNA is a way of communicating information (about the sequence different types of amino-acids should come in), it is reasonably constant (because it is conserved) and it can be broken down into smaller units (codons) that can be recombined in many different meaningful (biologically active) ways.
+
+Jason had several points as to why genes don’t count as language.  I will go through them here (and hope Jason will correct any, if I have misunderstood his point):
+
+- *blue genes vary a lot, compared to other things like the cell membranes* 
+
+Do they?  Over 90% of the human genome is identical to that of chimpanzees.  So there is an awful lot of similarity between two different species, let alone two members of the same species.  And anyway, flexibility in the way things can be strung together is feature of language.  As for the lecture example of cell membranes being invariant – there are over four different types of phospholipids (the fat molecules that make up cell membranes), which means there are more phospholipids than there are types of nucleotide.  Depending on the type of cell, these are present in different proportions.  Then there are secondary lipid structures, like lipid rafts and invaginations that add yet more complexity.  So cell membranes are by no means simple. 
+
+
+- *blue genes are just chemistry, and hence not a language*
+
+Firstly, this rules out lots of other things (such as computer code) that we might call language, aside from the classical human stuff, because computer code is just minute magnetisations on the surface of a computer hard-disk.
+
+*pink I wouldn't say that computer code is language.  Also, I wouldn't say that computer code is just magnetisations.  I'd say it's somewhere in between: not just magnetisations because (among other reasons) it's written by people and given meaning in the process, but not a language either because it can't be used for most of the things a language can be used for (if any).  Jason*
+
+If this view is taken to extremes, then everything is just chemistry.  Human language is just extra complicated chemistry carried out by rather large bags of chemicals called humans, mediated by chemicals called neurotransmitters within our brains.  So it seems perfectly ok for language to be composed to chemistry.
+
+There is the question of whether language requires a conscious agent to produce it.  The use of the word language for animal-animal and robot-robot communication suggests that at some level at least, it doesn’t.
+
+- *blue Genes-As-Language leads us to Genes-As-Instructions, and this downplays the importance of the rest of the machinery*
+
+I agree with this statement – and don’t think that this is a bad thing, so long as the importance of the rest of the machinery isn’t reduced to nothing!  Genes ARE very important for all living things.  The number of diseases caused by genetic defects is huge, and the number of diseases that people can become resistant to through possessing certain genotypes is also huge (resistance to malaria from sickle cell and resistance to tuberculosis from heterozygote cystic fibrosis are two examples).  No organism can develop without genes.
+
+To conclude, I would describes genes as language, and as instructions, although not complete ones:  
+
+Genes are necessary but not sufficient for life.
+
+Perhaps the best analogy I have ever heard (from a 1st year bio course) was to regard genes as cooking recipes.  Recipes are not exhaustive – they tell you want ingredients to use, but assume that you will know what temperature a moderate oven is, that you have to break open the eggs before mixing them into the batter, to mix things in a bowl not an egg cup etc.  Genes will tell you want amino-acids to use, but the rest follows automatically from the environmental homeostasis (control of environment) that all life forms have.
+
+*pink Insofar as that analogy works, it would also work with any other part of the cellular machinery (except for a part which is completely invariant between all individuals, if there is such a part).  I'd find that worrying if I were you. Jason*
+
+Cheers,
+Morgan Sheridan
+
+----
+

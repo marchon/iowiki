@@ -1,0 +1,54 @@
+
+----
+2008-05-01 21:31:17 EST
+
+
+
+[[[break]]]changed line 8 from: *orange {code Quine, W.V.O.; On what there is; Review of Metaphysics, Vol. 2 (1948/1949), pp. 21 - 38.
+}*[[[break]]]to: *green {code Quine, ..W.V.O.; On what there is; Review of Metaphysics, Vol. 2 (1948/1949), pp. 21 - 38.
+}*
+----
+2008-05-01 15:58:44 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+Quine's attempt to deal with ontology, in particular with ontological claims regarding ..non-existent objects and with what the nature of ontological claims should be.
+
+*Where can it be found?*
+
+Quine, W.V.O.; On what there is; Review of Metaphysics, Vol. 2 (1948/1949), pp. 21 - 38.
+
+*How does it fit in?*
+
+Quine explicitly tries to deal with questions to do with the existence of mathematical objects.  Furthermore, he gives some good illustration of how certain linguistic claims to ontology can be overcome.
+----
+*Summary*
+
+- deals with claim that ..non-being is a type of existence (e.g. fictional entities like pegasus) or that there is an unactualised possible way of being
+-- does so by using Russell's theory of definite descriptions
+-- thus one must take the sentence involve the use of the fictional name under investigation and analyse _as a whole_ (using R's theory) in order to show that one can give it meaning without implying the existence of the fictional thing named in the sentence
+- thus the problem arises from the conflation of naming and meaning (which is obtained by analysing the name in question in terms of predicates (and introducing a new one if it cannot be reduced))
+- the question then turns to whether one can claim some sort of existence for the universals referred to by these predicates
+-- but we do not need to postulate the existence of universals in order to give instantiations of those universals meaning (i.e. we can deny that redness exists without denying that its instantiations do)
+-- hence we can easily deny the existence of universals at no real cost
+- thus we conclude that naming and the use of predicates does not commit us to any particular ontology as names can be elimated in favour of predicates and predicates do not rely on ontological claims for their meaning
+- so for Quine: "essentially, the _only_ way we can involve ourselves in ontological commitments: is by our use of bound variables."
+-- hence his claim: "pronouns are the basic media of reference"
+-- and so our ontology is the domain over which our bound variables range
+- hence, the debate in philosophy of maths for Quine is over the appropriate range of bound variables in maths
+- it should be noted that Quine is quite happy to admit of competing conceptual schemes chosen between in terms of simplicity (which he aknowledges is an ambiguous concept)
+-- *green this is quite similar to Carnap's notion of how we choose between frameworks, although there are different things at stake in the relevant choices*
+----
+*What do I think?*
+
+- why must our use of bound variables commit us ontologically?
+-- surely this is just where Carnap and Quine differ: Quine holds that our bound variables must be features of our ontology whereas Carnap argues that they are merely features of our linguistic frameworks
+-- so it looks like we have a representationalist assumption lurking in the background here, somehow we are moving from the semantic to the ontological (the necessity of such a move is indicated by Quine's attempt to justify the withdrawal to the "semantical plane" and his assertion that "translatability of a question into semantical terms is no indication that the question is linguistic") 
+- thus if we follow Carnap with reference to the math. debate discussed above, the debate ceases to involve any ontological claims whatsoever
+----
+
+ChrisWilcox
+}*

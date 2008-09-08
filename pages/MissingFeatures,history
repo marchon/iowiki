@@ -1,0 +1,21 @@
+
+----
+Fri Nov 18 22:57:37 EST 2005
+
+
+
+[[[break]]]changed line 7 from: *orange {code - email and RSS change notification
+}*[[[break]]]to: *green {code - RSS change notification
+}*
+----
+Tue Apr 26 11:18:29 EST 2005
+
+
+
+[[[break]]]changed line 5 from: *orange {code * site index
+* site search
+* email and RSS change notification
+}*[[[break]]]to: *green {code - site index
+- site search
+- email and RSS change notification
+}*

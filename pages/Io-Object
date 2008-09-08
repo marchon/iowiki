@@ -1,0 +1,169 @@
+_(This is just an example of the flexibility of page layout in IoWiki.  See http://iolanguage.com/docs/ for the real Io documentation.)_
+
+
+*Prototype:* Lobby 
+ 
+*Module:* IoVM 
+ 
+*green Summary* 
+ 
+An Object is a key/value dictionary with string keys and values of any type. The prototype Object contains a "clone" slot that is a CFuntion that creates new objects. When cloned, an Object will call it's "init" slot (with no arguments). 
+ 
+*green Methods* 
+ 
+->*!= aValue*
+->Returns the receiver is aValue is not identical, nil otherwise.
+ 
+->*(<message>)* 
+->The "" method evaluates the argument and returns the result.  
+ 
+->*- (aNumber)* 
+->Returns the negative version of aNumber. Raises an exception if argument is not a number.  
+ 
+->*.. arg* 
+->.. is an alias for: method(arg, self asString append(arg asString))  
+ 
+->*< (<message>)* 
+->Evaluates argument and returns self if self is less or Nil if not.  
+ 
+->*<= (<message>)* 
+->Evaluates argument and returns self if self is less than or equal to it, or Nil if not.  
+ 
+->*== aValue* 
+->Returns the receiver is aValue is identical, nil otherwise.  
+ 
+->*> (<message>)* 
+->Evaluates argument and returns self if self is greater than it, or Nil if not.  
+ 
+->*>= (<message>)* 
+->Evaluates argument and returns self if self is greater than or equal to it, or Nil if not.  
+ 
+->*?<message>* 
+->Sends the message to the receiver if it can respond to it. Example: 
+--> {pre 
+MyObject test // performs test
+ 
+MyObject ?test // performs test if MyObject has a slot named test}
+ 
+->The search for the slot only follows the receivers proto chain.  
+ 
+->*and(<message>)* 
+->Evaluates argument and returns Nil if it is Nil or self otherwise.  
+ 
+->*break* 
+->Break the current loop, if any.  
+ 
+->*clone* 
+->Returns a clone of the receiver.  
+ 
+->*collectGarbage* 
+->Runs garbage collector. Returns the number of items collected.  
+ 
+->*compileString(aString)* 
+->Returns the compiled message object for aString.  
+ 
+->*continue* 
+->Skip the rest of the current loop iteration and start on the next, if any.  
+ 
+->*do(<message>)* 
+->Evaluates the message in the context of the receiver. Returns self.  
+ 
+->*doFile(pathString)* 
+->Evaluates the File in the context of the receiver. Returns the result.  
+ 
+->*doMessage(aMessage)* 
+->Evaluates the message object in the context of the receiver. Returns the result.  
+ 
+->*doString(aString)* 
+->Evaluates the string in the context of the receiver. Returns the result.  
+ 
+->*else (<message>)* 
+->Returns self. (Does not evaluate argument)  
+ 
+->*exit* 
+->{Shutdown the IoState (free all objects) and return control to the calling program (if any).  }
+ 
+->*for(<counter>, <start>, <end>, <do message>)* 
+->{See manual.html.  }
+ 
+->*foreach(<slotName>, <slotValue>, <aMessage>)* 
+->For each slot, set slotName to the slot's name and slotValue to the slot's value and execute aMessage. Example: 
+-->{pre myObject foreach(n, v,
+ 
+write("slot ", n, " = ", v type, "\n")
+ 
+)}
+ 
+ 
+->*forward* 
+->{Called when the receiver is sent a message it doesn't recognize. Default implementation raises an "Object.doesNotRespond" exception. Subclasses can override this method to implement proxies or special error handling.  }
+ 
+->*{getSlot(slotNameString)}*
+->{Returns the value of the slot named slotNameString (following the lookup path) or Nil if no such slot is found.  }
+ 
+->*getenv(nameString)* 
+->Returns a string with the value of the environment variable whose name is specified by nameString.  
+ 
+->*{hasSlot(slotNameString)}*
+->Returns self if the slot exists in the receiver or Nil otherwise.  
+ 
+->*{if(<condition>, <trueMessage>, <optionalFalseMessage>)}* 
+->{Evaluates trueMessage if condition evaluates to a non-Nil. Otherwise evaluates optionalFalseMessage if it is present. Returns the result of the evaluated message or Nil if none was evaluated.  }
+ 
+->*ifFalse(<message>)* 
+->Returns Nil. (Does not evaluate the argument)  
+ 
+->*ifNil(<message>)* 
+->Returns self. (Does not evaluate the argument)  
+ 
+->*ifTrue(<message>)* 
+->Evaluates argument and returns result.  
+ 
+->*isNil* 
+->Returns Nil.  
+ 
+->*{launchFile(pathString)}* 
+->{method(path, Lobby launchPath := path removeLastPathComponent; self doFile(path))  }
+ 
+->*list(...)* 
+->Returns a List containing the arguments.  
+ 
+->*message(<message>)* 
+->Return the message object for the argument or Nil if there is no argument.  
+ 
+->*newSlot(slotName, aValue)* 
+->Creates a getter and setter for the slot with the name slotName and sets it's default the value aValue. Returns self. For example, newSlot("foo", 1) would create slot named foo with the value 1 as well as a setter method setFoo().  
+ 
+->*or(<message>)* 
+->Returns self.  
+ 
+->*perform(methodName, <arg1>, <arg2>, ...)* 
+->Performs the method corresponding to methodName with the arguments supplied.  
+ 
+->*{performWithArgList(methodName, argList)}*
+->Performs the method corresponding to methodName with the arguments in the argList.  
+ 
+->*print* 
+->Prints a string representation of the object. Returns Nil.  
+ 
+->*{removeSlot(slotNameString)}* 
+->Removes the specified slot (only) in the receiver if it exists. Returns self.  
+ 
+->*resend* 
+->Send the message use to activate the current method to the Object's proto.  
+ 
+->*return anObject* 
+->Return anObject from the current execution block.  
+ 
+->*self*
+->Returns self.  
+ 
+->*shallowCopy* 
+->Returns a shallow copy of the receiver.  
+ 
+->*{setSlot(slotNameString, valueObject)}* 
+->{Sets the slot slotNameString in the receiver to hold valueObject. Returns valueObject.  }
+ 
+->*slotNames*
+->Returns a list of strings containing the names of the slots in the receiver (but not in it's lookup path).  
+

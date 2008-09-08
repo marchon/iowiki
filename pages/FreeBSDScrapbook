@@ -1,0 +1,6 @@
+making.a.FreeBSD.jail
+
+freebsd-update fetch
+freebsd-update install
+
+To find out what ports are installed: {code pkg_version -v}

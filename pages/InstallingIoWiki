@@ -1,0 +1,11 @@
+I haven't yet rewritten these instructions to work with the latest versions of ..IoWiki which (sadly) use the CGI mechanism.  Until I do that, you'll have to make up the details for yourself.  Here is an outline.
+- First of all, you'll need a web server which can run CGIs.
+- Download Io from http://iolanguage.com/downloads/.  Install.
+- Download the ..IoWiki code from ftp://xeny.net/iowiki/iowiki-0.1.02.tgz.  Put it somewhere where your web server will treat it as a permissible CGI.
+- Download the wrapper to make ..IoWiki work with the latest version of Io, from CurrentIoWrapper (thanks to DanyaAlexeyevsky).  This may not exactly work because it was written for an earlier version of ..IoWiki, but we will try to make it work later.
+
+*EXTRA INSTRUCTIONS FOR PARTICULAR OPERATING SYSTEMS*
+
+- Macintosh.administrators
+
+JasonGrossman

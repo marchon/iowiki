@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title><PAGE TITLE></title>
+<STYLE>
+BODY, TD, TABLE, TR { font-size:13; font-weight:normal; font-family:"arial, helvetica"; } 
+PRE { font-size:13; font-weight:normal; font-family:"courier"; } 
+A {text-decoration: none}
+    #tabs li a {
+      color:black;
+      text-decoration:none;
+      font:bold 80%/130% verdana, "lucida sans", "lucida sans unicode", tahoma, arial, helvetica, sans-serif;
+      text-align:center;
+      }
+</STYLE>
+</HEAD>
+
+
+<BODY BGCOLOR="white">
+<font face="arial, helvetica">
+<SMALL>Io documentation copyright 2002-2006 Steve Dekorte. All rights reserved.<BR></SMALL>
+<h1><PAGE NAME></h1>
+<PAGE TEXT>
+<br><hr>
+<div id="tabs">
+        <ul><li><EDIT BUTTON></li><li><HOME BUTTON></li><li><PAGE HISTORY BUTTON></li><li><INSTRUCTIONS BUTTON></li></ul>
+</div>
+</body>
+</html>

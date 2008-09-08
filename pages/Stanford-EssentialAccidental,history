@@ -1,0 +1,90 @@
+
+----
+2008-07-11 20:23:13 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+Stanford article on the debate over essential and accidental properies of objects.
+
+*Where can it be found?*
+
+Robertson, Teresa, "Essential vs. Accidental Properties", The Stanford Encyclopedia of Philosophy (Summer 2008 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/sum2008/entries/essential-accidental/>.
+
+*How does it fit in?*
+
+Williamson uses the essentialist metaphysical project as an example of one that has not embraced the ocnceptual turn.  I though it'd be a good idea to get more of an idea of what was involved in the project.
+----
+*Summary*
+- general characterisation of essentialism: (at least some) objects have (at least some) essential properties
+Characterising the Essential/Accidental Distinction
+- modal characterisation:
+-- essential: it is _necessary_ that a particular object has a particular property
+-- accidental: it is _possible_ that a particular object could lack a particular property it has
+-- in possible worlds talk:
+--- essential property holds across all possible worlds, accidental does not
+-- problem: seems many/all properties are contingent at least upon object's _existence_
+- ..existence-conditioned modal characterisation:
+-- add condition of "if object exists" (in some form) to the above
+-- problem: seems to rule out theist's claim where distinction to be captured should not
+- unresolved debate but not vital for central issues
+- concerned with _metaphysical_ possibility/necessity
+-- not epistemological (possibility given what someone knows)
+-- not logical (negation not logical truth - e.g. tower red and green all over, extensionless, etc)
+-- _does_ include physical as that is subset of metaphysical
+-- note: essential => could not lose but not <= (e.g. having experienced some past event)
+- definitional characterisation (Fine):
+-- problem: essential seems to imply a necessaity, one which must hold even for unrelated things (e.g. infintely many primes essential to Socrates)
+-- better to require essential to be tied to notion of what it is to be an object (by definition)
+-- problem: do _all_ objects have definitional properties? prolly not
+-- requires clear answer to above problem in order to be well motivated
+- explanatory characterisation (Copi)
+-- essential properties are those which are most explanatory
+-- problem: most explanatory for what purpose? seems introduce subjectivity
+-- needs to give answer to this in order to be well motivated
+Characterisations of Essentialism
+- key factors:
+--> a. maximal essentialism := all an object's properties are essential
+--> b. minimal essentialism := only trivial properties are essential (e.g. self-ID)
+-> 1. original, general characterisation (Mackie)
+-- includes both a and b
+-- most common understanding
+-> 2. Quine: some properties may be essential and others accidenta (formally: exists(x)(necessarily(Fx)&Gx&~necessarily(Gx)))
+-- includes a but not b
+-> 3. Della Rocca: non-trivial essential property requirement
+-- includes b but not a
+-> 4. Yablo: non-trivial essentials _and_ some accidentals
+-- doesn't include either a or b
+Varieties:
+- sortal essentialism: object could not have been of radically different kind (e.g. being human to me)
+- origin essentialism: object could nto have had radically different origin (e.g. particular sperm and egg to me)
+- natural kinds (Kripke, Putnam): it is essential to a particular object (e.g. species cat) that all its instances are also instances of some kind (e.g. animals)
+-- note: a posteriori claim
+-- also note: essentialism re: natural kinds does not imply _sortal_ naturalism (akin to problem in claiming that man A, who happens to be a bachelor, could not be married based on a priori truth that all bachelors are unmarried (chicken and egg sort of thing innit))
+Scepticism:
+- questions claim that essentiality is independent of how objects are referred to
+-- e.g. is number 8 still _necessarily_ greater than 7 when referred to as the number of planets?
+- response:
+-- two intuitions re: "the number of planets has the property of being necessarily greater than 7" depending on whether taken de re or de dicto
+-- but sceptic doesn't say why the second one must be favoured
+Epistemology:
+- how is knowledge of essentialist claim obtained?
+-- there are problems with a priori knowledge (e.g. Platonism) but no new problems introduced by essentialism in this regard
+-- Kripke: knowledge partly a priori, partly empirical (e.g. a priori knowledge of essentiality of origins and empirical knowledge of particular origin instance)
+--- this does seem to introduce new problems as a priori truth called upon is different in nature to the usual ones (e.g. logical/mathematical)
+Nonidentity:
+- essential claims often used, in combination with Leibniz's Law, to argue for nonidentity (cf. problem of material construction)
+----
+*What do I think?*
+- obviously I have a fairly fundamental disagreement with all this talk of objects
+- but even given this, there still seems to be a lot of value here, even if onyl by virtue of the isomorphisms that can (possibly) be drawn between this debate and those concerning induction, univerals/tropes and the prototype theory of the structure of concepts
+- isn't minimal essentialism replacing metaphysical possibility/necessity with a logical notion?
+- couldn't Price's semantic ladder stuff be used in support of a de dicto interpretation of the statement in the scepticism section?
+----
+
+Williamson.Reading.Group
+
+ChrisWilcox
+}*

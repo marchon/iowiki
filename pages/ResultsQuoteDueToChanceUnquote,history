@@ -1,0 +1,18 @@
+
+----
+Mon Jul 24 23:36:44 EDT 2006
+
+
+
+[[[break]]]added at line 0: *lime {code The probability that the results are due to chance 
+
+4 reasons why comparing p(e|H) with p(e|chance) is NBG: 
+
+(1) it's not using p(H|e) 
+- which leads to the ProblemOfMultiplicity & merging data
+(2) it's ignoring alternative hypotheses, even though there may be some that are part of the SAME theory as H that are (in every sense) better supported 
+(3) in general it needs a tail area (at least in the continuous case and 
+often also in the discrete case) 
+(4) Cox's paradox and related forms of incoherence -> likelihood 
+principle
+}*

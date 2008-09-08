@@ -1,0 +1,17 @@
+# Fred Blogs Jr in BibTex
+
+From http://nwalsh.com/tex/texhelp/bibtx-23.html:
+
+"Juniors" pose a special problem. Most people having "Jr." in their name precede it with a comma. Such a name should be entered as follows:
+
+"Ford, Jr., Henry"
+
+However, a few people do not use a comma. They are handled by considering the "Jr." to be part of the last Last token:
+
+"{Steele Jr.}, Guy L." "Guy L. {Steele Jr.}"
+
+This name has no Jr part. 
+----
+``Ragged-right setting is initiated by restricting the spaces between words to have a fixed width, and by putting variable space at the right of each line. You should not call \raggedright until your text font has already been specified; it is assumed that the ragged-right material will not be in a variety of different sizes.  (If this assumption is
+not valid, a different approach should be used: \fontdimen parameters 3 and~4 of the fonts you will be using should be set to zero, by saying,
+e.g., `\fontdimen3\tenrm=0pt'. These parameters specify the stretchability and shrinkability of interword spaces.)'' --- from the TeXbook

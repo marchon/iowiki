@@ -1,0 +1,25 @@
+
+----
+Mon Mar 10 23:08:26 EST 2008
+
+
+
+[[[break]]]added at line 4: *lime {code 
+To find out what ports are installed: {code pkg_version -v}
+}*
+----
+Sun Mar  9 20:24:35 EST 2008
+
+
+
+[[[break]]]added at line 1: *lime {code 
+freebsd-update fetch
+freebsd-update install
+}*
+----
+Sun Mar  9 18:04:34 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code making.a.FreeBSD.jail
+}*

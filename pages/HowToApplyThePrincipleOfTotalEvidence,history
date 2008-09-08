@@ -1,0 +1,32 @@
+
+----
+
+
+
+[[[break]]]changed line 1 from: *orange {code How to Apply the Principle of Total Evidence
+}*[[[break]]]to: *green {code Abstract: The answer is the likelihood principle.
+}*[[[break]]]changed line 3 from: *orange {code The answer is the likelihood principle.
+}*[[[break]]]to: *green {code _This will review the state of the art, and say why it's so important._
+
+Every philosopher knows the Principle of Total Evidence, usually associated with Carnap, which says that one should not ignore information. 
+}*[[[break]]]added at line 7: *lime {code ----
+The likelihood principle is a version of this applicable to statistical inference.  It says (roughly) that when one has a sample of data, one should take that sample fully into account when making inferences about hypotheses.  And yet, because of the popularity of evaluating methods of inference on their long-run behaviour, the likelihood principle is frequently broken.
+----
+- This could emphasise the role of the LP in *categorising* theories of statistical inference.  I don't think anyone's really made a big deal about that yet.  B&W's book doesn't do that: they want to push Bayesianism.  And the other books want to push the use of raw likelihoods or raw likelihood ratios.
+
+- where can I publish such a long paper? or should it be just a summary? 
+}*[[[break]]]added at line 8: *lime {code - note to self: say something about “the importance of protocol” in Hutchison BJPS, Dowe, Korb etc. 
+}*
+----
+
+
+
+[[[break]]]added at line 0: *lime {code How to Apply the Principle of Total Evidence
+
+The answer is the likelihood principle.
+
+``A principle which seems generally recognized,[footnote 10: Keynes, op. cit.[J.~M.~Keynes, {\it A Treatise on Probability\/} (1921)], \p.313, refers to `Bernoulli's maxim, that in reckoning a probability, we must take into account all the information which we have'.] although not always obeyed, says that if we wish to apply such a theorem of the theory of probability to a given knowledge situation, then we have to take as evidence $e$ the {\it total evidence\/} available to the person in question at the time in question, that is to say, his total knowledge of the results of his observations.'' \cite[p\p.138--139]{Carnap:1947}
+
+``Bernoulli's maxim,[footnote 1: {\it Ars Conjectandi}, \p.215: `Non sufficit expendere unum alterumve argumentum, sed conquirenda sunt omnia, quae in cognitionem nostram venire possunt, atque ullo modo ad probationem rei facere videntur.'] that in reckoning a probability we must take into account all the information which we have'' \cite[\p.313]{Keynes:1921}
+
+}*

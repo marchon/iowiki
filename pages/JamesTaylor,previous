@@ -1,0 +1,25 @@
+http://en.wikipedia.org/wiki/Ordinal_number#Transfinite_induction
+
+Normal J. Wildberger:
+- http://web.maths.unsw.edu.au/~norman/papers/Ordinals.pdf
+
+Paradoxes of naive set theory --- basically only three? (Philosophers argue a lot about what counts as a set-theoretic paradox and what counts as a "semantic" paradox.)
+- Cantor's paradox: 187?, the largest cardinal
+- ..Burali-Forti's paradox: 1897?, the largest ordinal
+- Russell's paradox: the set of sets that are not members of themselves, 1900
+
+# Questions to follow up
+
+None of these compulsory (i.e. do none or more):
+- Are Wildburger's infinitesimals helpful with the original problem about Cantor's infinities not being fine-grained enough?
+- How are other types of infinitesimal related to Wildburger's?  Are they more helpful?
+- Do alternative set theories look like they might be helpful?  See
+-- http://plato.stanford.edu/entries/settheory-alternative/
+-- http://plato.stanford.edu/entries/quine-nf/
+-> The author of the latter page will be in Australia briefly after our next meeting, so maybe think of questions to ask him.
+
+Alternative Set Theory:
+- Pure sets are constructed by induction
+- Automatically avoids the paradoxes
+- Is simple and doesnt rely on 9 axioms
+- Similar in many ways to Wildberger's set-up and also to hyperreals, and natural numbers

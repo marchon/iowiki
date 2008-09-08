@@ -1,0 +1,99 @@
+{let's try starting with a.literal}
+
+{some { LiteralText ..LiteralText}
+
+{
+cute...wombats
+
+cute....wombats
+
+cute.....wombats
+
+..nth
+
+..IoWiki
+
+..literal
+
+. one dot
+
+.. two dots
+
+... three dots
+
+.... four dots
+
+.IoWiki
+
+IoWiki
+
+Wombat!cuddling.test, Wombat!cuddling
+
+TestAllPreformatted
+
+cute.wombats
+CuteWombats
+cute.Wombats
+.cute.wombats
+.oneword
+
+project!test.wiki.word 
+
+test.wiki.word! 
+
+!project!word 
+
+project!word 
+
+!project
+
+
+known.bugs unit.test sand.box to.do administrator.documentation Io docs:file:///Applications/Io/Docs.html
+----
+* Need Seidenfeld-1979 really urgently, to compare to Barnett --- Hillman QA276 .S435
+* paper clips
+* another dot point
+
+----
+* I should probably use ..x_0 to represent the actual observation, so x can be a variable
+----
+In chapter x I will give explicit arguments for considering the versions in group I
+I to be corollaries of the versions in group I.
+
+cite both defs of LP from Barnet, and note his use of "strong likelihood principle"
+ on p. 188
+----
+
+
+*orange some _italic text_ inside orange text*
+
+----
+..RecentChanges, ..recent.changes, ..Recent.Changes --- these should not become ..WikiWords
+
+RecentChanges, recent.changes, Recent.Changes --- but these *should* become WikiWords
+
+to.do
+
+liedra@liedra.net --- should not become a %WikiWord
+
+project!test.wiki.word changed
+
+test.wiki.word!
+
+!wombats
+
+sand.box.with.a.wombat.in.it
+
+Jason.Grossman again
+
+.long.wiki.word.with.parts and cute......wombats
+
+* dot point
+** sub dot point
+*** sub sub dot point
+** sub dot point
+
+-> indent
+--> double indent
+---> triple indent
+--> double indent

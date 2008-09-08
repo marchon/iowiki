@@ -1,0 +1,98 @@
+
+----
+2008-04-04 14:33:39 EST
+
+
+
+[[[break]]]changed line 28 from: *orange {code ---> Lovliness used as a surrogate when the formula proves hard to implement.
+}*[[[break]]]to: *green {code ---> Loveliness used as a surrogate when the formula proves hard to implement.
+-- ii) Calculating P(H) and P(E)
+---> Priors generally involve in earlier stage of i)
+-- iii) Determination of relevant evidence.
+}*[[[break]]]added at line 38: *lime {code - Are P(H) and P(E) more accurately represented as P(H|B) and P(E|B), where B constitutes the set of my current beliefs?
+}*
+----
+2008-04-04 14:29:48 EST
+
+
+
+[[[break]]]changed line 21 from: *orange {code 
+}*[[[break]]]to: *green {code -- There is a role for explanation in Bayesian reasoning.
+-- Complement is clear when considering thin "inference to the likeliest explanation" as explanation only plays a role in initial hypothesis choice there.
+-- But one can even incorporate "inference to the loveliest explanation".
+--- One does this by asserting that this version of IBE captures the psychology of belief revision. (The empirical cases of Bayesian misapplication alluded to above appear to occur in situations in which the Bayesian conclusion is at odds with a fairly ..straight-forward causal explanation.)
+-- Thus it is possible that IBE is used as a heuristic for the Bayesian calculation due to the apparent difficulty we have with pr intuitively.
+- Thus IBE may "help out" the Bayesian calculation in 3 ways:
+-- i) Calculating P(H|E)
+---> Lovliness used as a surrogate when the formula proves hard to implement.
+}*[[[break]]]added at line 29: *lime {code - I don't if I'm convinced of the connection between loveliness and truth that Lipton needs to be able to used his strong IBE as an heuristic for Bayesian calculations.
+-- Indeed it seems that if the picture above is descriptively accurate, it is precisely when loveliness is used as a surrogate, that we are led astray.
+}*
+----
+2008-04-04 14:16:46 EST
+
+
+
+[[[break]]]added at line 15: *lime {code - Bayes and IBE are compatible:
+-- Bayesianism only rules out certain combinations of beliefs.
+--- *green Does it even _rule out_ anything more than the hyp.-ded. model?  Seems that one just gets combinations of beliefs with very low pr.*
+-- One doesn't have to adjust the posterior pr in light of calculations, one can decide to adjust priors instead.
+- Bayes and IBE are complementary:
+}*
+----
+2008-04-04 14:12:35 EST
+
+
+
+[[[break]]]added at line 14: *lime {code -- Problem re: fact that our empirically tested belief formation practices do not appear to be Bayesian (we are quite bad at intuitively calculating probabilities).
+}*[[[break]]]changed line 23 from: *orange {code 
+}*[[[break]]]to: *green {code - If Lipton wants to involve the Bayesian account in his model for IBE, doesn't he also need to deal with the possible problems for the Bayesian that he raises?
+}*
+----
+2008-04-04 14:08:36 EST
+
+
+
+[[[break]]]changed line 3 from: *orange {code 
+
+
+}*[[[break]]]to: *green {code - Bayesian support: 
+-- calculate S = P(H|E) = P(E|H) x P(H)/P(E)
+-- If S > P(H), then E supports H.
+--- Note: the less likely E is, the greater the support it provides; also, one gets disconfirmation when the hypothesis makes the evidence more surprising.
+- The possible Bayesian threat:
+-- Dutch book arguments => irrationality if beliefs not determined in a Bayesian way (which would seem to rule out beliefs based on some sort of loveliness measure).
+- One possible response - attack the Bayesian:
+-- Are our beliefs actually measured in pr?
+-- Does P(H|E) actually mean the same thing as our degree of belief in H after observing E?
+-- Problem of old evidence.
+-- Problem re: realisation of new entailments leading to change in probability not resultant from conditionalisation.
+-- Problem of unrelated entailments.
+}*[[[break]]]changed line 9 from: *orange {code 
+}*[[[break]]]to: *green {code - As noted earlier, the problem of old evidence is not really a problem: one can merely "roll back" the pr.s to the point at which the old evidence occurred and then conditionalise forward again.
+-- I guess there may be some who would want to argue that this process is not possible. (Perhaps this is connected to your stuff re: conditions under which we can accurately determine probabilties Jason?)
+- Surely, the new entailments from a hypothesis can be captured in a Bayesian way by redoing conditionalisation in light of new evidence (I guess this would be equivalent to working as if one was dealing with a new hypothesis (although one for which a lot of relevant data had already been collected)).
+-- Although is this feasible if one is dealing with a large, interconnected Bayesian web of belief?
+- Can the problem of unrelated entailments be dealt with by better specification of hypotheses?
+}*
+----
+2008-04-04 13:49:28 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*Summary*
+
+
+
+
+----
+*What do I think?*
+
+
+----
+
+Lipton.IBE
+
+ChrisWilcox
+}*

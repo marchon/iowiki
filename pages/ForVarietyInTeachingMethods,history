@@ -1,0 +1,42 @@
+
+----
+Sun Dec  3 22:41:01 EST 2006
+
+
+
+[[[break]]]changed line 8 from: *orange {code # Why this is good
+}*[[[break]]]to: *green {code # Why variety is good
+}*
+----
+Sun Dec  3 22:37:52 EST 2006
+
+
+
+[[[break]]]added at line 3: *lime {code # Evidence
+
+A nice study shows that particularly good teachers tend to use a variety of methods, some of which don't work [fill in ...]
+
+}*[[[break]]]changed line 6 from: *orange {code 1. 
+}*[[[break]]]to: *green {code 1. Makes the students think about what the hell the teacher is doing.  This is similar to the advantages of making a few mistakes (e.g. in calculations).
+
+2. Postpones burn-out.
+}*[[[break]]]changed line 8 from: *orange {code 2. Variety improves the teacher-student bond by making each teaching experience more personal.
+}*[[[break]]]to: *green {code 3. Variety improves the teacher-student bond by making each teaching experience more personal.  Maybe this is too similar to point 1 to deserve a separate point.
+----
+JasonGrossman
+TarquinGrossman
+}*
+----
+Sun Oct 22 00:02:49 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code # Examples of variety
+...
+
+# Why this is good
+
+1. 
+
+2. Variety improves the teacher-student bond by making each teaching experience more personal.
+}*

@@ -1,0 +1,57 @@
+
+----
+Sun Mar 25 19:21:19 EST 2007
+
+
+
+[[[break]]]added at line 17: *lime {code  
+}*
+----
+Wed Mar 21 23:03:36 EST 2007
+
+
+
+[[[break]]]changed line 2 from: *orange {code     * 17.5c
+}*[[[break]]]to: *green {code     - 17.5c
+}*[[[break]]]changed line 5 from: *orange {code     * 35c connection fee
+    * 18c per minute
+    * $1.98 cap for calls up to 2 hours
+}*[[[break]]]to: *green {code     - 35c connection fee
+    - 18c per minute
+    - $1.98 cap for calls up to 2 hours
+}*[[[break]]]changed line 10 from: *orange {code     * 35c connection fee
+    * 18c per minute
+    * $1.98 cap for calls up to 30 minutes
+}*[[[break]]]to: *green {code     - 35c connection fee
+    - 18c per minute
+    - $1.98 cap for calls up to 30 minutes
+}*[[[break]]]changed line 15 from: *orange {code     * 35c connection fee
+    * 33c per minute
+    * $2.50 cap for calls up to 20 minutes
+}*[[[break]]]to: *green {code     - 35c connection fee
+    - 33c per minute
+    - $2.50 cap for calls up to 20 minutes
+}*
+----
+Wed Mar 21 23:03:12 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code Local Calls (just Burra?)
+    * 17.5c
+
+National calls
+    * 35c connection fee
+    * 18c per minute
+    * $1.98 cap for calls up to 2 hours
+
+Calls to the UK
+    * 35c connection fee
+    * 18c per minute
+    * $1.98 cap for calls up to 30 minutes
+
+Calls to mobiles
+    * 35c connection fee
+    * 33c per minute
+    * $2.50 cap for calls up to 20 minutes
+}*

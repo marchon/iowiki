@@ -1,0 +1,27 @@
+*crimson ..IoWiki is a program that can run a wiki --- a web site designed to encourage people to contribute to it. 
+
+Demo site: none at the moment, but watch this space. Download: http://luddite.cst.usyd.edu.au/IoWiki/iowiki-0.89.tgz.*
+
+You need a wiki (everyone does), but you don't particularly need ..IoWiki. There are a million other wiki programs that do basically the same thing. But anyway, here are ..IoWiki's main features: 
+
+* It's written in Io, which is one of the most fun languages to write in. (See http://www.iolanguage.com.) So if you need to roll your own wiki program for any reason the ..IoWiki code gives you something good to start with.
+
+* It strikes the right balance (according to me) between features and complexity: enough features to get on with lots of collaborative communication, but not enough features to distract users while they're trying to write text. In this respect it's very much like the original wiki program at http://c2.com.
+
+* It formats its pages using HTML/CSS templates which you can edit through the wiki itself.
+
+* It has key shortcuts for everything (when used with compatible browsers).
+
+* It saves a complete history of page changes in a compact human-readable format.
+
+* It doesn't need root privileges, not even for installation (subject to your operating system allowing non-root users to write to TCP ports, of course).
+
+* Its markup language is very simple (hence easy to learn), and more or less a subset of Textile markup (http://www.textism.com/tools/textile).
+
+* It's fast, thanks to a dedicated (built-in) web server which takes advantage of the lightweight thread capabilities of Io.  It also has over-the-top speed optimisations like serving pages directly from a preformatted memory cache.
+
+* Since it has so few features, I can guarantee that ..IoWiki has very few bugs. I mean, if it had one bug for every byte of code that still wouldn't be many. I don't, however, guarantee anything about the _severity_ of any bugs it may have, for obvious legal reasons. It may steal your vote, crash your car and leave the toilet seat up.
+
+If you insist on using a more powerful wiki despite my warning that that will cut your productivity, I recommend ..CloudWiki, which is slightly more powerful, or ..PmWiki, which is elegant and easy to install and has oodles of features. 
+
+Jason Grossman 

@@ -1,0 +1,44 @@
+
+----
+Wed Oct 10 21:08:46 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code # A Couple of the Nasties Lurking in ..Evidence-Based Medicine 
+Draft available from ftp://xeny.net/Grossman-EBM-preprint.pdf.
+
+Please don't cite without permission.
+
+JasonGrossman
+}*[[[break]]]to: *green {code Moved to WorkInProgress.
+}*
+----
+Wed Oct 10 20:59:03 EST 2007
+
+
+
+[[[break]]]deleted at line 2: *red {code 
+}*
+----
+Wed Oct 10 20:58:53 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code # A Couple of the Nasties Lurking in Evidence-Based 
+Medicine 
+}*[[[break]]]to: *green {code # A Couple of the Nasties Lurking in ..Evidence-Based Medicine 
+}*
+----
+Wed Oct 10 20:58:24 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code # A Couple of the Nasties Lurking in Evidence-Based 
+Medicine 
+
+Draft available from ftp://xeny.net/Grossman-EBM-preprint.pdf.
+
+Please don't cite without permission.
+
+JasonGrossman
+}*

@@ -1,0 +1,34 @@
+
+----
+Sun Nov 27 15:47:54 EST 2005
+
+
+
+[[[break]]]changed line 10 from: *orange {code Whitehead vs. Freedman & Spiegelhalter in _Controlled Clinical Trials_ e.g. 
+}*[[[break]]]to: *green {code Whitehead vs. Freedman & Spiegelhalter in _Controlled Clinical Trials_ 
+
+e.g.:
+
+}*
+----
+Sun Nov 27 15:41:03 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code Giere has claimed that ...
+
+We illustrate the falsity of his claim with a detailed case study of ...
+
+
+----
+
+read:
+
+Whitehead vs. Freedman & Spiegelhalter in _Controlled Clinical Trials_ e.g. 
+@article{Spiegelhalter:1989,
+	Author = {LS Freedman and DJ Spiegelhalter},
+	Journal = {Controlled Clinical Trials},
+	Pages = {10: 357-367},
+	Title = {Comparison of Bayesian with group sequential methods for monitoring clinical trials},
+	Year = {1989}}
+}*

@@ -1,0 +1,108 @@
+
+----
+Mon Sep 10 19:30:39 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code I can't find *any* of these, except possibly this one ... although maybe it's only about Pauline Hanson *imagining* escaping from prison on an alpaca.  It's not really clear.  And it's mostly about other things anyway.
+
+_So I jumped on the thing that looked just like a camel
+Mixed with a deer or a pony.
+I rode off into the sunset with my alpaca
+I was no longer alone-y._
+-> Tripod, ``Kevin Bacon''
+}*[[[break]]]to: *green {code My mistake.  This is actually about Kevin Bacon.  See SongsAboutKevinBaconEscapingFromPrisonOnAnAlpaca .
+}*
+----
+Mon Sep 10 19:18:38 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code I can't find *any* of these, except possibly this one ... although maybe it's only about Pauline Hanson *imagining* escaping from prison on an alpaca.  And it's mostly about other things anyway.
+}*[[[break]]]to: *green {code I can't find *any* of these, except possibly this one ... although maybe it's only about Pauline Hanson *imagining* escaping from prison on an alpaca.  It's not really clear.  And it's mostly about other things anyway.
+}*
+----
+Mon Sep 10 19:15:17 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code I can't find *any* of these.  
+
+But there is at least one song which is partly about Pauline Hanson *imagining* escaping from prison on an alpaca, namely ``Kevin Bacon'' by Tripod.
+}*[[[break]]]to: *green {code I can't find *any* of these, except possibly this one ... although maybe it's only about Pauline Hanson *imagining* escaping from prison on an alpaca.  And it's mostly about other things anyway.
+}*
+----
+Mon Sep 10 19:13:00 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code But there is at least one song which is *partly* about Pauline Hanson *imagining* escaping from prison on an alpaca, namely ``Kevin Bacon'' by Tripod.
+}*[[[break]]]to: *green {code But there is at least one song which is partly about Pauline Hanson *imagining* escaping from prison on an alpaca, namely ``Kevin Bacon'' by Tripod.
+}*
+----
+Mon Sep 10 18:57:40 EST 2007
+
+
+
+[[[break]]]deleted at line 10: *red {code ->http://usrwww.mpx.com.au/pennywyatt/Interests/Tripod/SongInAnHour2/Song in an Hour CD 212.html
+}*
+----
+Mon Sep 10 18:57:26 EST 2007
+
+
+
+[[[break]]]added at line 9: *lime {code ->http://usrwww.mpx.com.au/pennywyatt/Interests/Tripod/SongInAnHour2/Song in an Hour CD 212.html
+}*
+----
+Mon Sep 10 18:56:42 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code I can't find _any_ of these.  But there is at least one song which is _partly_ about Pauline Hanson _imagining_ escaping from prison on an alpaca, namely ``Kevin Bacon'' by Tripod.
+}*[[[break]]]to: *green {code I can't find *any* of these.  
+}*[[[break]]]changed line 3 from: *orange {code So I jumped on the thing that looked just like a camel
+}*[[[break]]]to: *green {code But there is at least one song which is *partly* about Pauline Hanson *imagining* escaping from prison on an alpaca, namely ``Kevin Bacon'' by Tripod.
+
+_So I jumped on the thing that looked just like a camel
+}*[[[break]]]changed line 6 from: *orange {code I was no longer alone-y.
+}*[[[break]]]to: *green {code I was no longer alone-y._
+}*
+----
+Mon Sep 10 18:52:59 EST 2007
+
+
+
+[[[break]]]changed line 7 from: *orange {code -> Tripod, "Kevin Bacon"
+}*[[[break]]]to: *green {code -> Tripod, ``Kevin Bacon''
+}*
+----
+Mon Sep 10 18:52:30 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code --> So I jumped on the thing that looked just like a camel
+--> Mixed with a deer or a pony.
+--> I rode off into the sunset with my alpaca
+--> I was no longer alone-y.
+
+---> Tripod, "Kevin Bacon"
+}*[[[break]]]to: *green {code So I jumped on the thing that looked just like a camel
+Mixed with a deer or a pony.
+I rode off into the sunset with my alpaca
+I was no longer alone-y.
+-> Tripod, "Kevin Bacon"
+}*
+----
+Mon Sep 10 18:52:04 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code I can't find _any_ of these.  But there is at least one song which is _partly_ about Pauline Hanson _imagining_ escaping from prison on an alpaca, namely ``Kevin Bacon'' by Tripod.
+
+--> So I jumped on the thing that looked just like a camel
+--> Mixed with a deer or a pony.
+--> I rode off into the sunset with my alpaca
+--> I was no longer alone-y.
+
+---> Tripod, "Kevin Bacon"
+}*

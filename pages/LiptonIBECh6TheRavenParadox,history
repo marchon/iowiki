@@ -1,0 +1,69 @@
+
+----
+2008-04-04 13:46:36 EST
+
+
+
+[[[break]]]changed line 23 from: *orange {code 
+}*[[[break]]]to: *green {code -- When looking at 2 effects, one holds the effects fixed and manipulates the causal histories of both events in order to determine their cause.
+--- However, there is a problem here regarding the possible plurality of causes.
+--- But, as indicated above, the way around this is to use our background knowledge to select instances that are likely to have similar causal histories.
+}*
+----
+2008-04-04 13:43:09 EST
+
+
+
+[[[break]]]changed line 11 from: *orange {code -- ii) => All non-Gs are non-F
+}*[[[break]]]to: *green {code -- ii) => All ..non-Gs are non-F
+}*[[[break]]]added at line 16: *lime {code - Looking at contrastive explanation may help:
+-- Some, but not all, support for contrapositives does provide more general support.
+-- Linked to suitability of foil to fact.
+--- i.e. to the closeness in their causal history (in this case we are looking at the closeness of the contrapositive instance and the direct instance)
+- Hence our background knowledge plays a large role in determining when it is suitable to infer direct support from contrapositive support.
+- Mill's method of agreement seems to be of relevance here:
+}*
+----
+2008-04-04 13:36:28 EST
+
+
+
+[[[break]]]changed line 4 from: *orange {code 
+}*[[[break]]]to: *green {code - The hyp.-ded. model is weak in the following ways:
+-- i) it neglects the context of discovery
+-- ii) it is too strict regarding what data should be considered relevant (logical implication)
+-- iii) it is also overpermissive regarding relevant data (disjunctive inclusion)
+- Thus, the theory requires that some auxiliary measure be brought in to reduce the strictness of the model but this must in some way also limit overpermissiveness - a difficult ask.
+- Generalised ravens:
+-- i) All Fs are G
+-- ii) => All non-Gs are non-F
+---> Therefore, an observation of a non-G that is a non-F supports i)
+- Past responses:
+-- Hempel: result is true under idealised conditions.
+-- Quine: a projective predicate is necessary for inductive support and the complement above is not projective.
+-- Goodman: support must confirm All Fs are G _and_ disconfirm No Fs are G.
+}*[[[break]]]changed line 8 from: *orange {code 
+
+}*[[[break]]]to: *green {code - Can one just deal with the ravens e.g. by arguing that the observation in question is indeed a case of support but that support is so small as to not play any role when one is considering the validity of statement i) in the relevant section above?
+-- Would the correct Bayesian way of phrasing this be to say that P(E|H) = P(E) (hence P(H|E) = P(H))?
+}*
+----
+2008-04-04 13:17:36 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*Summary*
+
+
+
+----
+*What do I think?*
+
+
+----
+
+Lipton.IBE
+
+ChrisWilcox
+}*

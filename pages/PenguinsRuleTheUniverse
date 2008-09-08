@@ -1,0 +1,21 @@
+#A proof that penguins rule the universe
+
+This is a version of Curry's Paradox. See the Stanford Encyclopaedia of Philosophy entry by J.C. Beall (http://plato.stanford.edu/entries/curry-paradox) for more details.
+----
+- We start with the following sub-argument.
+-> Premise, just for this sub-argument: "If A is true, penguins rule the universe". Call this premise A.
+-> Suppose A is true. Then:
+--> If A is true, penguins rule the universe.
+--> So penguins rule the universe (still supposing A).
+-> That's the end of the sub-argument.
+- We've shown that if A is true then penguins rule the universe.
+- But that's what A says.
+- So A is true.
+- But if A is true, penguins rule the universe.
+- So penguins rule the universe.
+----
+There are no special tricks involved in this. The question of how best to avoid this paradox is still an open question among logicians.
+
+An obvious solution would be to say that there's something wrong with premise A. But then it's hard to say what's wrong with it. One option is to say that logic has to conform to Bertrand Russell's type theory, but that solution is contentious.
+
+If we avoid the paradox by disallowing premise A, we're left with a sad conclusion about the universality of logic. Normally, if we can get from a premise that doesn't mention penguins to a conclusion that does, using only the laws of logic, we would blame the laws of logic rather than the premise, no matter how horrible a premise it is. But solutions to Curry's paradox that revise the laws of logic (instead of disallowing premise A) are very hard to find, and even more contentious than the theory of types.

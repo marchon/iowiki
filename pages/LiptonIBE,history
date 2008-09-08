@@ -1,0 +1,240 @@
+
+----
+2008-04-28 13:49:26 EST
+
+
+
+[[[break]]]added at line 32: *lime {code 
+Lipton.IBE.Ch9.LovelinessAndTruth
+}*
+----
+2008-04-12 15:00:19 EST
+
+
+
+[[[break]]]added at line 30: *lime {code 
+Lipton.IBE.Ch8.ExplanationAsAGuideToInference
+}*
+----
+2008-04-04 12:52:10 EST
+
+
+
+[[[break]]]added at line 22: *lime {code 
+Lipton.IBE.Ch4.IBE
+
+Lipton.IBE.Ch5.ContrastiveInference
+
+Lipton.IBE.Ch6.TheRavenParadox
+
+Lipton.IBE.Ch7.BayesianAbduction
+}*
+----
+Tue Mar 18 17:38:13 EST 2008
+
+
+
+[[[break]]]added at line 20: *lime {code 
+Lipton.IBE.Ch3.TheCausalModel
+}*
+----
+Tue Mar 18 16:56:50 EST 2008
+
+
+
+[[[break]]]added at line 18: *lime {code 
+Lipton.IBE.Ch2.Explanation
+}*
+----
+Tue Mar 18 16:55:57 EST 2008
+
+
+
+[[[break]]]changed line 16 from: *orange {code Lipton.IBE.Ch1.Induction
+
+*Ch. 1 - Induction*
+_Underdetermination_
+- Underdetermination (in this context) := multiple theories could be used to explain something.
+- Induction (conceived here broadly as ~deduction) => underdetermination.
+- Thus one needs to find additional principles to choose between competing inductive theories.
+
+_Justification_
+- We would like to think that our principles for choosing between inductive theories would somehow lead us to choose ones that are more likely to deliver truth (or to get us closer to truth).
+}*[[[break]]]to: *green {code *green Analysis and summaries will now appear under the individual chapter headings.*
+}*[[[break]]]changed line 27 from: *orange {code _Skepticism_
+- Hume's argument still hangs heavy overhead:
+-- i.e. one can only prove the validity of inductive reasoning by recourse to induction of the same kind.  Thus any validity argument is circular.
+--- Note that this conclusion holds no matter the type of induction posited.  
+-- May be able to justify certain inductive principles by using other ones but this does not get us to where we want to go (i.e. to a sound basis for the employment of inductive reasoning).
+
+_Description_
+- Trying to describe what inductive reasoners do is also problematic.
+-- Difference between "knowing how" and "describing how".
+- Descriptive accounts:
+-> i) Just postulating "more of the same".
+-- Not accurate - brake failure e.g.
+-> ii) "Instantial model" - positive observations as supporting theories (arrived at via some unspecified method).
+--- Often positive obs. case would not be deemed enough - e.g. observation of bearded philosopher supporting theory that all philosophers are bearded.
+--- Hypotheses can be modified so as to enlist any observation in support of any conclusion.
+--- Can always replace hypoth. with logical equivalent that enjoys widespread support.
+-> iii) "..Hypothetico-deductive" - obs. deducted from hypoth. and then checked.
+--- Any case of instantial support is also a case of ..h-d support, hence it inherits the problems above.
+--- Prob. re: adding on a disjunct to hypoth. so as to allow it to enjoy validity from support of the rest of the hypoth.
+-> iv) Bayesian - assign pr. to statements (including hypotheses) that is consistent with their logical relations and with experimental results (i.e. if H=>E, P(H) is increased by the observation of E (provided that ~P(E)=1)).
+--- Too permissive - P(H) will increase as long as _anything_ H entails is observed.
+-> v) "Causal inference" - from effects to their possible causes.
+----
+*What do I think?*
+_Ch 1_
+- All of he descriptive accounts above that involve some sort of ..support-connection between particular observations and particular theories need to deal with the problems raised by Quine's "Web of Knowledge" argument.
+- If one is trying to describe our inference practices, then it seems that an account hypothesis creation should be part of that.  Most of the accounts above do not and the one that does ("more of the same") is quite obviously not viable.
+- How vulnerable is the Bayesian account to criticisms regarding the difficulty of assigning probabilities in practice?
+-- *green If you're trying to do more than speak in vague generalisations, then I think it's pretty vulnerable to that difficulty, except in special circumstances (circumstances which are fortunately common in science).  Jason*
+- There seems to be two different ways to look at the underdetermination issue here: firstly, one can look at it in a traditional "theory first" way by observing that multiple theories can be used to arrive at the same inference; secondly, one can look at it in an "observation first" way in which multiple observations can be derived from the same web of beliefs.
+-- To put this second version a different way, one could argue that a web of beliefs underdetermines the possible observations that can be derived from it.
+- This leads on to a further consideration: it seems that many of the descriptive accounts above are concerned with providing some means of limiting the scope of the first type of underdetermination (by requiring a deductive step for example).  However, it seems that most of them do so only at the cost of opening themselves up to underdetermination of the second sort.
+}*[[[break]]]to: *green {code Lipton.IBE.Ch1.Induction
+}*
+----
+Tue Mar 18 16:52:24 EST 2008
+
+
+
+[[[break]]]added at line 13: *lime {code *Chapters*
+
+Lipton.IBE.Ch1.Induction
+
+}*
+----
+Tue Mar 18 16:50:44 EST 2008
+
+
+
+[[[break]]]added at line 53: *lime {code - This leads on to a further consideration: it seems that many of the descriptive accounts above are concerned with providing some means of limiting the scope of the first type of underdetermination (by requiring a deductive step for example).  However, it seems that most of them do so only at the cost of opening themselves up to underdetermination of the second sort.
+}*
+----
+Tue Mar 18 13:25:23 EST 2008
+
+
+
+[[[break]]]changed line 51 from: *orange {code -- *green If you're trying to do more than speak in generalisations, then I think it's pretty vulnerable to that difficulty, except in special circumstances (circumstances which are fortunately common in science).  Jason*
+}*[[[break]]]to: *green {code -- *green If you're trying to do more than speak in vague generalisations, then I think it's pretty vulnerable to that difficulty, except in special circumstances (circumstances which are fortunately common in science).  Jason*
+}*
+----
+Tue Mar 18 13:24:37 EST 2008
+
+
+
+[[[break]]]added at line 50: *lime {code -- *green If you're trying to do more than speak in generalisations, then I think it's pretty vulnerable to that difficulty, except in special circumstances (circumstances which are fortunately common in science).  Jason*
+}*
+----
+Tue Mar 18 13:13:58 EST 2008
+
+
+
+[[[break]]]changed line 36 from: *orange {code -- Often positive obs. case would not be deemed enough - e.g. observation of bearded philosopher supporting theory that all philosophers are bearded.
+-- Hypotheses can be modified so as to enlist any observation in support of any conclusion.
+-- Can always replace hypoth. with logical equivalent that enjoys widespread support.
+}*[[[break]]]to: *green {code --- Often positive obs. case would not be deemed enough - e.g. observation of bearded philosopher supporting theory that all philosophers are bearded.
+--- Hypotheses can be modified so as to enlist any observation in support of any conclusion.
+--- Can always replace hypoth. with logical equivalent that enjoys widespread support.
+}*[[[break]]]changed line 40 from: *orange {code -- Any case of instantial support is also a case of ..h-d support, hence it inherits the problems above.
+-- Prob. re: adding on a disjunct to hypoth. so as to allow it to enjoy validity from support of the rest of the hypoth.
+}*[[[break]]]to: *green {code --- Any case of instantial support is also a case of ..h-d support, hence it inherits the problems above.
+--- Prob. re: adding on a disjunct to hypoth. so as to allow it to enjoy validity from support of the rest of the hypoth.
+}*[[[break]]]changed line 43 from: *orange {code -- Too permissive - P(H) will increase as long as _anything_ it entails is observed.
+}*[[[break]]]to: *green {code --- Too permissive - P(H) will increase as long as _anything_ H entails is observed.
+}*[[[break]]]changed line 48 from: *orange {code 
+}*[[[break]]]to: *green {code - All of he descriptive accounts above that involve some sort of ..support-connection between particular observations and particular theories need to deal with the problems raised by Quine's "Web of Knowledge" argument.
+- If one is trying to describe our inference practices, then it seems that an account hypothesis creation should be part of that.  Most of the accounts above do not and the one that does ("more of the same") is quite obviously not viable.
+- How vulnerable is the Bayesian account to criticisms regarding the difficulty of assigning probabilities in practice?
+- There seems to be two different ways to look at the underdetermination issue here: firstly, one can look at it in a traditional "theory first" way by observing that multiple theories can be used to arrive at the same inference; secondly, one can look at it in an "observation first" way in which multiple observations can be derived from the same web of beliefs.
+-- To put this second version a different way, one could argue that a web of beliefs underdetermines the possible observations that can be derived from it.
+}*
+----
+Tue Mar 18 13:00:53 EST 2008
+
+
+
+[[[break]]]changed line 43 from: *orange {code 
+
+}*[[[break]]]to: *green {code -- Too permissive - P(H) will increase as long as _anything_ it entails is observed.
+-> v) "Causal inference" - from effects to their possible causes.
+}*
+----
+Tue Mar 18 12:57:00 EST 2008
+
+
+
+[[[break]]]changed line 33 from: *orange {code 
+}*[[[break]]]to: *green {code -> i) Just postulating "more of the same".
+-- Not accurate - brake failure e.g.
+-> ii) "Instantial model" - positive observations as supporting theories (arrived at via some unspecified method).
+-- Often positive obs. case would not be deemed enough - e.g. observation of bearded philosopher supporting theory that all philosophers are bearded.
+-- Hypotheses can be modified so as to enlist any observation in support of any conclusion.
+-- Can always replace hypoth. with logical equivalent that enjoys widespread support.
+-> iii) "..Hypothetico-deductive" - obs. deducted from hypoth. and then checked.
+-- Any case of instantial support is also a case of ..h-d support, hence it inherits the problems above.
+-- Prob. re: adding on a disjunct to hypoth. so as to allow it to enjoy validity from support of the rest of the hypoth.
+-> iv) Bayesian - assign pr. to statements (including hypotheses) that is consistent with their logical relations and with experimental results (i.e. if H=>E, P(H) is increased by the observation of E (provided that ~P(E)=1)).
+}*
+----
+Fri Mar 14 13:41:39 EST 2008
+
+
+
+[[[break]]]added at line 26: *lime {code -- May be able to justify certain inductive principles by using other ones but this does not get us to where we want to go (i.e. to a sound basis for the employment of inductive reasoning).
+
+_Description_
+- Trying to describe what inductive reasoners do is also problematic.
+-- Difference between "knowing how" and "describing how".
+- Descriptive accounts:
+
+
+
+----
+*What do I think?*
+_Ch 1_
+
+}*
+----
+Fri Mar 14 13:37:23 EST 2008
+
+
+
+[[[break]]]added at line 14: *lime {code _Underdetermination_
+- Underdetermination (in this context) := multiple theories could be used to explain something.
+- Induction (conceived here broadly as ~deduction) => underdetermination.
+- Thus one needs to find additional principles to choose between competing inductive theories.
+}*[[[break]]]added at line 15: *lime {code _Justification_
+- We would like to think that our principles for choosing between inductive theories would somehow lead us to choose ones that are more likely to deliver truth (or to get us closer to truth).
+
+_Skepticism_
+- Hume's argument still hangs heavy overhead:
+-- i.e. one can only prove the validity of inductive reasoning by recourse to induction of the same kind.  Thus any validity argument is circular.
+--- Note that this conclusion holds no matter the type of induction posited.  
+}*
+----
+Fri Mar 14 13:25:17 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+A book detailing the context and details of inference to the best explanation.  Obviously arguments for and against the position are also discussed.
+
+*Where can it be found?*
+
+Lipton, P. (2004), Inference to the Best Explanation, 2nd Ed., Routledge.
+
+*Where does it fit in?*
+
+The indispensability argument is intimately related to IBE (although the exact relationship will require a little/argument).  Hence this book will provide some insight into a fundamental component of the argument.  My hope is to able to demonstrate that the mathematical context is sufficiently different from the general scientific as to make IBE unsatisfactory and/or that even assuming the applicability of IBE in this context, one cannot get an IBE argument going.
+----
+*Ch. 1 - Induction*
+
+----
+
+ChrisWilcox
+}*

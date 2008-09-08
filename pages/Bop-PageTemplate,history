@@ -1,0 +1,579 @@
+
+----
+2008-08-31 09:23:34 EST
+
+
+
+[[[break]]]deleted at line 80: *red {code <p><a href="/archive">Archive</a></p>
+}*
+----
+2008-08-31 09:22:35 EST
+
+
+
+[[[break]]]added at line 55: *lime {code div#morecontent a {
+  color: #384;
+}
+
+}*
+----
+2008-08-31 09:21:44 EST
+
+
+
+[[[break]]]changed line 33 from: *orange {code   color: #0f4;
+}*[[[break]]]to: *green {code   color: #1b4;
+}*
+----
+2008-08-31 09:21:27 EST
+
+
+
+[[[break]]]changed line 33 from: *orange {code   color: #284;
+}*[[[break]]]to: *green {code   color: #0f4;
+}*
+----
+2008-08-31 09:20:27 EST
+
+
+
+[[[break]]]changed line 33 from: *orange {code   color: #364;
+}*[[[break]]]to: *green {code   color: #284;
+}*
+----
+2008-08-31 09:20:11 EST
+
+
+
+[[[break]]]changed line 33 from: *orange {code   color: #3d7;
+}*[[[break]]]to: *green {code   color: #364;
+}*
+----
+2008-08-31 09:19:37 EST
+
+
+
+[[[break]]]changed line 33 from: *orange {code   color: 3d7;
+}*[[[break]]]to: *green {code   color: #3d7;
+}*[[[break]]]added at line 35: *lime {code 
+}*
+----
+2008-08-31 09:19:14 EST
+
+
+
+[[[break]]]added at line 31: *lime {code a {
+  color: 3d7;
+}
+
+}*[[[break]]]deleted at line 51: *red {code div#morecontent a {
+  color: 3d7;
+}
+
+}*
+----
+2008-08-31 09:18:24 EST
+
+
+
+[[[break]]]deleted at line 28: *red {code   color: 3d7;
+}*[[[break]]]added at line 51: *lime {code div#morecontent a {
+  color: 3d7;
+}
+
+}*
+----
+2008-08-31 09:17:38 EST
+
+
+
+[[[break]]]deleted at line 14: *red {code a {
+  xcolor: #3d7;
+}
+
+}*[[[break]]]added at line 31: *lime {code   color: 3d7;
+}*[[[break]]]changed line 52 from: *orange {code   color: #bb3;
+}*[[[break]]]to: *green {code   xcolor: #bb3;
+}*
+----
+2008-08-31 09:16:39 EST
+
+
+
+[[[break]]]changed line 15 from: *orange {code   xcolor: #d09999;
+}*[[[break]]]to: *green {code   xcolor: #3d7;
+}*
+----
+2008-08-31 09:15:38 EST
+
+
+
+[[[break]]]changed line 39 from: *orange {code   position: absolute;
+}*[[[break]]]to: *green {code   position: relative;
+}*
+----
+2008-08-31 09:12:25 EST
+
+
+
+[[[break]]]changed line 8 from: *orange {code   <style type="text/css">
+}*[[[break]]]to: *green {code <style type="text/css">
+}*[[[break]]]deleted at line 11: *red {code   background-xcolor: #fff;
+}*[[[break]]]deleted at line 32: *red {code   xcolor: #444;
+}*[[[break]]]changed line 41 from: *orange {code   position: relative;
+}*[[[break]]]to: *green {code   position: absolute;
+}*[[[break]]]changed line 44 from: *orange {code   div#content div#description {
+}*[[[break]]]to: *green {code   div#content div#morecontent {
+}*[[[break]]]changed line 51 from: *orange {code div#description {
+}*[[[break]]]to: *green {code div#morecontent {
+}*[[[break]]]changed line 66 from: *orange {code   <div id="description">
+}*[[[break]]]to: *green {code   <div id="morecontent">
+}*[[[break]]]changed line 83 from: *orange {code   <div class="post">
+}*[[[break]]]to: *green {code   <div>
+}*
+----
+2008-08-31 09:08:59 EST
+
+
+
+[[[break]]]changed line 9 from: *orange {code             body {
+}*[[[break]]]to: *green {code body {
+}*[[[break]]]changed line 13 from: *orange {code             }            
+}*[[[break]]]to: *green {code }
+}*[[[break]]]changed line 15 from: *orange {code             a {
+}*[[[break]]]to: *green {code a {
+}*[[[break]]]changed line 17 from: *orange {code             }
+}*[[[break]]]to: *green {code }
+}*[[[break]]]changed line 19 from: *orange {code             h1 {
+}*[[[break]]]to: *green {code h1 {
+}*[[[break]]]changed line 29 from: *orange {code             }
+}*[[[break]]]to: *green {code }
+}*[[[break]]]deleted at line 36: *red {code                 h1 img {
+                    border-width: 0px;
+                    position: absolute;
+                    right: 0px;
+                    bottom: 10px;
+                    width: 43px;
+                    height: 23px;
+                }
+}*[[[break]]]changed line 45 from: *orange {code             div#content {
+}*[[[break]]]to: *green {code 
+div#content {
+}*[[[break]]]changed line 49 from: *orange {code             }
+}*[[[break]]]to: *green {code }
+}*[[[break]]]changed line 58 from: *orange {code             div#description {
+}*[[[break]]]to: *green {code div#description {
+}*[[[break]]]changed line 62 from: *orange {code             }
+}*[[[break]]]to: *green {code }
+}*[[[break]]]changed line 75 from: *orange {code                         <EDIT BUTTON><br>
+                        <PAGE HISTORY BUTTON><br>
+                        <a href='../Help'>Help</a><br><br>
+}*[[[break]]]to: *green {code <EDIT BUTTON><br>
+<PAGE HISTORY BUTTON><br>
+<a href='../Help'>Help</a><br><br>
+}*[[[break]]]changed line 79 from: *orange {code                         <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a><br><br>
+}*[[[break]]]to: *green {code <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a><br><br>
+}*[[[break]]]changed line 81 from: *orange {code                         <a 
+                        href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+}*[[[break]]]to: *green {code <a 
+href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+}*[[[break]]]changed line 84 from: *orange {code                         <p><a href="/archive">Archive</a></p>
+}*[[[break]]]to: *green {code <p><a href="/archive">Archive</a></p>
+}*
+----
+2008-08-31 09:07:47 EST
+
+
+
+[[[break]]]changed line 61 from: *orange {code                 color: #b77;
+}*[[[break]]]to: *green {code                 color: #bb3;
+}*
+----
+2008-08-31 09:07:14 EST
+
+
+
+[[[break]]]changed line 61 from: *orange {code                 xcolor: #777;
+            }
+
+                div#description a {
+                    xcolor: #777;
+}*[[[break]]]to: *green {code                 color: #b77;
+}*
+----
+2008-08-31 09:05:36 EST
+
+
+
+[[[break]]]changed line 11 from: *orange {code                 background-color: #fff;
+}*[[[break]]]to: *green {code                 background-xcolor: #fff;
+}*[[[break]]]changed line 16 from: *orange {code                 color: #d09999;
+}*[[[break]]]to: *green {code                 xcolor: #d09999;
+}*[[[break]]]changed line 32 from: *orange {code                     color: #444;
+}*[[[break]]]to: *green {code                     xcolor: #444;
+}*[[[break]]]changed line 61 from: *orange {code                 color: #777;
+}*[[[break]]]to: *green {code                 xcolor: #777;
+}*[[[break]]]changed line 65 from: *orange {code                     color: #777;
+}*[[[break]]]to: *green {code                     xcolor: #777;
+}*[[[break]]]deleted at line 68: *red {code 						div#searchresultcount {
+							margin: 15px 0 30px;
+							text-align: center;
+						}
+            
+                                
+}*[[[break]]]changed line 76 from: *orange {code         </style>
+    </head>
+    <body>
+}*[[[break]]]to: *green {code </style>
+</head>
+<body>
+}*[[[break]]]changed line 82 from: *orange {code             <div id="content">
+}*[[[break]]]to: *green {code <div id="content">
+}*
+----
+2008-08-31 09:03:52 EST
+
+
+
+[[[break]]]changed line 87 from: *orange {code                         <a href='../Help'>Help</a>
+
+                        <br><br>
+}*[[[break]]]to: *green {code                         <a href='../Help'>Help</a><br><br>
+}*
+----
+2008-08-31 09:03:30 EST
+
+
+
+[[[break]]]changed line 91 from: *orange {code                         <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a> 
+
+                        <br><br>
+}*[[[break]]]to: *green {code                         <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a><br><br>
+}*
+----
+2008-08-31 00:21:59 EST
+
+
+
+[[[break]]]deleted at line 73: *red {code             div.post {
+                position: relative;
+                margin-bottom: 40px;
+                padding-right: 20px;
+            }
+
+
+                div.post img.permalink {
+                    width: 14px;
+                    height: 13px;
+                    border-width: 0px;
+                    background-color: #000;
+                    display: none;
+                    position: absolute;
+                    right: 0px;
+                    top: 0px;
+                    z-index: 10;
+                }
+                
+                    div.post:hover img.permalink {
+                        display: inline;
+                    }
+
+                div.post h2 {
+                    font-size: 18px;
+                    font-weight: bold;
+                    color: #6498cc;
+                    letter-spacing: -1px;
+                    margin: 0px 0px 5px 0px;
+                }
+
+                    div.post h2 a {
+                        color: #6498cc;
+                        text-decoration: none;
+                    }
+            
+                div.post div.caption {
+                    font-size: 14px;
+                    font-weight: bold;
+                    color: #444;
+                    margin-top: 10px;
+                    padding: 0px 20px 0px 20px;
+                }
+
+                    div.post div.caption a {
+                        color: #444;
+                    }
+    
+            /* Regular Post */
+            
+                div.post div.regular {
+                    font-size: 12px;
+                    color: #444;
+                    line-height: 17px;
+                }
+
+                    div.post div.regular blockquote {
+                        font-style: italic;
+                        border-left: solid 2px #444;
+                        padding-left: 10px;
+                    }
+}*
+----
+2008-08-31 00:20:41 EST
+
+
+
+[[[break]]]changed line 16 from: *orange {code                 color: #d0999;
+}*[[[break]]]to: *green {code                 color: #d09999;
+}*[[[break]]]deleted at line 79: *red {code                 div.post div.date {
+                    position: absolute;
+                    left: -260px;
+                    text-align: right;
+                    width: 230px;                
+                    white-space: nowrap;
+                    font: normal 34px Helvetica, sans-serif;
+                    letter-spacing: -2px;
+                    color: #ccc;
+                    text-transform: uppercase;
+                    line-height: 35px;
+                }
+                
+                    div.post div.date div.date_brick {
+                        float: right;
+                        height: 30px;
+                        width: 45px;
+                        background-color: #6498cc;
+                        color: #bbd5f1;
+                        font: Bold 12px Verdana, Sans-Serif;
+                        text-align: center;
+                        line-height: 12px;
+                        margin-left: 10px;
+                        padding-top: 5px;
+                        letter-spacing: 0px;
+                        overflow: hidden;
+                    }
+}*
+----
+2008-08-31 00:18:43 EST
+
+
+
+[[[break]]]changed line 16 from: *orange {code                 color: #6498cc;
+}*[[[break]]]to: *green {code                 color: #d0999;
+}*
+----
+2008-08-31 00:17:47 EST
+
+
+
+[[[break]]]changed line 167 from: *orange {code <title><PAGE NAME></title>
+}*[[[break]]]to: *green {code <h1><PAGE NAME></h1>
+}*
+----
+2008-08-31 00:16:30 EST
+
+
+
+[[[break]]]added at line 0: *lime {code <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!--HeaderText-->
+
+        <style type="text/css">
+            body {
+                margin: 0px;
+                background-color: #fff;
+                font-family: 'Lucida Grande', Helvetica, sans-serif;
+            }            
+
+            a {
+                color: #6498cc;
+            }
+
+            h1 {
+                width: 600px;
+                padding: 0px 100px 20px 100px;
+                margin: 50px auto 40px auto;
+                border-bottom: solid 1px #ccc;
+                text-align: center;
+                font: Bold 55px 'Trebuchet MS', Helvetica, sans-serif;
+                letter-spacing: -2px;
+                line-height: 50px;
+                position: relative;
+            }
+            
+                h1 a {
+                    color: #444;
+                    text-decoration: none;
+                }
+                
+                h1 img {
+                    border-width: 0px;
+                    position: absolute;
+                    right: 0px;
+                    bottom: 10px;
+                    width: 43px;
+                    height: 23px;
+                }
+
+            div#content {
+                width: 420px;
+                margin: auto;
+                position: relative;
+            }
+
+                div#content div#description {
+                    position: absolute;
+                    right: -170px;
+                    width: 160px;
+                    text-align: right;
+                }
+
+            div#description {
+                font: normal 17px Helvetica,sans-serif;
+                line-height: 20px;
+                color: #777;
+            }
+
+                div#description a {
+                    color: #777;
+                }
+
+						div#searchresultcount {
+							margin: 15px 0 30px;
+							text-align: center;
+						}
+            
+            div.post {
+                position: relative;
+                margin-bottom: 40px;
+                padding-right: 20px;
+            }
+
+                div.post div.date {
+                    position: absolute;
+                    left: -260px;
+                    text-align: right;
+                    width: 230px;                
+                    white-space: nowrap;
+                    font: normal 34px Helvetica, sans-serif;
+                    letter-spacing: -2px;
+                    color: #ccc;
+                    text-transform: uppercase;
+                    line-height: 35px;
+                }
+                
+                    div.post div.date div.date_brick {
+                        float: right;
+                        height: 30px;
+                        width: 45px;
+                        background-color: #6498cc;
+                        color: #bbd5f1;
+                        font: Bold 12px Verdana, Sans-Serif;
+                        text-align: center;
+                        line-height: 12px;
+                        margin-left: 10px;
+                        padding-top: 5px;
+                        letter-spacing: 0px;
+                        overflow: hidden;
+                    }
+
+                div.post img.permalink {
+                    width: 14px;
+                    height: 13px;
+                    border-width: 0px;
+                    background-color: #000;
+                    display: none;
+                    position: absolute;
+                    right: 0px;
+                    top: 0px;
+                    z-index: 10;
+                }
+                
+                    div.post:hover img.permalink {
+                        display: inline;
+                    }
+
+                div.post h2 {
+                    font-size: 18px;
+                    font-weight: bold;
+                    color: #6498cc;
+                    letter-spacing: -1px;
+                    margin: 0px 0px 5px 0px;
+                }
+
+                    div.post h2 a {
+                        color: #6498cc;
+                        text-decoration: none;
+                    }
+            
+                div.post div.caption {
+                    font-size: 14px;
+                    font-weight: bold;
+                    color: #444;
+                    margin-top: 10px;
+                    padding: 0px 20px 0px 20px;
+                }
+
+                    div.post div.caption a {
+                        color: #444;
+                    }
+    
+            /* Regular Post */
+            
+                div.post div.regular {
+                    font-size: 12px;
+                    color: #444;
+                    line-height: 17px;
+                }
+
+                    div.post div.regular blockquote {
+                        font-style: italic;
+                        border-left: solid 2px #444;
+                        padding-left: 10px;
+                    }
+                        
+  	
+            
+        </style>
+    </head>
+    <body>
+<title><PAGE NAME></title>
+ 
+            
+            <div id="content">
+                <div id="description">
+                    <div>
+                        <EDIT BUTTON><br>
+                        <PAGE HISTORY BUTTON><br>
+                        <a href='../Help'>Help</a>
+
+                        <br><br>
+
+                        <a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</a> 
+
+                        <br><br>
+
+                        <a 
+                        href='http://www.c2.com/cgi/wiki?WhyWikiWorks'>Why Wiki Works</a>
+                        
+                        <p><a href="/archive">Archive</a></p>
+                    </div>
+                </div>
+                
+                
+            
+                <div class="post">
+                    
+                    <PAGE TEXT>
+                    
+
+
+</div>
+</div>
+		
+
+</body>
+</html>
+}*

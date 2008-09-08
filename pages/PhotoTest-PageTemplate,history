@@ -1,0 +1,540 @@
+
+----
+Thu Sep 20 14:57:20 EST 2007
+
+
+
+
+----
+Thu Sep 20 14:48:50 EST 2007
+
+
+
+[[[break]]]added at line 25: *lime {code H1{ margin-bottom: .5em; font-weight: light; }
+
+}*[[[break]]]changed line 220 from: *orange {code <h1><div id="title"></h1>
+<a href="#"><PAGE NAME>
+}*[[[break]]]to: *green {code <div id="title">
+<h1><a href="#"><PAGE NAME></h1>
+}*
+----
+Thu Sep 20 14:47:46 EST 2007
+
+
+
+[[[break]]]deleted at line 26: *red {code H1{ margin-bottom: .5em; font-weight: light; }
+
+}*
+----
+Thu Sep 20 14:47:20 EST 2007
+
+
+
+[[[break]]]added at line 27: *lime {code H2{ margin-bottom: .5em; font-size: 24px; font-weight: bold; }
+
+}*
+----
+Thu Sep 20 14:46:41 EST 2007
+
+
+
+[[[break]]]changed line 26 from: *orange {code H2{ margin-bottom: .5em; font-size: 24px; font-weight: bold; }
+}*[[[break]]]to: *green {code H1{ margin-bottom: .5em; font-weight: light; }
+}*[[[break]]]changed line 220 from: *orange {code <div id="title">
+}*[[[break]]]to: *green {code <h1><div id="title"></h1>
+}*
+----
+Thu Sep 20 14:45:51 EST 2007
+
+
+
+[[[break]]]changed line 221 from: *orange {code <a href="#"><img src="ftp://xeny.net/alpaca-masthead.png" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+<h1><PAGE NAME></h1>
+}*[[[break]]]to: *green {code <a href="#"><PAGE NAME>
+}*
+----
+Thu Sep 20 14:43:54 EST 2007
+
+
+
+[[[break]]]added at line 219: *lime {code <div id="title">
+<a href="#"><img src="ftp://xeny.net/alpaca-masthead.png" alt="[Sitting quietly doing nothing, spring comes and the grass grows by itself.]" border="0" title="" /></a>
+}*[[[break]]]added at line 220: *lime {code </div>
+}*
+----
+Thu Sep 20 14:41:59 EST 2007
+
+
+
+[[[break]]]added at line 35: *lime {code #title {
+	margin:0 auto 0 auto;
+	text-align:center;
+	margin-bottom:25px;
+}
+
+#title p {
+	font-variant:small-caps;
+	letter-spacing:2px;
+}
+}*[[[break]]]added at line 36: *lime {code #title img {
+	border:none;
+}
+}*
+----
+Thu Sep 20 14:40:53 EST 2007
+
+
+
+[[[break]]]deleted at line 111: *red {code     border: 1px solid #F2D;
+
+    border-top: none;
+
+}*
+----
+Thu Sep 20 14:40:38 EST 2007
+
+
+
+[[[break]]]deleted at line 44: *red {code P.editorial { font-style: italic; }
+
+P.heading { font-size: 18px; font-weight: bold; margin-top: 1em; }
+}*[[[break]]]changed line 114 from: *orange {code     border: 1px solid #DDD;
+}*[[[break]]]to: *green {code     border: 1px solid #F2D;
+}*
+----
+Thu Sep 20 14:38:44 EST 2007
+
+
+
+[[[break]]]changed line 181 from: *orange {code     color: #DDD;
+}*[[[break]]]to: *green {code     color: #222;
+}*[[[break]]]changed line 185 from: *orange {code A:hover { color: #F88; }
+}*[[[break]]]to: *green {code A:hover { color: #988; }
+}*
+----
+Thu Sep 20 14:38:05 EST 2007
+
+
+
+[[[break]]]added at line 173: *lime {code 
+A{
+
+    text-decoration:none;
+
+    font-weight:normal;
+
+    color: #DDD;
+
+}
+
+A:hover { color: #F88; }
+
+}*
+----
+Thu Sep 20 14:36:19 EST 2007
+
+
+
+[[[break]]]changed line 197 from: *orange {code <li><a href='../RecentChanges'>Recent Changes</li>
+<li><a href='../IoWikiInstructions'>Instructions</li>
+}*[[[break]]]to: *green {code <li><a href='../RecentChanges'>Recent Changes</a></li>
+<li><a href='../IoWikiInstructions'>Instructions</a></li>
+}*
+----
+Thu Sep 20 14:35:44 EST 2007
+
+
+
+[[[break]]]changed line 112 from: *orange {code     width: 150px;
+}*[[[break]]]to: *green {code     width: 100px;
+}*
+----
+Thu Sep 20 14:34:53 EST 2007
+
+
+
+[[[break]]]changed line 196 from: *orange {code <li><a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</li>
+}*[[[break]]]to: *green {code <li><a href='SiteContents'>Site Contents</a></li>
+<li><a href='../RecentChanges'>Recent Changes</li>
+}*
+----
+Thu Sep 20 14:34:24 EST 2007
+
+
+
+[[[break]]]deleted at line 196: *red {code <li><INSTRUCTIONS BUTTON></li>
+}*
+----
+Thu Sep 20 14:32:45 EST 2007
+
+
+
+[[[break]]]changed line 195 from: *orange {code <li class="top"><HOME BUTTON></li>
+<li><PAGE HISTORY BUTTON></li>
+}*[[[break]]]to: *green {code <li class="top"><PAGE HISTORY BUTTON></li>
+}*[[[break]]]added at line 197: *lime {code <li><a href='SiteContents'>Site Contents</a><br><a href='../RecentChanges'>Recent Changes</li>
+<li><a href='../IoWikiInstructions'>Instructions</li>
+}*
+----
+Thu Sep 20 14:28:34 EST 2007
+
+
+
+[[[break]]]changed line 12 from: *orange {code     font-family: Verdana, sans-serif;
+}*[[[break]]]to: *green {code     font-family:Belle, Bell, Soutane, Souvenir, Georgia, "Times New Roman", Times, serif;
+}*[[[break]]]deleted at line 124: *red {code input{
+
+    font-size: small;
+
+    vertical-align: middle;
+
+}
+
+input.field{
+
+    border: 1px solid #111;
+
+    padding: 2px;
+
+    margin: 2px 2px 0px 2px;
+
+    width: 140px;    
+
+}
+
+input.button{
+
+    margin: 4px 2px 0px 2px;
+
+    border: 2px outset #333;
+
+    width: 144px;
+
+}
+
+input.button:hover{
+
+    border: 2px outset #222;
+
+}
+
+}*[[[break]]]deleted at line 210: *red {code .changes{
+
+    border: 1px solid #111;
+
+    border-top: none;
+
+    list-style-type: none; 
+
+    font-family: "Lucida Console", monospace;
+
+    margin: 0;
+
+    padding: 0;
+
+    margin-bottom: .4em;
+
+}
+
+.changes li{
+
+    display: block;
+
+    padding: .2em;
+
+}
+
+.changes li.top{
+
+    font-family: sans-serif;
+
+    margin: 0;
+
+}
+
+li.add:before { content: " + "; font-family: monospace; }
+
+li.del:before { content: " - "; font-family: monospace; }
+
+}*
+----
+Thu Sep 20 13:54:22 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title><PAGE TITLE></title>
+  <style type="text/css"><!--
+BODY{
+
+    padding:0em;
+
+    margin:0em;
+
+    font-family: Verdana, sans-serif;
+
+    font-size: 14px;
+
+}
+
+UL, P, PRE, H2, LI{
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+H2{ margin-bottom: .5em; font-size: 24px; font-weight: bold; }
+
+P{ margin-bottom: 1em; }
+
+UL{ margin-left: .5em; margin-bottom: 1em; }
+
+PRE{ margin-left: .5em; margin-top: 1em; margin-bottom: 1em; }
+
+LI{ margin-left: .5em; }
+
+
+
+TEXTAREA{
+
+    width: 100%;
+
+}
+
+P.editorial { font-style: italic; }
+
+P.heading { font-size: 18px; font-weight: bold; margin-top: 1em; }
+
+A{
+
+    text-decoration:none;
+
+    font-weight:normal;
+
+}
+
+
+TABLE{
+
+    border: 1px solid #111;
+
+    border-collapse: collapse;
+
+    margin: 1em;
+
+}
+
+TD{
+
+    border: 1px solid #111;
+
+    min-width: 5em;
+
+    vertical-align: top;
+
+    padding: .25em;
+
+}
+
+
+.header TD{
+
+    text-align: center;
+
+}
+
+TD.op{
+
+    text-align: center;
+
+}
+
+.content{
+
+    position: absolute;
+
+    top: 15px;
+
+    left: 15px; 
+
+    right: 180px;
+
+}
+
+.commands {
+
+    position: absolute;
+
+    top: 15px;
+
+    right: 15px;
+
+    width: 150px;
+
+    border: 1px solid #DDD;
+
+    border-top: none;
+
+    font-size: 12px;
+
+    text-align: center;
+
+}
+
+input{
+
+    font-size: small;
+
+    vertical-align: middle;
+
+}
+
+input.field{
+
+    border: 1px solid #111;
+
+    padding: 2px;
+
+    margin: 2px 2px 0px 2px;
+
+    width: 140px;    
+
+}
+
+input.button{
+
+    margin: 4px 2px 0px 2px;
+
+    border: 2px outset #333;
+
+    width: 144px;
+
+}
+
+input.button:hover{
+
+    border: 2px outset #222;
+
+}
+
+.commands UL{
+
+    margin: 0em;
+
+    margin-bottom: .5em;
+
+    padding: 0em;
+
+    list-style-type: none; 
+
+}
+
+
+
+.commands LI{
+
+    margin: 0em;
+
+    padding: 0em;
+
+    border: 1px solid #444; 
+
+}
+
+.commands A{
+
+    display: block;
+
+    margin: 0em;
+
+    padding-top: .2em;
+
+    padding-bottom: .2em;
+
+    padding-left: .4em;
+
+    padding-right: .4em;
+
+}
+
+li.top{
+
+    border: 1px solid #333; 
+
+    border-top: 1px solid #111;
+
+    border-bottom: 1px solid #111;
+
+}
+
+.changes{
+
+    border: 1px solid #111;
+
+    border-top: none;
+
+    list-style-type: none; 
+
+    font-family: "Lucida Console", monospace;
+
+    margin: 0;
+
+    padding: 0;
+
+    margin-bottom: .4em;
+
+}
+
+.changes li{
+
+    display: block;
+
+    padding: .2em;
+
+}
+
+.changes li.top{
+
+    font-family: sans-serif;
+
+    margin: 0;
+
+}
+
+li.add:before { content: " + "; font-family: monospace; }
+
+li.del:before { content: " - "; font-family: monospace; }
+
+A:hover{
+
+    text-decoration: underline;
+
+}
+
+.commands A:hover{
+
+    text-decoration: none;
+
+}
+
+
+
+
+    --></style>  
+</head>
+<body>
+<div class="commands">
+<ul>
+<li><EDIT BUTTON></li>
+<li class="top"><HOME BUTTON></li>
+<li><PAGE HISTORY BUTTON></li>
+<li><INSTRUCTIONS BUTTON></li>
+</ul>
+</div><div class="content">
+<h1><PAGE NAME></h1>
+<PAGE TEXT></div>
+}*

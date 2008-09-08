@@ -1,0 +1,64 @@
+PasswordlessSSH
+
+sudo /Developer/Tools/SetFile -a v /usr
+
+hdiutil resize -help
+
+----
+
+zsh
+autoload zmv
+
+----
+
+umount /dev/disk1s2
+
+hdiutil detach /dev/disk1
+
+hdiutil compact cover.sparseimage
+
+hdiutil attach cover.sparseimage -nomount
+
+mount -t hfs -o union /dev/disk1s2 ~
+
+----
+
+umount /dev/disk1s2
+
+
+hdiutil detach /dev/disk1
+
+hdiutil compact cover.sparseimage
+
+hdiutil attach cover.sparseimage -nomount
+
+mount -t hfs  /dev/disk1s2 /ermintrude/backup-mountpoint/
+
+----
+
+sudo /usr/local/sbin/openvpn --config ~/openvpn.config
+
+/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend # try it!
+
+
+# mencoder /Temp\ DND/temp-sw/VTS_06_1.VOB -o ~/Desktop/movie.avi  -alang en -chapter
+# mencoder /Users/jason/Desktop/stream.dump -o ~/Desktop/movie.avi  -alang en  -vf-ad
+# mplayer -dumpstream -dumpfile /Volumes/Arbitrary/stream.dump dvd://
+
+
+"/Applications/Mencoder OS X.app//Contents/Resources"/mencoder /Users/jason/Desktop/SIXFEETUNDERSEASON3/VIDEOTS/VTS026.VOB -o ~/Desktop/movie.avi -alang en -vf-add scale -zoom -xy 640 -oac mp3lame -lameopts vol=0 -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=3800:vqcomp=0.7:vqblur=0.2:mpeg_quant 
+
+
+hdiutil resize -size 2g diskname
+
+
+wget -Y off http://localhost:8080
+
+
+
+configure --cache-file=/Users/jason/.config.cache --build=powerpc-apple-darwin
+
+
+pdf2ps -sDEVICE=pdfwrite -sOutputFile=test.pdf thesis.pdf
+
+don't forget about rpl

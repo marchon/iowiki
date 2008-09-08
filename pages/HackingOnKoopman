@@ -1,0 +1,24 @@
+\input tumble
+
+
+\title Defending Koopman's logic of support.
+
+Koopman's logic of support is one of the most historically important formalisations of the foundations of credence, with only de Finetti's system being a serious competitor to it at the time of its publication in 1940  [[CITE]].  Arguably it is still a plausible system all these years later.  I do not intend to show in this paper that it is correct; rather, I will contribute the project of resurrecting it by tying up a loose end in an argument of Hacking's which purports to show that Koopman's system is defective.
+
+\noindent Hacking says:
+
+\quote{There is one possible defect in Koopman's logic which had better be recorded.  His logic must be a trifle too strong, for it includes the principle of anti-symmetry:}
+
+	$$\hbox{If } {h|e} \le {i|d}, \hbox{ then } {\neg i|d} \le {h|e}.$$
+	
+\quote{Doubt is cast on the principle if we put $e = d = $ `a box contains 40 black balls and 60 green ones; a ball will shortly be drawn from the box'.  Let $i = $ `the next ball to be drawn from the box will be black', and let $j = $ `the next ball to be drawn from the box will be green'.  I take it that e supports both $i$ and $j$; without $e$ or some other piece of evidence, there would be no support for either of those propositions, but given $e$, there is some support.  Now $i$ and $j$ are contraries, so $j$ implies $\neg i$.  By the thesis of implication quoted earlier, it follows that $e$ supports $\neg i$ at least as well as $j$. \cite[\page 33]{Hacking-1965}}
+
+Hacking goes on to show that his example values of $e, d, i\ \&\ j$, together with anti-symmetry, cause problems.  But that is not the fault of anti-symmetry at all.  $e$ supports $j$ and $j$ deductively entails $\neg i$, but $e$ doesn't support $\neg i$.  So Hacking's example contains an internal inconsistency.  Hence we have a problem with the values of the variables, without even mentioning anti-symmetry.  It is no surprise that the problem persists when we add the principle of anti-symmetry.  That anti-symmetry fails to fix the problem does not mean that it is anti-symmetry which has introduced the problem.  I conclude that Hacking's example fails to show us anything about whether we should accept anti-symmetry.
+
+A natural question is whether the example can be changed to avoid internal inconsistency, in such a way that the fixed version supports Hacking's view that the principle of anti-symmetry needs to be amended.
+
+Firstly, the most obvious, minimal changes to the example which avoid the internal inconsistency do not support Hacking's view.  I take it that such a minimal change is ...
+
+How does this work out in Bayesian language?  It depends on the priors for i and j.
+
+\bye

@@ -1,0 +1,35 @@
+I have a probability problem that I feel I should be able to solve but I am coming up blank.  Alternatively, perhaps it is harder than I think, or I need to reformulate to make it manageable, any suggestions along these lines would also be super helpful.
+
+The problem concerns randomisation in Randomised Controlled Trials.  I want to suggest that randomisation buys some epistemological `good' by increasing the probability that a finite number of confounders (known, or unknown) are evenly divided, through the process of randomisation, into two equally sized groups.  I am happy that it does, but I want to pin some numbers to this claim (as much to get a feel for it as anything else).
+
+Suppose there are X confounding factors each distributed within the population.  The individuals in the population can possess none, or any number of the confounding factors.
+
+A sample of size N is (randomly) taken from this population, and then randomised into two groups.  What is the probability that the X confounding factors will be evenly distributed bewteen the groups (within some small margin or error)?
+
+For starters I am interested in the case where X = 30, and N = 2000.    The distribution of X's I am not too fussed about, maybe each confounder is present in 10% of the population.  A margin of error of 10% appears reasonable.
+
+Now let me display my mathematical naivety.  I thought I should start easy; with X = 1 (distributed in 10% of the population), and N = 200.  Now it is clear that the 20 members of the population with the confounding factor have an equal chance of being in either group (I'll call them Group A and Group B)---that's what randomisation does---but this is not the probability I am interested in.  Rather, what I want is the probability that, post-randomisation, Group A has 9, 10 or 11 members who possess the confounding factor.
+
+I figure I should be able to get this probability through the Binomial function (not that I have completely figured out which figures to plug where).  But I hesitate here because I see no step from calculating this `easy-case' probability to the  harder one that I want to get to (where X = 30, N= 2000).  Am I missing something about the Binomial function, or is this considerably harder than I first thought?  Or am I not in the right book, let alone on the right page?
+
+_________
+
+Perhaps one way is to calculate for X = 1, N = 2000 and then, since the distribution of factors is independent, do *something* to this probability to solve for X = 30??
+
+Will that *something* just be the addition of the probabilities; i.e. P(x_i is uneven) multiplied by 30 ?
+
+Adam
+
+----
+
+It's to the power of 30.  .Jason
+
+
+-----
+
+I changed the figures somewhat, but have an answer (of course, corrections welcome):
+
+For a small number of confounders, random allocation can ensure a low probability of a substantial imbalance between the groups, providing the sample size is large.  For example, suppose there are ten confounding factors, each distributed in 20% of the population.  A trial is to be conducted with a sample size of 2000; 1000 allocated to each group, treatment and control.  Assuming each confounding factor is individually, and independently distributed in the population, and specifying what degree of imbalance will be tolerated, the probability that all ten confounders are `evenly' distributed can be calculated using the binomial distribution.  Suppose a 15% deviation from the equal distribution of each confounder will be tolerated.  The probability that any particular confounding factor will distributed within acceptable bounds is 0.9929.  And the probability that all ten confounding factors are distributed within acceptable bounds is 0.9312.  This probabilistic assurance holds for both known and unknown confounding factors, though, clearly, only the known confounders can be checked after randomisation to see whether they did indeed distribute within the accepted bounds.  This, of course, concurs entirely with Worrall's argument,  however, that randomisation provides some probabilistic assurance plays a role in a more limited justification.
+
+Adam
+

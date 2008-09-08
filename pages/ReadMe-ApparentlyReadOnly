@@ -1,0 +1,5 @@
+The template which gives the layout for this page has no edit button, so it's suitable for pages which you don't want to encourage people to edit.  Any page in this wiki with the prefix ..ReadMe- will use this template.  See ReadMe-PageTemplate to see the template, and see administrator.documentation for instructions on making your own templates.
+
+Pages like this one actually _can_ be edited: the would-be editor just has to add {code ?action=edit} to the end of the page's URL.  ..IoWiki pages cannot be made genuinely read-only or password-protected (except for page templates, which are always password-protected).  This is a deliberate design decision.  In my opinion, collaboration works best on non-password-protected wikis.  Of course collaboration may not be your goal, in which case you might want to look into other wiki programs, such as CloudWiki and PmWiki. 
+
+JasonGrossman

@@ -1,0 +1,81 @@
+
+----
+Tue Mar 28 20:33:14 EST 2006
+
+
+
+[[[break]]]changed line 16 from: *orange {code It seems that the bulk of the literature sees this as a problem of communicating complex information.  *orange Yes. What's more, I think the literature takes it as obvious that that's what the problem is.  .Jason*  There is growing literature on how patients may be provided with information based on findings from RCTs such that something like informed consent can be achieved.  These approaches typically involve putting the results of trials, in particular NNT and NNH, into a format that aids communication.  One frequent approach is to display such numbers pictorially, e.g. for a RCT with NNT of 25 and NNH 50 you might display 100 faces and show four faces as happy (outcome prevented) and two faces as unhappy (adverse event experienced) and 94 faces a neutral. *red Need examples, of course.  Alison might know some particularly good ones if you don't. .Jason*
+}*[[[break]]]to: *green {code It seems that the bulk of the literature sees this as a problem of communicating complex information.  *orange Yes. What's more, I think the literature takes it as obvious that that's what the problem is.  .Jason*  There is growing literature on how patients may be provided with information based on findings from RCTs such that something like informed consent can be achieved.  These approaches typically involve putting the results of trials, in particular NNT and NNH, into a format that aids communication.  One frequent approach is to display such numbers pictorially, e.g. for a RCT with NNT of 25 and NNH 50 you might display 100 faces and show four faces as happy (outcome prevented) and two faces as unhappy (adverse event experienced) and 94 faces a neutral. *red Need examples, of course.  .Alison might know some particularly good ones if you don't. .Jason*
+}*
+----
+Tue Mar 28 20:10:13 EST 2006
+
+
+
+[[[break]]]changed line 16 from: *orange {code It seems that the bulk of the literature sees this as a problem of communicating complex information.  There is growing literature on how patients may be provided with information based on findings from RCTs such that something like informed consent can be achieved.  These approaches typically involve putting the results of trials, in particular NNT and NNH, into a format that aids communication.  One frequent approach is to display such numbers pictorially, e.g. for a RCT with NNT of 25 and NNH 50 you might display 100 faces and show four faces as happy (outcome prevented) and two faces as unhappy (adverse event experienced) and 94 faces a neutral.
+}*[[[break]]]to: *green {code It seems that the bulk of the literature sees this as a problem of communicating complex information.  *orange Yes. What's more, I think the literature takes it as obvious that that's what the problem is.  .Jason*  There is growing literature on how patients may be provided with information based on findings from RCTs such that something like informed consent can be achieved.  These approaches typically involve putting the results of trials, in particular NNT and NNH, into a format that aids communication.  One frequent approach is to display such numbers pictorially, e.g. for a RCT with NNT of 25 and NNH 50 you might display 100 faces and show four faces as happy (outcome prevented) and two faces as unhappy (adverse event experienced) and 94 faces a neutral. *red Need examples, of course.  Alison might know some particularly good ones if you don't. .Jason*
+}*[[[break]]]changed line 22 from: *orange {code In short, I would argue that what decision-makers need is probabilistic information regarding therapeutic hypotheses i.e. rough conditional probabilities as well as ways to adjust these rough conditional probabilities for patients with differing clinical situations to those patients included in the trials.  Classical statistics does not provide this information
+}*[[[break]]]to: *green {code In short, I would argue that what decision-makers need is probabilistic information regarding therapeutic hypotheses i.e. rough conditional probabilities as well as ways to adjust these rough conditional probabilities for patients with differing clinical situations to those patients included in the trials.  Classical statistics does not provide this information.
+}*[[[break]]]changed line 24 from: *orange {code Classical statistics rejects probabilism.  It does not permit the assignment of probability functions to hypotheses about the world.  Within the classical statistical model a given hypothesis is either true or false.  Probability measures are used in classical statistics in only a limited way.  The most noteworthy example is p-values:  Under the assumption that the null hypothesis is true, p-values provide the probability that the observed result, or a result more extreme, would occur should the experiment be repeated an infinite number of times.  Classical statistics then provides an arbitrary cut-off for when to accept or reject the null hypothesis based on the p-value of the result.
+}*[[[break]]]to: *green {code Classical statistics rejects probabilism.  It does not permit the assignment of probability functions to hypotheses about the world. *fawn Not even for hypotheses about populations with the SAME characteristics as the sample studied in the trial, and doubly not for the patient whose consent is being sought. .Jason*  Within the classical statistical model a given hypothesis is either true or false.  Probability measures are used in classical statistics in only a limited way.  The most noteworthy example is p-values:  Under the assumption that the null hypothesis is true, p-values provide the probability that the observed result, or a result more extreme, would occur should the experiment be repeated an infinite number of times.  Classical statistics then provides an arbitrary cut-off for when to accept or reject the null hypothesis based on the p-value of the result. *purple I always start with p-values too, but in this particular case it might be better to use confidence intervals throughout, because (a) this is an applied paper, so it should speak to current practice in the most advanced medical fields, which is conf. intervals; and (b) because there won't be any of that tricky maths in this paper, presumably, so there's no need to go for the extra simplicity of p-values.  I can help with conf. interval examples and/or maths if you like. .Jason*
+}*[[[break]]]changed line 26 from: *orange {code The hypothesis is either accepted or rejected.  There is no natural measure of uncertainty about the hypothesis.  If the hypothesis is accepted then the observed magnitude of the effect is also typically accepted (I need to look further into the classical problem of estimation – but as far as I can tell this is an accurate statement).  Current approaches to the problem of adequately informing the patient about the treatment look to ‘probabilise’ this magnitude information (i.e. NNT and NNH) – all other uncertainty is ignored or framed in whatever way the health professional feels appropriate - this approach seems wrong-headed.
+}*[[[break]]]to: *green {code The hypothesis is either accepted or rejected.  There is no natural measure of uncertainty about the hypothesis.  *blue People THINK there is, if they're using conf. intervals, but we can show that they're wrong, using only uncontentious frequentist theory. .Jason*  If the hypothesis is accepted then the observed magnitude of the effect is also typically accepted (I need to look further into the classical problem of estimation –-- but as far as I can tell this is an accurate statement *pink I think so, yes.  .Jason* ).  Current approaches to the problem of adequately informing the patient about the treatment look to ‘probabilise’ this magnitude information (i.e. NNT and NNH) –-- all other uncertainty is ignored or framed in whatever way the health professional feels appropriate --- this approach seems wrong-headed.
+}*[[[break]]]changed line 28 from: *orange {code I would argue that it is this – the fact that classical statistics does not provide the right kind of information for informed consent – that makes risk communication within therapeutic decisions so difficult.
+
+I don’t think that the problem has been discussed in the literature in this manner (I need to check). I think it is possible to argue (i) what people need to make decisions is probabilistic information (ii) what is currently provided is inadequate (iii) the key source of this inadequacy is the outputs of classical statistics (in particular the lack of probabilism) (iv) probabilistic statistical analysis as a output of RCTs would be a step forward in achieving the ethical requirement of informed consent in therapeutic decision making.
+}*[[[break]]]to: *green {code I would argue that it is this --- the fact that classical statistics does not provide the right kind of information for informed consent --- that makes risk communication within therapeutic decisions so difficult.
+}*[[[break]]]added at line 31: *lime {code I don’t think that the problem has been discussed in the literature in this manner (I need to check). *fawn Hard to check.  Can ask a couple of prominent Bayesians. Doesn't matter too much even if it has.  .Jason*  I think it is possible to argue (i) what people need to make decisions is probabilistic information (ii) what is currently provided is inadequate (iii) the key source of this inadequacy is the outputs of classical statistics (in particular the lack of probabilism) (iv) probabilistic statistical analysis as a output of RCTs would be a step forward in achieving the ethical requirement of informed consent in therapeutic decision making.
+}*[[[break]]]added at line 32: *lime {code AdamLaCaze
+}*
+----
+Tue Mar 28 19:55:02 EST 2006
+
+
+
+[[[break]]]changed line 9 from: *orange {code *pink ... whereas in the clinical trial setting we only need to claim equipoise, which can be claimed on the basis of ignorance.  .Jason*
+}*[[[break]]]to: *green {code *green ... whereas in the clinical trial setting we only need to claim equipoise, which can be claimed on the basis of ignorance.  .Jason*
+}*[[[break]]]added at line 13: *lime {code *pink Hm.  Maybe.  But I don't think there is such a thing as saying anything without substantial framing.  Maybe there's a better statement of that phrase.  Or maybe there isn't, and the problem can only be expressed in a way that makes it impossible to solve it. .Jason*
+
+}*
+----
+Tue Mar 28 19:52:45 EST 2006
+
+
+
+[[[break]]]added at line 8: *lime {code *pink ... whereas in the clinical trial setting we only need to claim equipoise, which can be claimed on the basis of ignorance.  .Jason*
+
+}*
+----
+Mon Mar 27 15:11:31 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code ##Why informed consent regarding therapeutic decisions is impossible
+(or at least very difficult)
+
+# Background
+Just about everyone agrees that a patient being prescribed a therapy should be given enough information regarding the likely benefits and harms of the therapy such that the patient can make an informed decision about whether they wish to take it.
+
+While much of this debate has occurred in relation to informed consent for clinical trials the ethics is readily applicable to day-to-day therapeutic decision-making by healthcare professionals and patients.  If anything the problem is more acute in this setting because presumably we are supposed to have enough information in order to justify the use of the therapy for the patient.
+
+# The problem
+The key problem has been the question of how to express to patient the risks and benefits of the therapy in an objective as possible manner, i.e. without substantial framing from the health professional, while still communicating the inherent uncertainty present within all available information.
+
+It seems that the bulk of the literature sees this as a problem of communicating complex information.  There is growing literature on how patients may be provided with information based on findings from RCTs such that something like informed consent can be achieved.  These approaches typically involve putting the results of trials, in particular NNT and NNH, into a format that aids communication.  One frequent approach is to display such numbers pictorially, e.g. for a RCT with NNT of 25 and NNH 50 you might display 100 faces and show four faces as happy (outcome prevented) and two faces as unhappy (adverse event experienced) and 94 faces a neutral.
+
+# Redefining the problem
+
+It seems that the problem could be rephrased as a problematic consequence of the metaphysical assumptions of classical statistics.  Essentially, classical analysis of RCTs is unable to provide the right kind of information for achieving informed consent.  I would argue that the kind of information required is probabilistic (in a different sense to what is provided by classical methods).
+
+In short, I would argue that what decision-makers need is probabilistic information regarding therapeutic hypotheses i.e. rough conditional probabilities as well as ways to adjust these rough conditional probabilities for patients with differing clinical situations to those patients included in the trials.  Classical statistics does not provide this information
+
+Classical statistics rejects probabilism.  It does not permit the assignment of probability functions to hypotheses about the world.  Within the classical statistical model a given hypothesis is either true or false.  Probability measures are used in classical statistics in only a limited way.  The most noteworthy example is p-values:  Under the assumption that the null hypothesis is true, p-values provide the probability that the observed result, or a result more extreme, would occur should the experiment be repeated an infinite number of times.  Classical statistics then provides an arbitrary cut-off for when to accept or reject the null hypothesis based on the p-value of the result.
+
+The hypothesis is either accepted or rejected.  There is no natural measure of uncertainty about the hypothesis.  If the hypothesis is accepted then the observed magnitude of the effect is also typically accepted (I need to look further into the classical problem of estimation – but as far as I can tell this is an accurate statement).  Current approaches to the problem of adequately informing the patient about the treatment look to ‘probabilise’ this magnitude information (i.e. NNT and NNH) – all other uncertainty is ignored or framed in whatever way the health professional feels appropriate - this approach seems wrong-headed.
+
+I would argue that it is this – the fact that classical statistics does not provide the right kind of information for informed consent – that makes risk communication within therapeutic decisions so difficult.
+
+I don’t think that the problem has been discussed in the literature in this manner (I need to check). I think it is possible to argue (i) what people need to make decisions is probabilistic information (ii) what is currently provided is inadequate (iii) the key source of this inadequacy is the outputs of classical statistics (in particular the lack of probabilism) (iv) probabilistic statistical analysis as a output of RCTs would be a step forward in achieving the ethical requirement of informed consent in therapeutic decision making.
+
+
+}*

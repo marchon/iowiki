@@ -1,0 +1,17 @@
+
+----
+Tue Dec 26 15:59:31 EST 2006
+
+
+
+[[[break]]]changed line 3 from: *orange {code Cloud Wiki is a wiki written by Scott Dunlop (mailto:sdunlop@users.sourceforge.net) which has similar design principles to IoWiki.  It's more stable than IoWiki (less likely to crash), because it's written in a stable programming language, python, whereas IoWiki is written in a wonderful but experimental programming language, Io.
+}*[[[break]]]to: *green {code Cloud Wiki is a wiki written by Scott Dunlop (mailto:sdunlop@users.sourceforge.net) which has similar design principles to IoWiki.  It's more stable than IoWiki (less likely to crash), because it's written in a stable programming language, python, whereas IoWiki is written in an elegant but experimental programming language, Io.
+}*
+----
+Fri Jun 30 09:40:41 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code This page uses a template which makes it look a bit like Cloud Wiki.  When I get around to it I should fix the margins to make it look even more like Cloud Wiki.
+}*[[[break]]]to: *green {code This page uses a template which makes it look a bit like Cloud Wiki.
+}*

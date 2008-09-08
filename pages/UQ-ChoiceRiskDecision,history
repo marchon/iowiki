@@ -1,0 +1,121 @@
+
+----
+Tue Aug 22 16:44:05 EST 2006
+
+
+
+[[[break]]]deleted at line 7: *red {code 
+Tutorials:  Thursdays 12--1 pm
+in Room E108, Forgan Smith Building *pink --- note that this is a change of location*
+
+Lectures:  Thursdays 5--7 pm
+in Room 232, Connell Building (http://www.uq.edu.au/facilities/index.html?page=8243&pid=8244)
+
+- UQChoiceRiskDecision.ThingsToRead
+- UQChoiceRiskDecision.Discussion
+}*
+----
+Wed Jul 26 22:20:06 EDT 2006
+
+
+
+[[[break]]]changed line 4 from: *orange {code Room: Logan Smith E353
+}*[[[break]]]to: *green {code Room: Forgan Smith E353
+}*
+----
+Wed Jul 26 22:19:21 EDT 2006
+
+
+
+[[[break]]]changed line 9 from: *orange {code in Room E108, Forgan Smith Building *pink* --- note that this is a change of location*
+}*[[[break]]]to: *green {code in Room E108, Forgan Smith Building *pink --- note that this is a change of location*
+}*
+----
+Wed Jul 26 22:18:14 EDT 2006
+
+
+
+[[[break]]]changed line 9 from: *orange {code in Room E108, Forgan Smith Building * --- note that this is a change of location*
+}*[[[break]]]to: *green {code in Room E108, Forgan Smith Building *pink* --- note that this is a change of location*
+}*
+----
+Wed Jul 26 22:16:14 EDT 2006
+
+
+
+[[[break]]]added at line 8: *lime {code in Room E108, Forgan Smith Building * --- note that this is a change of location*
+
+}*[[[break]]]changed line 10 from: *orange {code all in Room 232, Connell Building (http://www.uq.edu.au/facilities/index.html?page=8243&pid=8244)
+}*[[[break]]]to: *green {code in Room 232, Connell Building (http://www.uq.edu.au/facilities/index.html?page=8243&pid=8244)
+}*
+----
+Wed Jul 26 21:48:17 EDT 2006
+
+
+
+[[[break]]]changed line 12 from: *orange {code UQChoiceRiskDecision.ThingsToRead
+UQChoiceRiskDecision.Discussion
+}*[[[break]]]to: *green {code - UQChoiceRiskDecision.ThingsToRead
+- UQChoiceRiskDecision.Discussion
+}*
+----
+Wed Jul 26 21:47:39 EDT 2006
+
+
+
+[[[break]]]changed line 12 from: *orange {code http://www.uq.edu.au/study/course.html?course_code=COGS3010
+
+UQChoiceRiskDecisionDiscussion
+}*[[[break]]]to: *green {code UQChoiceRiskDecision.ThingsToRead
+UQChoiceRiskDecision.Discussion
+}*
+----
+Wed Jul 26 09:55:55 EDT 2006
+
+
+
+[[[break]]]changed line 2 from: *orange {code Email: J.Grossman@uq.edu.au
+Phone: 3365 6324
+}*[[[break]]]to: *green {code Email: mailto:J.Grossman@uq.edu.au
+Phone: 0425 263 912 ... *between 11 am and 5 pm only, please*
+}*[[[break]]]changed line 5 from: *orange {code Consultation hours: to be announced
+}*[[[break]]]to: *green {code Consultation hours: Thursdays, 1--2 pm and 4--5 pm
+}*[[[break]]]changed line 14 from: *orange {code More info. coming soon.
+}*[[[break]]]to: *green {code UQChoiceRiskDecisionDiscussion
+}*
+----
+Fri Jun 23 23:12:15 EST 2006
+
+
+
+[[[break]]]deleted at line 8: *red {code Lectures:  Thursdays 5--7 pm
+}*[[[break]]]added at line 9: *lime {code Lectures:  Thursdays 5--7 pm
+}*
+----
+Fri Jun 23 23:05:58 EST 2006
+
+
+
+[[[break]]]deleted at line 1: *red {code 
+}*[[[break]]]added at line 8: *lime {code Lectures:  Thursdays 5--7 pm
+Tutorials:  Thursdays 12--1 pm
+all in Room 232, Connell Building (http://www.uq.edu.au/facilities/index.html?page=8243&pid=8244)
+
+}*
+----
+Fri Jun 23 08:01:01 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code 
+Lecturer: Jason Grossman
+Email: J.Grossman@uq.edu.au
+Phone: 3365 6324
+Room: Logan Smith E353
+Consultation hours: to be announced
+Email consultation hours: 24 hours a day, 7 days a week
+
+http://www.uq.edu.au/study/course.html?course_code=COGS3010
+
+More info. coming soon.
+}*

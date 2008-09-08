@@ -1,0 +1,47 @@
+
+----
+Sun Apr 23 14:30:21 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code IoWiki doesn't yet work properly with the lynx %0d%0aweb browser.  I don't know why not.  %0d%0aJason%0d%0a%0d%0aThis, for example, is a line %0d%0aadded in lynx. %0d%0aIt seems to work better but still not quite right %0d%0awith the links browser.%0d%0a%0d%0a%0d%0aThis is a new line added in an *external editor* launched from lynx.  At least this works, thank god.
+}*[[[break]]]to: *green {code IoWiki doesn't yet work properly with the lynx %0d%0aweb browser.  I don't know why not.  %0d%0aJason%0d%0a%0d%0aThis, for example, is a line %0d%0aadded in lynx. %0d%0aIt seems to work better but still not quite right %0d%0awith the links browser.%0d%0a%0d%0a%0d%0aThis is a new line added in an *external editor* launched from lynx.  This doesn't work either.  :--(
+}*
+----
+Sun Apr 23 14:29:50 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code 
+
+IoWiki doesn't yet work properly with the lynx web browser.  I don't know why not.  Jason%0d%0a%0d%0aThis, for example, is a line added in lynx.
+
+It seems to work better but still not quite right with the links browser.
+}*[[[break]]]to: *green {code IoWiki doesn't yet work properly with the lynx %0d%0aweb browser.  I don't know why not.  %0d%0aJason%0d%0a%0d%0aThis, for example, is a line %0d%0aadded in lynx. %0d%0aIt seems to work better but still not quite right %0d%0awith the links browser.%0d%0a%0d%0a%0d%0aThis is a new line added in an *external editor* launched from lynx.  At least this works, thank god.
+}*
+----
+Sun Dec 11 19:11:28 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code 
+
+}*[[[break]]]changed line 3 from: *orange {code testing with links (as opposed to lynx)
+}*[[[break]]]to: *green {code It seems to work better but still not quite right with the links browser.
+}*
+----
+Sun Dec 11 19:10:50 EST 2005
+
+
+
+[[[break]]]added at line 1: *lime {code 
+testing with links (as opposed to lynx)
+}*
+----
+Fri Dec  9 15:53:10 EST 2005
+
+
+
+[[[break]]]changed line 1 from: *orange {code IoWiki doesn't yet work properly with the lynx web browser.  I don't know why not.  Jason
+}*[[[break]]]to: *green {code IoWiki doesn't yet work properly with the lynx web browser.  I don't know why not.  Jason%0d%0a%0d%0aThis, for example, is a line added in lynx.
+}*

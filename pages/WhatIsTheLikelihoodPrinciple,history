@@ -1,0 +1,31 @@
+
+----
+Sun Oct 28 19:40:30 EST 2007
+
+
+
+[[[break]]]added at line 5: *lime {code - This could emphasise the role of the LP in *categorising* theories of statistical inference.  I don't think anyone's really made a big deal about that yet.  B&W's book doesn't do that: they want to push Bayesianism.  And the other books want to push the use of raw likelihoods or raw likelihood ratios.
+
+}*
+----
+Sat Jul 21 08:51:22 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code This will review the state of the art, and say why it's so important.
+}*[[[break]]]to: *green {code _This will review the state of the art, and say why it's so important._
+}*[[[break]]]added at line 2: *lime {code Every philosopher knows the principle of xxx, usually associated with Carnap, which says that one should not ignore information.  The likelihood principle is a version of this applicable to statistical inference.  It says (roughly) that when one has a sample of data, one should take that sample fully into account when making inferences about hypotheses.  And yet, because of the popularity of evaluating methods of inference on their long-run behaviour, the likelihood principle is frequently broken.
+
+----
+}*
+----
+Thu Jul 19 21:51:49 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code This will review the state of the art, and say why it's so important.
+
+- where can I publish such a long paper? or should it be just a summary? 
+
+- note to self: say something about “the importance of protocol” in Hutchison BJPS, Dowe, Korb etc. 
+}*

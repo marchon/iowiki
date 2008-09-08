@@ -1,0 +1,26 @@
+
+----
+Wed May 17 14:22:08 EST 2006
+
+
+
+[[[break]]]changed line 3 from: *orange {code Adam LaCaze
+}*[[[break]]]to: *green {code Adam La Caze
+}*
+----
+Wed May 17 14:21:48 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code # Inferences from medical trials should be probabilistic
+
+Adam LaCaze
+
+Current, standard, statistical inferences from medical (read: randomised controlled) trials are not probabilistic, but they should be.  
+
+There are a number of reasons why such inferences should be probabilistic.  I shall provide one such set of reasons through discussion of the controversial case of rofecoxib (marketed as Vioxx).  An anti-inflammatory and analgesic agent, rofecoxib was introduced into the Australian market in 1999.   Five years later the manufacturer of rofecoxib withdrew the drug from the world market predominately due the results of a single randomised controlled trial, the APPROVe study.   
+
+I shall argue that the non-probabilistic analysis of the APPROVe study has lead to a number of erroneous inferences being drawn from the trial.  In particular, erroneous inferences regarding, the level of evidence provided for the adverse effect (thrombotic events) and the estimated magnitude of this effect.  
+
+Expanding the focus beyond the APPROVe trial, I will suggest that the continued non-probabilistic analysis of medical trials impairs day-to-day therapeutic decision-making.  
+}*

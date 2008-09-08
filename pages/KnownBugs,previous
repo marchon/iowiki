@@ -1,0 +1,32 @@
+See also version.history.
+
+*Missing features*
+- page names should be able to have apostrophes in them
+- if a page has no contents OR if its contents are merely whitespace, it should show the ... ahem ... ``haiku''
+- maybe the recent changes page should show the current server date and time
+
+*Long-term bugs*
+- When pages are edited using the lynx browser, nasty characters get inserted.
+- I need to refactor (reorganise) the code in various places.
+- Space characters in URLs don't get parsed properly even when they're encoded, thus: file:///Users/jason/Desktop/Blatch/memory tax invoice.pdf.  I guess I'm going to have to allow square brackets around URLs, even though I don't need them for anything else.
+- Emailing changes is broken.  Don't know whether I really want to fix that.
+
+*Minor bugs to be fixed soon*
+- The following link doesn't work but misleadingly looks as though it will: Philosophy.of.Science.This.might.be.useful.if.you.don't.have.the.textbook
+- instructions are wrong: imply that character set is small when in fact it's all of unicode (except for what a browser can't show)
+- *code* at the beginning of a page seems to have stopped working --- see passwordless.ssh
+- RSS feeds could include a (customisable) number of chars of each updated page.
+- The RSS mechanism needs to be documented in AdministratorDocumentation.
+- Hot links with full stops immediately after them are AProbLem.  I think I almost have this fixed.  I think they only fail now when they're *crimson embedded InCoLourEtc.* ... and here: consistent with the data.''  And From InterpretationOfConfidenceIntervals: .  Bugger.
+- notification should only send out pages changed since last notification ... or I might just drop notification
+- if a page's contents are deleted on an edit, the edit does nothing :-(
+- The page history must use colours which ordinary pages can't use.
+- page names with a slash should be rejected _before_ editing's allowed; and maybe the same goes for other characters?  Namely:  ";" | "/" | "?" | ":" | "@" | "&" | "=" | "+" |
+                    "$" | ",".
+
+- colour closing problem:
+*pink urgent: 
+-this
+-that *
+
+this line shouldn't be pink

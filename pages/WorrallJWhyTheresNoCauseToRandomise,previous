@@ -1,0 +1,29 @@
+@article{JohnWorrall09012007,
+	Author = {Worrall, John},
+	Journal = {Br J Philos Sci},
+	Number = {3},
+	Pages = {451-488},
+	Title = {{Why There's No Cause to Randomize}},
+	Volume = {58},
+	Year = {2007}}
+
+An interesting paper and an extension of the problems of randomisation.  More particularly with the thought that randomisation is essential for science (as is thought to be case---arguably---with EBM).
+
+The argument is against randomisation providing any specific, unique epistemic good (that could not be achieved elsewhere). *crimson And moreover, randomisation can be harmful, as argued in Grossman and Mackenzie (p.527 ... I really need to write out a longer version of that argument).*
+
+I put these notes up because I am interested in how they relate to discussion of Neyman.StatisticalEstimation (see that page for discussion)
+
+Questions:
+Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probability 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided *crimson I think you mean: the smaller the number of confounders that are likely to be unevenly divided*.  This seems to provide some rationale for randomisation. *crimson I agree.*
+
+Now I want to calculate this.probability
+
+Replies:
+How much does this depend on our epistemic situation?  Worrall seems to assume that we have quite a bit of causal knowledge.  It is this causal knowledge that we use to ensure that the two groups are evenly divided. What happens when we know very little?  Is there an argument for randomisation here?
+
+Could this be extended to provide an epistemic rationale for randomisation for clinical science in general?  We want to assume as little as possible of the background theory.  Large randomised studies permit us to do this.  It is the "data" that talks; not our background theory.  [I am not sure I would agree with this argument by the time it is fully fleshed out] *crimson I think you would.  It's a good argument.  I think it's been made by EBM proponents somewhere (probably millions of places, knowing them).*
+
+What is undeniable is that randomisation is not sine qua  non.  EBM (as espoused by advocates) is in trouble.  But maybe not what "EBM must be..."
+
+
+Black notes by AdamLaCaze.  *crimson Red notes by JasonGrossman.*

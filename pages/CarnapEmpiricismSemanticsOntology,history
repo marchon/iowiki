@@ -1,0 +1,96 @@
+
+----
+2008-05-02 17:42:12 EST
+
+
+
+[[[break]]]changed line 30 from: *orange {code -- *green presumably neither would be willing to accept a framework in which it became an analytic (or largely ..non-empirical) question.* 
+}*[[[break]]]to: *green {code -- *green presumably neither would be willing to accept a framework in which it became an analytic (or largely ..non-empirical) point that their position was incorrect.* 
+}*
+----
+2008-04-30 17:01:10 EST
+
+
+
+[[[break]]]changed line 29 from: *orange {code 
+}*[[[break]]]to: *green {code - realism debate with regard to numbers cannot be addressed unless the disputants are able to subsume it under some framework in which it would become an empirical question.
+-- *green presumably neither would be willing to accept a framework in which it became an analytic (or largely ..non-empirical) question.* 
+}*
+----
+2008-04-30 16:57:02 EST
+
+
+
+[[[break]]]added at line 22: *lime {code -- and so the adoption of a framework is not a yes/no question, it is a matter of degree
+- introducing a new entity to a framework:
+-> 1. introduce a higher level predicate
+-> 2. introduce variables of this new type
+- a true internal answer may be either analytically or empirically so
+-- *green This is what Quine disputes*
+
+}*[[[break]]]changed line 27 from: *orange {code -- and of course, there has to be a cut-off of these broader frameworks somewhere, i.e. at some level there must be an "exterior" to our linguistic frameworks, no matter how many levels we determine them to have (otherwise we are involved in an infinite regress) and this is where  Carnap's points can be applied (thus there is no escape from Carnap's criticism, one may just move it around a bit).
+--- this is related to Rorty's discussion of Galileo via Kuhn and what was to be considered appropriate evidence within the scientific discourse(s)
+}*[[[break]]]to: *green {code -- and of course, there has to be a cut-off of these broader frameworks somewhere, i.e. at some level there must be an "exterior" to our linguistic frameworks, no matter how many levels we determine them to have (otherwise we are involved in an infinite regress) and this is where  Carnap's points can be applied (thus there is no escape from Carnap's criticism, one may just move it around a bit).  (And we certainly can't get "outside" in the sense that those engaged in the realism debate would wish.)
+--- this should be able to be related to Rorty's discussion of Galileo via Kuhn and what was to be considered appropriate evidence within the scientific discourse(s)
+- is Carnap's idea that framework choice is a matter of degree of any use to Bayesians?
+- Carnap's point that "the restriction to rational coordinates would not be in conflict with any experimental knowledge we have" could be useful.  Are we restricted to only postulating the existence of the rationals under ..Quine-Putnam?  If so, must our proofs (if they are even possible/necessary under this conception of mathematics) also be undertaken with respect to this topology?  (I'm not sure if this would be highly problematic or not - I'd need to have a chat to some of the analysis guys if I really wanted to press this point.)
+- is Carnap adopting a pragmatic approach to framework choice?
+- if (externally) postulating the existence of abstract entities is meaningless, should all external existence statements be held as such (well, all external statements really)?
+}*
+----
+2008-04-30 16:41:54 EST
+
+
+
+[[[break]]]changed line 18 from: *orange {code - Carnap is attempting to show that physicists and other scientists can use talk of abstract entities without any nominalist guilt.
+}*[[[break]]]to: *green {code - Carnap is attempting to show that physicists and other scientists can use talk of abstract entities without any empiricist guilt.
+}*[[[break]]]changed line 20 from: *orange {code 
+
+}*[[[break]]]to: *green {code -- i.e. using language involving abstract entities does not commit one to a Platonist ontology.
+- framework rules don't need to be explicitly stated but should be rationally reconstructable
+- while the choice to adopt a framework is not a cognitive one, it does involve an assessment as to efficiency, fruitfulness and simplicity resultant from the adoption of that framework
+}*[[[break]]]changed line 24 from: *orange {code 
+}*[[[break]]]to: *green {code - isn't the assessment process for the adoption of a particular framework really just the imposition of a more general framework for choosing between frameworks?
+-- perhaps this hinges on what is to be understood by Carnap's use of cognitive?
+-- and of course, there has to be a cut-off of these broader frameworks somewhere, i.e. at some level there must be an "exterior" to our linguistic frameworks, no matter how many levels we determine them to have (otherwise we are involved in an infinite regress) and this is where  Carnap's points can be applied (thus there is no escape from Carnap's criticism, one may just move it around a bit).
+--- this is related to Rorty's discussion of Galileo via Kuhn and what was to be considered appropriate evidence within the scientific discourse(s)
+}*
+----
+2008-04-30 16:31:03 EST
+
+
+
+[[[break]]]added at line 15: *lime {code I'm not going to do a large summary of Carnap's argument here as I've already developed one from several of the other papers defending his idea from Quine's attack.  I'll just use this section to collect a few of the juicier ideas that may not have been emphasised in earlier summaries.
+
+- Carnap is attempting to show that physicists and other scientists can use talk of abstract entities without any nominalist guilt.
+-- This is because he believes the realist/nominalist debate is actually either trivial or nonsensical (depending on whether it occurs internal or external to a linguistic framework).
+
+}*[[[break]]]added at line 17: *lime {code *What do I think?*
+
+----
+
+ChrisWilcox
+}*
+----
+2008-04-30 16:26:17 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+Carnap attempting to undermine the realism debate by showing ontological questions to be either trivial or devoid of cognitive content.
+
+*Where can it be found?*
+
+Carnap,R.; Empiricism, Semantics, and Ontology; Revue Internationale de Philosophie, Vol. 4 (1950), pp. 20 - 40
+
+*How does it fit in for me?*
+
+As has already been demonstrated in some of the other papers I've read (see Yablo.ontology for example), Carnap's basic idea can be used to undermine any attempt to draw ontological conclusions from linguistic analysis.  Such an attempt is fundamental to the ..Quine-Putnam indispensability argument.
+----
+*Summary*
+
+
+----
+}*

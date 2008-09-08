@@ -1,0 +1,57 @@
+An Argument for the Uniformity of Life?
+
+I was intrigued by the discussion in today’s lecture (14 Mar 07).  In particular I wondered if Patrick’s point about the Gaussian distribution of life might actually be quite a plausible one.  Would anyone care to comment on what they think of the following?  I would also welcome correction for any factual inaccuracies!
+
+The point was that chance events tend towards Gaussian distributions. (*blue Aside – is there is a theoretical proof for this anyone?  I am ignorant of it if there is.* *pink There's no proof of anything quite THAT general, but there's a proof of something a only little bit less general: the central limit theorem, which you can look up.  But beware: the current wikipedia definition is not quite right.  Jason*).  This is often the case in biology as well – there are numerous statistical software packages (SigmaStat is a common one) that let you do all sorts of tests with Gaussian distributions, because they are so common.
+
+If things in biology (body weight, lifespan, number of offspring etc.) often have Gaussian distributions, then isn’t it reasonable to expect that any new life form discovered (in the deep ocean, was the example from the lecture) will match what we have already discovered to be really common?
+
+I thought the most convincing case *against* this was John’s point:  (1) Good data on the environments of the deep ocean does not exist, (2) The deep ocean is huge and therefore contains most of the environments on the planet, and therefore (3) what is in fact really common cannot be determined, because most of the Earth’s environments are underwater and unexamined.
+
+ A counterpoint might come from the principle for uniformity.  The laws of physics are universal (to the best of our knowledge).  As the laws of chemistry are based on physics, and biology on chemistry and physics, this implies aspects of biology might be universal.
+
+Biochemistry offers lots of examples of this.  The enzyme triosephosphate isomerase (TIM) is incredibly efficient.  It has a catalytic activity near its diffusion controlled limit (that is, it can interconvert trioses – 3 carbon sugars – almost as fast as trioses diffuse into it).  TIM has a barrel shape.  Considering how efficient it is, it is not surprising this barrel shape is copied again and again in many other enzymes, all throughout biology.  The ubiquity of the alpha-helix and beta-pleated sheet (really common folding pattern in proteins) also suggests that certain motifs abound because their efficiency cannot be improved upon.
+
+This is not to say other feasible answers to problems in biology do not exist.  The vast array of bacterial lithotrophs (bacteria that feed on rocks) demonstrates this.  But none of these bioenergetic options are as efficient as aerobic respiration (visit http://www.biology.qmul.ac.uk/research/staff/s-araya/redox.htm for a table showing this).   So lithotrophs occupy peripheral niches in the planet’s ecology – while processes like fermentation, and aerobic respiration are much more common.
+
+When the planet can only offer a limited array of environments, and there are physical laws in effect, is it not possible that certain biological strategies will ALWAYS be better?  Hence leading to a knowable Gaussian distribution, and meaning we can predict what kind of life forms we are likely to encounter?  After all, aren’t guesses about astrobiology made on the basis of terrestrial life? 
+
+Cheers,
+Morgan Sheridan
+
+----
+
+Thanks for that, Morgan. I think I agree with most of what you've said, insofar as I understand it.
+
+Concerning the central limit theorem, I think it requires that the things that vary are independent, which is certainly not the case in biologicial systems. It is also based on other assumptions that probably don't apply to biological systems. Also, I think it is based on the real number system, which is perhaps not sufficient for biological applications. In any event, it's the observations and data that aren't accounted for by the normal distribution or do not fit the bell curve that are of the most interest.  People who thought this are responsible for various forms of mathematics now known generically as chaos theory. (But see the last sentence of the next paragraph.)
+
+Regarding your last paragraph, I suppose it is possible that certain biological strategies will ALWAYS be better. But it is also possible that certain biological strategies will NOT always be better. As to the guesses about astrobiology, I don't think that they've necessarily been made on the basis that possible extra-terrestrial life forms will be of the same carbon-based form found here. But then, I'm working on vague intuitions unencumbered by knowledge! 
+
+Dick Parker
+
+----
+
+I'm not sure that the claims about the prevelance of Gaussian distribuitions in biology are all that accurate. Biological systems tend to be chaotic. Even very simple models of populations like logistic models have some really crazy chaotic behaviour, and it seems hard to see how Gaussian distrbutions, which are pretty simple and nice and friendly, can apply to systems which have such complex structures.
+
+Even in the data we have, it doesn't sound like normal distributions apply. Distributions arranged by weight or size would be skewed toward smaller organisms. *pink Good point.  And this reminds me of one reason why there's no COMPLETELY general rule about all chance events falling into Gaussian distributions.  Suppose for the sake of argument that organisms' lengths fell into Gaussian distributions.  Then organisms' weights, which are (roughly proportional to) the cubes of their sizes, would be distributed according to the cube of a Gaussian distribution, which is NOT a Gaussian distribution.  So it's impossible for everything to be Gaussianly distributed.  This doesn't contradict the Central Limit Theorem (which I mentioned above), which makes various assumptions which get around this problem ... i.e., the Central Limit Theorem doesn't always apply.  Jason  P.S. I had a headache when I wrote this, so I reserve the right to check my maths later!*  Within a species, we might see normal distributions, but that doesn't give us a means of predicting the nature of unknown species from known ones.
+
+Uniformity of physical laws might well imply that certain solutions are more efficient, but in the end, this is only really relevant to biological mechanisms. While uniformity MIGHT have implications for whole organisms, the number of ways of combining mechanisms to produce an organism means that there is not feasible way of determining what the most efficient combination will be, not least because the behaviours of such combinations are likely to be chaotic. In such a case, the amount of information required to arrange the relevant mechanisms into a maximally efficient organism is enormous (in fact, it's effectively infinite should the mechanisms emergent behaviour turn out to be chaotic). I don't think evolution is efficient enough to differentiate between a whole variety of fairly good solutions, and in any case, constraints and bad luck mean that determining what the best outcomes would be probably wouldn't reflect the actual organisms we'd see.
+
+I suppose this post has been pretty random, but there seem to be two problems. The first is that Gaussian distributions are a convienient myth employed by scientists, even though their actual relevence is limited. If that's the case, using them as predictive tool is going to be tough outside the limited situations in which they apply. Secondly, even if uniformity of physical laws implies certain biological mechanisms will be maximally efficient (given their environment), once you start putting those processes together you'll get such complicated results so quickly that those efficient solutions won't give you a useful means of prediction.
+
+To be frank, I'm positively terrified by chaos. It lurks around every turn, even in unbelievably simply systems, and even though it's really beautiful and amazing and great, it's incredibly hard to make sense of or do work with.
+
+John
+*pink Which John?  I need to know because this is worth  marks!  Jason*
+
+John Horan, sorry.
+
+----
+
+The above discussion interests me. 
+
+Regarding the second point in John’s second last paragraph: I agree, and given that there are some fundamental differences between the environments’ of undiscovered, deep sea organisms and the environments’ of most of the studied organisms on earth; it seems likely that quite a different set of ‘pressures’ (pardon the pun) would result in organisms with many characteristics quite divergent from those which are common in terrestrial/continental shelf/shallow ocean etc environments.  *blue Right.  The differences include not just pressure but also e.g. lack of oxygen.  Jason*
+
+I find myself wondering what criteria ought to be used if one intends to discuss the uniformity of life – known or unknown. *blue One thing we can do is try to think about life as abstractly as possible (although of course there's a limit to how abstractly we can think), instead of thinking about known forms of earth life all the time.  This is one reason why I keep mentioning that heritability doesn't have to be genetic.  Jason*
+
+Hamish

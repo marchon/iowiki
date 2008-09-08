@@ -1,0 +1,79 @@
+
+----
+Wed Mar 19 15:54:09 EST 2008
+
+
+
+[[[break]]]added at line 45: *lime {code -> In some sense I believe this may be possible as when one calls upon a mechanism to limit the possible theories, one is relying upon the meanings associated with said mechanism to do the  actual limiting work.  Ideally then one would want these meanings not to be revisable in the face of experience (i.e. to be analytic).  However, this is just the sort of stipulation that Quine's Two Dogmas argument rules out.
+-> It seems then that we are left in a situation in which any mechanism we postulate in order to limit the damage of underdetermination can shift in meaning in response to experience and in so doing undermine its own effectiveness in limiting damage.
+}*
+----
+Wed Mar 19 15:49:02 EST 2008
+
+
+
+[[[break]]]added at line 42: *lime {code - I've been trying to think about whether or not some of the stuff above should connect in some way with criticisms of the analytic/synthetic distinction.
+-> Suppose one has this picture of inference: some inferential mechanism (just think of it as a black box in this discussion) is posited with its aim being to impose some sort of limitation upon the degree to which the inductive inference leads to underdetermination (i.e. to limit the number of theories possible under any model involving the particular mechanism). 
+-> We have already seen above how Quine's web f belief idea raises problems for mechanisms that postulate some relation between theory and experience but is it possible to work back from Quine's web to the problems of the analytic/synthetic distinction that led to his idea and then try to see how these apply to the general "black box" case? 
+}*
+----
+Tue Mar 18 17:13:33 EST 2008
+
+
+
+[[[break]]]changed line 39 from: *orange {code -- *green If you're trying to do more than speak in vague generalisations, then I think it's pretty vulnerable to that difficulty, except in special circumstances (circumstances which are fortunately common in science).  Jason*
+}*[[[break]]]to: *green {code -- *green If the Bayesian is trying to do more than speak in vague generalisations, then I think it's pretty vulnerable to that difficulty, except in special circumstances (circumstances which are fortunately common in science).  Jason*
+}*
+----
+Tue Mar 18 16:54:04 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*Ch. 1 - Induction*
+_Underdetermination_
+- Underdetermination (in this context) := multiple theories could be used to explain something.
+- Induction (conceived here broadly as ~deduction) => underdetermination.
+- Thus one needs to find additional principles to choose between competing inductive theories.
+
+_Justification_
+- We would like to think that our principles for choosing between inductive theories would somehow lead us to choose ones that are more likely to deliver truth (or to get us closer to truth).
+
+_Skepticism_
+- Hume's argument still hangs heavy overhead:
+-- i.e. one can only prove the validity of inductive reasoning by recourse to induction of the same kind.  Thus any validity argument is circular.
+--- Note that this conclusion holds no matter the type of induction posited.  
+-- May be able to justify certain inductive principles by using other ones but this does not get us to where we want to go (i.e. to a sound basis for the employment of inductive reasoning).
+
+_Description_
+- Trying to describe what inductive reasoners do is also problematic.
+-- Difference between "knowing how" and "describing how".
+- Descriptive accounts:
+-> i) Just postulating "more of the same".
+-- Not accurate - brake failure e.g.
+-> ii) "Instantial model" - positive observations as supporting theories (arrived at via some unspecified method).
+--- Often positive obs. case would not be deemed enough - e.g. observation of bearded philosopher supporting theory that all philosophers are bearded.
+--- Hypotheses can be modified so as to enlist any observation in support of any conclusion.
+--- Can always replace hypoth. with logical equivalent that enjoys widespread support.
+-> iii) "..Hypothetico-deductive" - obs. deducted from hypoth. and then checked.
+--- Any case of instantial support is also a case of ..h-d support, hence it inherits the problems above.
+--- Prob. re: adding on a disjunct to hypoth. so as to allow it to enjoy validity from support of the rest of the hypoth.
+-> iv) Bayesian - assign pr. to statements (including hypotheses) that is consistent with their logical relations and with experimental results (i.e. if H=>E, P(H) is increased by the observation of E (provided that ~P(E)=1)).
+--- Too permissive - P(H) will increase as long as _anything_ H entails is observed.
+-> v) "Causal inference" - from effects to their possible causes.
+----
+*What do I think?*
+_Ch 1_
+- All of he descriptive accounts above that involve some sort of ..support-connection between particular observations and particular theories need to deal with the problems raised by Quine's "Web of Knowledge" argument.
+- If one is trying to describe our inference practices, then it seems that an account hypothesis creation should be part of that.  Most of the accounts above do not and the one that does ("more of the same") is quite obviously not viable.
+- How vulnerable is the Bayesian account to criticisms regarding the difficulty of assigning probabilities in practice?
+-- *green If you're trying to do more than speak in vague generalisations, then I think it's pretty vulnerable to that difficulty, except in special circumstances (circumstances which are fortunately common in science).  Jason*
+- There seems to be two different ways to look at the underdetermination issue here: firstly, one can look at it in a traditional "theory first" way by observing that multiple theories can be used to arrive at the same inference; secondly, one can look at it in an "observation first" way in which multiple observations can be derived from the same web of beliefs.
+-- To put this second version a different way, one could argue that a web of beliefs underdetermines the possible observations that can be derived from it.
+- This leads on to a further consideration: it seems that many of the descriptive accounts above are concerned with providing some means of limiting the scope of the first type of underdetermination (by requiring a deductive step for example).  However, it seems that most of them do so only at the cost of opening themselves up to underdetermination of the second sort.
+----
+
+Lipton.IBE
+
+ChrisWilcox
+}*

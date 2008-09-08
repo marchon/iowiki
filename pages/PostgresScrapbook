@@ -1,0 +1,6 @@
+jason@gentoo ~> su
+Password: 
+Welcome to fish, the friendly interactive shell
+Type help for instructions on how to use fish
+root@gentoo /h/jason> su postgres
+postgres@gentoo /home/jason $ createdb fionagallery -E UNICODE

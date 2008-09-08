@@ -1,0 +1,197 @@
+
+----
+2008-04-10 23:12:12 EST
+
+
+
+[[[break]]]changed line 75 from: *orange {code *orange Greg, I totally agree about the highlighter. Science is like Pinga: It isn't just black and white - It has orange bits too, and the orange bits can be very important! You need to make sure they're working properly so it can stand up!
+}*[[[break]]]to: *green {code *orange Greg, I totally agree about the highlighter. You reminded me that Science is just like Pinga: It's not just black and white - It has orange bits too. It's important to ensure the orange bits are working properly or it won't stand up.
+}*
+----
+
+
+
+[[[break]]]changed line 49 from: *orange {code Greg, I see why you think inaccurate measurements are missing the point of falsificationism. It would be silly for scientists to reject a theory whenever the data doesn't exactly correspond with their predictions, or we'd be rewriting the laws of science everytime we stuffed up a simple pendulum experiment. But there are also cases when there isn't anything obviously wrong with the data and the experiments, and scientists still don't throw out their theories. 
+}*[[[break]]]to: *green {code *blue Greg, I see why you think inaccurate measurements are missing the point of falsificationism. It would be silly for scientists to reject a theory whenever the data doesn't exactly correspond with their predictions, or we'd be rewriting the laws of science everytime we stuffed up a simple pendulum experiment. But there are also cases when there isn't anything obviously wrong with the data and the experiments, and scientists still don't throw out their theories. 
+}*[[[break]]]changed line 65 from: *orange {code Iain Forsyth
+}*[[[break]]]to: *green {code Iain Forsyth*
+}*[[[break]]]added at line 84: *lime {code 
+*blue Basically that's how it is, though I'd be happy to be corrected on the matter by Jason or someone else.
+
+Iain Forsyth*
+}*
+----
+
+
+
+[[[break]]]added at line 80: *lime {code 
+*red So ... Theory --> after lots of testing, "this is probably the way the world works"
+
+Hypothesis --> A question that has yet to be tested, "Is this the way the world works?"*
+}*
+----
+
+
+
+[[[break]]]changed line 78 from: *orange {code *blue Greg, I think the distinction between theory and hypothesis is important here, even though Jason said that philosophers use the terms interchangably. I won't try to explain the difference properly here because I'll probably get it wrong, so it'll have to suffice to say that a theory is much more solidly founded and more generally accepted than a hypothesis. A hypothesis is a tentative explanation for something, and a theory, very loosely speaking, is such an explanation or a set of explanations which has been tested against the evidence and survived. As such, a theory works pretty well, having survived numerous attempts to falsify it, even if it does ultimately turn out to be incorrect. Because theories are solidly founded and generally work well, scientists are loathe to abandon them. Hypotheses, on the other hand, are not solidly founded at all, and we don't know how well they work until they've been tested. Scientists are prepared for experiments to invalidate hypotheses, and presumably it happens very often. Scientists are not so irrational as to ignore every experiment that invalidates one of their hypothesis, or they wouldn't be doing science at all.*
+}*[[[break]]]to: *green {code *blue Greg, I think the distinction between theory and hypothesis is important here, even though Jason said that philosophers use the terms interchangably. I won't try to explain the difference properly here because I'll probably get it wrong, so it'll have to suffice to say that a theory is much more solidly founded and more generally accepted than a hypothesis. A hypothesis is a tentative explanation for something, and a theory, very loosely speaking, is such an explanation or a set of explanations which has been tested against the evidence and survived. As such, a theory works pretty well, having survived numerous attempts to falsify it, even if it does ultimately turn out to be incorrect. Because theories are solidly founded and generally work well, scientists are loathe to abandon them. Hypotheses, on the other hand, are not solidly founded at all, and we don't know how well they work until they've been tested. Scientists are prepared for experiments to invalidate hypotheses, and presumably it happens very often. Scientists are not so irrational as to ignore every experiment that invalidates one of their hypothesis, or they wouldn't be doing science at all.
+
+Iain Forsyth*
+}*
+----
+
+
+
+[[[break]]]added at line 77: *lime {code *blue Greg, I think the distinction between theory and hypothesis is important here, even though Jason said that philosophers use the terms interchangably. I won't try to explain the difference properly here because I'll probably get it wrong, so it'll have to suffice to say that a theory is much more solidly founded and more generally accepted than a hypothesis. A hypothesis is a tentative explanation for something, and a theory, very loosely speaking, is such an explanation or a set of explanations which has been tested against the evidence and survived. As such, a theory works pretty well, having survived numerous attempts to falsify it, even if it does ultimately turn out to be incorrect. Because theories are solidly founded and generally work well, scientists are loathe to abandon them. Hypotheses, on the other hand, are not solidly founded at all, and we don't know how well they work until they've been tested. Scientists are prepared for experiments to invalidate hypotheses, and presumably it happens very often. Scientists are not so irrational as to ignore every experiment that invalidates one of their hypothesis, or they wouldn't be doing science at all.*
+}*
+----
+
+
+
+[[[break]]]changed line 76 from: *orange {code 
+}*[[[break]]]to: *green {code I guess, if you are going to falsify something, you need: 1. a different theory that has no problems, that you can adopt in the rejected theory's stead. 2. Enough *black different* falsifying evidence that it becomes very unlikely that there are so many *black different* unknown problems with the various experiments. If you have 2. but not 1. then you make things up that you can't experiment upon to patch it up until you get a 1. And this, really, is what we were being told in class. ... u4309050
+}*
+----
+
+
+
+[[[break]]]added at line 65: *lime {code 
+*pink Great reply Iain, that's really clear and helpful!
+
+I suppose I think that, normatively, scientists ought to (in the face the examples you've given) either actually call their theory falsified or stick a really big post-it note on it with a really big exclamation-mark, drawn with an appropriate colour of highlighter. Probably orange. A lot of attention needs to be paid to experimentally validated problems with theories.
+
+What even is an experimental hypothesis if we're not prepared for experiments to, somewhat readily, invalidate the hypothesis?*
+
+Greg.Sadler
+
+
+
+ 
+}*
+----
+
+
+
+[[[break]]]added at line 47: *lime {code 
+Greg, I see why you think inaccurate measurements are missing the point of falsificationism. It would be silly for scientists to reject a theory whenever the data doesn't exactly correspond with their predictions, or we'd be rewriting the laws of science everytime we stuffed up a simple pendulum experiment. But there are also cases when there isn't anything obviously wrong with the data and the experiments, and scientists still don't throw out their theories. 
+
+This is partly because scientists grow attached to their theories and their ways of looking at the world, and don't want to let them go so easily. Scientists have refused to accept new theories all their lives no matter how well they explain observations and stand up to attempts to falsify them, because although science is meant to be rational, scientists are human and thus irrational. It's also because many anomalies can be resolved in time, like the parallax example mentioned above. It's a bit hasty to throw out a theory when the problem might just go away with time. 
+
+But I think the biggest reason scientists don't abandon their theories whenever an anomaly appears that can't be simply put down to experimental error is that there needs to be an alternative. Suppose we falsified Newtonian mechanics before we developed relativity and quantum mechanics? We wouldn't be able to do anything. It's better to work with an imperfect theory, as all theories ultimately are, than with nothing at all. 
+
+A good example of this is the aether theory of light, which is that light is transmitted in a medium called the lumiferous aether, which was supposed to permeate all space. It was reasoned that since light is a wave, and since all other waves travel in mediums, thenlight must also travel in a medium. This theory was falsified by the Michelson-Morely experiment, which was repeated many times by many different people in different locations and at different times of year, to remove as many problems with the experiment as possible. However, scientists didn't immediately do away with the idea of the aether. It wasn't until Einstein postulated his theory of special relativity, with which the aether wasn't necessary, that the idea of the aether was abandoned. 
+
+There are also contemporary examples of scientists sticking with theories that have apparently been falsified, most obviously in cosmology. Galaxies appear to rotate much faster than general relativity predicts, but instead of abandoning the theory, scientists have claimed that "dark matter" must make up most of the universe and account for the extra gravitiational force necessary to make the galaxies rotate as fast as they do. There isn't any direct evidence for dark matter, because it is by its nature very difficult to detect, like the luminiferous aether, but scientists prefer to believe in it than abandon their theories. 
+
+A similar example is "dark energy", which is meant to explain why the universe is seemingly accelerating in its expansion. We would expect gravity to slow the expansion of the universe, but since this is not the case, scientists have postulated yet another undetectable substance to explain away the anomaly, instead of dismissing the laws describing gravity as falsified.
+
+It may well turn out that dark matter and dark energy do in fact exist, and the anomalies will have been resolved. But it might also be the case that the laws of physics will need to be rewritten. As it stands, since there is no evidence for dark matter or dark energy, except that without them our theories would not be able to explain our observations, our theories have technically been falsified. People might disagree with me that they have been falsified, since dark matter and dark energy do sort of explain the anomalies, but I'm uncomfortable with the idea of postulating undetectable substances to explain away problems. If you could get away with that, then your theories could never be falsified, because there'd be no end of strange and undetectable substances you could conjour up to explain away any problems. 
+
+To finish by getting off topic, I think modern cosmology is starting to look like Ptolemaic astronomy, which had epicycles within epicycles to explain the apparent retrograde motion of the planets. My prediction is that the laws of physics will be rewritten to explain these anomalies, and once this alternative is proposed, then scientsists will begin to abandon their ideas of dark matter and dark energy, just as the heliocentric model of the solar system did away with all the nonsense about epicycles.
+
+Iain Forsyth
+}*
+----
+
+
+
+[[[break]]]added at line 43: *lime {code 
+To me is seems that inaccurate measurements are incidental to the principle. They're an exception to the rule. Ought we not abstract our past these inconsequential exceptions to falsification? They seem like 'throwing the baby away with the bathwater' style arguments. They don't go to the heart of the issue.
+
+-Greg.Sadler 
+}*
+----
+
+
+
+[[[break]]]added at line 41: *lime {code 
+*green I guess you would need multiple sets of repeating data, from different sources, to be able to make any claim that the evidence falsifies a theory. Thus in your example of heliocentrism, it isn't sufficient to use one type of evidence - parallax - no matter how well repeated, because there is too much room for error of judgement/methodology etc. Of course, this may not work in cases where only type of evidence can be extracted. I think the conclusion we are reaching is that falsificationism doesn't really work upon closer inspection...*
+}*
+----
+
+
+
+[[[break]]]added at line 39: *lime {code 
+Yes, an experiment might give repeatable data that seems to falsify the theory, but there can still be things wrong with it, for example, someone (who was it?) said heliocentrism is not true because then there would be parallax of the background stars, and no parallax had ever been observed even with the most precise instruments of the day. But it was just because even those telescopes weren't precise enough. So you can't really be a falsificationist, unless you have perfect instruments and are able to make infinite experiments. ... u4309050
+}*
+----
+Sun Mar 23 21:59:19 EST 2008
+
+
+
+[[[break]]]added at line 31: *lime {code 
+*blue Those are very good points, which we'll be dealing with later.
+
+I was saying something much simpler.  When evidence contradicts a theory, it's almost always because the evidence is shoddy.  Greg suggests that some sort of solution to this problem is ``implicit in the idea'' (of falsificationism?).  The problem with that is that there isn't a solution!  Certainly not a widely accepted one.  (If there's an esoteric and little-known solution, which there well may be, then that's great, but then it's not implicit.)  When you've got evidence which contradicts a theory, you don't know whether it's the evidence or the theory which is at fault, without doing a lot of investigating, and the fact that you can't investigate every time is what I've been going on about.  Sometimes you can.  Usually you can't.  That's all.
+
+Look forward to studying the other problems with falsification later.  And we will study the problems with the rivals to falsificationism too.
+
+Jason*
+}*
+----
+Thu Mar 20 21:15:04 EST 2008
+
+
+
+[[[break]]]changed line 21 from: *orange {code *green I think that the main reason that Popper's concept of falsification is not widely applied is because it doesn't allow for a theory to be 'confirmed' by induction, and thus lack correlation with how science is practiced. Popper dismisses inductivism, which leaves no method to measure the 'strength' of a scientific theory. If all scientific theories are equally falsifiable, then how do we distinguish a good theory from a poor theory, if no falsifying evidence presents itself? In practice, science relies quite heavily on inductivism, such that the more evidence to support a theory that emerges, the stronger the theory is claimed to be. Theories are used and developed positively because of their success, not because previous/other theories have been falsified.
+}*[[[break]]]to: *green {code *green I think that the main reason that Popper's concept of falsification is not widely applied is because it doesn't allow for a theory to be 'confirmed' by induction, and thus does not describe how science actually takes place. Popper dismisses inductivism, which leaves no method to measure the 'strength' of a scientific theory. If all scientific theories are equally falsifiable, then how do we distinguish a good theory from a poor theory, if no falsifying evidence presents itself? In practice, science relies quite heavily on inductivism, such that the more evidence to support a theory that emerges, the stronger the theory is claimed to be. Theories are used and developed positively because of their success, not because previous/other theories have been falsified.
+}*
+----
+Thu Mar 20 21:13:56 EST 2008
+
+
+
+[[[break]]]added at line 20: *lime {code *green I think that the main reason that Popper's concept of falsification is not widely applied is because it doesn't allow for a theory to be 'confirmed' by induction, and thus lack correlation with how science is practiced. Popper dismisses inductivism, which leaves no method to measure the 'strength' of a scientific theory. If all scientific theories are equally falsifiable, then how do we distinguish a good theory from a poor theory, if no falsifying evidence presents itself? In practice, science relies quite heavily on inductivism, such that the more evidence to support a theory that emerges, the stronger the theory is claimed to be. Theories are used and developed positively because of their success, not because previous/other theories have been falsified.
+}*[[[break]]]added at line 21: *lime {code It is important to distinguish between naive falsification and sophisticated falsification. I'm tired so I am going to copy this straight from Wikipedia
+
+"Naïve falsificationism is an unsuccessful attempt to prescribe a rationally unavoidable method for science. Sophisticated methodological falsification, on the other hand, is a prescription of a way in which scientists ought to behave as a matter of choice. The object of this is to arrive at an evolutionary process whereby theories become less bad.
+
+Naïve falsification considers scientific statements individually. Scientific theories are formed from groups of these sorts of statements, and it is these groups that must be accepted or rejected by scientists. Scientific theories can always be defended by the addition of ad hoc hypothesis. As Popper put it, a decision is required on the part of the scientist to accept or reject the statements that go to make up a theory or that might falsify it. At some point, the weight of the ad hoc hypotheses and disregarded falsifying observations will become so great that it becomes unreasonable to support the base theory any longer, and a decision will be made to reject it."
+
+The last paragraph sounds like a Kuhnian paradigm shift to me. The examples of falsification you gave are also examples of paradigm shifts, which are rare, and require the accumulation of many examples of 'falsifying' evidence that were previously ignored. Perhaps it can also be said that for an established and predictively-successful theory, a single piece of falsifying evidence is insufficient to overturn the entire theory - hence Kuhn's concept of a scientific revolution being the mode by which theories are overturned. 
+
+Melanie*
+}*
+----
+Thu Mar 20 20:17:24 EST 2008
+
+
+
+[[[break]]]deleted at line 1: *red {code 
+}*[[[break]]]added at line 17: *lime {code Can someone tell me which one of those 3 (or combination there of) people are thinking? Or is there another option? Or am I just a nutbag?
+
+}*
+----
+Thu Mar 20 20:15:16 EST 2008
+
+
+
+[[[break]]]deleted at line 2: *red {code 
+}*[[[break]]]added at line 18: *lime {code Greg.Sadler
+}*
+----
+Thu Mar 20 20:11:12 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code 
+
+Don't scientists produce evidence inconsistent with a theory, and then reject the theory. For instance, when they put an atomic clock on the space shuttle and generated results consistent with Einstein, wasn't Newton's theory falsified? Doesn't the movement of planets falsify Aristotle's theory of motion (things naturally tend to stop)?
+
+I understand that most inconsistent 'evidence' is generated by experimental or observational error. But surely when we say 'a theory is falsified by inconsistent evidence' we imply a package of ideas along the lines of 'the evidence has to actually be inconsistent; the evidence has to be good evidence in the sense that it's accurate and not just an error'.
+
+I found the position taken in the tute today to be very unusual, I thought everyone thought science was all about falsification.
+
+I can hazard three possible explanations for the view of the majority
+
+1) When we get new evidence we make a better hypothesis and move on. We never actually falsify the old one.
+
+2) Ideas about evidence being good and valid isn't actually implied in the statement 'a theory is falsified by inconsistent evidence'. In which case scientists are only not falsificationists in a very strict and technical sense
+
+3) All we're saying is that, descriptively, scientists are doing it wrong. Of course they should be falsifications (with implied caveats), but they just don't actually work that way.
+
+Sorry for the confusion going on here - it seems almost certainly a sociological factor. Perhaps the way of thinking I've been taught in the law school over the past 5 years really is very different to the way of thinking others have been learning. (to me, when someone says something like 'properly randomised' a huge bundle of ideas must be inferred to make the statement coherent. Things like minimum sample spaces, accurate maths, etc etc. It seems to me that other people are condemning ideas on the basis of what I consider to be implicit with the idea) 
+
+ 
+
+}*

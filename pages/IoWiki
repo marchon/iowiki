@@ -1,0 +1,28 @@
+IoWiki is a program for running a wiki --- a web site designed to encourage people to contribute to it.
+
+.Help
+
+Testing stuff:
+- sand.box
+- administrator.documentation
+- known.bugs
+- version.history
+- template examples
+-- CloudWiki-CloudWiki
+-- http://xeny.net/Tumblelog?template=Bop
+-- Io-Documentation
+-- ReadMe-ApparentlyReadOnly
+
+I've recently rewritten IoWiki to run on top of a stable web server instead of its own built-in web server, and that has removed all of the most serious bugs.  However, it will only run using an obsolete version of the Io interpreter, which could be a problem for some people.  DanyaAlexeyevsky has written some code which will fix this problem, and I may merge that into the main IoWiki code one day.  See InstallingIoWiki for more details.
+
+In any case, IoWiki needs a rewrite if it's going to serve its original purpose of demonstrating what a nice language Io is.  But it now serves a  new purpose: it illustrates what I think is about the right set of features for a wiki program to have.
+
+IoWiki's main features:
+* It strikes the right balance (according to me) between features and complexity: enough features to get on with lots of collaborative communication, but not enough features to distract users while they're trying to write. In this respect it's very much like the original wiki program at http://c2.com/cgi/wiki, as opposed to impressive but relatively difficult to use wikis like MediaWiki.
+* It formats its pages using ..HTML/CSS templates which you can edit through the wiki itself.  This means that an IoWiki page can look like almost anything, and more easily so than most (or even all?) other wikis.
+* Its markup language is very simple, and hence easy to learn.  (It's more or less a subset of Textile markup.)
+* It saves a complete history of page changes in a compact human-readable format.
+
+If you insist on using a more powerful wiki despite my warning that doing so will cut your productivity, I recommend CloudWiki, which is slightly more powerful and the next best compromise in my opinion, or PmWiki, which is  fairly easy to install and has oodles of features. 
+
+JasonGrossman

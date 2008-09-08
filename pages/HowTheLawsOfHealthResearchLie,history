@@ -1,0 +1,50 @@
+
+----
+Thu Jul 19 10:36:28 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code Cartwright (2007) has argued that ...
+
+choose some arguments from Grossman and Mackenzie (2005)
+
+maybe something about Bayesianism
+
+make much more of a big deal about Intention to Treat
+
+There you go!
+}*[[[break]]]to: *green {code moved to HowRCTsLie
+}*
+----
+Thu Jul 19 09:46:17 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code Grossman and Mackenzie (2005)
+}*[[[break]]]to: *green {code choose some arguments from Grossman and Mackenzie (2005)
+}*[[[break]]]changed line 5 from: *orange {code Intention to Treat blah blah blah
+}*[[[break]]]to: *green {code maybe something about Bayesianism
+
+make much more of a big deal about Intention to Treat
+}*
+----
+Thu Jul 19 09:44:33 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code Cartright (2007) has argued that ...
+}*[[[break]]]to: *green {code Cartwright (2007) has argued that ...
+}*
+----
+Thu Jul 19 09:42:50 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code Cartright (2007) has argued that ...
+
+Grossman and Mackenzie (2005)
+
+Intention to Treat blah blah blah
+
+There you go!
+}*

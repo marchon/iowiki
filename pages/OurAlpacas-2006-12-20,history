@@ -1,0 +1,78 @@
+
+----
+Thu Sep 20 15:02:45 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code ftp://xeny.net/alpacas/2006-12-20/Otto.jpg
+Otto at 13 days old (with Jason at 40 years old)
+----
+
+ftp://xeny.net/alpacas/2006-12-20/Casper.jpg
+Casper at 19 days old
+
+----
+
+ftp://xeny.net/alpacas/2006-12-20/Xeny.jpg
+Xeny at 47 days old
+}*[[[break]]]to: *green {code See OurAlpacas-12December2006.
+}*
+----
+Sun Sep  2 22:46:01 EST 2007
+
+
+
+[[[break]]]deleted at line 12: *red {code 
+----
+
+ftp://xeny.net/alpacas/2006-12-20/Casper-and-Otto.jpg
+Casper, Otto, Alison and Jason
+}*
+----
+Sun Sep  2 22:44:27 EST 2007
+
+
+
+[[[break]]]changed line 2 from: *orange {code Otto at 13 days old
+}*[[[break]]]to: *green {code Otto at 13 days old (with Jason at 40 years old)
+}*[[[break]]]changed line 6 from: *orange {code Casper at 19 days old (with Jason at 40 years old)
+}*[[[break]]]to: *green {code Casper at 19 days old
+}*
+----
+Sun Sep  2 22:44:04 EST 2007
+
+
+
+[[[break]]]deleted at line 1: *red {code Otto at 13 days old:
+}*[[[break]]]changed line 3 from: *orange {code 
+}*[[[break]]]to: *green {code Otto at 13 days old
+}*[[[break]]]deleted at line 6: *red {code Casper at 19 days old (with Jason at 40 years old):
+}*[[[break]]]added at line 7: *lime {code Casper at 19 days old (with Jason at 40 years old)
+}*[[[break]]]deleted at line 11: *red {code Xeny at 47 days old:
+}*[[[break]]]added at line 12: *lime {code Xeny at 47 days old
+}*[[[break]]]deleted at line 16: *red {code Casper, Otto, Alison and Jason:
+}*[[[break]]]added at line 17: *lime {code Casper, Otto, Alison and Jason
+}*
+----
+Sun Sep  2 22:43:10 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code Otto at 13 days old:
+ftp://xeny.net/alpacas/2006-12-20/Otto.jpg
+
+----
+
+Casper at 19 days old (with Jason at 40 years old):
+ftp://xeny.net/alpacas/2006-12-20/Casper.jpg
+
+----
+
+Xeny at 47 days old:
+ftp://xeny.net/alpacas/2006-12-20/Xeny.jpg
+
+----
+
+Casper, Otto, Alison and Jason:
+ftp://xeny.net/alpacas/2006-12-20/Casper-and-Otto.jpg
+}*

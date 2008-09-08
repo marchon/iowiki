@@ -1,0 +1,372 @@
+
+----
+2008-05-15 08:17:36 EST
+
+
+
+[[[break]]]changed line 100 from: *orange {code -> *blue Yes.  A few people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. (I'm told this is in Schilpp 1974, pp. 1192–1193.  I haven't checked that.)  It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*[[[break]]]to: *green {code -> *blue Yes.  A few people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances (see Schilpp ed. 1974, pp. 1192–1193).  It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*
+----
+Wed Feb 27 15:21:04 EST 2008
+
+
+
+[[[break]]]changed line 103 from: *orange {code --> *red I like this point a lot.  You could write a lot about it in the thesis, if you find it interesting.  On the other hand, I expect somebody's written some sort of counter-argument to it (not necessarily a persuasive one, but something). Should do a literature search later if this point turns out to be important. Jason*
+}*[[[break]]]to: *green {code --> *red I like this point a lot.  You could write a lot of detail about it in the thesis, if you find it interesting.  On the other hand, I expect somebody's written some sort of counter-argument to it (not necessarily a persuasive one, but something). Should do a literature search later if this point turns out to be important. Jason*
+}*
+----
+Wed Feb 27 15:20:36 EST 2008
+
+
+
+[[[break]]]added at line 62: *lime {code --- *red Some circular arguments are OK, especially when IBE is involved.  Or so it's claimed.  Lipton's book has stuff on this (an example involving snow-shoes, if I remember correctly). Jason*
+}*[[[break]]]added at line 63: *lime {code --- *red Excellent point. Jason*
+}*[[[break]]]added at line 100: *lime {code --> *red I like this point a lot.  You could write a lot about it in the thesis, if you find it interesting.  On the other hand, I expect somebody's written some sort of counter-argument to it (not necessarily a persuasive one, but something). Should do a literature search later if this point turns out to be important. Jason*
+
+*red Up to you, but might want to turn this thread mode stuff into document mode soon.  See http://www.c2.com/cgi/wiki?ThreadMode and http://www.c2.com/cgi/wiki?DocumentMode. Jason*
+}*
+----
+Wed Feb 27 13:51:10 EST 2008
+
+
+
+[[[break]]]added at line 99: *lime {code - The another problem section certainly seems to apply in the mathematical context.  One can easily modify mathematical theories (by adding a constant when differentiating for example) in ways that do not have observational consequences.
+
+}*
+----
+Wed Feb 27 13:47:28 EST 2008
+
+
+
+[[[break]]]added at line 51: *lime {code 
+*Another Issue*
+Problem when using IBE with regard to theories involving inobservables: can formulate infinite theories involving inobservables - how can one ever verify that the IBE-based theory choice is the correct one?
+Seems then that one must restrict IBE usage to non-theoretical contexts.
+
+*Response*
+-> P1) In the past science has demonstrated convergence in theories.
+-> P2) IBE has played a large role in science in the past.
+-> C) IBE leads to the truth
+-> _Counter-args:_
+-- Above argument uses IBE and hence is circular.
+-- IBE might not have been the property of sci. practice in the past that led to convergence.  Indeed, it may have a deleterious effect but has just been cancelled out by some other aspect of the practice in the past.
+}*
+----
+Mon Feb 25 17:57:49 EST 2008
+
+
+
+[[[break]]]changed line 67 from: *orange {code ---> *red Oh, I see.  Yes, that makes complete sense.  And I think your point 3 above is needed.  Otherwise trivial logical manipulations of mathematical symbols would count as maths. Jason*
+}*[[[break]]]to: *green {code ---> *crimson Oh, I see.  Yes, that makes complete sense.  And I think your point 3 above is needed.  Otherwise trivial logical manipulations of mathematical symbols would count as maths. Jason*
+}*
+----
+Mon Feb 25 17:57:13 EST 2008
+
+
+
+[[[break]]]added at line 66: *lime {code ---> *red Oh, I see.  Yes, that makes complete sense.  And I think your point 3 above is needed.  Otherwise trivial logical manipulations of mathematical symbols would count as maths. Jason*
+}*
+----
+Mon Feb 25 17:34:57 EST 2008
+
+
+
+[[[break]]]added at line 65: *lime {code ---> *green So I guess my position that while I believe the way in which these conditions where arrived at (some form of social construction) is the same for both science and maths, the content of those conditions differs markedly.*
+}*
+----
+Mon Feb 25 17:27:43 EST 2008
+
+
+
+[[[break]]]changed line 64 from: *orange {code ---> *green In the mathematical case, I think there are probably three main conditions: 1.) the subject(s) of the activity is/are
+mathematical objects (i.e. ones that have been previously accepted as such, really statements any new math. objects must also involved references to pre-existing ones); 2.) the procedures used are valid in terms of deductive logic; 3.) the use of math. objects and procedures is accepted as valid by the math. ocmmunity (this condition may not actually be necessary).*
+}*[[[break]]]to: *green {code ---> *green In the mathematical case, I think there are probably three main conditions: 1.) the subject(s) of the activity is/are mathematical objects (i.e. ones that have been previously accepted as such, really statements any new math. objects must also involved references to pre-existing ones); 2.) the procedures used are valid in terms of deductive logic; 3.) the use of math. objects and procedures is accepted as valid by the math. community (this condition may not actually be necessary).*
+}*
+----
+Mon Feb 25 17:26:57 EST 2008
+
+
+
+[[[break]]]changed line 13 from: *orange {code Additional book recommended by Jason (reference in locker in Chifley)
+*blue probably  Peter Lipton, _Inference to the Best Explanation_, Routledge, 2nd edition*
+}*[[[break]]]to: *green {code Peter Lipton, _Inference to the Best Explanation_, Routledge, 2nd edition
+}*[[[break]]]changed line 66 from: *orange {code mathematical objects (i.e. ones that have been previously accepted as such, really statements any new math. objects must also involved references to pre-existing ones); 2.) the procedures used have either been accepted as mathematical in the past or merely involve the application of deductive logic (which I guess could really count as an acceptable mathematical procedure); 3.) - One could question whether or not the explanatory criteria detailing above are applicable in a mathematical context.
+}*[[[break]]]to: *green {code mathematical objects (i.e. ones that have been previously accepted as such, really statements any new math. objects must also involved references to pre-existing ones); 2.) the procedures used are valid in terms of deductive logic; 3.) the use of math. objects and procedures is accepted as valid by the math. ocmmunity (this condition may not actually be necessary).*
+---> *green It seems then that the conditions for scientific activity would differ only with regrd to the what was considered an acceptable scientific procedure.  I would argue that the conditions for this are not as stringent.  In particular, there is not the requirement for conclusions to be necessary in a deductive logical sense.* 
+- One could question whether or not the explanatory criteria detailing above are applicable in a mathematical context.
+}*
+----
+Mon Feb 25 17:20:12 EST 2008
+
+
+
+[[[break]]]changed line 64 from: *orange {code 
+- One could question whether or not the explanatory criteria detailing above are applicable in a mathematical context.
+}*[[[break]]]to: *green {code ---> *green Okay, I just sat in the NLA foyer and had a bit more of a think about this.  If one views both mathematics and science as activities, then I guess the way one must distinguish them is by looking at the conditions under which it would be accepted that one's activities qualify as "doing" science or mathematics.*
+---> *green In the mathematical case, I think there are probably three main conditions: 1.) the subject(s) of the activity is/are
+mathematical objects (i.e. ones that have been previously accepted as such, really statements any new math. objects must also involved references to pre-existing ones); 2.) the procedures used have either been accepted as mathematical in the past or merely involve the application of deductive logic (which I guess could really count as an acceptable mathematical procedure); 3.) - One could question whether or not the explanatory criteria detailing above are applicable in a mathematical context.
+}*
+----
+Mon Feb 25 16:06:56 EST 2008
+
+
+
+[[[break]]]changed line 83 from: *orange {code -> *blue Yes.  A few people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. (I'm told this is in (Schilpp 1974, pp. 1192–1193).  I haven't checked that.  It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*[[[break]]]to: *green {code -> *blue Yes.  A few people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. (I'm told this is in Schilpp 1974, pp. 1192–1193.  I haven't checked that.)  It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*
+----
+Mon Feb 25 16:06:28 EST 2008
+
+
+
+[[[break]]]changed line 83 from: *orange {code -> *blue Yes.  A few people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*[[[break]]]to: *green {code -> *blue Yes.  A few people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. (I'm told this is in (Schilpp 1974, pp. 1192–1193).  I haven't checked that.  It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*
+----
+Mon Feb 25 15:29:12 EST 2008
+
+
+
+[[[break]]]added at line 62: *lime {code ---> *pink That's tantalising!*
+}*[[[break]]]deleted at line 70: *red {code 
+}*[[[break]]]added at line 71: *lime {code --> *pink No problem with mentioning both.*
+}*
+----
+Mon Feb 25 14:27:37 EST 2008
+
+
+
+[[[break]]]added at line 60: *lime {code ---> *green Yeah, now that I've though about it a bit more, I think some interpretations of Wittgenstein would support this view as well.*
+---> *green I do have one difficulty with it however: while I think I would support the view that the processes from which scientific and mathematical theories arise are the same I do not think that these processes have lead to scientific and mathematical theories being structurally identical.  In particular, I think that the they differ with regard to how they are associated with logical necessity (be that necessity socially constructed or otherwise).*
+}*
+----
+Mon Feb 25 14:21:50 EST 2008
+
+
+
+[[[break]]]changed line 66 from: *orange {code - Can the Riemann Hypothesis be used as an example to demonstrate how ampliative explanations are not acceptible in a mathematical context?
+}*[[[break]]]to: *green {code - Can the Riemann Hypothesis be used as an example to demonstrate how ampliative explanations are not acceptable in a mathematical context?
+}*[[[break]]]added at line 68: *lime {code --> *green I think your idea about replacing this with the twin prime hypothesis is probably a good idea.  Although Riemann is probably "cooler" I think the twin prime will make the same point and allow my thesis to be more accessible.*
+
+}*
+----
+Sun Feb 24 14:49:25 EST 2008
+
+
+
+[[[break]]]changed line 64 from: *orange {code --> *blue I agree.  Although in my (limited) experience, it's even harder for mathematicians to say what makes a theory beautiful than it is for scientists ... and it's hard enough for anybody!  If you had your own theory about this, that would be a great thing to write about.  Jason*
+}*[[[break]]]to: *green {code --> *blue I agree.  Although in my (limited) experience, it's even harder to say what makes a mathematical theory beautiful than it is for a scientific theory ... and even that is too hard!  Jason*
+}*
+----
+Sun Feb 24 14:48:05 EST 2008
+
+
+
+[[[break]]]changed line 64 from: *orange {code --> *blue Interesting.  In my (limited) experience, it's even harder for mathematicians to say what makes a theory beautiful than it is for scientists ... and it's hard enough for anybody! Jason*
+}*[[[break]]]to: *green {code --> *blue I agree.  Although in my (limited) experience, it's even harder for mathematicians to say what makes a theory beautiful than it is for scientists ... and it's hard enough for anybody!  If you had your own theory about this, that would be a great thing to write about.  Jason*
+}*
+----
+Sun Feb 24 14:46:39 EST 2008
+
+
+
+[[[break]]]changed line 78 from: *orange {code -> *blue Yes.  A very small number of people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*[[[break]]]to: *green {code -> *blue Yes.  A few people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*
+----
+Sun Feb 24 14:46:09 EST 2008
+
+
+
+[[[break]]]changed line 60 from: *orange {code --- *blue I can't think of anyone who's ever said that maths was exactly the same as the sciences, but several people have said that it's very similar, most famously Mill and Quine.  (Mill in more detail than Quine.)  It's an unpopular position, but personally I think it's right. Jason*
+}*[[[break]]]to: *green {code ---> *blue I can't think of anyone who's ever said that maths was exactly the same as the sciences, but several people have said that it's very similar, most famously Mill and Quine.  (Mill in more detail than Quine.)  It's an unpopular position, but personally I think it's right. Jason*
+}*[[[break]]]changed line 64 from: *orange {code -- *blue Interesting.  In my (limited) experience, it's harder for mathematicians to say what makes a theory beautiful than it is for scientists ... and it's hard enough for anybody. Jason*
+}*[[[break]]]to: *green {code --> *blue Interesting.  In my (limited) experience, it's even harder for mathematicians to say what makes a theory beautiful than it is for scientists ... and it's hard enough for anybody! Jason*
+}*[[[break]]]changed line 78 from: *orange {code - *blue Yes.  A very small number of people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*[[[break]]]to: *green {code -> *blue Yes.  A very small number of people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*
+----
+Sun Feb 24 14:44:47 EST 2008
+
+
+
+[[[break]]]added at line 13: *lime {code *blue probably  Peter Lipton, _Inference to the Best Explanation_, Routledge, 2nd edition*
+}*[[[break]]]added at line 58: *lime {code --- *blue I can't think of anyone who's ever said that maths was exactly the same as the sciences, but several people have said that it's very similar, most famously Mill and Quine.  (Mill in more detail than Quine.)  It's an unpopular position, but personally I think it's right. Jason*
+}*[[[break]]]added at line 61: *lime {code -- *blue Interesting.  In my (limited) experience, it's harder for mathematicians to say what makes a theory beautiful than it is for scientists ... and it's hard enough for anybody. Jason*
+}*[[[break]]]added at line 74: *lime {code - *blue Yes.  A very small number of people disagree with it, most notably very strict Popperians ... but even Popper himself eventually came to accept induction in some circumstances. It's not something you'd have to argue for unless it was the main topic of the thesis.  Jason*
+}*[[[break]]]added at line 75: *lime {code ChrisWilcox
+}*
+----
+Sun Feb 24 14:31:30 EST 2008
+
+
+
+[[[break]]]added at line 49: *lime {code -- Problem re: need additional argument to link IBE and induction as don't want to argue that all forms of ampliative inference are acceptable.
+--- Identity argument doesn't seem to work as there exist cases in which inductive inference is not explanatory (e.g. people at shops on Tues.)
+}*[[[break]]]changed line 72 from: *orange {code 
+}*[[[break]]]to: *green {code - Is P4 of response 4 actually the case?
+}*
+----
+Sun Feb 24 14:26:05 EST 2008
+
+
+
+[[[break]]]added at line 69: *lime {code -- Note: this point is probably a bit rough and unclear - I will come back to it over the next couple of days and clean it up.
+
+
+}*
+----
+Sun Feb 24 14:22:00 EST 2008
+
+
+
+[[[break]]]changed line 38 from: *orange {code Def.) An hypoth. is tested by comparing it with observed data.
+P1) Successful testing increases the likelihood of truth.
+P2) Better explanations are more testable.
+C) Theories of high explanatory quality are more likely to be true.
+
+}*[[[break]]]to: *green {code -> Def.) An hypoth. is tested by comparing it with observed data.
+-> P1) Successful testing increases the likelihood of truth.
+-> P2) Better explanations are more testable.
+-> C) Theories of high explanatory quality are more likely to be true.
+-- Problem re: whether testability is defined in terms of desire to confirm or disconfirm hypoth. as this leads to differ hypoth. choice in many cases.
+
+4. 
+-> P1) IBE is ampliative.
+-> P2) Enumerative induction is ampliative.
+-> P3) No pattern of ampliative inference can be shown antecendently to lead to true conclusions.
+-> P4) We accept induction as a legitimate form of reasoning.
+-> C) We should also accept IBE as a legitimate form of reasoning.
+}*[[[break]]]changed line 48 from: *orange {code -- Of course, one could argue that there is no distinction between the two but no such argument is made.
+}*[[[break]]]to: *green {code -- Of course, one could argue that there is no distinction between the two but no such argument is made in the reading I have done.
+}*
+----
+Sun Feb 24 14:13:53 EST 2008
+
+
+
+[[[break]]]changed line 57 from: *orange {code - Testability stuff in response 3 (specifically P1) seems to be questionable due to the continuously developing state of observation technology.  
+}*[[[break]]]to: *green {code - Testability stuff in response 3 (specifically P1) seems to be questionable due to the link between testability and the continuously developing state of observation technology.  
+
+-> For example, biological explanations involving the postulation of the existence of microscopic entities (cells, gametes, etc.) would not have been testable prior to the invention of the microscope and yet these are theories that we now believe to be true.  
+
+-> String theory (or M theory) seems like a current example of a situation in which a theory has great explanatory quality but is not yet testable.
+
+
+}*
+----
+Sun Feb 24 14:07:34 EST 2008
+
+
+
+[[[break]]]changed line 11 from: *orange {code - VOGEL, JONATHAN (1998). Inference to the best explanation. In E. Craig (Ed.), Routledge Encyclopedia of Philosophy. London: Routledge. Retrieved February 24, 2008, from http://www.rep.routledge.com.virtual.anu.edu.au/article/P025
+}*[[[break]]]to: *green {code VOGEL, JONATHAN (1998). Inference to the best explanation. In E. Craig (Ed.), Routledge Encyclopedia of Philosophy. London: Routledge. Retrieved February 24, 2008, from http://www.rep.routledge.com.virtual.anu.edu.au/article/P025
+}*[[[break]]]changed line 13 from: *orange {code - Additional book recommended by Jason (reference in locker in Chifley)
+}*[[[break]]]to: *green {code Additional book recommended by Jason (reference in locker in Chifley)
+}*[[[break]]]added at line 36: *lime {code 3. 
+Def.) An hypoth. is tested by comparing it with observed data.
+P1) Successful testing increases the likelihood of truth.
+P2) Better explanations are more testable.
+C) Theories of high explanatory quality are more likely to be true.
+
+}*[[[break]]]added at line 40: *lime {code - Most of the reasoning above seems to relate to scientific rather than mathematical theories.
+-- Of course, one could argue that there is no distinction between the two but no such argument is made.
+--- _For Jason:_ has such an argument been made?
+
+}*[[[break]]]added at line 45: *lime {code 
+- Testability stuff in response 3 (specifically P1) seems to be questionable due to the continuously developing state of observation technology.  
+}*
+----
+Sun Feb 24 13:57:40 EST 2008
+
+
+
+[[[break]]]changed line 25 from: *orange {code * The Main Counter Argument*
+}*[[[break]]]to: *green {code *The Main Counter Argument*
+}*
+----
+Sun Feb 24 13:57:19 EST 2008
+
+
+
+[[[break]]]changed line 25 from: *orange {code * The Main Counter-Argument*
+}*[[[break]]]to: *green {code * The Main Counter Argument*
+}*
+----
+Sun Feb 24 13:56:50 EST 2008
+
+
+
+[[[break]]]added at line 22: *lime {code ----
+
+* The Main Counter-Argument*
+
+Our main goal when choosing hypotheses should be to get closer to the truth.  However, the usual explanatory criteria are unrelated to truthiness.
+
+*Responses*
+}*[[[break]]]added at line 23: *lime {code 1. Truth is not the goal.
+- Has problems re: use of IBE in everyday situations (e.g. jury).
+}*[[[break]]]added at line 24: *lime {code 2. Truth is not _sole_ goal.  Explanatory quality is also legitimate basis for hypoth. selection.
+- Problem re: what to do when these two goals conflict with regard to theory choice.
+}*
+----
+Sun Feb 24 13:50:36 EST 2008
+
+
+
+[[[break]]]deleted at line 14: *red {code 
+}*[[[break]]]deleted at line 27: *red {code 
+}*[[[break]]]changed line 35 from: *orange {code - 
+}*[[[break]]]to: *green {code - Can the Riemann Hypothesis be used as an example to demonstrate how ampliative explanations are not acceptible in a mathematical context?
+-- That is, the hypothesis is a very well empirically supported theory regarding the distribution of the primes that is still held to be an open problem despite this strong empirical support.
+}*
+----
+Sun Feb 24 13:47:05 EST 2008
+
+
+
+[[[break]]]changed line 11 from: *orange {code - Routledge Article: Inference to the best Explanation
+}*[[[break]]]to: *green {code - VOGEL, JONATHAN (1998). Inference to the best explanation. In E. Craig (Ed.), Routledge Encyclopedia of Philosophy. London: Routledge. Retrieved February 24, 2008, from http://www.rep.routledge.com.virtual.anu.edu.au/article/P025
+}*[[[break]]]added at line 12: *lime {code - Additional book recommended by Jason (reference in locker in Chifley)
+
+----
+
+*The Argument (or statement)*
+
+When choosing between competing hypotheses, one should choose the hypothesis that better explains the available data.
+
+*Explanation?*
+
+Factors involved in determining explanatory power in this sense include depth, comprehensiveness, simplicity and unifying power.
+
+
+
+
+----
+
+*What do I think?*
+
+- One could question whether or not the explanatory criteria detailing above are applicable in a mathematical context.
+-- Although most of them do seem to be criteria that mathematicians would use to determine the "beauty" of a particular theory.
+
+- 
+}*
+----
+Sun Feb 24 13:36:29 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code *What is it?*
+
+A method for choosing between competing hypotheses.
+
+*Why is it important to what I'm working on?*
+
+Because Colyvan's indispensability argument for a realist view of mathematical entities appears to be based on it.
+
+*Where is it found?*
+
+- Routledge Article: Inference to the best Explanation
+
+}*

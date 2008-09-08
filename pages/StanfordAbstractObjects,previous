@@ -1,0 +1,57 @@
+----
+*What is it?*
+
+Stanford article on ways in which one might distinguish abstract from concrete objects.
+
+*Where can it be found?*
+
+Rosen, Gideon, "Abstract Objects", The Stanford Encyclopedia of Philosophy (Spring 2006 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/spr2006/entries/abstract-objects/>.
+
+*How does it fit in?*
+
+If I'm going to criticise C re: his mathematical objects possibly not being abstract, then it'd be a good idea to get a better idea of how that distinction can be made
+----
+*Summary*
+
+Background and History:
+- no standard account of distinction
+- states objects of pure mathematics are _universally acknowledged_ to be abstract
+- uncertain what the phil. significance of distinction is
+- only really significant since 20th C.
+- notes that Plato's forms were never supposed to be causally inert
+- Locke: abstract formed by omission of distinguishing detail
+-- rejected by Berkeley and Hume
+- Frege significant in his positing of a "third realm" (outside of those of concrete objects and of ideas in the mind) for mathematical entities and thoughts (i.e. senses)
+-- this third realm has come to be seen as the realm of the abstract
+Possible Methods of Distinction:
+- way of negation (following Frege): abstract is lacking certain features possessed of paradigmatic concrete objects
+-- but in what way does Frege want abstract objects to be ..mind-independent, i.e. independent of the psychological realm? (for e.g. the game of chess is constructed by us (and hence is ..mind-dependent in some sense) but would seem to be abstract)
+--- also, what about some for of theism? don't want to rule that out _by definition_
+-- additionally, Frege's definition seems to imply that quarks and electrons are abstract, contrary to 
+- ..non-spatiality: abstract objects are those that exist outside of time and space (or one or the other)
+-- but does it make sense to claim this of something like the game of chess?
+-- possible distinguish instead in terms of manner in which abstract objects occupy space?  (e.g. do not seem to be extended)
+--- claims that prob. dist. view of protons under quantum mechanics is a problem for this view
+--- *green but is it really, can't one just add the spatial manifestation via probability distribution to the ways of spatial manifestation held to be characteristic of concrete objects?*
+-- problem re: impure sets as they seem to be extended in virtue of their members (given that they are concrete objects)
+--- *green are they really though?  certainly they _exist_ (using existence without ontological implication here) in space in some sense but are they really _extended_ in any sense beyond that of their members?*
+- causal inefficacy: abstract objects can't make stuff happen
+-- in some sense thinking about abstract objects does seem to give them a causal role
+-- and given difficulties in giving clear account of causation, hard to characterise distinctive ways in which abstract and concrete objects participate in the causal order
+- the way of e.g.: list paradigm cases and hope for the best
+-- difficulties then in accounting for why distinction is of interest
+-- especially in light of problems abstract objects pose in epistemology and phil. of language
+- conflation: actually just another metaphysical distinction that has been "mislabelled"
+--  not widely held
+- abstraction: akin to Locke - considering several objects and then dropping distinguishing features
+-- but how do we get from ideas to objects?
+-- ~abstract objects as referents of abstract ideas as this is reliant upon an outdated phil. of mind
+-- new Fregean possibility (due to Wright and Hale):
+--> when we have f(a)=f(b) iff aRb, with R an equivalence relation, then f picks out an abstract entity
+-- note: has special semantic status: RHS is semantically (and perhaps epistemologically) prior to the LHS
+----
+*What do I think?*
+
+----
+
+ChrisWilcox

@@ -1,0 +1,39 @@
+
+----
+
+
+
+[[[break]]]changed line 1 from: *orange {code redirect://ftp://xeny.net/Grossman-statistical-inference.pdf
+}*[[[break]]]to: *green {code See ftp://xeny.net/Grossman-statistical-inference.pdf.
+}*
+----
+Thu Jul  5 13:59:43 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code redirect://ftp://xeny.net//Grossman-statistical-inference.pdf
+}*[[[break]]]to: *green {code redirect://ftp://xeny.net/Grossman-statistical-inference.pdf
+}*
+----
+Thu Jul  5 13:58:36 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code redirect://http://gentoo.xeny.net/public/Grossman-statistical-inference.pdf
+}*[[[break]]]to: *green {code redirect://ftp://xeny.net//Grossman-statistical-inference.pdf
+}*
+----
+Wed Mar 28 15:31:41 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code http://gentoo.xeny.net/public/Grossman-statistical-inference.pdf
+}*[[[break]]]to: *green {code redirect://http://gentoo.xeny.net/public/Grossman-statistical-inference.pdf
+}*
+----
+Wed Mar 28 15:31:18 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code http://gentoo.xeny.net/public/Grossman-statistical-inference.pdf
+}*

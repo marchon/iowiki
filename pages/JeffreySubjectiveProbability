@@ -1,0 +1,40 @@
+"Subjective Probability: The Real Thing"
+by Richard Jeffrey
+
+Notes:
+
+Chapter 1 (Probability Primer)
+* Probability primer all makes good sense (nice complement to Resnik's similar chapter) however I am unable to follow the Dutch Book argument for the product rule (i.e. P(H and E)=P(H|E).P(E)).  Need to chase de Finetti reference in ReadingList *have now sorted this problem - the provision of this argument misses labelling one of the tickets, it seems I was assuming the wrong ticket was ticket 1*
+
+Chapter 2 (Testing Scientific Theories)
+* Introduction to quantification of confirmation (bayes factors etc) - all straight forward and very useful
+* Bulk of the chapter deals with Dorling's approach to the Duhem problem.  This is based largely on an unpublished paper by Dorling which Jeffrey provides a link to.  While it is not stated the chapter has to be read alongside the Dorling paper (Jeffrey makes un-stated references to formulations only available in the Dorling paper; top of p40)
+* See DorlingNotes for an attempt to look at some of the questions raised by the Dorling paper
+* I loose the plot somewhere in sec 2.5 and am yet to complete some of the supplementary problems
+
+Chapter 3 (Probability dynamics; Collaboration)
+* Tough chapter. Covers generalised conditioning (probability kinematics); collaboration (using someone else's probability factors to update your prior probabilities) and 'softcore empiricism'(using 'soft' probabilistic data sentences as the kernel for empiricism).  All of this happens within 10 pages.
+* I don't seem to be able to square some of the numbers he derives from example 5, p56 (i.e. your probability factors).  Not sure if this is an error or I am doing something silly.  The formulas seem to make sense.
+* I only have a superficial understanding of sec 3.4 (updating twice: commutativity) and sec 3.5 (softcore empiricism).  Probably need to chase the references in 3.4 to get a deeper understanding, the two pages don't seem to be enough for someone to get their head around when (and when not) order of updating on an experts probability factors matters.  3.5 is interesting but it is difficult to know how deeply to go into it.
+
+Chapter 4 (Expectation Primer)
+* Like much of the book this seems to get pretty technically difficult fairly quickly.  That said the basic concepts seem fair enough here - though as usual many questions remain (an unknown proportion of which may be important)
+* Less than clear on the concept of an indicator of a hypothesis - (the expectation of which is identical as your probability of the hypothesis)
+* Calibration seems to make sense but I could use some additional reading.  Convexity (p.66) seems pretty intuitive - if I have the meaning on this right I would like to explore it connection with the general principle of reflection (i.e. are they the same thing).
+* I like the reply to the two envelop paradox through the discharge fallacy (?has this been published elsewhere - need to check for discussion)
+* Law of large numbers seems to make  good sense provided I take the maths on face value.
+* The supplements lose me.
+
+Chapter 5 (Updating on Statistics)
+* Very interesting stuff.  This seems the meaty end of the book - making clear the link between subjective probability and observed frequencies of events.  To what extent can we make inductive inferences based on observed frequencies?
+* Reading the Zabell paper helped alot, thought of course many questions remain.
+* The importance of exchangeability to the possibility of inductive reasoning is well shown.  Will be good to explore many of these topics further - de Finetti's theorem - when it holds and what assumptions are required; the link between the rule of succession/de Finetti's theorem and Bayes Theorem would also be good to get my head around.
+* Talking to someone about example 1 would be good - particularly on the topic of when and where you can swap between observed frequences and probability statements.  Is it possible to calculate (on the information) given the agents prior guess on the make up of the urn (my attempt suggest a third - but I am not too sure of my assumptions)
+* I have some lingering questions about how de Finnetti's theorem is presented and possible differences between it and what is discussed in the Zabell paper, particularly when it comes to the assumption of uniformity.
+* Partial exchangeability makes some sense but again I would think more reading than that provided is required.  Some of the concluding comments here are interesting - they seem to shed doubt (or at least restrict) the applicaiton of de Finetti's theorem to the (some) bayesian purpose.
+
+Chapter 6 (Choosing)
+* I like the move to decision theory.  Jeffrey is explicit that he is putting forward his (and Bolker's) formulation of decision theory and not considering alternatives.  Like the rest of the book the discussion here is very interesting and raises many additional questions, the discussion is again very sparse - it is usually left to the reader to think through what the ramifications of the arguments are.  An example is the basic probability and desirability link - this appears to be the core of Jeffrey's decision theory and yet it is just stated rather than proved or discussed (the comparison with Savage's decision theory is equally sparse).  It seems fair to suggest that the book is written assuming much background is known by the reader.
+* The discussion of the sure thing principle is very helpful - though the context is not completely clear (particularly wrt comparisons with Savage); the discussion on causality is also very interesting, including Jeffrey's link of causality with decision theory.
+* Some minor quibbles: I can't make sense of the proof that 'denial reverses preferences' is fallacious, there seems to be mistakes in the calculations in the marlboro man example; terminology and symbols being used seem to pop up unheralded or change througout - e.g. it took a while to figure out what 'BJ-ing the malboro man' was supposed to mean, and, the symbols in the reply to the flagship Newcomb problem seem to change without warning.  I suspect the symbols are refering to an older paper by Jeffrey but I am yet to check.  These small issues seem to be able to be understood in the context of the abrupt ending of the book.
+* Jeffrey's reply to the Newcomb problem seems very compelling.  It will be useful for me to check some of the literature on this to see where it sits in the broader context.

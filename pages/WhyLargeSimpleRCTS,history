@@ -1,0 +1,133 @@
+
+----
+Fri Aug 11 14:34:06 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code ## Why do we need some large, simple randomised trials?
+
+....
+}*[[[break]]]to: *green {code  Why do we need some large, simple randomised trials?
+}*
+----
+Fri Aug 11 14:33:41 EST 2006
+
+
+
+[[[break]]]added at line 2: *lime {code ....
+
+}*
+----
+Fri Aug 11 14:33:12 EST 2006
+
+
+
+[[[break]]]added at line 2: *lime {code 
+}*
+----
+Wed Mar  8 12:12:52 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code ## Why do we need some large, simple randomised trials?
+
+This is by and large a summary of, and critical reply to, the Yusuf, Collins and Peto paper of this title (Statistics in Medicine 1984;3:409-20.)
+I am taking this as a seminal paper in kick-starting the way the key clinical trials are currently conducted (at least the clinical trials I am particularly interested in).  I think this is justified because: what they describe in this paper is pretty much how things turned out; this paper pre-dates the trials which are generally considered to be the first big trials which kicked off EBM; the authors, and the units within which they were working, WERE [Jason] involved in the set up and execution of some of these seminal trials (e.g. ISIS); and finally this paper has been referenced 282 times on ISI web of science and the authors appear to be continuing to publish with similar views.
+
+The aim here is to outline some of the philosophical implications and problems raised by this paper.
+
+# The key conclusion 
+The conclusion is that *large, simple randomised* trials of the effects on *mortality* of various *widely practicable* treatments for *common* conditions are both possible and desirable (p409).  
+
+Pretty much each term here needs some unpacking, for the italicised terms the authors make it pretty clear what they mean and they are reasonably uncontroversial.  [I know this is just notes, but still I suggest you practise "good" grammar all the time.  Personally I don't care much about the supposed rules of grammar, but it's not me who matters: what matters is that you probably won't get away with that comma policy in a thesis, and certainly not in a published paper.  OK, sorry if this is just obvious.  Jason]  Precisely what they mean by possible and desirable however, I would argue is a little ambiguous.  
+
+In one sense, that such trials are possible has been borne out by history.  I think the more important sense in which the authors are using possible is in the sense that it is possible to get *reliable and relevant* results from large, simple RCTs - this sense of possible is not articulated explicitly but rather by the arguments which they provide.
+
+-> Right: the second sense is more important.  But I expect that in 1984 they thought that it wasn't politically or economically obvious that very large trials would be possible even in the bare first sense.  Jason
+
+By desirable I take them to mean that large simple RCTs are the optimal way of getting *reliable and relevant* results for the questions which they are asking.
+
+We are now left with the question of how the authors mean reliable and relevant.  While this is not directly discussed the only way I can make sense of it is if the authors are taking reliable as a trial providing a statistically significant p-value.  This is evidenced by: (p413) "...one aim of current and future trials should be to distinguish reliably between the only two medically plausible alternatives: either there is no worthwhile difference in survival, or treatment confers a moderate, but worthwhile benefit.  It is not sufficiently widely appreciated just how large clinical trials really need to be in order to detect such moderate differences reliably.. [proceed to discussion on p-values and table II and III]..".
+
+-> Seems more likely to me that by "reliably" they meant reproducibly, rather than something technical like a p-value.  A p-value is just the mechanism by which they thought they could achieve reliability.  Mind you, what I've just said begs a huge question: did they think of reliability in a Bayesian/subjectivist sense or, alternatively, in the Frequentist sense of long-run averages over the sample space?  Jason
+
+By relevant, I take the authors to mean that the results of the trial are clinically relevant (i.e. able to assist clinicians and patients in day to day decisions).  There is little point in the trials only being reliable (in the statistical sense that I am taking the authors to mean) without clinical relevance.
+
+-> Sounds right to me.  Jason
+
+Before going much further it is worth being clear on the type of question for which the authors are suggesting that their trial design is optimal: Does a given intervention which should theoretically have modest beneficial effects when prescribed for a given condition actually provide these benefits in reality when widely prescribed for a common condition?  (I shall call this a population question)
+
+They spend some time providing justification for suggesting that this is a common question, much of which seems reasonable - if there is a problem here it is that it may be argued that it is somewhat circular - it is asked with the trial design already in mind.  A point which will constantly be made against this is that it is not the question that a clinician (or for that matter, a patient) will typically ask: What is the likely balance of benefits and harms of a given intervention for a particular patient with a specific disease and unique patient characteristics?  (I shall call this an individual clinical question) 
+
+-> Very important point, but I don't see how it goes *against* what Peto et al say.  Jason
+
+Comments on what the authors mean by some of the italicised terms is also important:
+Large - they are talking >5-10 000; this is required in order to find a statistically significant difference when the benefits are likely to be modest.  The authors assume the need for a classical framework, one way to respond to this paper would be to agree with the authors central problem - that small trials are unable to show modest benefits - and claim this as a problem of classical statistics which is fixed by abandoning it.  
+-> ... although in many cases it won't be fixed by abandoning it (as I know you know!).  Jason
+Simple - by simple the authors mean a number of things, such as: only one key endpoint, wide inclusion criteria, minimal gathering of prognostic details (gather only those known to have  an effect on the question being studied), few follow-ups.. ?more.  The focus on simple seems to be largely one of pragmatics - the only way of getting a trial of the scale they are suggesting off the ground is to keep it simple.  They spend some time in arguing why such simple trials will still provide reliable results.  It is these arguments which I think may be particularly problematic.
+-> Good.  Jason
+Mortality, widely practicable treatments and common conditions - the focus here is narrowing down the question; the authors acknowledge that if the intervention does not have an effect on mortality or some other important endpoint (i.e. endpoints in which all would agree that modest differences are worth attaining), if the treatment cannot be widely and simply prescribed and if the focus is not on common conditions then large simple RCTs may not be the optimal trial design.
+
+# The structure of their argument 
+With the given title one might expect that this paper would provide an argument for why we need some large simple RCTs.  This is not quite what the authors focus on, rather the structure of the argument is something like this: *Given that we need large randomised trials in order to show modest benefits of interventions they need to be simple.  This is OK because simple trials still provide relevant and reliable results.*
+-> interesting distinction; good analysis :--) Jason
+The first part of this argument is the following - We need (desire) large simple randomised controlled trials because:
+(1) the benefits of the interventions on the endpoints which we are focusing on are likely to be modest 
+(2) given that the benefits are likely to be modest we must ensure that any possible biases are not modest (otherwise we may reach the wrong conclusions)
+(3) classical statistics is the framework for statistical inferences (implicit)
+Therefore 
+(4) systematic and random error must be minimised (p416).  Systematic error is minimised through randomisation; intent-to-treat analysis and making inferences only on primary endpoints.  Random error is minimised through large numbers -  if the benefits are likely to be modest then there must be sufficient numbers in the experiment to ensure that a statistically significant p-value can be found.
+-> This is rather a subtle point, but: it seems to me that even classical statisticians shouldn't care about bias (in the technical sense), just as Bayesian statisticians don't.  And if I'm right then bias has very little to do with error.  You probably remember my UQ seminar about this.  If I'm right then the fact that they do care about bias (in the technical sense) should count as another assumption.  Jason
+
+-> This is as far as I've got for the moment.  Jason
+
+The argument does not seem too controversial - I accept premise (1) and (2) and agree that *if* we accept classical statistics, *and* the question as posed by the authors, then it would seem to follow that for testing modest benefits large randomised trials (with the typical considerations of clinical epidemiology) are a good, and perhaps desirable/optimal way to go.  I do question whether we should accept classical statistics and the question as posed by the authors but will come back to these because I think a large part of the paper focuses on a different question (which I think is a little more controversial). 
+
+The question is this:
+Given that we need large randomised controlled trials (due to the above argument), are they possible?  Possible in the sense of pragmatics and possible in the sense that they can be conducted in such a way as to provide reliable and relevant results.
+To make it possible to conduct such large trials in the sense of pragmatically possible the authors argue that they must be simple (in the sense outlined above).  What I think is contentious is the authors claim that simple trials can provide reliable and relevant results. 
+
+Firstly what are the key measures which help achieve simplicity (some of this is from p417, others are littered throughout the paper): (only the ones I am particularly interested in are listed)
+* Have a simple, major endpoint (i.e. mortality); do not follow up many minor/secondary endpoints
+* Entry criteria should be made as wide as possible (and may vary from centre to centre - provided they are within broad guidelines)
+* Note only a few baseline variables that are known to be prognostic importance and the few pre-selected factors that may be particulary likely to 'interact' strongly with treatment.
+* Treatment complexity should be minimised
+* The complexity and number of follow up forms should be minimised
+
+The key argument the authors rely on to suggest that simple trials can provide reliable and relevant results is the following: (from p413) Interactions of any non-zero treatment effect with almost any prognostic variable are commonly to be expected, but these are likely to be *quantitative* rather than *qualitative*.
+i.e. if the intervention has different effects in different subgroups it is likely to be a difference in degree rather than direction.  
+
+This appears to be a metaphysical assumption of the authors.  Inexplicably the authors go on to say: (from p413) Our expectation is not that all qualitative interactions are unlikely , but merely that unanticipated qualitative interactions are unlikely, especially if attention is restricted to one mode of death.
+
+This seems an impossible position to defend - if qualitative interactions can occur why should we assume that only known qualitative interaction would occur?  It seems quite dangerous to need the assumption of no qualitative interactions in order to establish the reliability and relevance of the simplicity of your trial methodology. 
+
+The paragraph which immediately follows this (top of p416) makes a number of important points:
+These expectations suggest that in a hypothetical extremely large trial of an active treatment the results in different subgroups would tend to point in the same direction.  However, in a few particular subgroups of an actual trial this tendency may be either substantially exaggerated or, conversely, diluted or reversed by the play of chance.  Likewise although the results in several extremely large trials of a particular treatment should in theory all be similar, many trials are not large, and so the play of chance may actually produce some apparent heterogeneity in the direction of the effects of similar treatments in different trials.
+
+The authors here seem to be providing the reverse of their argument above, something like: “We don’t expect qualitative interactions therefore when we do see them they are likely to be the play of chance”.  While this is not entirely wrong it does seem to beg the question of how we will ever detect new qualitative interactions.  The authors seem to provide a partial answer in the remainder of the paragraph:
+
+Consequently, not only should the conclusions in an individual trial be based on its overall result, but also, as long as bias can be avoided, a semi-formal overview of all the relevant trials (which minimised the effects of the play of chance) may be considerably more informative than any one trial.  This in turn suggests the wider generalisability of any effects that are clearly evident in such overviews of trials to types of patient other than those who were entered (and to subgroups where no apparent benefit was observed) as long as there are not strong prior reasons to expect harm, i.e. no strong anticipation of a qualitative interaction. Therefore, much less detail per patient than is usual is all that is required to assess the efficacy of a treatment validly (end of quote).
+
+While this seems less than clear, it appears the authors are providing a number of suggestions here: (1) only focus on the overall result of any given trial; (2) obtain answers to questions regarding subgroups from overviews of a number of trials (?I am unsure if they mean meta-analyses or systematic reviews – perhaps these terms were not in common use at this stage); (3) the results of such overviews are generalisable to both subgroups of patients who were represented in the trials and those who were not.   
+So large trials are necessary and they can be done because they can be simple without losing their relevance and reliability.  I will need to come back to the question of overviews of trials at another stage (I am not explicitly considering it in the critical comments below).
+
+# Questioning these arguments 
+There seems to be two lines of argument available which undermine the conclusions of the authors.
+(1) Agree with the problem which classical statistics poses but instead of claiming large simple trials are required argue that it shows that we should reject classical statistics.  This does not mean that large trials are not necessary but does open up avenues for assessing smaller trials and endpoints other than the primary endpoint.
+(2) Question the reliability and relevance of simple large clinical trials by questioning the assumption that unknown qualitative interactions are unlikely.  
+I propose that the key question is the following: *When* are we justified to make the move from the population question (If this intervention is used widely does it result in the proposed benefit?) to the individual question (Do the benefits of this intervention outweigh the harms for this particular patient?).  The presence or otherwise of qualitative and quantitative interactions are the key factors which need to be considered in making this move.  This places an emphasis on subgroup data and underlying basic science theory.  That the authors need to assume the lack of unanticipated qualitative interactions in order to justify the reliability and relevance of simple clinical trials undermines our ability to move from the population question to the individual clinical question.
+
+There are many examples of unanticipated qualitative interactions being found.  Some examples which might be worth exploring: the differential effects of aspirin as prophylaxis of heart attacks in women vs men; the unanticipated benefits of betablockers in patients with heart failure; the interaction of duration of treatment with HRT and cardiovascular risk (risk of thromboembolysis vs benefits from lipid improvement)... Many more...  In fact, I think I can run the argument that for the individual clinical question it is secondary endpoints and subgroup data which are the focus rather than the major endpoint.
+
+There are also examples where the line of thinking proposed by the authors leads us to formulate the wrong clinical trials.  The COX-2 story is yet again a good example.  Basic science suggests that COX-2 inhibitors should provide a reduced risk of GI ulceration compared to traditional NSAIDS.  Large, relatively simple trials are conducted to test this hypothesis.  The trails include many patients, most of them are healthy and are taking a range of other medications.  The result of these trials (while controversial) suggest that overall COX-2 medications are less likely to cause GI ulceration.  The difficulty arises however with the question of how to act on this information.  The question is who should get COX-2 inhibitors rather than traditional NSAIDS.  Does it matter whether patients were also taking aspirin matter or not?  What about age of the patient?  What about patients with differing underlying risk of GI ulceration?  It is these questions which need to be answered to be able to know when to use the drugs in practice but it is not these questions which are answered by a large simple RCT.  My contention is that there questions could have been formulated before the trials were conducted and answered with very different looking trials.  (Admittedly this needs some fine tuning)
+
+Information on quantitative interactions is also more important than the authors give credit.  Large simple randomised trials may show that overall there is a modest benefit for a given intervention.  The authors admit that quantitative interactions are likely within various subgroups involved in the trial but do not recognise the fact that knowing precisely the degree of these quantitative interactions is vital.  The importance of being able to quantify these quantitative interactions is seen when considering the fact that individual clinical questions rely on weighing the likely benefit versus the possible harm.  To be able to do this one requires a good estimation of the degree of benefit for particular patient subgroups.  This is not possible with the large simple clinical trials being put forward by the authors.
+
+Possible counter-arguments:
+
+* Subgroup analysis from overviews of trials provides the answers I am looking for.  I need to think this through (and in doing so get my head around the inferences involved in meta-analysis techniques).  What I am pretty sure of is that if this does provide some assistance to my concerns, it will only be partial assistance.  It seems clear that meta-analysis will have the problems of classical statistic (as it is it’s framework for making inferences) but I also suspect that there will be methodological questions similar to the ones which can be raised with respect to simple large RCTs.
+* Am I being anachronistic? Is it only after we have data from such large simple randomised controlled trials that the importance of endpoints in subgroups becomes so important?
+* Am I dismissing, unfairly, the importance of the population question?  Should we just be happy that we can answer such questions and if we accept classical statistics, also accept that large simple clinical trials are the best way of providing answers to population questions?
+* Given the infinite ways in which patients, diseases and situations may differ, is the hope of answering clinical individual questions an impossible ideal?
+
+}*

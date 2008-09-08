@@ -1,0 +1,36 @@
+
+----
+2008-09-07 10:21:04 EST
+
+
+
+[[[break]]]changed line 2 from: *orange {code <html>
+}*[[[break]]]to: *green {code 
+<html xmlns="http://www.w3.org/1999/xhtml">
+}*[[[break]]]changed line 4 from: *orange {code   <style type="text/css"><!--
+BODY{
+}*[[[break]]]to: *green {code <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!--HeaderText-->
+<title><PAGE NAME></title>
+
+<style type="text/css"><!--
+
+body {
+}*
+----
+2008-09-07 10:20:20 EST
+
+
+
+[[[break]]]deleted at line 4: *red {code <title><PAGE TITLE></title>
+}*
+----
+2008-09-07 10:20:02 EST
+
+
+
+[[[break]]]changed line 323 from: *orange {code <li class="top"><HOME BUTTON></li>
+}*[[[break]]]to: *green {code <li class="top"></li>
+}*[[[break]]]changed line 325 from: *orange {code <li><INSTRUCTIONS BUTTON></li>
+}*[[[break]]]to: *green {code <li><a href='../Help'>Help</a></li>
+}*

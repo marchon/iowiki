@@ -1,0 +1,68 @@
+
+----
+Mon Mar 17 13:38:40 EST 2008
+
+
+
+[[[break]]]changed line 1 from: *orange {code project with Christian Barry
+}*[[[break]]]to: *green {code ChristianBarry, JasonGrossman
+}*[[[break]]]changed line 3 from: *orange {code Christian's idea, if I've got it right:
+}*[[[break]]]to: *green {code Initial idea, if I've got it right:
+}*
+----
+Mon Mar 17 13:37:52 EST 2008
+
+
+
+
+----
+Mon Mar 17 13:37:27 EST 2008
+
+
+
+[[[break]]]changed line 9 from: *orange {code Good examples (thanks to Mark Burgman) of texts on decision theory which take a narrow (although technically competent) view of decision theory but which are held up as paradigms by the policy sector (at least in his area, which is ecology):
+}*[[[break]]]to: *green {code Good examples (thanks to Mark Burgman) of texts on decision theory which take a narrow (although technically very competent) view of decision theory but which are held up as paradigms by the policy sector (at least in his area, which is ecology):
+}*
+----
+Mon Mar 17 13:35:26 EST 2008
+
+
+
+[[[break]]]added at line 20: *lime {code A more philosophically informed book on decision theory is Resnik (details to follow).
+}*
+----
+Mon Mar 17 13:34:48 EST 2008
+
+
+
+[[[break]]]changed line 9 from: *orange {code Good examples (thanks to Mark Burgman) of texts on decision theory which take a narrow (although technically competent) view of decision theory but which are held up as paradigms by the policy sector (at least in his area, which is ecology).
+
+}*[[[break]]]to: *green {code Good examples (thanks to Mark Burgman) of texts on decision theory which take a narrow (although technically competent) view of decision theory but which are held up as paradigms by the policy sector (at least in his area, which is ecology):
+}*
+----
+Mon Mar 17 13:34:33 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code project with Christian Barry
+----
+Christian's idea, if I've got it right:
+
+Christian already has a paper on PRACTICAL RATIONALITY, ignorance and ethics as applied to the contribution principle, in which he shows that legal norms are inadequate to solve the problem of how much responsibility ethical agents should take for social problems in the face of (inevitable) ignorance about who caused them.  We might write a paper generalising the sort of problem addressed there.
+
+Decision theory has a lot to say about this, but typically what it says is very unrealistic.  The fact that it's unrealistic has been pointed out before, but as far as we know that point hasn't been adequately tied in to the problems of ethical responsibility.
+
+Good examples (thanks to Mark Burgman) of texts on decision theory which take a narrow (although technically competent) view of decision theory but which are held up as paradigms by the policy sector (at least in his area, which is ecology).
+
+{code
+@incollection{French:1986,
+	Author = {Simon French},
+	Title = {Decision theory: an introduction to the mathematics of rationality},
+	Year = {1986}}
+
+@incollection{Hammond:1998,
+	Author = {John S. Hammond and Ralph L. Keeney and Howard Raiffa },
+	Title = {Smart Choices: A Practical Guide to Making Better Decisions },
+	Year = {1998}}
+}
+}*

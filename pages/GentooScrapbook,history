@@ -1,0 +1,104 @@
+
+----
+Wed May 16 18:46:22 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code emerge --oneshot --nodeps =sys-apps/coreutils-6.7-r1
+----
+}*
+----
+Wed May 16 18:17:15 EST 2007
+
+
+
+[[[break]]]added at line 17: *lime {code 
+----
+
+Do it all, minus one
+
+Jesse Adelman wrote into gentoo-user to ask how to be able to do an emerge -uDN world, but have portage not update one package. Jesse had a version of MythTV that had been removed from the tree that he wished to keep. However, the version in the tree was between a newer and older version, thus causing portage to want to downgrade if he simply put the newer version in package.mask. Vikas Kumar suggested the often forgotten /etc/portage/profile/package.provided. A package placed in this file will not be updated unless another package necessarily depends on a newer version. More information about package.provided is available in the portage man page. Developer Zac Medico suggested to instead simply mask the package versions that are both higher and lower than the version Jesse wanted to keep, which is the best solution. 
+
+----
+}*
+----
+Mon Sep 25 12:45:41 EST 2006
+
+
+
+[[[break]]]added at line 9: *lime {code 
+}*[[[break]]]added at line 12: *lime {code 
+}*[[[break]]]added at line 13: *lime {code 
+--- lots more details at http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&chap=4
+}*
+----
+Mon Sep 25 12:44:47 EST 2006
+
+
+
+[[[break]]]changed line 13 from: *orange {code rc-update add pound default
+}*[[[break]]]to: *green {code {code rc-update add pound default}
+}*
+----
+Mon Sep 25 12:43:58 EST 2006
+
+
+
+[[[break]]]added at line 10: *lime {code ----
+adding a new startup service:
+rc-update add pound default
+}*
+----
+Sun Aug 27 02:40:26 EST 2006
+
+
+
+[[[break]]]changed line 5 from: *orange {code emerge -p --depclean
+}*[[[break]]]to: *green {code emerge --depclean
+}*
+----
+Sun Aug 27 02:01:32 EST 2006
+
+
+
+[[[break]]]changed line 10 from: *orange {code {code diff-conf ?}
+}*[[[break]]]to: *green {code {code sudo dispatch-conf}
+}*
+----
+Sun Aug 27 01:47:10 EST 2006
+
+
+
+[[[break]]]changed line 10 from: *orange {code {code etc-update}
+}*[[[break]]]to: *green {code {code diff-conf ?}
+}*
+----
+Tue Aug  8 01:01:59 EDT 2006
+
+
+
+[[[break]]]deleted at line 8: *red {code 
+}*[[[break]]]added at line 9: *lime {code when new config files need to be merged in:
+{code etc-update}
+}*
+----
+Tue Aug  8 01:00:49 EDT 2006
+
+
+
+[[[break]]]added at line 2: *lime {code {code
+}*[[[break]]]added at line 5: *lime {code }
+}*
+----
+Tue Aug  8 00:23:44 EDT 2006
+
+
+
+[[[break]]]added at line 0: *lime {code after altering USE flags:
+
+emerge --update --deep --newuse world
+emerge -p --depclean
+revdep-rebuild
+
+----
+}*

@@ -1,0 +1,66 @@
+*blue Just a musing for the maths kids...
+
+The dimension of a space (such as a universe) is often defined in an intuitive way as the minimum number of coordinates required to uniquely locate any point in that space. For example, any point on a line can be uniquely located by a single (real) number and so lines are "one-dimensional". However, points in a plane or on the surface of a sphere seem to require two coordinates, and so these surfaces are "two-dimensional".
+
+However, it seems to me that this definition is inadequate.
+
+Using a little analysis, it is possible to show that any point on a Euclidean plane can be uniquely represented by a single real number. The same goes for Euclidean spaces of any finite dimension and for most non-Euclidean spaces too. (This is because non-Euclidean spaces that are reasonably well-behaved can be embedded inside higher-dimensional Euclidean spaces.)
+
+So there seems to be a problem. You might respond that mapping points in a plane to single real numbers is not an "intuitive" coordinate system and that only intuitive systems should be allowed under our definition. However, it is easy to think of spaces for which two coordinate systems of different dimensions both seem intuitive.
+
+Imagine, for instance, a universe shaped like a tuning fork or a cat-o'-nine-tails, but with thin lines. Would this space be one-dimensional or two/nine-dimensional? Both coordinate systems seem fairly intuitive to me.
+
+Unfortunately, more rigorous definitions of dimension (such as the size of a minimum spanning set for vector spaces) seem to suffer from a lack of generality.
+
+So the question is - is there a general, rigorous definition of dimension that matches up with our intuitions?
+
+Jono.Henshaw*
+
+*green You're right.  The definition you started with IS inadequate, for the reason you gave.
+
+OK, people.  What's a better definition?  Hint: maybe there isn't a RIGOROUS definition.  Maybe there's only a PRAGMATIC definition with a rigorous component.  What would that look like?
+
+Jason*
+
+*purple Hmmm... A mathematically rigorous definition would be preferable but until we know absolutely everything there is to know (& imply in an empirical way with measurable evidence) it will leave some form of a radical pragmatic definition in its wake.
+
+So, could String Theory be a carefully constructed radical pragmatic way of viewing things with a rigorous component? String Theory certainly remains to be confirmed, as it does not use that lovely Scientific Method convention that “seems” to be religiously followed. But does that also mean that everything that isn't proved by the scientific method is a pragmatic way of looking at things? Not necessarily.
+
+Christian Maskey*
+
+I have a question, mostly on topic (since you mentioned string theory). In the video posted by Lorenzo in the 10th dimension post, it says that the way they explained ten dimensions is not the way they are actually understood in string theory, but it was just a simple tool for laypeople to understand them. What is the way string theorists understand the ten dimensions? ... u4309050
+
+
+*green While it's true that you can show that any point in n-dimensional Euclidean space (Rn) can be uniquely represented by a single real number (the real line R), it's not a useful representation at all.
+The two sets have the same cardinality, which means there's a bijection between them, a one-to-one and onto relationship between these two sets of different dimension.
+However, it can be proved (basic topology) that there's no homeomorphism between n-dimensional Euclidean space (Rn) and m-dimensional Euclidean space (Rm), unless n = m. That is, we can't get a "nice" (that is, continuous) representation between these two spaces of different dimension. So although we can represent any point in the plane by a point in the line, we can't move nicely  in the plane with this new, one-dimensional coordinate.
+
+Peter Humphries*
+
+*blue That explains very well how Rn works, and it matches Jono's point that we can define dimensions using minimum spanning sets for vector spaces.  Now, can the problem be solved for more general spaces, which are not necessarily vector spaces (and, if they are, might not have a privileged basis)? Jason*
+
+
+*green Like manifolds, for example? In differential topology and geometry you can look at general spaces that might "globally" be quite complicated, but "locally" look like Euclidean space. Then the dimension of the manifold is just taken to be m, where m is the maximum dimension of Euclidean space needed for any neighbourhood of the manifold to be mapped homeomorphically to. I'm not really sure how to explain that more in words and less in maths though...
+Peter*
+
+*blue OK, that's a lot more general.  But aren't there things which have dimensions which aren't manifolds?  Jason*
+
+*green Like what, for example? It's hard to think of anything useful... Certainly in maths and physics most important spaces with dimension can be described as a manifold of sorts.*
+
+*purple The infinity symbol or the tuning fork I mentioned above are examples of spaces which seem "dimensional" but aren't manifolds. I realise these aren't common in physics, but I don't see why they should be any less worthy of consideration than some of the crazy things that count as manifolds.
+
+Also, requiring continuous coordinates works nicely for R^n, but it can become difficult for surprisingly simple spaces. For instance, how do you define a continuous coordinate system for a circle? You would have to allow the endpoints of your coordinate interval to meet or some equivalent complication. I think Dayal's lecture maybe down-played the difficulty of this.
+
+...just thinking... the infinity symbol etc. may not be manifolds, but they _are_ locally homeomorphic to a space for which we can define a minimum spanning set. Maybe just extend the definition for manifolds to spaces that locally mimic some subset of a vector space? (Call them manirifts, if you like. Or come up with a better name.) The manifolds definition implicitly refers to minimum spanning sets in any case, because this is part of the definition for R^n. Taking this definition would give the infinity symbol dimension 2. Although, I can't even imagine what weird objects the space of manirifts might contain. Jono.
+
+PS - we're playing musical colours =)* 
+
+*green Mmmmm, colours...
+
+The bit about the circle is true - it is impossible to have an atlas (a set of charts)for an n-sphere with just one chart (homeomorphism from a neighbourhood in the n-sphere). (Sorry about all the maths terms - it's all basic differential topology stuff). I guess the point is that for any neighbourhood of the manifold there's a homeomorphism to Euclidean m-space, but there's not necessarily a single homeomorphism from the manifold to Rm. It just means that between close points you can create a nice continuous path.
+
+I'm pretty sure it's true that any vector space with an n-basis is homeomorphic to Rn. So these "manirifts" should then be homeomorphic to Rn too, should they not? (Though to different value of n for different neighbourhoods). The problem seems to be that these manirifts are of several dimensions, though it's hard to define dimension when it occurs only at a single point, and so there's no neighbourhood around it solely of that dimension. That seems to be the problem with the fork manirift. I'm not really sure how one would resolve this. Peter.*
+
+*purple I think what I wrote above was imprecise and didn't capture what I really wanted to say. So I'll try again. We define a space to be a manirift if the neighbourhood around any point in that space is homeomorphic to a _connected subset_ of R^n. The dimension of a point is the smallest n for which that point's neighbourhood can be embedded in R^n. The dimension of the manirift is the supremum of the dimensions of its points.
+
+The subset idea is the key here. Although n-dimensional vector spaces are homeomorphic to R^n, their subsets may not be. For instance, the point in the middle of the infinity sign has a neighbourhood that is homeomorphic to a cross, which is not like R^n for any n, but it is like a connected subset of R^2. Jono.*

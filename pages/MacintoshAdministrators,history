@@ -1,0 +1,32 @@
+
+----
+Thu Nov 29 23:46:13 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code * Almost all Macintosh disks use the HFS+ format.  This format stores data in files with case-insensitive names by default, although it can be made to use case-sensitive names.  Now, ..IoWiki depends on the file system to organise its data (deliberately, so that your wiki pages are still organised even if you lose Io).  Consequently, ..IoWiki on most Macintoshes thinks that the pages BenTrotter and BentRotter are the same page ... at least, it does when it first starts up.  Subsequently it can change them independently, but the changes to one or the other are lost whenever ..IoWiki's memory cache is cleared (typically on restart).
+}*[[[break]]]to: *green {code * Almost all Macintosh disks use the HFS+ format.  This format stores data in files with case-insensitive names by default, although it can be made to use case-sensitive names.  Now, ..IoWiki depends on the file system to organise its data (deliberately, so that your wiki pages are still organised even if you lose Io).  Consequently, ..IoWiki on most Macintoshes thinks that the pages BenTrotter and BentRotter are the same page.
+}*[[[break]]]changed line 3 from: *orange {code -> If you're running a small site, you can probably live with this problem, praying each morning that nobody will make pairs of pages in which only the case of the letters distinguishes them.  If you're running a big site or if you're a perfectionist, you can fix the problem fairly easily.  All you need to do is run ..IoWiki from a case-sensitive partition.  An easy way to do this is to use Disk Utility to make a UFS disk image, copy ..IoWiki onto that and run it from its new location.  Email me (JasonGrossman) if you need more detailed instructions on how to do that.  *Don't* reformat the whole of your main disk in UFS format: it's not worth it.
+}*[[[break]]]to: *green {code -> If you're running a small site, you can probably live with this problem, praying each morning that nobody will make pairs of pages in which only the case of the letters distinguishes them.  If you're running a big site or if you're a perfectionist, you can fix the problem fairly easily.  All you need to do is run ..IoWiki from a case-sensitive partition.  An easy way to do this is to use Disk Utility to make a case-sensitive disk image, copy ..IoWiki onto that and run it from its new location.  Email me (JasonGrossman) if you need more detailed instructions on how to do that.
+}*
+----
+Mon Oct  8 09:13:35 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code * Almost all Macintosh disks use the HFS+ format.  This format stores data in files with case-insensitive names.  Now, ..IoWiki depends on the file system to organise its data (deliberately, so that your wiki pages are still organised even if you lose Io).  Consequently, ..IoWiki on most Macintoshes thinks that the pages BenTrotter and BentRotter are the same page ... at least, it does when it first starts up.  Subsequently it can change them independently, but the changes to one or the other are lost whenever ..IoWiki's memory cache is cleared (typically on restart).
+}*[[[break]]]to: *green {code * Almost all Macintosh disks use the HFS+ format.  This format stores data in files with case-insensitive names by default, although it can be made to use case-sensitive names.  Now, ..IoWiki depends on the file system to organise its data (deliberately, so that your wiki pages are still organised even if you lose Io).  Consequently, ..IoWiki on most Macintoshes thinks that the pages BenTrotter and BentRotter are the same page ... at least, it does when it first starts up.  Subsequently it can change them independently, but the changes to one or the other are lost whenever ..IoWiki's memory cache is cleared (typically on restart).
+}*[[[break]]]changed line 3 from: *orange {code -> If you're running a small site, you can probably live with this problem, praying each morning that nobody will make pairs of pages in which only the case of the letters distinguishes them.  If you're running a big site or if you're a perfectionist, you can fix the problem fairly easily.  All you need to do is run ..IoWiki from a Unix File System (UFS) partition.  An easy way to do this is to use Disk Utility to make a UFS disk image, copy ..IoWiki onto that and run it from its new location.  Email me (JasonGrossman) if you need more detailed instructions on how to do that.  *Don't* reformat the whole of your main disk in UFS format: it's not worth it.
+}*[[[break]]]to: *green {code -> If you're running a small site, you can probably live with this problem, praying each morning that nobody will make pairs of pages in which only the case of the letters distinguishes them.  If you're running a big site or if you're a perfectionist, you can fix the problem fairly easily.  All you need to do is run ..IoWiki from a case-sensitive partition.  An easy way to do this is to use Disk Utility to make a UFS disk image, copy ..IoWiki onto that and run it from its new location.  Email me (JasonGrossman) if you need more detailed instructions on how to do that.  *Don't* reformat the whole of your main disk in UFS format: it's not worth it.
+}*
+----
+Mon Oct  8 09:11:06 EST 2007
+
+
+
+[[[break]]]deleted at line 5: *red {code * If you're a Terminal-phobe you can run ..IoWiki by opening its file in the Finder, but to do so you have to not only follow the instructions at AdministratorDocumentation but also:
+** choose Terminal as the application to open it with ... and to do that, you have to:
+*** choose “Other” from the “Open with” pop-up menu in a file info window, and then
+*** (less obviously) choose “Enable: All Applications” in the subsequent “Choose Other Application” dialog
+
+}*

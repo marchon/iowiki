@@ -1,0 +1,20 @@
+Two separate papers (after Phd is done and dusted hopefully they will fall out).
+
+#When do RCT's make sense?
+
+What does the context need to be for RCTs to make sense?  What sort of mix of predictability and randomness is required?  
+
+For instance, if we could predict more about when a drug will work and when it will not, via say pharmacology and pathophysiology, or maybe through pharmacogenomics, then we would not need RCTs.
+
+I think RCT's make sense when testing drug therapies, but I don't think they make sense in physics, or necessarily in pharmacology.  This paper is supposed to help me document why.  The aim is to do this in as much generality as possible (e.g. there are times that RCTs only don't make sense for practical concerns---as in detection of adverse effects---this is not what i am talking about) 
+
+
+# When would classical statistics make sense?
+
+Classical statistics seems good for some things.  It seems a reasonable way to decide (in certain contexts) which seed grows better.  And maybe it is good in descriptive contexts.
+
+The thought is that there are some epistemic situations for which classical statistics is perfect.  What are these?  And what makes them perfect?  What are some of the boundary conditions?
+
+(There will be plenty of reasons for why classical statistics is not ideal in therapeutic decision-making in the thesis)
+
+*green I think Hacking gives a good rule of thumb for this in his 1965 book.  And I don't think you can get much better than a rule of thumb, because ``classical statistics'' covers a multitude of things.  I do think you can expand a bit on what Hacking's done, though; so I think you can get a paper out of this idea if you want.  Jason*

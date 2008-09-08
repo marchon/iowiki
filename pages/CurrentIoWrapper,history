@@ -1,0 +1,420 @@
+
+----
+Sun Dec 16 13:12:29 EST 2007
+
+
+
+[[[break]]]changed line 20 from: *orange {code *pink Hooray!  Now I should merge all your changes into the main code.  Or you're welcome to do it.  I'm a bit swamped with my main job at the moment, plus moving house, plus shearing alpacas.  Anyway, you're my hero!  Jason*
+}*[[[break]]]to: *green {code *pink Hooray!  Now I should merge all your changes into the main code.  Or you're welcome to do it.  I'm a bit swamped with my main job at the moment, plus moving house, plus shearing alpacas.  Anyway, you're my hero!  .Jason*
+}*
+----
+Sun Dec 16 13:12:10 EST 2007
+
+
+
+[[[break]]]added at line 19: *lime {code *pink Hooray!  Now I should merge all your changes into the main code.  Or you're welcome to do it.  I'm a bit swamped with my main job at the moment, plus moving house, plus shearing alpacas.  Anyway, you're my hero!  Jason*
+
+}*
+----
+Sun Dec 16 05:53:38 EST 2007
+
+
+
+[[[break]]]added at line 17: *lime {code *blue It's really weird: the previous time I unpacked the tarball and run CGI, I got an exception that Defaults.io could not be found, and I created an empty one and copied configs from previous version to make it all work... However I extracted now the very same tarball and Defaults.io is there! Sorry for false alarm then. The docs in the code (in the configuration file) plus installation instructions and syntax on the web suffice for me: what else does one ever need to know about wiki? -- DanyaAlexeyevsky*
+}*
+----
+Sun Dec  9 15:26:47 EST 2007
+
+
+
+[[[break]]]changed line 16 from: *orange {code *green There are no docs except what's in the code and on this wiki --- sorry! :-(  You shouldn't need any config info except what's already there.  If you do, there's something wrong --- probably my fault, but I wonder what. .Jason*
+}*[[[break]]]to: *green {code *green There are no docs except what's in the code and on this wiki --- sorry! :-(  You shouldn't need any config info except what's already there, and maybe a file called ..LocalConfig.io --- see below.  If you need anything else, there's something wrong --- probably my fault, but I wonder what. .Jason*
+
+
+jason@tumble:~/wiki$ cat LocalConfig.io 
+# "Configurability is the root of all evil" -- Alex, http://roo.no-ip.org/fish/user_doc/design.html (1 June 2006)
+#
+
+# Modify the lines below to your taste.  Uncomment any lines you modify, by removing the initial hash sign (#).
+IoWiki do(
+
+// STUFF YOU MUST CHANGE:
+
+pageTemplatePassword := "xxxxxxxxxxx" # Set this to something unique to your site, unless you don't mind wiley hackers being able to execute arbitrary HTML on your server (which is something you SHOULD mind).
+
+serverAddress := "69.61.72.80"
+        // Set this to your server's IP address or IP name.
+
+// STUFF YOU MAY WELL WANT TO CHANGE:
+
+homePageName := "JasonGrossman"
+
+// Notification of changes:
+notifyFrom := "IoWiki@luddite.cst.usyd.edu.au" 
+        // This is the address notifications will come from.  It should be the address of someone who can edit this file in case of complaints.
+notifyEmailAddresses := "jason" 
+        // add email addresses to this, separated by commas
+notifySubject := method( "IoWiki: recent changes" ) 
+        // alternatives include: notifySubject := method( "IoWiki: " .. self name )
+emailPrefix := "The following IoWiki pages have changed recently.  See http://localhost/recent.changes for more details.\n\n" 
+        // prefix for the body of the email
+minimumNotificationInterval := 12 // in hours
+
+# pictureSuffixes := List clone add (".jpg",".JPG",".png",".PNG",".gif",".GIF")
+
+historyPageSizeLimit := 100 * 1024 
+    // There's no limit to how much history IoWiki will record --- deliberately so, for security --- 
+    // but we don't want displaying page history to take too long, so only this many characters are 
+    // displayed.  If a user needs more page history than this, they'll have to ask the system 
+    // administrator for it.
+
+
+// SPAM BLOCKING
+
+blockContents := ""
+        // "", or a regular expression: pages which match this expression after editing won't be saved.
+
+)
+}*
+----
+Sun Dec  9 13:36:33 EST 2007
+
+
+
+[[[break]]]added at line 14: *lime {code 
+*green There are no docs except what's in the code and on this wiki --- sorry! :-(  You shouldn't need any config info except what's already there.  If you do, there's something wrong --- probably my fault, but I wonder what. .Jason*
+}*
+----
+Sun Dec  9 13:22:53 EST 2007
+
+
+
+[[[break]]]changed line 5 from: *orange {code It has one major limitation yet: all the sleep is CPU-active, so you always have 100% CPU load while running this code.
+}*[[[break]]]to: *green {code To use with standalone version, follow the specified  configuration procedures in IoWiki's readme, then put wrapper.io into IoWiki's working directory and run it (the wrapper.io).
+
+To use with CGI version, follow the same configuration instructions (at the moment there is no configuration docs or examples in IoWiki so it's a bit of problem here:), then put wrapper.io in the directory. You may need to create a small shellscript wrapper to setup paths or may it be that renaming wrapper.io to something.cgi will suffice.
+
+----
+*blue It has one major limitation yet: all the sleep is CPU-active, so you always have 100% CPU load while running this code.*
+}*[[[break]]]added at line 7: *lime {code 
+*blue No need. :) I figured it out: Server does it all. PS, Jason, please put docs & config sample into the distro if you have them. (PPS. feel free to remove this conversation once you've read it). -- DanyaAlexeyevsky*
+}*
+----
+Sun Dec  9 12:45:36 EST 2007
+
+
+
+[[[break]]]changed line 3 from: *orange {code Or via git: {{{git clone http://dendik.bpa.nu/io/iowiki-wrapper}}}
+}*[[[break]]]to: *green {code Or via git: {code git clone http://dendik.bpa.nu/io/iowiki-wrapper/.git}
+}*
+----
+Sun Dec  9 12:43:52 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code The wrapper is here: http://dendik.bpa.nu/dendik/iowiki/wrapper.io
+}*[[[break]]]to: *green {code The wrapper is here: http://dendik.bpa.nu/io/iowiki-wrapper/wrapper.io
+
+Or via git: {{{git clone http://dendik.bpa.nu/io/iowiki-wrapper}}}
+}*
+----
+Sat Dec  8 09:24:08 EST 2007
+
+
+
+[[[break]]]added at line 3: *lime {code 
+*green I'm sure there's a way around that, but I can't remember what it is.  Let's ask on the list.  Jason*
+}*
+----
+Sat Dec  8 07:34:33 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code Oops. Saving code within _pre_ does not work that well...
+}*[[[break]]]to: *green {code The wrapper is here: http://dendik.bpa.nu/dendik/iowiki/wrapper.io
+}*[[[break]]]changed line 3 from: *orange {code Here's it then: http://dendik.bpa.nu/dendik/iowiki/wrapper.io
+}*[[[break]]]to: *green {code It has one major limitation yet: all the sleep is CPU-active, so you always have 100% CPU load while running this code.
+}*
+----
+Thu Nov 29 20:40:53 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code {pre
+# Wrapper around IoWiki to make it work on newer io interpreters
+}*[[[break]]]to: *green {code Oops. Saving code within _pre_ does not work that well...
+}*[[[break]]]changed line 4 from: *orange {code # This one goes to config...
+// IoWiki diffsCommand := method (
+// 	f := homeDirectory cloneAppendPath (self name)
+// 	"""
+// 	(
+// 		echo -e "\n----"
+// 		date
+// 		echo -e "\n\n"
+// 		diff \
+// 			--ignore-case --ignore-space-change --unchanged-group-format='' \
+// 			--old-group-format='[[[break]]]deleted at line %df: *red {code %<}*' \
+// 			--new-group-format='[[[break]]]added at line %de: *lime {code %>}*' \
+// 			--changed-group-format='[[[break]]]changed line %df from: *orange {code %<}*[[[break]]]to: *green {code %>}*' \
+// 			'#{f},previous' '#{f}'
+// 	) | cat - '#{f},history' > '#{f},temp-history'
+// 	mv '#{f},temp-history' '#{f},history'
+// 	""" interpolate
+// )
+
+// Problems remaining:
+//   * something with keepalive ('attempt to write to closed socket')
+
+## ------------------------------------------------------------
+# A helper for everything
+
+DEBUG := method(
+	File getSlot("write") performOn(
+		File standardError := File standardError,
+		call sender,
+		call message,
+		call slotContext
+	)
+)
+
+## ------------------------------------------------------------
+# Hack the standard things up
+
+Nil := nil
+Nop := true
+Object or := method( if(self, self, call evalArgAt(0)) )
+
+// Now this is the nasty thing in Io!
+// there is one object that is copied instead of bieng cloned
+Locals do(
+	thisMessage := method(call sender call message)
+	sender := method(call sender call sender)
+	oldBlock := getSlot("block")
+	block := method(
+		self perform(call message setName("oldBlock")) setIsActivatable(true)
+	)
+)
+
+Number do(
+	oldGTE := Number getSlot(">=")
+	setSlot(">=", method(x, self oldGTE(x asNumber)))
+)
+
+Date secondsToNow := Date getSlot("secondsSinceNow")
+
+File do(
+	asString := File getSlot("contents")
+	oldExists := getSlot("exists")
+	exists := method(if(oldExists, self, false))
+)
+
+Sequence do(
+	join := method(x, x join(self))
+	removeSlot("log")
+
+	splitLines := method(
+		s := asMutable replaceSeq("\r\n","\n") replaceSeq("\r","\n")
+		r := s split("\n")
+		if(s endsWithSeq("\n"), r append(""))
+		r
+	)
+
+	rSubstitute := method(match, replace,
+		self replaceSeq(self,
+			Regex with(match) matchesFor(self) replaceWith(replace)
+		)
+		self
+	)
+)
+
+Regex do(
+	setPattern := method(x, x asRegex)
+
+	string := ""
+	setString := method(x,
+		self matches := self matchesFor(x)
+		self string := x
+	)
+
+	allMatches := method( self matches map(v, v do(type := "List")) )
+	hasMatch := method( self matches all size != 0 )
+	firstMatch := method( self matches all at(0) )
+)
+RegexMatch ExpansionRegex := Regex with("""\\(\d)""")
+
+Object do(
+	oldDoFile := getSlot("doFile")
+	doFile := method(name,
+		if(name endsWithSeq("RegularExpressionSubstitutions.io"),
+			nil,
+			Object perform(call message setName("doFile"))
+		)
+	)
+)
+
+Socket do(
+	oldStreamWrite := getSlot("streamWrite")
+	streamWrite := method(
+		self oldStreamWrite(call message argsEvaluatedIn(call sender) join)
+		self
+	)
+)
+IPAddress host := IPAddress getSlot("asString")
+
+// hack for the CGI parseString
+System setenv("REQUEST_METHOD", "GET")
+
+## ------------------------------------------------------------
+# Run all the code
+
+doFile("IoWiki.io")
+
+## ------------------------------------------------------------
+# Add an eager waiter for coros...
+# I can't find a lazier one :-(
+
+while(Scheduler yieldingCoros size > 0, yield)
+}
+}*[[[break]]]to: *green {code Here's it then: http://dendik.bpa.nu/dendik/iowiki/wrapper.io
+}*
+----
+Thu Nov 29 20:35:45 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code {pre
+# Wrapper around IoWiki to make it work on newer io interpreters
+
+# This one goes to config...
+// IoWiki diffsCommand := method (
+// 	f := homeDirectory cloneAppendPath (self name)
+// 	"""
+// 	(
+// 		echo -e "\n----"
+// 		date
+// 		echo -e "\n\n"
+// 		diff \
+// 			--ignore-case --ignore-space-change --unchanged-group-format='' \
+// 			--old-group-format='[[[break]]]deleted at line %df: *red {code %<}*' \
+// 			--new-group-format='[[[break]]]added at line %de: *lime {code %>}*' \
+// 			--changed-group-format='[[[break]]]changed line %df from: *orange {code %<}*[[[break]]]to: *green {code %>}*' \
+// 			'#{f},previous' '#{f}'
+// 	) | cat - '#{f},history' > '#{f},temp-history'
+// 	mv '#{f},temp-history' '#{f},history'
+// 	""" interpolate
+// )
+
+// Problems remaining:
+//   * something with keepalive ('attempt to write to closed socket')
+
+## ------------------------------------------------------------
+# A helper for everything
+
+DEBUG := method(
+	File getSlot("write") performOn(
+		File standardError := File standardError,
+		call sender,
+		call message,
+		call slotContext
+	)
+)
+
+## ------------------------------------------------------------
+# Hack the standard things up
+
+Nil := nil
+Nop := true
+Object or := method( if(self, self, call evalArgAt(0)) )
+
+// Now this is the nasty thing in Io!
+// there is one object that is copied instead of bieng cloned
+Locals do(
+	thisMessage := method(call sender call message)
+	sender := method(call sender call sender)
+	oldBlock := getSlot("block")
+	block := method(
+		self perform(call message setName("oldBlock")) setIsActivatable(true)
+	)
+)
+
+Number do(
+	oldGTE := Number getSlot(">=")
+	setSlot(">=", method(x, self oldGTE(x asNumber)))
+)
+
+Date secondsToNow := Date getSlot("secondsSinceNow")
+
+File do(
+	asString := File getSlot("contents")
+	oldExists := getSlot("exists")
+	exists := method(if(oldExists, self, false))
+)
+
+Sequence do(
+	join := method(x, x join(self))
+	removeSlot("log")
+
+	splitLines := method(
+		s := asMutable replaceSeq("\r\n","\n") replaceSeq("\r","\n")
+		r := s split("\n")
+		if(s endsWithSeq("\n"), r append(""))
+		r
+	)
+
+	rSubstitute := method(match, replace,
+		self replaceSeq(self,
+			Regex with(match) matchesFor(self) replaceWith(replace)
+		)
+		self
+	)
+)
+
+Regex do(
+	setPattern := method(x, x asRegex)
+
+	string := ""
+	setString := method(x,
+		self matches := self matchesFor(x)
+		self string := x
+	)
+
+	allMatches := method( self matches map(v, v do(type := "List")) )
+	hasMatch := method( self matches all size != 0 )
+	firstMatch := method( self matches all at(0) )
+)
+RegexMatch ExpansionRegex := Regex with("""\\(\d)""")
+
+Object do(
+	oldDoFile := getSlot("doFile")
+	doFile := method(name,
+		if(name endsWithSeq("RegularExpressionSubstitutions.io"),
+			nil,
+			Object perform(call message setName("doFile"))
+		)
+	)
+)
+
+Socket do(
+	oldStreamWrite := getSlot("streamWrite")
+	streamWrite := method(
+		self oldStreamWrite(call message argsEvaluatedIn(call sender) join)
+		self
+	)
+)
+IPAddress host := IPAddress getSlot("asString")
+
+// hack for the CGI parseString
+System setenv("REQUEST_METHOD", "GET")
+
+## ------------------------------------------------------------
+# Run all the code
+
+doFile("IoWiki.io")
+
+## ------------------------------------------------------------
+# Add an eager waiter for coros...
+# I can't find a lazier one :-(
+
+while(Scheduler yieldingCoros size > 0, yield)
+}
+}*

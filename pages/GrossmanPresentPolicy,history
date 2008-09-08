@@ -1,0 +1,37 @@
+
+----
+Thu Aug 24 13:02:53 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code - You don't get a present just because it's Christmas or Chanukah your birthday ...
+-- ... although you might get a hug.  (Second prize two hugs.)
+}*[[[break]]]to: *green {code - You don't get a present just because it's Christmas or Chanukah your birthday (although you might get a hug).
+}*
+----
+Thu Aug 24 13:02:04 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code - You don't get a present just because it's Christmas or Chanukah your birthday.
+}*[[[break]]]to: *green {code - You don't get a present just because it's Christmas or Chanukah your birthday ...
+-- ... although you might get a hug.  (Second prize two hugs.)
+}*
+----
+Thu Aug 24 13:01:30 EST 2006
+
+
+
+[[[break]]]deleted at line 2: *red {code 
+}*
+----
+Thu Aug 24 13:01:12 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code - You don't get a present just because it's Christmas or Chanukah your birthday.
+
+- You get a present when I think of something that I think you'd really like.
+
+The Grossman Present Policy was invented by my brother Tarquin.  I'm currently applying it to almost everybody.
+}*

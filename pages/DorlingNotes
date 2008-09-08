@@ -1,0 +1,20 @@
+The following are notes on, and, a very formative attempt to get a feel for Dorling's subjective bayesian reply to the Duhem problem (hopefully I will be able to clarify them over time):
+
+%green%See also Jason.ConfirmationTheory.%%  (thanks Jason - I need to get my head around what you are arguing - will be good to chat about it on Friday if you are keen. Adam)
+
+* It is his reply to the scientific irrationality of Feyerabend and Kuhn (explicit and implicit respectively), he aims to show the availabilty of a subjective bayesian reply - and importantly an alternative other than Lakatos
+
+The example below is Dorling's discussion on Newtonian celestial mechanics where:
+T is Newton's theory
+H is the auxillary hypotheses required for Newton's theory to be observed
+and E is the observational result in conflict with T
+
+P'(T)/P'(~T) = [P(E|T&H)P(H) + P(E|T&~H)P(~H)].P(T) / [P(E|~T&H)P(H) + P(E|~T&~H)P(~H)].(~T)
+
+Moves
+*T and H are independent 
+*P(E|T&H) = 0
+*P(E|T&~H) and P(E|~T&~H) are equal and proportional - badly worded but does not appear controversial given that ~H is explaining E and this is independent on the truth of T, it seems a reasonable assumption
+*P(E|~T&H) is small - this is suggesting that the disjunction of all alternatives to T are also unable to explain E.  First, this seems to be at the root of the reply to the Duhem problem - the smaller this conditional probability is the less the refuting E will have an effect on our belief in T. Second, this seems reasonable. Third, it seems unexciting as if a real alternative to T was available which could explain E and all that T can explain than we should adopt it, and in the absense of that alternative, we should not abandon T - but is this refuting E (and the build up of futher refuting evidence) not the impetous for a new T which can explain the refuting evidence and all that old T can - but have we not returned now to Lakatos.. (I am not sure about this but there seems something fishy - ?maybe anachronistic - about needing P(E|~T&H) to be low for the argument to work)
+
+..these notes are in progress i will need to come back to them. Adam

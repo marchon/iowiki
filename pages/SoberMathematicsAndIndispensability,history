@@ -1,0 +1,132 @@
+
+----
+2008-05-12 15:26:02 EST
+
+
+
+[[[break]]]changed line 26 from: *orange {code - *green The Likelihood Principle actually is (roughly): that inferences should depend only on P(O| Hi). Jason*
+}*[[[break]]]to: *green {code - *green The Likelihood Principle actually is (roughly): that inferences should depend on O only via P(O| Hi). Jason*
+}*
+----
+2008-05-12 15:22:04 EST
+
+
+
+[[[break]]]changed line 25 from: *orange {code - Likelihood principle (LP): favouring iff P(O, H1) > P(O/H2), where O and observation and Hx a hypoth.
+}*[[[break]]]to: *green {code - Likelihood principle (LP): favouring iff P(O| H1) > P(O|H2), where O and observation and Hx a hypoth. ... *green Maybe this is what Sober says, but that's actually the Law of Likelihood, or something like it.  Jason*
+- *green The Likelihood Principle actually is (roughly): that inferences should depend only on P(O| Hi). Jason*
+}*
+----
+2008-05-12 14:55:59 EST
+
+
+
+[[[break]]]changed line 18 from: *orange {code - Van Fraassen's challenge to IBE: the only scientific question is whether theories are empirically adequate
+}*[[[break]]]to: *green {code - Van Fraassen's challenge to IBE: the only scientific question is whether theories are empirically adequate *green where ``empirically adequate'' is a term of art meaning that they ALWAYS match observation, past, present and future*
+}*
+----
+2008-05-12 14:18:44 EST
+
+
+
+[[[break]]]added at line 57: *lime {code - if, as Field argues, one can reformulate our best scientific theories without the mathematical entities, can these then compete against the theories involving mathematics in such a way as to make mathematics a posteriori indispensable?
+-- highly doubtful, as the whole point of Field's attempt is to formulate theories not involving maths that are as good as those involving maths.  Presumably then, there would be no observational differences between the mathematical and the ..non-mathematical theories
+}*
+----
+2008-05-12 14:06:21 EST
+
+
+
+[[[break]]]added at line 44: *lime {code _Conclusions_
+- overall point is the doubt "that successful prediction provides a general grounding for the mathematics used in empirical science"
+- another interesting observation is that mathematics is also involved in many unsuccessful theories in much the same way that it is involved in successful ones
+-- do we doubt the mathematical parts of these theories?
+- Sober's fundamental point is that theories (or webs of belief) do not face the tribunal of experience in isolation but rather in competition with other theories/webs.
+-- hence which parts of the theories/webs have been tested by experience depends on how the competitors relate to each other
+- even if Sober's overall model is not accepted, he still argues that empirical considerations must be mediated by likelihoods (even if there are ..non-empirical criteria too)
+}*[[[break]]]changed line 49 from: *orange {code 
+}*[[[break]]]to: *green {code - are there any standard responses to Sober's contrastive empiricism?
+-- perhaps in the form of alternatives to LP (although it seems quite plausible)?
+}*
+----
+2008-05-12 13:43:28 EST
+
+
+
+[[[break]]]changed line 40 from: *orange {code - aren't we testing things like 2 + 2 = n?
+}*[[[break]]]to: *green {code - aren't we testing things like 2+2=n?
+-- a false observation for n=4 would be treated as evidence for false background assumptions rather than support for ~(n=4)
+-- accordingly, we can't really caim inductive support from positive instances
+-- point here is that reasons for holding mathematcial beliefs are not purely empirical
+}*
+----
+2008-05-12 13:31:59 EST
+
+
+
+[[[break]]]added at line 38: *lime {code _Objections_
+- aren't we testing things like 2 + 2 = n?
+}*
+----
+2008-05-12 12:34:01 EST
+
+
+
+[[[break]]]changed line 11 from: *orange {code Obviously, it deal directly with the issue at hand.  In particular with the relation between the indispensability argument, the likelihood principle and empiricism.
+}*[[[break]]]to: *green {code 
+Obviously, it deals directly with the issue at hand.  In particular with the relation between the indispensability argument, the likelihood principle and empiricism.
+}*[[[break]]]added at line 13: *lime {code - indispensability argument as empirical argument for existence of math. entities
+}*[[[break]]]added at line 14: *lime {code _Van Fraassen_
+- Van Fraassen's challenge to IBE: the only scientific question is whether theories are empirically adequate
+-- a kind of agnosticism: non judgement re: ..truth-value of statements involving unobservables
+-- hence all types of unobservable (math or sci) are treated equally by van Fraassen
+- committed to having another epistemic guide for theory choice other than LP (see below)
+
+_Contrastive Empiricism_
+- theories are not assessed in isolation, they are compared
+- Likelihood principle (LP): favouring iff P(O, H1) > P(O/H2), where O and observation and Hx a hypoth.
+-- hypoth. indispensable if it makes an impossible observation (under other models) possible
+-- thus degree of support for a theory is relative
+-- note: no implications re: unobservables, theories may involve them
+- can have situations in which no observation can distinguish between competing theories
+-- purely ..LP-based judgements must remain silent on theory choice here
+
+_Contrastive Empiricism & Indispensability_
+- indispensability => no observational difference possible as must be involved in all theories (they form part of the model of the experiment)
+-- this cannot be empirically tested under contrastive empiricism
+- do we really have alternate hypotheses to those of arithmetic?
+- note that there are competing hypotheses in the case of genes or quarks
+-- distinction between a priori and a posteriori indispensability
+}*[[[break]]]changed line 19 from: *orange {code 
+}*[[[break]]]to: *green {code - I need to compare Duhem's thesis with Quine's confirmational holism.
+-- from a brief Wikipedia inspection it seems that Duhem's holism did no extend to math. entities/theories.
+}*
+----
+2008-05-12 11:53:08 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+A paper in which Sober puts forward his contrastive empiricism as a view that doe not have the ontological implications for mathematical entities that would result from acceptance of ..Quine-Putnam.
+
+*Where can it be found?*
+
+Sober, E.; Mathematics and Indispensability; The Philosophical Review, Vol. 102, No. 1, pp. 35 - 57. 
+
+*How does it fit in?*
+Obviously, it deal directly with the issue at hand.  In particular with the relation between the indispensability argument, the likelihood principle and empiricism.
+----
+*Summary*
+
+
+
+----
+*What do I think?*
+
+
+----
+
+ChrisWilcox
+}*

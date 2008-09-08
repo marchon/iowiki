@@ -1,0 +1,501 @@
+
+----
+Mon Sep 24 11:03:49 EST 2007
+
+
+
+[[[break]]]changed line 69 from: *orange {code *lime Thanks Jason.  That clears it up for me.  Once we disambiguate what is meant by `population' it has me sorted.  The slide from `real' to `trial' population is all I was harking about.  I am not too sure what is meant by `exhaustive' below; but we can chat about that sometime. A* *fawn Good.  For the record, I'm not sure I've got Neyman's definitions of random-n straight.  But you have, so that's OK!*
+}*[[[break]]]to: *green {code *lime Thanks Jason.  That clears it up for me.  Once we disambiguate what is meant by `population' it has me sorted.  The slide from `real' to `trial' population is all I was harking about.  I am not too sure what is meant by `exhaustive' below; but we can chat about that sometime. A* *fawn Good.  For the record, I'm not sure I've got Neyman's definitions of random-n straight.  But you have, so that's OK! Jason*
+}*[[[break]]]changed line 71 from: *orange {code What worries me most about this is that I might be confused about the definitions of random-1 and random-2.  For example, Neyman says that random-1 sampling isn't meant to be exhaustive.  Strictly speaking my random-1 sampling into the treatment group isn't exhaustive, but the sampling into the treatment group and the control group put together is exhaustive.  On the other hand, maybe Neyman is even more confused than I am.*
+}*[[[break]]]to: *green {code What worries me most about this is that I might be confused about the definitions of random-1 and random-2.  For example, Neyman says that random-1 sampling isn't meant to be exhaustive.  Strictly speaking my random-1 sampling into the treatment group isn't exhaustive, but the sampling into the treatment group and the control group put together is exhaustive.  On the other hand, maybe Neyman is even more confused than I am. Jason*
+}*
+----
+Mon Sep 24 11:02:43 EST 2007
+
+
+
+[[[break]]]changed line 69 from: *orange {code *lime Thanks Jason.  That clears it up for me.  Once we disambiguate what is meant by `population' it has me sorted.  The slide from `real' to `trial' population is all I was harking about.  I am not too sure what is meant by `exhaustive' below; but we can chat about that sometime. A*
+}*[[[break]]]to: *green {code *lime Thanks Jason.  That clears it up for me.  Once we disambiguate what is meant by `population' it has me sorted.  The slide from `real' to `trial' population is all I was harking about.  I am not too sure what is meant by `exhaustive' below; but we can chat about that sometime. A* *fawn Good.  For the record, I'm not sure I've got Neyman's definitions of random-n straight.  But you have, so that's OK!*
+}*
+----
+Mon Sep 24 08:40:46 EST 2007
+
+
+
+[[[break]]]changed line 69 from: *orange {code *black Thanks Jason.  That clears it up for me.  Once we disambiguate what is meant by `population' it has me sorted.  The slide from `real' to `trial' population is all I was harking about.  I am not too sure what is meant by `exhaustive' below; but we can chat about that sometime. A*
+}*[[[break]]]to: *green {code *lime Thanks Jason.  That clears it up for me.  Once we disambiguate what is meant by `population' it has me sorted.  The slide from `real' to `trial' population is all I was harking about.  I am not too sure what is meant by `exhaustive' below; but we can chat about that sometime. A*
+}*
+----
+Mon Sep 24 08:39:22 EST 2007
+
+
+
+[[[break]]]added at line 68: *lime {code *black Thanks Jason.  That clears it up for me.  Once we disambiguate what is meant by `population' it has me sorted.  The slide from `real' to `trial' population is all I was harking about.  I am not too sure what is meant by `exhaustive' below; but we can chat about that sometime. A*
+
+}*
+----
+Sat Sep 22 17:42:59 EST 2007
+
+
+
+[[[break]]]changed line 63 from: *orange {code *green (colour co-ordination is getting difficult, :) *orange Yes.  It would help if I fixed the Page History function, wouldn't it?* *green ) Let me have a go at making a claim that there are ``fundamental'' differences between the random-1 and -2.  I am suspicious about the theoretical/practical distinction: the practical is important theoretically.* *orange Right.  Not denying that.  I'm denying that the differences are at the level of randomisation.  Anyway, let's work out what the differences are, and then we can come back to this point.*  *green  I take your claim to be that random-1 and -2 can be treated as superficially the same with respect to classical inference.  And I take that to mean that somehow random-2 achieves the same as random-1 does.  In this paper Neyman appears to be making that claim for random-1 and -3---while I don't quite buy this, I think these two forms of random are closer than -1 and -2. 
+}*[[[break]]]to: *green {code *green (colour co-ordination is getting difficult, :)* *orange Yes.  It would help if I fixed the Page History function, wouldn't it?* *green ) Let me have a go at making a claim that there are ``fundamental'' differences between the random-1 and -2.  I am suspicious about the theoretical/practical distinction: the practical is important theoretically.* *orange Right.  Not denying that.  I'm denying that the differences are at the level of randomisation.  Anyway, let's work out what the differences are, and then we can come back to this point.*  *green  I take your claim to be that random-1 and -2 can be treated as superficially the same with respect to classical inference.  And I take that to mean that somehow random-2 achieves the same as random-1 does.  In this paper Neyman appears to be making that claim for random-1 and -3---while I don't quite buy this, I think these two forms of random are closer than -1 and -2. 
+}*[[[break]]]changed line 71 from: *orange {code Random-2 does not provide a way around the absence of random-1.  In the absence of random-1  people go to a lot of effort to describe the sample (I am using sample in the random-1 sense; alternatively we could call it the `trial population' but that risks confusion).  These attempts to describe the sample are reasonable and important, but don't overcome that lack of random-1. Rather they allow us to say something like we would want to say---if the sample had been drawn randomly from the population of interest---but with the addition of a gaggle of ceterus paribus clauses. Adam*
+}*[[[break]]]to: *green {code *green Random-2 does not provide a way around the absence of random-1.  In the absence of random-1  people go to a lot of effort to describe the sample (I am using sample in the random-1 sense; alternatively we could call it the `trial population' but that risks confusion).  These attempts to describe the sample are reasonable and important, but don't overcome that lack of random-1. Rather they allow us to say something like we would want to say---if the sample had been drawn randomly from the population of interest---but with the addition of a gaggle of ceterus paribus clauses. Adam*
+}*
+----
+Sat Sep 22 17:40:53 EST 2007
+
+
+
+[[[break]]]changed line 63 from: *orange {code *green (colour co-ordination is getting difficult, :)) Let me have a go at making a claim that there are ``fundamental'' differences between the random-1 and -2.  I am suspicious about the theoretical/practical distinction: the practical is important theoretically.  I take your claim to be that random-1 and -2 can be treated as superficially the same with respect to classical inference.  And I take that to mean that somehow random-2 achieves the same as random-1 does.  In this paper Neyman appears to be making that claim for random-1 and -3---while I don't quite buy this, I think these two forms of random are closer than -1 and -2. 
+}*[[[break]]]to: *green {code *green (colour co-ordination is getting difficult, :) *orange Yes.  It would help if I fixed the Page History function, wouldn't it?* *green ) Let me have a go at making a claim that there are ``fundamental'' differences between the random-1 and -2.  I am suspicious about the theoretical/practical distinction: the practical is important theoretically.* *orange Right.  Not denying that.  I'm denying that the differences are at the level of randomisation.  Anyway, let's work out what the differences are, and then we can come back to this point.*  *green  I take your claim to be that random-1 and -2 can be treated as superficially the same with respect to classical inference.  And I take that to mean that somehow random-2 achieves the same as random-1 does.  In this paper Neyman appears to be making that claim for random-1 and -3---while I don't quite buy this, I think these two forms of random are closer than -1 and -2. 
+}*[[[break]]]changed line 67 from: *orange {code I agree we don't want to make inferences about the whole of humanity.  The population we are interested in is much more constrained.  Ideally it is also homogeneous with respect to the causal story under examination. (Though clearly sometimes we seem to be only interested in correlation---I find these questions very interesting) .  An example population might be those who suffer a first heart attack within the catchment area of a tertiary referral hospital in Australia.  For practical reasons there is no attempt to gain a random-1 sample from that population (who would then be random-2ed into treatment and control).  Because random-1 did not occur the only inferences warranted are about the sample.  If random-1 did occur then we could draw inferences about the population.  I fear I am just stamping my foot but this seems enough to show that random-1 and random-2 are philosophically different.
+}*[[[break]]]to: *green {code I agree we don't want to make inferences about the whole of humanity.  The population we are interested in is much more constrained.  Ideally it is also homogeneous with respect to the causal story under examination. (Though clearly sometimes we seem to be only interested in correlation---I find these questions very interesting) .  An example population might be those who suffer a first heart attack within the catchment area of a tertiary referral hospital in Australia.  For practical reasons there is no attempt to gain a random-1 sample from that population (who would then be random-2ed into treatment and control).  Because random-1 did not occur the only inferences warranted are about the sample.  If random-1 did occur then we could draw inferences about the population.  I fear I am just stamping my foot but this seems enough to show that random-1 and random-2 are philosophically different.* *orange Good example.  What you've got there is a comparison between two cases.  In one case, there's one sampling, from a group of patients which isn't representative of anything in particular because as you say no attempt has been made to sample any population, into treatment and control groups.  This group of patients isn't representative of anything, but it's still a population in its own right.  Now take the formation of the treatment group.  Why don't you think that's a random-1 sampling of the population?  Is it because the sample isn't going to be used to estimate anything about the population?  But it is, isn't it?  (Even though that's not the way it's usually talked about.)  Now take the other case, which I agree is very different (so we agree that practicalities matter).  In the other case, in which there's random sampling from the whole set of hearth attach sufferers within the catchment of the hospital, it looks to me like you've got TWO random-1 samplings.  First from one population, the set of heart attack victims, to the study sample; and then another one, from the study sample to the treatment group.  Not surprisingly, the effect of TWO samplings is very different from the effect of only one sampling even if they're both random-1 samplings.  So of course I agree with you that in only one case can we draw inferences about ``the'' population, if by that you mean the big population; but in both cases we can draw inferences about the little population.  I'm sure we agree about the last bit.
+
+What worries me most about this is that I might be confused about the definitions of random-1 and random-2.  For example, Neyman says that random-1 sampling isn't meant to be exhaustive.  Strictly speaking my random-1 sampling into the treatment group isn't exhaustive, but the sampling into the treatment group and the control group put together is exhaustive.  On the other hand, maybe Neyman is even more confused than I am.*
+}*
+----
+Fri Sep 21 11:52:33 EST 2007
+
+
+
+[[[break]]]changed line 69 from: *orange {code Random-2 does not provide a way around the absence of random-1.  In the absence of random-1  people go to a lot of effort to describe the sample (I am using sample in the random-1 sense; alternatively we could call it the `trial population' but that risks confusion).  These attempts to describe the sample are reasonable and important, but don't overcome that lack of random-1. Adam*
+}*[[[break]]]to: *green {code Random-2 does not provide a way around the absence of random-1.  In the absence of random-1  people go to a lot of effort to describe the sample (I am using sample in the random-1 sense; alternatively we could call it the `trial population' but that risks confusion).  These attempts to describe the sample are reasonable and important, but don't overcome that lack of random-1. Rather they allow us to say something like we would want to say---if the sample had been drawn randomly from the population of interest---but with the addition of a gaggle of ceterus paribus clauses. Adam*
+}*
+----
+Fri Sep 21 09:52:37 EST 2007
+
+
+
+[[[break]]]changed line 69 from: *orange {code Random-2 does not provide a way around the absence of random-1.  In the absence of random-1  people go to a lot of effort to * *describe* *green the sample (I am using sample in the random-1 sense; alternatively we could call it the `trial population' but that risks confusion).  These attempts to describe the sample are reasonable and important, but don't overcome that lack of random-1. Adam*
+}*[[[break]]]to: *green {code Random-2 does not provide a way around the absence of random-1.  In the absence of random-1  people go to a lot of effort to describe the sample (I am using sample in the random-1 sense; alternatively we could call it the `trial population' but that risks confusion).  These attempts to describe the sample are reasonable and important, but don't overcome that lack of random-1. Adam*
+}*
+----
+Fri Sep 21 09:51:11 EST 2007
+
+
+
+[[[break]]]changed line 63 from: *orange {code *black (colour co-ordination is getting difficult, :)) Let me have a go at making a claim that there are ``fundamental'' differences between the random-1 and -2.  I am suspicious about the theoretical/practical distinction: the practical is important theoretically.  I take your claim to be that random-1 and -2 can be treated as superficially the same with respect to classical inference.  And I take that to mean that somehow random-2 achieves the same as random-1 does.  In this paper Neyman appears to be making that claim for random-1 and -3---while I don't quite buy this, I think these two forms of random are closer than -1 and -2. 
+}*[[[break]]]to: *green {code *green (colour co-ordination is getting difficult, :)) Let me have a go at making a claim that there are ``fundamental'' differences between the random-1 and -2.  I am suspicious about the theoretical/practical distinction: the practical is important theoretically.  I take your claim to be that random-1 and -2 can be treated as superficially the same with respect to classical inference.  And I take that to mean that somehow random-2 achieves the same as random-1 does.  In this paper Neyman appears to be making that claim for random-1 and -3---while I don't quite buy this, I think these two forms of random are closer than -1 and -2. 
+}*[[[break]]]changed line 69 from: *orange {code Random-2 does not provide a way around the absence of random-1.  In the absence of random-1  people go to a lot of effort to *describe* the sample (I am using sample in the random-1 sense; alternatively we could call it the `trial population' but that risks confusion).  These attempts to describe the sample are reasonable and important, but don't overcome that lack of random-1. Adam*
+}*[[[break]]]to: *green {code Random-2 does not provide a way around the absence of random-1.  In the absence of random-1  people go to a lot of effort to * *describe* *green the sample (I am using sample in the random-1 sense; alternatively we could call it the `trial population' but that risks confusion).  These attempts to describe the sample are reasonable and important, but don't overcome that lack of random-1. Adam*
+}*
+----
+Fri Sep 21 09:49:37 EST 2007
+
+
+
+[[[break]]]changed line 47 from: *orange {code *blue I think there is an interesting question here of what random (and interpretation) is supposed to provide and what else is being assumed.  This links with John Worrall's recent paper.
+}*[[[break]]]to: *green {code *blue I think there is an interesting question here of what random (any interpretation) is supposed to provide and what else is being assumed.  This links with John Worrall's recent paper.
+}*[[[break]]]added at line 62: *lime {code *black (colour co-ordination is getting difficult, :)) Let me have a go at making a claim that there are ``fundamental'' differences between the random-1 and -2.  I am suspicious about the theoretical/practical distinction: the practical is important theoretically.  I take your claim to be that random-1 and -2 can be treated as superficially the same with respect to classical inference.  And I take that to mean that somehow random-2 achieves the same as random-1 does.  In this paper Neyman appears to be making that claim for random-1 and -3---while I don't quite buy this, I think these two forms of random are closer than -1 and -2. 
+
+The difference, between random-1 and -2, hangs on what inferences are warranted from the sample data.  If only random-2, inferences are only warranted to the sample in the trial.  If random-1 and -2 then inferences are warranted on the population from which the sample was drawn on the basis of random-1.
+
+I agree we don't want to make inferences about the whole of humanity.  The population we are interested in is much more constrained.  Ideally it is also homogeneous with respect to the causal story under examination. (Though clearly sometimes we seem to be only interested in correlation---I find these questions very interesting) .  An example population might be those who suffer a first heart attack within the catchment area of a tertiary referral hospital in Australia.  For practical reasons there is no attempt to gain a random-1 sample from that population (who would then be random-2ed into treatment and control).  Because random-1 did not occur the only inferences warranted are about the sample.  If random-1 did occur then we could draw inferences about the population.  I fear I am just stamping my foot but this seems enough to show that random-1 and random-2 are philosophically different.
+
+Random-2 does not provide a way around the absence of random-1.  In the absence of random-1  people go to a lot of effort to *describe* the sample (I am using sample in the random-1 sense; alternatively we could call it the `trial population' but that risks confusion).  These attempts to describe the sample are reasonable and important, but don't overcome that lack of random-1. Adam*
+
+}*
+----
+Wed Sep 19 10:44:20 EST 2007
+
+
+
+[[[break]]]changed line 143 from: *orange {code and maybe chapter 4 of http://xeny.net/StatisticsManuscript*
+}*[[[break]]]to: *green {code chapter 4 of http://xeny.net/StatisticsManuscript
+
+@article{OToole:1990,
+	Author = {Brian O'Toole},
+	Journal = {MJA},
+	Pages = {171-174},
+	Title = {Survey subjects and the quality of health surveys},
+	Volume = {152},
+	Year = {1990}}
+*
+}*
+----
+Wed Sep 19 10:42:42 EST 2007
+
+
+
+[[[break]]]changed line 45 from: *orange {code *blue OK another look still has me convinced that Neyman is talking random-1 and -3 and not -2.  He uses radiodecay as his example for (1b); but perhaps I am being unimaginative in bring that back to random-2.
+}*[[[break]]]to: *green {code *blue OK another look still has me convinced that Neyman is talking random-1 and -3 and not -2.  He uses radiodecay as his example for (1b); but perhaps I am being unimaginative in bring that back to random-2.* *pink OK, I'll change my book again!  Thanks for the correction.*
+}*[[[break]]]changed line 47 from: *orange {code I think there is an interesting question here of what random (and interpretation) is supposed to provide and what else is being assumed.  This links with John Worrall's recent paper.
+}*[[[break]]]to: *green {code *blue I think there is an interesting question here of what random (and interpretation) is supposed to provide and what else is being assumed.  This links with John Worrall's recent paper.
+}*[[[break]]]changed line 61 from: *orange {code *blue Now the link with John Worrall's paper.  He takes EBM advocates as thinking that random-2 somehow makes the homogeneity assumption true.  His argument shows that this is clearly false.  What I wonder (and I am not too sure what hangs on this) is whether Neyman thinks random-1 (or -2) makes the homogeneity assumption true, or whether this is an independent explicit additional assumption.*
+}*[[[break]]]to: *green {code *blue Now the link with John Worrall's paper.  He takes EBM advocates as thinking that random-2 somehow makes the homogeneity assumption true.  His argument shows that this is clearly false.  What I wonder (and I am not too sure what hangs on this) is whether Neyman thinks random-1 (or -2) makes the homogeneity assumption true, or whether this is an independent explicit additional assumption.* *pink Good question!*
+}*
+----
+Wed Sep 19 10:37:45 EST 2007
+
+
+
+[[[break]]]changed line 45 from: *orange {code *blue OK another look still has me convinced that Neyman is talking random-1 and -3 and not -2.  He uses radiodecay as his example for (1b); but perhaps I am being unimaginative in bringing that back to random-2.
+}*[[[break]]]to: *green {code *blue OK another look still has me convinced that Neyman is talking random-1 and -3 and not -2.  He uses radiodecay as his example for (1b); but perhaps I am being unimaginative in bring that back to random-2.
+}*[[[break]]]changed line 47 from: *orange {code I think there is an interesting question here of what random (any interpretation) is supposed to provide and what else is being assumed.  This links with John Worrall's recent paper ( Worrall.J.Why.Theres.No.Cause.To.Randomise ).
+}*[[[break]]]to: *green {code I think there is an interesting question here of what random (and interpretation) is supposed to provide and what else is being assumed.  This links with John Worrall's recent paper.
+}*[[[break]]]changed line 53 from: *orange {code ``Homogenous in the right way'' is meant to permit individual differences in members of the population/sample/treatment group but NOT differences important to the causal story of the effect under investigation.
+}*[[[break]]]to: *green {code ``Homogenous in the right way'' is meant to permit individual differences in members of the population/sample/treatment group but NOT differences important to the causal story of the effect under investigation.*
+}*[[[break]]]changed line 55 from: *orange {code Random-1 does not happen in medical RCTs.  Rather the inclusion and exclusion criteria are set and patients are recruited by whatever convenient methods.  Once the sample is gained then they are random-2ed.  Providing random-2 is adequate, and the homogeneity assumption holds, inferences from the trial are warranted regarding the sample (not the population).  The population the results of the study are used on are the population defined by the inclusion/exclusion critieria; the absence of random-1 and hence the problematic nature of these inferences are (in my opinion) often forgotten.
+}*[[[break]]]to: *green {code *pink Right.  Very clear.  (Useful text for papers and thesis.)  And this is the same as what happens in e.g. survey sampling, isn't it?  If after sampling the samples are not homogeneous -- e.g., if you do an election poll and all the respondents turn out to be hermaphrodytes (not that you'd notice, so it's a bad example, but hey) -- then you can't make the right inferences.  And survey sampling can have inclusion and exclusion criteria too.  These similarities between random-1 (survey sampling) and random-2 (as explained by you) makes them seem the same to me, so you need to explain to me even more why they're not.  You do a bit of this below.*
+}*[[[break]]]changed line 57 from: *orange {code Now the link with John Worrall's paper.  He takes EBM advocates as thinking that random-2 somehow makes the homogeneity assumption true.  His argument shows that this is clearly false.  What I wonder (and I am not too sure what hangs on this) is whether Neyman thinks random-1 (or -2) makes the homogeneity assumption true, or whether this is an independent  additional assumption.*
+}*[[[break]]]to: *green {code *blue Random-1 does not happen in medical RCTs.  Rather the inclusion and exclusion criteria are set and patients are recruited by whatever convenient methods.  Once the sample is gained then they are random-2ed.  Providing random-2 is adequate, and the homogeneity assumption holds, inferences from the trial are warranted regarding the sample (not the population).  The population the results of the study are used on are the population defined by the inclusion/exclusion critieria; the absence of random-1 and hence the problematic nature of these inferences are (in my opinion) often forgotten.*
+
+*pink Really really good points.  Not convinced yet that they mark a philosophical difference from random-1 sampling though.  As you say, the population which you can generalise to from a medical RCT is a weird one.  It's not the whole of humanity.  But it's still a population.  There never was anything special in any _statistical_ sense about the whole of humanity anyway.  If you'd done random-1 sampling you could generalise to a different population -- possibly the whole of humanity, possibly not.  (Sampling has heaps of its own problems which we can discuss if you're interested.  For example, it will almost always exclude the young and the very old.  Are they in the population you're generalising to, then?  I don't think so.)  Practical differences: heaps.  Fundamental differences at the level of randomisation?  I don't see 'em yet.*
+
+*blue Now the link with John Worrall's paper.  He takes EBM advocates as thinking that random-2 somehow makes the homogeneity assumption true.  His argument shows that this is clearly false.  What I wonder (and I am not too sure what hangs on this) is whether Neyman thinks random-1 (or -2) makes the homogeneity assumption true, or whether this is an independent explicit additional assumption.*
+}*
+----
+Wed Sep 19 10:24:27 EST 2007
+
+
+
+[[[break]]]changed line 45 from: *orange {code *blue OK another look still has me convinced that Neyman is talking random-1 and -3 and not -2.  He uses radiodecay as his example for (1b); but perhaps I am being unimaginative in bring that back to random-2.
+}*[[[break]]]to: *green {code *blue OK another look still has me convinced that Neyman is talking random-1 and -3 and not -2.  He uses radiodecay as his example for (1b); but perhaps I am being unimaginative in bringing that back to random-2.
+}*[[[break]]]changed line 47 from: *orange {code I think there is an interesting question here of what random (and interpretation) is supposed to provide and what else is being assumed.  This links with John Worrall's recent paper.
+}*[[[break]]]to: *green {code I think there is an interesting question here of what random (any interpretation) is supposed to provide and what else is being assumed.  This links with John Worrall's recent paper ( Worrall.J.Why.Theres.No.Cause.To.Randomise ).
+}*[[[break]]]changed line 57 from: *orange {code Now the link with John Worrall's paper.  He takes EBM advocates as thinking that random-2 somehow makes the homogeneity assumption true.  His argument shows that this is clearly false.  What I wonder (and I am not too sure what hangs on this) is whether Neyman thinks random-1 (or -2) makes the homogeneity assumption true, or whether this is an independent explicit additional assumption.*
+}*[[[break]]]to: *green {code Now the link with John Worrall's paper.  He takes EBM advocates as thinking that random-2 somehow makes the homogeneity assumption true.  His argument shows that this is clearly false.  What I wonder (and I am not too sure what hangs on this) is whether Neyman thinks random-1 (or -2) makes the homogeneity assumption true, or whether this is an independent  additional assumption.*
+}*
+----
+Wed Sep 19 10:16:37 EST 2007
+
+
+
+[[[break]]]added at line 44: *lime {code *blue OK another look still has me convinced that Neyman is talking random-1 and -3 and not -2.  He uses radiodecay as his example for (1b); but perhaps I am being unimaginative in bring that back to random-2.
+
+I think there is an interesting question here of what random (and interpretation) is supposed to provide and what else is being assumed.  This links with John Worrall's recent paper.
+
+I don't think that random-1 and -2 are superficially the same; at least in the context of medical RCTs.  Here's my go at why.  
+
+We want to make inferences about the effectiveness of a drug compared to control in a population.  Step 1 is to get a sample from the population using random-1.  Once we have the sample we use random-2 to assign the members of the sample to treatment and control.  If random-1 and random-2 have been achieved AND individuals in the group can be assumed to be homogenous in the right way (I will call this the homogeneity assumption; above I called it identity) THEN our inferences about the effectiveness of the drug in the population (based on the results in the sample) will be warranted. 
+
+``Homogenous in the right way'' is meant to permit individual differences in members of the population/sample/treatment group but NOT differences important to the causal story of the effect under investigation.
+
+Random-1 does not happen in medical RCTs.  Rather the inclusion and exclusion criteria are set and patients are recruited by whatever convenient methods.  Once the sample is gained then they are random-2ed.  Providing random-2 is adequate, and the homogeneity assumption holds, inferences from the trial are warranted regarding the sample (not the population).  The population the results of the study are used on are the population defined by the inclusion/exclusion critieria; the absence of random-1 and hence the problematic nature of these inferences are (in my opinion) often forgotten.
+
+Now the link with John Worrall's paper.  He takes EBM advocates as thinking that random-2 somehow makes the homogeneity assumption true.  His argument shows that this is clearly false.  What I wonder (and I am not too sure what hangs on this) is whether Neyman thinks random-1 (or -2) makes the homogeneity assumption true, or whether this is an independent explicit additional assumption.*
+
+}*
+----
+Wed Sep 19 03:34:24 EST 2007
+
+
+
+[[[break]]]added at line 101: *lime {code 
+----
+
+*crimson secondary literature:
+
+
+@book{Stuart-1999-2a,
+	Address = {London},
+	Author = {Alan Stuart and J.~Keith Ord and Steven Arnold},
+	Edition = {6th},
+	Publisher = {Arnold},
+	Title = {Kendall's Advanced Theory of Statistics Vol. 2A:~Classical Inference and the Linear Model},
+	Year = {1999}}
+
+
+    @book{Barnett-1999,
+    	Address = {New York},
+    	Author = {Vic Barnett},
+    	Edition = {3rd},
+    	Publisher = {John Wiley},
+    	Title = {Comparative Statistical Inference},
+    	Year = {1999}}
+
+and maybe chapter 4 of http://xeny.net/StatisticsManuscript*
+}*
+----
+Wed Sep 19 02:52:01 EST 2007
+
+
+
+[[[break]]]changed line 77 from: *orange {code A frequency interpretation of probability.  Once the test statistic and experiment are specified, judgements about the unknown theta play no part.  (theta is not a random variable)
+}*[[[break]]]to: *green {code A frequency interpretation of probability. *crimson I'm not so sure about that.  He says:
+
+`Under the above conditions [namely that A and B are measurable] the probability, PB|A, of an object A having the property B will be defined as the ratio PB|A = m(B)/m(A).'
+
+That can't be a frequency interpretation of probability, or the ratio wouldn't be guaranteed to exist.  It looks like the classical interpretation of probability to me.  If we really want to know, we might have to ask Alan Hájek.  But maybe it doesn't matter, because the important point is the next one:*
+Once the test statistic and experiment are specified, judgements about the unknown theta play no part.  (theta is not a random variable)
+*crimson Right.*
+}*
+----
+Wed Sep 19 02:48:16 EST 2007
+
+
+
+[[[break]]]changed line 67 from: *orange {code This seems to need some heavy duty assumptions to be correct. *crimson Yes!  Specifically, that the model is exactly correct (no measurement error etc.).*  Indeed, is there not a conflation of `hypothetical' repetitions of experiments and actual repetitions? *crimson Maybe, but I don't see why that matters, either within Neyman's theory or otherwise.* Need to think more about this.  
+}*[[[break]]]to: *green {code This seems to need some heavy duty assumptions to be correct. *crimson Yes!  Specifically, that the model is exactly correct (no measurement error that isn't explicitly modelled, etc.).*  Indeed, is there not a conflation of `hypothetical' repetitions of experiments and actual repetitions? *crimson Maybe, but I don't see why that matters, either within Neyman's theory or otherwise.* Need to think more about this.  
+}*
+----
+Wed Sep 19 02:47:34 EST 2007
+
+
+
+[[[break]]]changed line 67 from: *orange {code This seems to need some heavy duty assumptions to be correct.  Indeed, is there not a conflation of `hypothetical' repetitions of experiments and actual repetitions? Need to think more about this.  
+}*[[[break]]]to: *green {code This seems to need some heavy duty assumptions to be correct. *crimson Yes!  Specifically, that the model is exactly correct (no measurement error etc.).*  Indeed, is there not a conflation of `hypothetical' repetitions of experiments and actual repetitions? *crimson Maybe, but I don't see why that matters, either within Neyman's theory or otherwise.* Need to think more about this.  
+}*
+----
+Wed Sep 19 02:43:01 EST 2007
+
+
+
+[[[break]]]changed line 55 from: *orange {code Neyman then goes on to consider ONLY the use of uniform priors to calculate posterior probability. *I hadn't noticed that!  Good point.  I was hornswaggled by the fact that he said he approved of Jeffreys's theory in some circumstances, and Jeffreys's theory allows for more than just uniform priors.* This is rejected on the basis of not fitting the theory of probability outlined by Neyman.  In particular, he seems to suggest that it will not follow the law of large numbers.  There is an important paragraph here that I need to return to in order to confirm I am not missing part of his argument.  But it does not appear to be anymore than the idea the priors will effect estimates and this may differ from the result of repeated trials.  Two replies---almost always we don't have repeated trials, and this ignores Bayesian  arguments that evidence will eventually calibrate any aberrant prior.  Both classical statisticians and Bayesian seem to be equally reliant on the law of large numbers (I don't see how they are pried apart on this issue).
+}*[[[break]]]to: *green {code Neyman then goes on to consider ONLY the use of uniform priors to calculate posterior probability. *crimson I hadn't noticed that!  Good point.  I was hornswaggled by the fact that he said he approved of Jeffreys's theory in some circumstances, and Jeffreys's theory allows for more than just uniform priors.* This is rejected on the basis of not fitting the theory of probability outlined by Neyman.  In particular, he seems to suggest that it will not follow the law of large numbers.  There is an important paragraph here that I need to return to in order to confirm I am not missing part of his argument.  But it does not appear to be anymore than the idea the priors will effect estimates and this may differ from the result of repeated trials.  Two replies---almost always we don't have repeated trials, and this ignores Bayesian  arguments that evidence will eventually calibrate any aberrant prior.  Both classical statisticians and Bayesian seem to be equally reliant on the law of large numbers (I don't see how they are pried apart on this issue).
+}*
+----
+Wed Sep 19 02:42:25 EST 2007
+
+
+
+[[[break]]]changed line 55 from: *orange {code Neyman then goes on to consider ONLY the use of uniform priors to calculate posterior probability. *I hadn't noticed that!  Good point.* This is rejected on the basis of not fitting the theory of probability outlined by Neyman.  In particular, he seems to suggest that it will not follow the law of large numbers.  There is an important paragraph here that I need to return to in order to confirm I am not missing part of his argument.  But it does not appear to be anymore than the idea the priors will effect estimates and this may differ from the result of repeated trials.  Two replies---almost always we don't have repeated trials, and this ignores Bayesian  arguments that evidence will eventually calibrate any aberrant prior.  Both classical statisticians and Bayesian seem to be equally reliant on the law of large numbers (I don't see how they are pried apart on this issue).
+}*[[[break]]]to: *green {code Neyman then goes on to consider ONLY the use of uniform priors to calculate posterior probability. *I hadn't noticed that!  Good point.  I was hornswaggled by the fact that he said he approved of Jeffreys's theory in some circumstances, and Jeffreys's theory allows for more than just uniform priors.* This is rejected on the basis of not fitting the theory of probability outlined by Neyman.  In particular, he seems to suggest that it will not follow the law of large numbers.  There is an important paragraph here that I need to return to in order to confirm I am not missing part of his argument.  But it does not appear to be anymore than the idea the priors will effect estimates and this may differ from the result of repeated trials.  Two replies---almost always we don't have repeated trials, and this ignores Bayesian  arguments that evidence will eventually calibrate any aberrant prior.  Both classical statisticians and Bayesian seem to be equally reliant on the law of large numbers (I don't see how they are pried apart on this issue).
+}*
+----
+Wed Sep 19 02:41:04 EST 2007
+
+
+
+[[[break]]]changed line 55 from: *orange {code Neyman then goes on to consider ONLY the use of uniform priors to calculate posterior probability.  This is rejected on the basis of not fitting the theory of probability outlined by Neyman.  In particular, he seems to suggest that it will not follow the law of large numbers.  There is an important paragraph here that I need to return to in order to confirm I am not missing part of his argument.  But it does not appear to be anymore than the idea the priors will effect estimates and this may differ from the result of repeated trials.  Two replies---almost always we don't have repeated trials, and this ignores Bayesian  arguments that evidence will eventually calibrate any aberrant prior.  Both classical statisticians and Bayesian seem to be equally reliant on the law of large numbers (I don't see how they are pried apart on this issue).
+}*[[[break]]]to: *green {code Neyman then goes on to consider ONLY the use of uniform priors to calculate posterior probability. *I hadn't noticed that!  Good point.* This is rejected on the basis of not fitting the theory of probability outlined by Neyman.  In particular, he seems to suggest that it will not follow the law of large numbers.  There is an important paragraph here that I need to return to in order to confirm I am not missing part of his argument.  But it does not appear to be anymore than the idea the priors will effect estimates and this may differ from the result of repeated trials.  Two replies---almost always we don't have repeated trials, and this ignores Bayesian  arguments that evidence will eventually calibrate any aberrant prior.  Both classical statisticians and Bayesian seem to be equally reliant on the law of large numbers (I don't see how they are pried apart on this issue).
+}*
+----
+Wed Sep 19 02:37:12 EST 2007
+
+
+
+[[[break]]]changed line 41 from: *orange {code Clearly estimation of population parameters from samples relies heavily on the assumption of random-1.  But arguably more than this.  For whatever we are estimating to be meaningful there is also an assumption that there is no theoretical differences between individuals. *crimson I don't know why you say that.* This is clearly not the case in medical RCTs. 
+}*[[[break]]]to: *green {code Clearly estimation of population parameters from samples relies heavily on the assumption of random-1.  But arguably more than this.  For whatever we are estimating to be meaningful there is also an assumption that there is no theoretical differences between individuals. *crimson I don't know why you say that.  It might help if you talked me through this bit.* This is clearly not the case in medical RCTs. 
+}*
+----
+Wed Sep 19 02:36:09 EST 2007
+
+
+
+[[[break]]]changed line 41 from: *orange {code Clearly estimation of population parameters from samples relies heavily on the assumption of random-1.  But arguably more than this.  For whatever we are estimating to be meaningful there is also an assumption that there is no theoretical differences between individuals.  This is clearly not the case in medical RCTs. 
+}*[[[break]]]to: *green {code Clearly estimation of population parameters from samples relies heavily on the assumption of random-1.  But arguably more than this.  For whatever we are estimating to be meaningful there is also an assumption that there is no theoretical differences between individuals. *crimson I don't know why you say that.* This is clearly not the case in medical RCTs. 
+}*
+----
+Wed Sep 19 02:34:14 EST 2007
+
+
+
+[[[break]]]added at line 38: *lime {code *crimson I'm not sure.  Anyway, I think the terminology you need here is _exchangeability_.*
+
+}*
+----
+Wed Sep 19 02:28:07 EST 2007
+
+
+
+[[[break]]]changed line 33 from: *orange {code Quote, p339: The justification of the way of speaking about the definition of the measure within the fundamental probability set in terms of imaginary random experiments lies in the empirical fact, which Bortkiewicz insisted on calling the law of big numbers.  That is that, given a purely mathematical definition of a probability set including the appropriate measure, we are able to construct a real experiment, possible to carry out in any laboratory, with a certain range of possible results and such that if it is repeated many times, the relative frequencies of these results and their different combinations in small series approach closely the values of probabilities as calculated from the defintion of the fundamental probability set.
+}*[[[break]]]to: *green {code Quote, p339: The justification of the way of speaking about the definition of the measure within the fundamental probability set in terms of imaginary random experiments lies in the empirical fact, which Bortkiewicz insisted on calling the law of big numbers.  That is that, given a purely mathematical definition of a probability set including the appropriate measure, we are able to construct a real experiment, possible to carry out in any laboratory, with a certain range of possible results and such that if it is repeated many times, the relative frequencies of these results and their different combinations in small series approach closely the values of probabilities as calculated from the definition of the fundamental probability set.
+}*
+----
+Wed Sep 19 02:23:53 EST 2007
+
+
+
+[[[break]]]changed line 24 from: *orange {code In science as it is actually practised, the distinction between the two types of reference classes is ``only superficial''\cite[\p.252]{Neyman:1967}, since random samples are generated by random experiments; thus, random experiment reference classes are the most general type and subsume population reference classes; so it is unnecessary to discuss sampling specifically, as long as we adequately discuss random experiments.  Arguably, a random sample from a population could be given to a statistical analyst by accident or in some other non-experimental way.  For example, a star map might be printed in sections because of the limitations of a printer, and a scientist might take and analyse a single representative section not realising that the others existed.  The failure to allow for this is a gap in Neyman's theory.  Neyman's response would presumably be to bite the bullet by saying that such a case _ought_ to fall outside his theory, because the sample was not random and hence that it could not licence any probability statements.
+}*[[[break]]]to: *green {code In science as it is typically practised, the distinction between the two types of reference classes is ``only superficial''\cite[\p.252]{Neyman:1967}, since random samples are generated by random experiments; thus, random experiment reference classes are the most general type and subsume population reference classes; so it is unnecessary to discuss sampling specifically, as long as we adequately discuss random experiments.  Arguably, a random sample from a population could be given to a statistical analyst by accident or in some other non-experimental way.  For example, a star map might be printed in sections because of the limitations of a printer, and a scientist might take and analyse a single representative section not realising that the others existed.  It would be nice if Neyman's theory allowed the scientist to analyse her representative sample just like any other representative sample.  The failure to allow for this is a gap in Neyman's theory.  Neyman's response would presumably be to bite the bullet by saying that such a case _ought_ to fall outside his theory, because the sample was not random and hence that it could not licence any probability statements.
+}*
+----
+Wed Sep 19 02:21:46 EST 2007
+
+
+
+[[[break]]]changed line 28 from: *orange {code Neyman simply states that random-1 is necessary to overcome the problem of estimation.  There is some argument that the difference between random-1 and -3 is only superficial (p.335); *crimson Bugger --- have I got that wrong?  I thought he said that it was the difference between random-1 and -2 that was only superficial.  He doesn't say both, does he?* it would seem the best way to interpret this is that estimation theory treats these two cases of random as the same.
+}*[[[break]]]to: *green {code Neyman simply states that random-1 is necessary to overcome the problem of estimation.  There is some argument that the difference between random-1 and -3 is only superficial (p.335); *crimson Bugger --- have I got that wrong?  I thought he said that it was the difference between random-1 and -2 that was only superficial.  He's certainly talking about 1(a) and 1(b), but maybe he's changing their meanings or something.* it would seem the best way to interpret this is that estimation theory treats these two cases of random as the same.
+}*
+----
+Wed Sep 19 02:16:07 EST 2007
+
+
+
+[[[break]]]changed line 28 from: *orange {code Neyman simply states that random-1 is necessary to overcome the problem of estimation.  There is some argument that the difference between random-1 and -3 is only superficial (p.335); it would seem the best way to interpret this is that estimation theory treats these two cases of random as the same.
+}*[[[break]]]to: *green {code Neyman simply states that random-1 is necessary to overcome the problem of estimation.  There is some argument that the difference between random-1 and -3 is only superficial (p.335); *crimson Bugger --- have I got that wrong?  I thought he said that it was the difference between random-1 and -2 that was only superficial.  He doesn't say both, does he?* it would seem the best way to interpret this is that estimation theory treats these two cases of random as the same.
+}*
+----
+Wed Sep 19 02:13:52 EST 2007
+
+
+
+[[[break]]]changed line 24 from: *orange {code In science as it is actually practised, the distinction between the two types of reference classes is ``only superficial''\cite[\p.252]{Neyman:1967}, since random samples are generated by random experiments; thus, random experiment reference classes are the most general type and subsume population reference classes; so it is unnecessary to discuss sampling specifically, as long as we adequately discuss random experiments.  Arguably, a random sample from a population could be given to a statistical analyst by accident or in some other non-experimental way.  For example, a star map might be printed in sections because of the limitations of a printer, and a scientist might take and analyse a single representative section not realising that the others existed.  The failure to allow for this is a gap in Neyman's theory.  Neyman's response would presumably be to bite the bullet by saying that such a case ought to fall outside his theory, because the sample was not random and hence that it could not licence any probability statements.
+}*[[[break]]]to: *green {code In science as it is actually practised, the distinction between the two types of reference classes is ``only superficial''\cite[\p.252]{Neyman:1967}, since random samples are generated by random experiments; thus, random experiment reference classes are the most general type and subsume population reference classes; so it is unnecessary to discuss sampling specifically, as long as we adequately discuss random experiments.  Arguably, a random sample from a population could be given to a statistical analyst by accident or in some other non-experimental way.  For example, a star map might be printed in sections because of the limitations of a printer, and a scientist might take and analyse a single representative section not realising that the others existed.  The failure to allow for this is a gap in Neyman's theory.  Neyman's response would presumably be to bite the bullet by saying that such a case _ought_ to fall outside his theory, because the sample was not random and hence that it could not licence any probability statements.
+}*
+----
+Wed Sep 19 02:13:03 EST 2007
+
+
+
+[[[break]]]changed line 22 from: *orange {code Ambiguity over ``random'' is present (which is partially recognised).  NB this is also discussed in John Worrall's recent BJPS paper (with links to Papinaeau that I am yet to chase).  Here are some attempts to disambiguate; random-1: the sample is drawn randomly from the population (this is important for Neyman's practical estimation problem); random-2: randomised trials, i.e. where the sample is randomised to treatment and control (clearly this is separate from how the sample is derived from the population). *crimson Not clear to me.  I thought Neyman was right to say that the difference was ``only superficial''.  But I'm having second thoughts. I've just changed the relevant section of my draft book to the following:
+}*[[[break]]]to: *green {code Ambiguity over ``random'' is present (which is partially recognised).  NB this is also discussed in John Worrall's recent BJPS paper (with links to Papinaeau that I am yet to chase).  Here are some attempts to disambiguate; random-1: the sample is drawn randomly from the population (this is important for Neyman's practical estimation problem); random-2: randomised trials, i.e. where the sample is randomised to treatment and control (clearly this is separate from how the sample is derived from the population). *crimson Not clear to me.  I thought Neyman was right to say that the difference was only superficial.  But I'm having second thoughts. I've just changed the relevant section of my draft book to the following:
+}*[[[break]]]changed line 24 from: *orange {code In science as it is actually practised, the distinction between the two types of reference classes is ``only superficial'' \cite[\p.252]{Neyman:1967}, since random samples are generated by random experiments; thus, random experiment reference classes are the most general type and subsume population reference classes; so it is unnecessary to discuss sampling specifically, as long as we adequately discuss random experiments.  Arguably, a random sample from a population could be given to a statistical analyst by accident or in some other non-experimental way.  For example, a star map might be printed in sections because of the limitations of a printer, and a scientist might take and analyse a representative section from the printer not realising that the others existed.  The failure to allow for this is a gap in Neyman's theory.  Neyman's response would presumably be to bite the bullet by saying that such a case ought to fall outside his theory, because the sample was not random and hence that it could not licence any probability statements.
+}*[[[break]]]to: *green {code In science as it is actually practised, the distinction between the two types of reference classes is ``only superficial''\cite[\p.252]{Neyman:1967}, since random samples are generated by random experiments; thus, random experiment reference classes are the most general type and subsume population reference classes; so it is unnecessary to discuss sampling specifically, as long as we adequately discuss random experiments.  Arguably, a random sample from a population could be given to a statistical analyst by accident or in some other non-experimental way.  For example, a star map might be printed in sections because of the limitations of a printer, and a scientist might take and analyse a single representative section not realising that the others existed.  The failure to allow for this is a gap in Neyman's theory.  Neyman's response would presumably be to bite the bullet by saying that such a case ought to fall outside his theory, because the sample was not random and hence that it could not licence any probability statements.
+}*
+----
+Wed Sep 19 02:11:01 EST 2007
+
+
+
+[[[break]]]changed line 22 from: *orange {code Ambiguity over ``random'' is present (which is partially recognised).  NB this is also discussed in John Worrall's recent BJPS paper (with links to Papinaeau that I am yet to chase).  Here are some attempts to disambiguate; random-1: the sample is drawn randomly from the population (this is important for Neyman's practical estimation problem); random-2: randomised trials, i.e. where the sample is randomised to treatment and control (clearly this is separate from how the sample is derived from the population). *crimson Not clear to me.  I thought Neyman was right to say that the difference was ``only superficial''.  But I'm having second thoughts.  Let's discuss.* Neyman does not discuss this sense of random;
+}*[[[break]]]to: *green {code Ambiguity over ``random'' is present (which is partially recognised).  NB this is also discussed in John Worrall's recent BJPS paper (with links to Papinaeau that I am yet to chase).  Here are some attempts to disambiguate; random-1: the sample is drawn randomly from the population (this is important for Neyman's practical estimation problem); random-2: randomised trials, i.e. where the sample is randomised to treatment and control (clearly this is separate from how the sample is derived from the population). *crimson Not clear to me.  I thought Neyman was right to say that the difference was ``only superficial''.  But I'm having second thoughts. I've just changed the relevant section of my draft book to the following:
+}*[[[break]]]changed line 24 from: *orange {code and random-3: the randomness that is ineliminable from certain physical processes, i.e. radiodecay of atoms.  For random-3 there is an assumption that this randomness can be represented by estimates of half-life.  Random-3 is part of a physical theory.  Random-1 and -2 aim to avoid (or minimise) random error or systematic bias or confounders.
+}*[[[break]]]to: *green {code In science as it is actually practised, the distinction between the two types of reference classes is ``only superficial'' \cite[\p.252]{Neyman:1967}, since random samples are generated by random experiments; thus, random experiment reference classes are the most general type and subsume population reference classes; so it is unnecessary to discuss sampling specifically, as long as we adequately discuss random experiments.  Arguably, a random sample from a population could be given to a statistical analyst by accident or in some other non-experimental way.  For example, a star map might be printed in sections because of the limitations of a printer, and a scientist might take and analyse a representative section from the printer not realising that the others existed.  The failure to allow for this is a gap in Neyman's theory.  Neyman's response would presumably be to bite the bullet by saying that such a case ought to fall outside his theory, because the sample was not random and hence that it could not licence any probability statements.
+
+Let's discuss.* Neyman does not discuss this sense of random; and random-3: the randomness that is ineliminable from certain physical processes, i.e. radiodecay of atoms.  For random-3 there is an assumption that this randomness can be represented by estimates of half-life.  Random-3 is part of a physical theory.  Random-1 and -2 aim to avoid (or minimise) random error or systematic bias or confounders.
+}*
+----
+Wed Sep 19 02:01:20 EST 2007
+
+
+
+[[[break]]]changed line 22 from: *orange {code Ambiguity over ``random'' is present (which is partially recognised).  NB this is also discussed in John Worrall's recent BJPS paper (with links to Papinaeau that I am yet to chase).  Here are some attempts to disambiguate; random-1: the sample is drawn randomly from the population (this is important for Neyman's practical estimation problem); random-2: randomised trials, i.e. where the sample is randomised to treatment and control (clearly this is separate from how the sample is derived from the population). *crimson Not clear to me.  I thought Neyman was right to say that the difference was ``only superficial''.  But I'm having second thoughts.  Let's discuss.* Neyman does not discuss this sense of random; and random-3: the randomness that is ineliminable from certain physical processes, i.e. radiodecay of atoms.  For random-3 there is an assumption that this randomness can be represented by estimates of half-life.  Random-3 is part of a physical theory.  Random-1 and -2 aim to avoid (or minimise) random error or systematic bias or confounders.
+}*[[[break]]]to: *green {code Ambiguity over ``random'' is present (which is partially recognised).  NB this is also discussed in John Worrall's recent BJPS paper (with links to Papinaeau that I am yet to chase).  Here are some attempts to disambiguate; random-1: the sample is drawn randomly from the population (this is important for Neyman's practical estimation problem); random-2: randomised trials, i.e. where the sample is randomised to treatment and control (clearly this is separate from how the sample is derived from the population). *crimson Not clear to me.  I thought Neyman was right to say that the difference was ``only superficial''.  But I'm having second thoughts.  Let's discuss.* Neyman does not discuss this sense of random;
+
+and random-3: the randomness that is ineliminable from certain physical processes, i.e. radiodecay of atoms.  For random-3 there is an assumption that this randomness can be represented by estimates of half-life.  Random-3 is part of a physical theory.  Random-1 and -2 aim to avoid (or minimise) random error or systematic bias or confounders.
+}*
+----
+Wed Sep 19 01:59:51 EST 2007
+
+
+
+[[[break]]]changed line 22 from: *orange {code Ambiguity over ``random'' is present (which is partially recognised).  NB this is also discussed in John Worrall's recent BJPS paper (with links to Papinaeau that I am yet to chase).  Here are some attempts to disambiguate; random-1: the sample is drawn randomly from the population (this is important for Neyman's practical estimation problem); random-2: randomised trials, i.e. where the sample is randomised to treatment and control (clearly this is separate from how the sample is derived from the population).  Neyman does not discuss this sense of random; and random-3: the randomness that is ineliminable from certain physical processes, i.e. radiodecay of atoms.  For random-3 there is an assumption that this randomness can be represented by estimates of half-life.  Random-3 is part of a physical theory.  Random-1 and -2 aim to avoid (or minimise) random error or systematic bias or confounders.
+}*[[[break]]]to: *green {code Ambiguity over ``random'' is present (which is partially recognised).  NB this is also discussed in John Worrall's recent BJPS paper (with links to Papinaeau that I am yet to chase).  Here are some attempts to disambiguate; random-1: the sample is drawn randomly from the population (this is important for Neyman's practical estimation problem); random-2: randomised trials, i.e. where the sample is randomised to treatment and control (clearly this is separate from how the sample is derived from the population). *crimson Not clear to me.  I thought Neyman was right to say that the difference was ``only superficial''.  But I'm having second thoughts.  Let's discuss.* Neyman does not discuss this sense of random; and random-3: the randomness that is ineliminable from certain physical processes, i.e. radiodecay of atoms.  For random-3 there is an assumption that this randomness can be represented by estimates of half-life.  Random-3 is part of a physical theory.  Random-1 and -2 aim to avoid (or minimise) random error or systematic bias or confounders.
+}*
+----
+Wed Sep 19 00:59:06 EST 2007
+
+
+
+[[[break]]]added at line 87: *lime {code 
+AdamLaCaze
+}*
+----
+Wed Sep 19 00:56:56 EST 2007
+
+
+
+[[[break]]]changed line 14 from: *orange {code *brown Which raises the question of whether it's the same theory any more.  .Jason*
+}*[[[break]]]to: *green {code *crimson Which raises the question of whether it's the same theory any more.  .Jason*
+}*
+----
+Wed Sep 19 00:56:11 EST 2007
+
+
+
+[[[break]]]changed line 14 from: *orange {code _Which raises the question of whether it's the same theory any more.  .Jason_
+}*[[[break]]]to: *green {code *brown Which raises the question of whether it's the same theory any more.  .Jason*
+}*
+----
+Wed Sep 19 00:55:40 EST 2007
+
+
+
+[[[break]]]changed line 14 from: *orange {code _Which raises the question of whether it's the same theory any more.  I think not, on balance.  .Jason_
+}*[[[break]]]to: *green {code _Which raises the question of whether it's the same theory any more.  .Jason_
+}*
+----
+Wed Sep 19 00:54:48 EST 2007
+
+
+
+[[[break]]]deleted at line 1: *red {code 
+}*[[[break]]]added at line 14: *lime {code _Which raises the question of whether it's the same theory any more.  I think not, on balance.  .Jason_
+
+}*
+----
+Tue Sep 18 16:51:47 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code 
+@article{Neyman:37,
+	Author = {Neyman, J.},
+	Journal = {Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences},
+	Number = {767},
+	Pages = {333--380},
+	Title = {Outline of a Theory of Statistical Estimation Based on the Classical Theory of Probability},
+	Volume = {236},
+	Year = {1937}}
+
+
+
+There are a number of cool things about this paper.  I particularly like the set-up (much more seems to be recognised here then is often used by those who apply the theory)
+
+I will break these notes into two parts.  The first will focus on the interpretation of confidence intervals and related questions.  The second will attempt to understand the connection between confidence intervals and hypothesis testing (particularly with regard to how it affects the rofecoxib paper).
+
+PART I
+
+The comparison of two aspects of estimation; (1) practical---(1a) estimating population parameters from a sample; (1b)``random experiments'', i.e. getting different results from an experiment that should be picking up a stable phenomenon (the example given is radiodecay); and (2) theoretical---this is about putting in precise terms the questions of (1)
+
+Ambiguity over ``random'' is present (which is partially recognised).  NB this is also discussed in John Worrall's recent BJPS paper (with links to Papinaeau that I am yet to chase).  Here are some attempts to disambiguate; random-1: the sample is drawn randomly from the population (this is important for Neyman's practical estimation problem); random-2: randomised trials, i.e. where the sample is randomised to treatment and control (clearly this is separate from how the sample is derived from the population).  Neyman does not discuss this sense of random; and random-3: the randomness that is ineliminable from certain physical processes, i.e. radiodecay of atoms.  For random-3 there is an assumption that this randomness can be represented by estimates of half-life.  Random-3 is part of a physical theory.  Random-1 and -2 aim to avoid (or minimise) random error or systematic bias or confounders.
+
+Neyman simply states that random-1 is necessary to overcome the problem of estimation.  There is some argument that the difference between random-1 and -3 is only superficial (p.335); it would seem the best way to interpret this is that estimation theory treats these two cases of random as the same.
+
+Neyman outlines Komolgorov's axioms and briefly considers Bertrand's Paradox.  His reply to Bertrand: ``The answer is that both are correct but they correspond to different conditions of the problem.  In fact, the question ``what is the probability of a chord having its length larger than B'' does not specify the problem entirely.'' (p.338).  In short: we need to define the measure.  For two different measures we get two different probabilities; Neyman does not seem to be troubled by this.  The lesson he appears to draw is that you need to define the measure.
+
+This is buttressed by an empirical reply.  It relies on the law of large numbers:
+Quote, p339: The justification of the way of speaking about the definition of the measure within the fundamental probability set in terms of imaginary random experiments lies in the empirical fact, which Bortkiewicz insisted on calling the law of big numbers.  That is that, given a purely mathematical definition of a probability set including the appropriate measure, we are able to construct a real experiment, possible to carry out in any laboratory, with a certain range of possible results and such that if it is repeated many times, the relative frequencies of these results and their different combinations in small series approach closely the values of probabilities as calculated from the defintion of the fundamental probability set.
+
+OK ugly quote.  Here's what I think is being said.  Given the law of large numbers, if we adequately specify and conduct an experiment to estimate an unknown parameter, we can be reassured that we will approach the true value of the parameter.  Providing we repeat the experiment a sufficient number of times.
+
+There seems an important difference here between estimating population parameters from a sample and repeated random experiments.  The former seems to treat each individual in the sample as a random result of a single experiment.  One has to assume that each individual is identical (with regard to the system under experiment).  The latter assumes the underlying phenomena is stable (the same) and considers repeated (identical) experiments.
+
+Clearly estimation of population parameters from samples relies heavily on the assumption of random-1.  But arguably more than this.  For whatever we are estimating to be meaningful there is also an assumption that there is no theoretical differences between individuals.  This is clearly not the case in medical RCTs. 
+
+This pries (1a) and (1b) apart.  For (1a) identity of individuals is assumed; explicitly contrary to theoretical considerations.  For (1b), assuming the experiments are repeated in identical circumstances, theoretical considerations tell us to treat the phenomena identically.  
+
+Another related quote (p339-40): The theory developed below [estimation] is entirely independent of whether the law of big numbers holds good or not.  But the applications of the theory do depend on the assumption that it is valid.
+
+This seems an interesting idea of independent (the second sentence, to my ear, contradicts the first; at least for any meaningful interpretation of independent).
+
+There is also nice discussion about whether theta (the unknown parameter) should be considered a constant or a random variable.  Classical statisticians such as Neyman assume theta to be a constant; Bayesians a random variable.  Neyman is eminently clear that the probability of theta falling into any interval is zero or 1 (see also p.347-9). This is vital for the correct interpretation of confidence intervals.  The confidence limits by contrast are random variables.
+
+The Bayesian solution to the problem of estimation is briefly reviewed (p.343-4).  Key points.  Theoretically Neyman accepts the Bayesian solution.  His rejection is based on the following:
+
+(p.343) (a) It is only very rarely that the unknown parameters are random variables.  They are generally unknown constants and therefore their probability law a priori has no meaning.  [this is philosophical table thumping; it is immediately followed by:] (b) Even if the parameters to be estimated could be considered as random variables, the elementary probability law a priori is usually unknown, and hence [Bayes Theorem] cannot be used because of the lack of data.
+
+Neyman then goes on to consider ONLY the use of uniform priors to calculate posterior probability.  This is rejected on the basis of not fitting the theory of probability outlined by Neyman.  In particular, he seems to suggest that it will not follow the law of large numbers.  There is an important paragraph here that I need to return to in order to confirm I am not missing part of his argument.  But it does not appear to be anymore than the idea the priors will effect estimates and this may differ from the result of repeated trials.  Two replies---almost always we don't have repeated trials, and this ignores Bayesian  arguments that evidence will eventually calibrate any aberrant prior.  Both classical statisticians and Bayesian seem to be equally reliant on the law of large numbers (I don't see how they are pried apart on this issue).
+
+Much important information about interpretion of confidence intervals is in p346-9.  In my words..
+P{lower confidence limit < true value of theta < upper confidence limit | true value of theta} = alpha  (this is my attempt at Neyman's (20))
+This statement (only) has meaning prior to collecting data.  Lower and upper confidence limits are random variables.  The true value of theta is a constant. Neyman's approach to estimation requires this equations holds whatever the true value of theta.
+
+Quote (p.348-9)  [the practical statistician may estimate the true value of theta by; some wording changes] (a) he must perform the random experiment and observe the particular values for the random variable X; (b) he must use these values to calculate the corresponding values of lower and upper confidence limit; and (c) he must state that lower confidence limit < true theta < upper confidence limit. How can this recommendation be justified?
+
+Neyman justifies this recommendation through ``the character of the probabilities as used here, and in the law of great numbers''.
+
+Quote (p349) It follows that if the practical statistician applies permanently the rules (a) (b) and (c) for purposes of estimating the value of the parameter theta, in the long run he will be correct in about 99 per cent of all cases.  [new para]  It is important to notice that for this conclusion to be true, it is not necessary that the problem of estimation should be the same in all the cases.  For instance, during a period of time the statistician may deal with a thousand problems of estimation and in each the parameter theta to be estimated and the probability law  of the X's may be different ... Hence the frequency of actually correct statements will approach alpha.
+
+This seems to need some heavy duty assumptions to be correct.  Indeed, is there not a conflation of `hypothetical' repetitions of experiments and actual repetitions? Need to think more about this.  
+
+Also on p349, Neyman is fairly explicit that once the results of the experiment have been observed, the probability of true theta falling in the interval collapses to zero or unity.  Another quote: The theoretical statistician constructing the functions [upper and lower confidence limits] having the above property may be compared witht he organiser of a game of chance in which the gambler has a certain range of possibilities to choose from while, whatever he actually chooses, the probability of his winning and thus the probability of the bank losing has permanently the same value, 1 -- alpha.
+
+We then get into the technical details.  Which I (in the most) follow, but find hard to question. Important to the rofecoxib paper is drawing the appropriate analogies with NP approach to hypothesis testing. 
+
+PART II
+
+There is no direct discussion about alternative hypotheses.  The method is entirely focussed on finding lower and upper confidence limits.  The limits in turn rely only on the observed data and some assumptions.  What I need to gain clarity on is exactly what these assumptions are.  But here is two:
+
+A frequency interpretation of probability.  Once the test statistic and experiment are specified, judgements about the unknown theta play no part.  (theta is not a random variable)
+
+It seems the argument depends on the law of large numbers (despite the comments above)
+
+Much of this part of the paper is about the properties of confidence intervals and limits.  The argument appears to start on the assumption that we have confidence intervals and asks what properties would be expected.  I find it difficult to reconstruct the argument in my own words.
+
+The ``shortest systems of confidence intervals'' section (p370-4) provides ties with hypothesis testing.
+
+Quote (p371-2): We see that the problem of the shortest systems of confidence intervals corresponding to a confidence coefficient alpha is reduce to the following: (1) Fix any value of theta-1 = theta-1' and determine on the hyperplane G (theta-1')a region A(theta-1') similar to the sample space with regard to theta-2... and the size of alpha
+(2) Out of all such regions A-0(theta-1') choose the one for which P(E in A(theta-1')| true theta-1) where true theta-1 is any value of theta-1 different from theta-1' is minimum
+(3) If the region A-0(theta-1') so found does not lose its property of minimising P(E in A(theta-1')| true theta-1) when the true value of theta-1 is changed, and if the whole system of the regions A-0(theta-1')  corresponding to all possible values of theta-1 satisfies the conditions (i)-(iv) p354 then it may be used as the system of regions of acceptance and will determine the shortest region of confidence intervals.
+
+Neyman then draws the analogy between (1) and (2) and testing point hypotheses, and the fact that (3) fails when considering composite hypotheses (at least as far as I can tell).
+
+This, however, appears to have more to do with the properties of theta than alternative hypotheses.
+
+I need to return to this.
+}*

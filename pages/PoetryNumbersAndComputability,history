@@ -1,0 +1,173 @@
+
+----
+
+
+
+[[[break]]]changed line 35 from: *orange {code *black Sorry, but I have to say.... What do you mean pink clashes with purple?!?
+}*[[[break]]]to: *green {code *blue Sorry, but I have to say.... What do you mean pink clashes with purple?!?
+}*
+----
+
+
+
+[[[break]]]changed line 35 from: *orange {code *Blue Sorry, but I have to say.... What do you mean pink clashes with purple?!?
+}*[[[break]]]to: *green {code *black Sorry, but I have to say.... What do you mean pink clashes with purple?!?
+}*
+----
+
+
+
+[[[break]]]changed line 35 from: *orange {code *Black Sorry, but I have to say.... What do you mean pink clashes with purple?!?
+}*[[[break]]]to: *green {code *Blue Sorry, but I have to say.... What do you mean pink clashes with purple?!?
+}*
+----
+
+
+
+[[[break]]]added at line 33: *lime {code 
+*Black Sorry, but I have to say.... What do you mean pink clashes with purple?!?
+It's beautiful! Look! Purple then a small amount of black and then pink, all on a white background! oooh I could stare at it all day! hahaha*
+}*
+----
+Mon Mar 17 13:19:36 EST 2008
+
+
+
+[[[break]]]added at line 9: *lime {code *blue My dad made me read it when I was nine ... I liked the stories about the turtle and the other characters (the only one I remember was the hyperbolic race) but got swamped in between. Unfortunately I lost it so didn't get to read it when I was older :-(*
+
+}*
+----
+Sat Mar 15 13:21:54 EST 2008
+
+
+
+[[[break]]]added at line 28: *lime {code For the electronically inclined, there's a review of this book at http://www.plus.maths.org.uk/issue37/reviews/book3/index.html
+
+}*
+----
+Fri Mar 14 12:10:53 EST 2008
+
+
+
+[[[break]]]added at line 25: *lime {code 
+For those who may be interested in Chaitin and his number, he has written a very interesting book -  Chaitin, Gregory (2005), _Meta Maths: The Quest for Omega_, London: Atlantic Books - in which he tells the story of his discovery of his Omega number, along with a lot of other interesting stuff about about maths and logic.
+
+Dick Parker
+}*
+----
+Thu Mar 13 12:38:10 EST 2008
+
+
+
+[[[break]]]changed line 19 from: *orange {code *pink I hadn't thought of this until now, but if there's no single thing which deserves to be called randomness (and I think there isn't, although that's a long story) then Chaitin's number depends on more than the particular program encoding, it also depends on the type of randomness used.
+}*[[[break]]]to: *green {code *pink Cool.
+
+I hadn't thought of this until now, but if there's no single thing which deserves to be called randomness (and I think there isn't, although that's a long story) then Chaitin's number depends on more than the particular program encoding, it also depends on the type of randomness used.
+}*
+----
+Thu Mar 13 12:37:41 EST 2008
+
+
+
+[[[break]]]changed line 19 from: *orange {code *pink I hadn't thought of this until now, but if there's no such thing as objective randomness (and I think there isn't, although that's a long story) then Chaitin's number depends on more than the particular program encoding.
+}*[[[break]]]to: *green {code *pink I hadn't thought of this until now, but if there's no single thing which deserves to be called randomness (and I think there isn't, although that's a long story) then Chaitin's number depends on more than the particular program encoding, it also depends on the type of randomness used.
+}*
+----
+Thu Mar 13 12:36:38 EST 2008
+
+
+
+[[[break]]]added at line 17: *lime {code 
+*pink I hadn't thought of this until now, but if there's no such thing as objective randomness (and I think there isn't, although that's a long story) then Chaitin's number depends on more than the particular program encoding.
+
+This pink clashes with the purple, I know, but I used pink above so I thought I'd better stick with it.
+
+Jason*
+}*
+----
+Thu Mar 13 11:58:25 EST 2008
+
+
+
+[[[break]]]changed line 15 from: *orange {code *purple Jason mentioned that we _can_ talk about some interesting uncomputable numbers, but only very vaguely. One example of this is the halting probability (sometimes known as Chaitin's constant after the guy from IBM who invented it). Very roughly speaking, this number represents the probability that a randomly chosen computer program will terminate (as opposed to chugging on for all eternity). Of course, the definition depends on the particular program encoding that is used. Have a look at the Wikipedia article if you're interested: http://en.wikipedia.org/wiki/Chaitin%27s_constant*
+}*[[[break]]]to: *green {code *purple Jason mentioned that we _can_ talk about some interesting uncomputable numbers, but only very vaguely. One example of this is the halting probability (sometimes known as Chaitin's constant after the guy from IBM who invented it). Very roughly speaking, this number represents the probability that a randomly chosen computer program will terminate (as opposed to chugging on for all eternity). Of course, the definition depends on the particular program encoding that is used. Have a look at the Wikipedia article if you're interested: http://en.wikipedia.org/wiki/Chaitin%27s_constant
+
+Jono.Henshaw*
+}*
+----
+Thu Mar 13 11:57:02 EST 2008
+
+
+
+[[[break]]]added at line 13: *lime {code 
+*purple Jason mentioned that we _can_ talk about some interesting uncomputable numbers, but only very vaguely. One example of this is the halting probability (sometimes known as Chaitin's constant after the guy from IBM who invented it). Very roughly speaking, this number represents the probability that a randomly chosen computer program will terminate (as opposed to chugging on for all eternity). Of course, the definition depends on the particular program encoding that is used. Have a look at the Wikipedia article if you're interested: http://en.wikipedia.org/wiki/Chaitin%27s_constant*
+}*
+----
+Thu Mar 13 11:47:46 EST 2008
+
+
+
+[[[break]]]changed line 8 from: *orange {code *pink Absolutely.  Jason*  - *green Second that.*
+}*[[[break]]]to: *green {code *pink Absolutely.  Jason*  - *fawn Second that.*
+}*
+----
+Thu Mar 13 11:45:38 EST 2008
+
+
+
+[[[break]]]changed line 8 from: *orange {code *pink Absolutely.  Jason*   *green Second that.*
+}*[[[break]]]to: *green {code *pink Absolutely.  Jason*  - *green Second that.*
+}*
+----
+Thu Mar 13 11:45:19 EST 2008
+
+
+
+
+----
+Thu Mar 13 11:44:58 EST 2008
+
+
+
+[[[break]]]changed line 8 from: *orange {code *pink Absolutely.  Jason* * green Second that.*
+}*[[[break]]]to: *green {code *pink Absolutely.  Jason* *green Second that.*
+}*
+----
+Thu Mar 13 11:44:38 EST 2008
+
+
+
+[[[break]]]changed line 8 from: *orange {code *pink Absolutely.  Jason*
+}*[[[break]]]to: *green {code *pink Absolutely.  Jason* * green Second that.*
+}*
+----
+Thu Mar 13 11:38:20 EST 2008
+
+
+
+[[[break]]]added at line 7: *lime {code *pink Absolutely.  Jason*
+
+}*
+----
+Thu Mar 13 11:32:41 EST 2008
+
+
+
+[[[break]]]added at line 9: *lime {code 
+JeffAlstott
+}*
+----
+Thu Mar 13 11:32:14 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code "Irregular Webcomic" is possibly my favorite webcomic. http://www.irregularwebcomic.net/ 
+
+As many of his jokes are about science and esoteric history and linguistics, the author frequently annotates his strips. Today's lecture reminded me of one of his lengthiest annotations, which covers some of my favorite mathematical material, including the particulars of the number line: http://www.irregularwebcomic.net/1845.html
+Anyone wanting to get a bit deeper into today's material, or at least have get a different view on some of its elements, should find this useful.
+
+The annotation is succinct enough for the material, though it's still long, given the complexity of the topic. He references a book by Hofstadter, an Indiana University professor. Anyone who is interested in _everything_ probably should read his book, "Godel, Escher, Bach."
+
+And for anyone wanting to explore webcomics, or just be well entertained, reading this webcomic from the beginning certainly couldn't hurt:http://irregularwebcomic.net/1.html
+Like most webcomics, it starts out slow, then gets awesome :-)
+}*

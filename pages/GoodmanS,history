@@ -1,0 +1,39 @@
+
+----
+Thu Mar  9 11:16:56 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code #Goodman, S. Toward Evidence Based Medical Statistics. 2: The Bayes Factor
+
+The following is an attempt to clear my muddle with regard to what Goodman is suggesting after meeting with Jason 19/12/05.
+
+Problem areas:
+
+Goodman, p1007:   The hypothesis with the most evidence for it has the maximum mathematical likelihood, which means that it predicts the observed data best… In other words, whatever effect we are measuring, the best-supported hypothesis is always that the unknown true effect is equal to the observed effect. (this is linked with the figure on p1007).
+Jason: This is wrong.  (At least that is how I interpreted our discussion, but I was not clear on precisely why this was wrong or in what context it would be wrong, the question implied in the following is whether I am any closer).
+
+# What I take Goodman to be saying (and the implicit and explicit assumptions within it):
+I interpret the figure as: x-axis – varying hypotheses regarding true difference in cure rates of given drug (-15% to +25%); y-axis – likelihood (P(E|Hi)) for each of these individual hypotheses, there is a possible distribution of the likelihood for each of the infinite possible hypotheses (would I be correct in terming these sample spaces?).  If you get an observed result which is different from your hypothesis you can read off the graph the probability of getting this observed result assuming your hypothesis is correct.  
+On this interpretation Goodman’s figure is wrong with regard to the y-axis probability measure reaching 1, on this interpretation the area under each curve should be 1.
+
+#Update on Figure interpretation 10/1/06
+This is an attempt to make the above statements clearer (again with the overall aim of getting clear Goodman's argument).  I will likely need some help wrt ensuring my terminology is OK.
+X-axis: This is titled the difference in cure rates so I am taking it as that.  It seems to be both the hypothesised differences (in regard to the curves) in cure rates and the observed differences in cure rates (with regard to the experiment which observed a 10% difference).
+Y-axis: probability of the observed result given a particular hypothesis, i.e. I am continuing to consider this a likelihood (P(E|Hi).
+Curves: Each of these are sample spaces given different hypotheses.  Given the null hypothesis a sample space is provided which shows the likelihood of observing each of the differing possible results (i.e. differences in cure rates).
+*I am not too sure this is much of an update... I shall return to it after more thought*
+
+Assuming this interpretation is right, what I take Goodman to be saying is the following: Taking the observed result as fixed (say at 10% cure rate) and considering the likelihood of the result given differing hypotheses, then the maximal likelihood will occur when we consider the hypothesis that the true difference is the observed difference, i.e. the hypothesis that the true cure rate is 10%.
+Even on second blush this seemed OK to me, but here is why I think Jason is saying it is wrong: Consider hypothesis-8 – under this hypothesis the drug has a true 8% cure rate.  The distribution for H-8 is quite different from the distribution for H-10, specifically it is much skinnier (i.e. smaller variance) and is skewed to the right.  Vitally, under H-8 the likelihood of getting an observed result of a 10% cure rate is higher than the likelihood under H-10.  This is why Goodman is incorrect.
+?I think that might be the sound of a penny dropping 48 hours late 
+
+#What assumptions need to be added to make Goodman right?
+Does the assumption that the likelihood distributions are normal and have the same variance cover it?  I need to think about this but I would hesitantly suggest yes.  
+Are these reasonable assumptions? This seems to raise another set of questions.  If these likelihood distributions are seen as priors then it would seem that they could vary widely with different hypotheses, and thus the assumption should be rejected.  
+On the other hand, if classical statistics would make such assumptions, and I think they do (particularly in the power calculation – as the distribution is not considered under the alternative hypothesis when it comes to making inferences on the data), then provided the assumption of constant variance is made explicit along with Goodman’s stated assumptions (which include normalcy and a fixed sample size), the comparison between what he calls minimum bayes factors and p-values may retain some value
+
+#This line of thought may assist in countering another of Goodman’s statements p1008:
+When the P value becomes very small, the disparity between it and the minimum bayes factor becomes negligible, confirming that strong evidence will look strong regardless of how it is measured.
+This is also wrong.  Goodman is being too kind to the status quo.  It is only correct when the assumptions hold.  The rofecoxib case gives one example where one of the assumptions is broken – where we would reject the acceptance of the hypothesis that the observed result is the true result.  Anytime the assumption of constant variance was broken would also be a counter-example to Goodman’s statement (??yet to think of real life example).
+}*

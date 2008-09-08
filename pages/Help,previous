@@ -1,0 +1,77 @@
+This is a wiki --- a web site designed to encourage you to contribute to it.
+
+_You can edit almost any page on this wiki._  Try it out now, in the sand.box (a place where no-one will mind if you make a mess).
+
+While you're editing, you can write a phrase that links to another wiki page, new or old, by writing the page's name with a dot at the beginning or somewhere in the middle (like this: .wombats or cute.wombats).
+
+If you need to use a word which contains a dot but you don't want it to be a link to a page, precede it with two dots, like this: {..cute.wombats}.  (Summary: *one* dot before a word turns it into a link, and *two* dots prevents it from being a link.)
+
+You may be used to using wikis which make page links using CamelCase instead of dots (like this: CuteWombats).  You can do that in this wiki too.  See CamelCasePlaysNicelyWithDots.
+
+Please sign what you write, preferably by typing your name as a link like this: WillowRosenberg.  That will let people know who's said what, and as a nice side-effect it will automatically give you a wiki home page that's easy for people to find.
+
+For sociological arguments about how wikis work, see http://c2.com/cgi/wiki?WhyWikiWorks.
+
+To see what people have written in this wiki recently, look at recent.changes.
+----
+# Access Keys
+
+In most web browsers, you can use a special key --- usually Alt or ctrl --- along with the initial letter of one of ..IoWiki's buttons to activate that button.  Try it, by pressing Alt-e and ctrl-e.
+----
+# ..Mark-Up Codes
+
+The rest of this page describes the mark-up codes you can use to posh up your pages a bit.  These codes are deliberately restricted to things that are semantically useful, not too distracting, and not too arty.  (Arty is good, but it discourages collaboration, so it's not good _here_.  See http://c2.com/cgi/wiki?WhyDoesntWikiDoHtml for arguments about this sort of issue.)
+
+{code _text_} to have {code text} emphasised, _like this_.
+
+{code *text*} to have {code text} displayed in bold, *like this*.
+
+{code *red text*} to have {code text} displayed in *red red*, and similarly for all these colours:
+*green green* *blue blue*  *fawn fawn* *red red* *purple purple* *lime lime* *orange orange* *pink pink* *black black*.
+
+You can make a heading by starting a line with {code #} (a big heading like the ones on this page) or {code ##} (a smaller heading).
+
+To make a list of dot points, start lines with hyphens, like this:
+
+{code - dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates}
+
+to get this:
+
+- dot point, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+Similarly, start a paragraph with {code ->} to have it indented but without a dot:
+
+->indented paragraph, wrapping with the correct indentation when it takes up more than one line in the browser window as this example probably demonstrates
+
+You can use {code --}, {code ---}, {code -->} and {code --->} to get extra levels of indenting.
+
+Any web hyperlinks you type (http://xeny.net, mailto:Jason@xeny.net, etc.) are automatically hot-linked.  If the hyperlink points to a picture, the picture is shown in the page, like this: 
+
+http://www.geocities.com/falconfacts/pics/ebphotos/eba1.jpg
+
+# Turning off mark-up codes
+
+Use [[[(]]]text[[[)]]] to have text displayed without any of the above mark-up.  This is useful when you want to use characters like {*} and {_} which you don't want to disappear, and when you don't want a word in ..CamelCase to be linked to anything.
+
+Use [[[(]]]code text[[[)]]] to have text displayed without mark-up and in a typewriter font suitable for computer code, {code like this}.
+
+Use [[[(]]]pre text[[[)]]] to have text displayed without mark-up, in a typewriter font and with spaces and tabs preserved.  This is useful for formatted tables and formatted computer code.
+
+# Character set
+
+If your browser and operating system allow it, you can use any Unicode character with ..IoWiki, in one of three ways: by typing it straight in, by copy and pasting it from somewhere, or using HTML character codes.  For the third method, see HTML.markup.codes.
+
+Here are some example characters.  How they look will depend on what fonts you're using.
+&#9786;&#9731;&#9734;&#10081;&#966;&#8756;&#8557;&#8576;&#8578;&#8984;&#8592;&#8594;&#8593;&#8595;&#10056;&#9834;&#9729;&#9679;
+
+And there are easy ways of typing in the following special characters:
+{--}   for --
+{---}   for ---
+{``}   for ``
+{''}    for ''
+
+Oh, and bits of text in triple square brackets [[[like this]]] may give unpredictable results, so try to avoid them, OK?
+----
+This wiki is run using IoWiki.
+
+JasonGrossman

@@ -1,0 +1,64 @@
+
+----
+Wed Mar  8 12:17:42 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code ## Conditionalist versus Frequentist
+
+This will have to evolve.  I will keep the context as clinical trials (though I am unsure whether that is helpful).  YES, IT IS HELPFUL!  JASON  I shall make corrections as I get clearer on the concepts and clarify any muddle in terminology (identification of major – or minor – flaws very welcome).
+
+# Frequentist
+
+Inferences are currently drawn from clinical trials from within the frequentist tradition.
+
+A thumbnail sketch of the frequentist method is the following:
+(1) state the hypothesis (e.g. null vs alternative) 
+(2) set up and conduct the experiment; i.e. decide the methodology and analysis including –randomisation procedure, inclusion/exclusion criteria, the endpoint/test statistic
+(3) Calculate the p-value of the experimental result (test statistic) given the null hypothesis is true.
+(4) use ‘decision’ apparatus of theory to accept/reject the hypothesis based on the p-value
+
+The frequentist holds that this is the only way to make inferences from the experimental data.  At some stage I will need to carefully differentiate Fisher from Neyman Pearson – I particularly have Neyman Pearson in mind but many of the points should be relevant to both.
+
+A thumbnail sketch of how the p-value is calculated is the following:
+(1) define the null hypothesis
+(2) define the endpoint or outcome to be analysed; reduce this endpoint to a univariate test statistic (?perhaps this is over simplistic – the real point might be that the endpoint needs to turn into a test statistic and that however this is down will affect the eventual p-value calculated - ?ethical question – can this be manipulated intentionally before the experiment is concluded– if so could the effect of this be minimised) 
+(3) calculate the possible outcome space for the data (test statistic) given the null hypothesis is true – how this is done will rely on (arbitrary/subjective) decisions based on – at least – the following: the stopping rule; the choice of test statistic; how you reduce the endpoint to a test statistic… ?more
+(4) conduct  trial – calculate experimental result (i.e. actual value observed for test statistic).
+(5) the p-value is the probability of getting the experimental result + MORE EXTREME [NOT less likely] – not observed - events assuming the null hypothesis is correct.  THE DIFFERENCE FROM WHAT YOU'D WRITTEN IS ONLY IMPORTANT FOR 2-TAILED TESTS.  JASON
+Typically if this probability is less than 0.05 the null hypothesis is ‘rejected’.  (i.e. p-value is not the probability of getting the experimental result assuming the null – but is the probability of getting the experimental result plus less likely outcomes.  The amount of probability being added here can be affected strongly by the stopping rule, how the endpoint is reduced to the test statistic.. etc)  GOOD
+
+# Conditionalist
+
+This is an even sketchier outline of the conditionalist method (as applied to clinical trials) because it is typically not what is done in practice – despite this the theory is quite clear.
+(1) define the question (null hypothesis)
+(2) set the prior – this could be based on literature, basic science rationale… ++
+(3) collect more evidence – I find it an interesting question as to what study methodology would be ‘required’ (if any) for collecting evidence under the conditionalist method – it seems safe to assume that the methodology would be more flexible – it seems a very open question as to how the trials would look within a completely conditionalist framework.  YES.  CURRENT SUGGESTIONS MAKE THEM LOOK MUCH LIKE FREQUENTIST TRIALS, BUT THAT'S LARGELY THROUGH INERTIA / SCIENTIFIC CONSERVATISM.
+(4) by a process of conditioning (i.e. via bayesianism or some other form (?)) update your prior based on the evidence to formulate a posterior (which will then act as a new prior)
+(5) APPLY CONDITIONING, RINSE AND repeat
+
+# How is the debate framed?
+
+The key difference might be put in the following terms – the frequentist focuses primarily on one hypothesis and looks to test this hypothesis with the variable being the data; the conditionalist entertains many (?infinite OR NOT --- WHATEVER) hypotheses holds this as the variable fixes the observed data and updates the probability of the hypotheses.  Outlining just how different these two approaches are will be vital.
+
+# Why are frequentists frequentist?
+
+* The typical way that the conditionalist frames this (right or wrong) is that frequentists reject the subjectivity of the conditionalists and perhaps particularly the ability to formulate a prior.  The story seems to be: while I agree that what I want to know is the probability of any given hypothesis, this information is either not available to me or is too subjective to be part of rigorous scientific method, therefore I take the next best thing - a methodological decision to accept or reject a hypothesis based on experimental p-values.  RIGHT
+
+# Problems for frequentists
+
+* What on earth do p-values actually mean and why do we care?  We want to know the probability of the hypothesis under question not the probability of the experimental evidence (and unobserved events MORE EXTREME than the experimental result) given the hypothesis.  It would seem the frequentists are obliged to show why we should not at least aim to establish the probability of the hypothesis. 
+* If the frequentist argues for this on the basis of the frequentist approach being more objective (and the conditionalist far too subjective) then the frequentist runs into more and seemingly intractable problems – namely the many arbitrary/subjective decisions that are made in order formulate a p-value and the (?large) range of values that a p-value can take depending on these arbitrary/subjective decisions.
+
+# How might the frequentist reply?
+
+I am interested in thinking through these possibilities.. thus far I am very vague
+
+* Perhaps a possible story is to localise what the frequentist is trying to do to the particular hypothesis being tested (?I think Giere commenting on Mayo might be taking this approach). The activity of scientist is to define key hypotheses and formulate clinical trials to (severely) test these hypotheses.  It is the activity of the frequentist statistician to assist in interpreting this data from the formulated trial.  These are two completely separate activities (the first of which, that of the scientist, may be within a conditionalist framework).  Here the frequentist approach to the clinical trial is not because Bayesians are too subjective but because what you want is localised information about a particular trial – thus it is appropriate to focus on what the local data says about this carefully structured test of the hypothesis.  This has conditionalists and frequentists working at different levels of scientific inference – the conditionalists looking at the subjective probability of a hypothesis given all and any data and the frequentist working on the level of the particular trial and attempting to provide some information about the probability of that outcome assuming the hypothesis is true or false.  
+
+THAT MIGHT BE WHAT GIERE THINKS, BUT IT'S WRONG, BECAUSE THE CONDITIONALISTS CAN (AND DO) QUOTE THE LIKELIHOOD FUNCTION, WHICH IS TOTALLY LOCAL TO A PARTICULAR TRIAL.
+
+If it is a well conducted study and the hypothesis is sound then at the level of the scientist it might be possible to hold a high subjective probability for the evidence found being correct which in turn may allow you to say something about the hypothesis under consideration (based on you the prior you held for the hypothesis under question).  I realise this sounds fallacious and I assume it is holding many things that many frequentists would reject but if only to clear my muddle it seems a line of thought worth working through for a little while at least.
+
+THERE'S BEEN SOME VERY NICE WORK QUANTIFYING THE PROBLEMS OF USING FREQUENTIST MEASURES AS EVIDENCE FOR OR AGAINST HYPOTHESES.  LET ME KNOW IF/WHEN YOU WANT TO READ IT.
+}*

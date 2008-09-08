@@ -1,0 +1,100 @@
+
+----
+2008-07-13 17:28:05 EST
+
+
+
+[[[break]]]changed line 20 from: *orange {code --> 1. ambiguity - (directly) having multiple meanings
+--> 2. generality - covering several terms (e.g. 'child' to 'boy' and 'girl')
+}*[[[break]]]to: *green {code -> 1. ambiguity - (directly) having multiple meanings
+-> 2. generality - covering several terms (e.g. 'child' to 'boy' and 'girl')
+}*[[[break]]]added at line 46: *lime {code - contextualism: content of term shifts with context
+-- in some sense then, a vague term is like an indexical
+-- thus the conditional in the induction step is not valid
+-- cannot have vague terms as literally indexical otherwise one would be able to stabilise reference
+--- Raffman: context triggers gestalt shifts
+--- Shapiro: discretion as a result of ..judgement-dependence
+--- Graff: interpretation is relative to interests (pragmatic)
+All Vagueness Linguistic?
+- supervaluationism: we fill in meanings as we go along
+- fallacy of verbalism: attributing representational aspects to objects
+-- link with plausibility of essentialism
+- mental imagery as vague, also view that language has arisen from human psychology and so language is merely an "intermediate bearer" of vagueness
+}*
+----
+2008-07-13 17:06:36 EST
+
+
+
+[[[break]]]added at line 34: *lime {code --- also involves claim that much meaning is acquired passively
+}*[[[break]]]changed line 36 from: *orange {code 
+}*[[[break]]]to: *green {code -- ..many-valued logic (up to that modelled on Reals between 0 and 1)
+-- does not account for ..truth-value increase as a result of hedging
+-- replacing one already overly precise tool with many, even more precise ones a bad idea? (no necessarily - series approximations)
+- supervaluationism (Fine, Lewis): no ..truth-value for borderline statements
+-- compounds okay if same result no matter the precisification
+-- hyperambiguity: many precise concepts with close resemblance
+--- problem re: vague resists mixed interpretations whereas ambiguous does not
+--- but convergence to classical logic only if interpretation is uniform
+--- hence ~ many inference rules (contraposition, conditional, reductio)
+-- Tarski's disquotational truth convention in combination with the notion of truth at play here also seems to imply lack of ..truth-value gaps
+}*
+----
+2008-07-13 16:52:13 EST
+
+
+
+[[[break]]]added at line 14: *lime {code Description:
+}*[[[break]]]added at line 20: *lime {code --- generality => vagueness (e.g. 'prime number')
+- precisifications of borderline cases not judged by ..truth-values, rather by simplicity, conservativeness, and fruitfulness
+- notion of truth involved in borderline cases as ..judgement-dependent (Wright & Shapiro)
+- borderline status implies a loss of warrant
+Philosophical Challenge (Sorites):
+- base: 1 day old human is a child
+- induction: if n day old is a child then n+1 day old is too
+- conclusion: 36,500 day old is a child
+Response:
+- deny induction step:
+-- Boolos: because entails conditionals like "if 2 day old is child then 36,500 day old is a child"
+-- but this then implies sharp threshold
+-- epistemicists (Williamson) accept this and hold vagueness to be form of ignorance
+- does classical logic apply to vague circumstances?
+}*[[[break]]]changed line 24 from: *orange {code 
+}*[[[break]]]to: *green {code - it's interesting to see these sorts of "..IBE-type" criteria being used in the context of precisification.  I wonder if the connection is more than skin deep? (probably)
+- does denial of the induction step really imply that one must postulate some sort of sharp threshold?
+}*
+----
+2008-07-13 16:35:35 EST
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+Stanford article on vagueness (less good than many of their others).
+
+*Where can it be found?*
+
+Sorensen, Roy, "Vagueness", The Stanford Encyclopedia of Philosophy (Fall 2006 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/fall2006/entries/vagueness/>.
+
+*Where does it fit in?*
+
+Williamson is going to use vagueness as a case study in Ch. 2 so I thought it'd be a good idea to get some background on it.
+----
+*Summary*
+- basically: a term is vague if it has borderline cases
+-- distinction between relative (to a given means of determination) and absolute (Peirce: "intrinsically uncertain") borderline cases
+-- i.e. resists all attempts to find ..truth-value
+- compare with:
+--> 1. ambiguity - (directly) having multiple meanings
+--> 2. generality - covering several terms (e.g. 'child' to 'boy' and 'girl')
+
+----
+*What do I think?*
+
+----
+
+Williamson.Reading.Group
+
+ChrisWilcox
+}*

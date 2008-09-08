@@ -1,0 +1,249 @@
+
+----
+2008-09-07 10:26:19 EST
+
+
+
+[[[break]]]changed line 5 from: *orange {code - Download the wrapper to make ..IoWiki work with the latest version of Io, from CurrentIoWrapper (thanks to Danya --- see also below).  This may not exactly work because it was written for an earlier version of ..IoWiki, but we will make it work soon.
+}*[[[break]]]to: *green {code - Download the wrapper to make ..IoWiki work with the latest version of Io, from CurrentIoWrapper (thanks to DanyaAlexeyevsky).  This may not exactly work because it was written for an earlier version of ..IoWiki, but we will try to make it work later.
+}*[[[break]]]deleted at line 12: *red {code ----
+_Could you please tell us at least where to take it?  It's usually not that tough to find an old version of interpreter and figure out how edit configs... Google only mentions the place to get 0.940 version and there are 0.1.* versions on your changelogs._ --  DanyaAlexeyevsky
+
+*crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, in case that annoys anybody.  And I don't know where to get the right version of the interpreter from.  Or come to think of it maybe I do.*
+
+*green Update: hooray.  You can get the interpreter from http://io.urbanape.com/release/IoFull-2005-10-17.tar.gz.   So now it makes sense for me to make IoWiki available here.  I'll do that as soon as I get around to it.  In the meantime, I'd be happy to email it to you, if you send me your email address.  * .Jason
+
+_Well, another good news from me: I spent a few hours to make the latest of available IoWiki releases work with current Io. It's a 130-liner, so I'll put it on my page now._ -- DanyaAlexeyevsky
+
+That's FANTASTIC!  Thank you!
+
+I've put a link to the latest version of ..IoWiki above.  What I'll do now (unless you beat me to it!) is use your new code to make ..IoWiki work with the current Io. -- .Jason
+
+_Thanks for the updates! Sorry I forgot to reply earlier. Now I have run rough tests with CGI version made some fixes and now it runs with this wrapper too. -- Danya._
+
+Woo hoo!  I am very grateful.  .Jason
+}*
+----
+2008-09-07 10:25:08 EST
+
+
+
+[[[break]]]changed line 2 from: *orange {code - First of all, you'll need a web server which can run CGIs.  Personally, I use Caudium, but you'll probably want to use Apache.
+}*[[[break]]]to: *green {code - First of all, you'll need a web server which can run CGIs.
+}*
+----
+Sun Dec  9 13:37:10 EST 2007
+
+
+
+[[[break]]]added at line 25: *lime {code 
+Woo hoo!  I am very grateful.  .Jason
+}*
+----
+Sun Dec  9 13:29:16 EST 2007
+
+
+
+[[[break]]]added at line 23: *lime {code 
+_Thanks for the updates! Sorry I forgot to reply earlier. Now I have run rough tests with CGI version made some fixes and now it runs with this wrapper too. -- Danya._
+}*
+----
+Thu Nov 29 23:49:55 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code I haven't yet rewritten these instructions to work with the latest versions of IoWiki which (sadly) use the CGI mechanism.  Until I do that, you'll have to make up the details for yourself.  Here is an outline.
+- First of all, you'll need a web server which can run CGIs.
+}*[[[break]]]to: *green {code I haven't yet rewritten these instructions to work with the latest versions of ..IoWiki which (sadly) use the CGI mechanism.  Until I do that, you'll have to make up the details for yourself.  Here is an outline.
+- First of all, you'll need a web server which can run CGIs.  Personally, I use Caudium, but you'll probably want to use Apache.
+}*[[[break]]]changed line 4 from: *orange {code - Download the IoWiki code from ftp://xeny.net/iowiki/iowiki-0.1.02.tgz.  Put it somewhere where your web server will treat it as a permissible CGI.
+- Download the wrapper to make IoWiki work with the latest version of Io from CurrentIoWrapper (thanks to Danya --- see also below).  This may not exactly work because it was written for an earlier version of IoWiki, but we will make it work soon.
+}*[[[break]]]to: *green {code - Download the ..IoWiki code from ftp://xeny.net/iowiki/iowiki-0.1.02.tgz.  Put it somewhere where your web server will treat it as a permissible CGI.
+- Download the wrapper to make ..IoWiki work with the latest version of Io, from CurrentIoWrapper (thanks to Danya --- see also below).  This may not exactly work because it was written for an earlier version of ..IoWiki, but we will make it work soon.
+}*[[[break]]]changed line 23 from: *orange {code I've put a link to the latest version of IoWiki above.  What I'll do now (unless you beat me to it!) is use your new code to make IoWiki work with the current Io. -- .Jason
+}*[[[break]]]to: *green {code I've put a link to the latest version of ..IoWiki above.  What I'll do now (unless you beat me to it!) is use your new code to make ..IoWiki work with the current Io. -- .Jason
+}*
+----
+Thu Nov 29 23:43:48 EST 2007
+
+
+
+[[[break]]]changed line 21 from: *orange {code That's *FANTASTIC*!  Thank you!
+}*[[[break]]]to: *green {code That's FANTASTIC!  Thank you!
+}*
+----
+Thu Nov 29 23:43:22 EST 2007
+
+
+
+[[[break]]]changed line 21 from: *orange {code That's FANTASTIC!  Thank you!
+}*[[[break]]]to: *green {code That's *FANTASTIC*!  Thank you!
+}*
+----
+Thu Nov 29 23:42:53 EST 2007
+
+
+
+[[[break]]]deleted at line 2: *red {code 
+}*[[[break]]]deleted at line 4: *red {code 
+}*[[[break]]]deleted at line 6: *red {code 
+}*[[[break]]]changed line 8 from: *orange {code 
+- Download the wrapper to make IoWiki work with the latest version of Io from CurrentIoWrapper.  This may not exactly work because it was written for an earlier version of IoWiki, but we will make it work soon.
+
+
+}*[[[break]]]to: *green {code - Download the wrapper to make IoWiki work with the latest version of Io from CurrentIoWrapper (thanks to Danya --- see also below).  This may not exactly work because it was written for an earlier version of IoWiki, but we will make it work soon.
+}*
+----
+Thu Nov 29 23:42:03 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code I need to rewrite these instructions to work with the latest versions of IoWiki which (sadly) use the CGI mechanism.
+}*[[[break]]]to: *green {code I haven't yet rewritten these instructions to work with the latest versions of IoWiki which (sadly) use the CGI mechanism.  Until I do that, you'll have to make up the details for yourself.  Here is an outline.
+
+- First of all, you'll need a web server which can run CGIs.
+
+- Download Io from http://iolanguage.com/downloads/.  Install.
+
+- Download the IoWiki code from ftp://xeny.net/iowiki/iowiki-0.1.02.tgz.  Put it somewhere where your web server will treat it as a permissible CGI.
+
+- Download the wrapper to make IoWiki work with the latest version of Io from CurrentIoWrapper.  This may not exactly work because it was written for an earlier version of IoWiki, but we will make it work soon.
+
+
+}*[[[break]]]changed line 8 from: *orange {code 
+}*[[[break]]]to: *green {code ----
+}*[[[break]]]added at line 15: *lime {code 
+That's FANTASTIC!  Thank you!
+
+I've put a link to the latest version of IoWiki above.  What I'll do now (unless you beat me to it!) is use your new code to make IoWiki work with the current Io. -- .Jason
+}*
+----
+Thu Nov 29 20:33:42 EST 2007
+
+
+
+[[[break]]]changed line 9 from: *orange {code _Could you please tell us at least where to take it?  It's usually not that tough to find an old version of interpreter and figure out how edit configs... Google only mentions the place to get 0.940 version and there are 0.1.* versions on your changelogs._ -- guest (sorry for being anonymous; too lazy to create personal page :)
+}*[[[break]]]to: *green {code _Could you please tell us at least where to take it?  It's usually not that tough to find an old version of interpreter and figure out how edit configs... Google only mentions the place to get 0.940 version and there are 0.1.* versions on your changelogs._ --  DanyaAlexeyevsky
+}*[[[break]]]changed line 11 from: *orange {code *crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, in case that annoys anybody.  And I don't know where to get the right version of the interpreter from.  Or come to think of it maybe I do.* *green Update: hooray.  You can get the interpreter from http://io.urbanape.com/release/IoFull-2005-10-17.tar.gz.   So now it makes sense for me to make IoWiki available here.  I'll do that as soon as I get around to it.  In the meantime, I'd be happy to email it to you, if you send me your email address.  * .Jason
+}*[[[break]]]to: *green {code *crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, in case that annoys anybody.  And I don't know where to get the right version of the interpreter from.  Or come to think of it maybe I do.*
+
+*green Update: hooray.  You can get the interpreter from http://io.urbanape.com/release/IoFull-2005-10-17.tar.gz.   So now it makes sense for me to make IoWiki available here.  I'll do that as soon as I get around to it.  In the meantime, I'd be happy to email it to you, if you send me your email address.  * .Jason
+
+_Well, another good news from me: I spent a few hours to make the latest of available IoWiki releases work with current Io. It's a 130-liner, so I'll put it on my page now._ -- DanyaAlexeyevsky
+}*
+----
+Tue Nov 27 18:15:14 EST 2007
+
+
+
+[[[break]]]changed line 11 from: *orange {code *crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, in case that annoys anybody.  And I don't know where to get the right version of the interpreter from.  Or come to think of it maybe I do.  I'll ask around.  Watch this space.
+
+The version of the interpreter it needs is IoServer version 20051017.  I've got a binary of this, of course, but the binary I've got won't work on many machines.  I've lost the source.
+
+Anyway, I'll happily email you what I've got, if you send me your address.*  .Jason
+}*[[[break]]]to: *green {code *crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, in case that annoys anybody.  And I don't know where to get the right version of the interpreter from.  Or come to think of it maybe I do.* *green Update: hooray.  You can get the interpreter from http://io.urbanape.com/release/IoFull-2005-10-17.tar.gz.   So now it makes sense for me to make IoWiki available here.  I'll do that as soon as I get around to it.  In the meantime, I'd be happy to email it to you, if you send me your email address.  * .Jason
+}*
+----
+Thu Nov 22 19:46:17 EST 2007
+
+
+
+[[[break]]]changed line 11 from: *orange {code *crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, in case that annoys anybody.  And I don't know where to get the right version of the interpreter from.
+}*[[[break]]]to: *green {code *crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, in case that annoys anybody.  And I don't know where to get the right version of the interpreter from.  Or come to think of it maybe I do.  I'll ask around.  Watch this space.
+}*
+----
+Thu Nov 22 19:45:51 EST 2007
+
+
+
+[[[break]]]changed line 11 from: *orange {code *crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, and I don't know where to get the right version of the interpreter from.
+}*[[[break]]]to: *green {code *crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, in case that annoys anybody.  And I don't know where to get the right version of the interpreter from.
+}*
+----
+Thu Nov 22 19:44:16 EST 2007
+
+
+
+[[[break]]]changed line 13 from: *orange {code The version of the interpreter it needs is IoServer version 20051017.  I've got a binary of this, of course, but the binary I've got won't work on many machines.
+}*[[[break]]]to: *green {code The version of the interpreter it needs is IoServer version 20051017.  I've got a binary of this, of course, but the binary I've got won't work on many machines.  I've lost the source.
+}*[[[break]]]changed line 15 from: *orange {code But I'll happily email you what I've got, if you like.*  .Jason
+}*[[[break]]]to: *green {code Anyway, I'll happily email you what I've got, if you send me your address.*  .Jason
+}*
+----
+Thu Nov 22 19:42:02 EST 2007
+
+
+
+[[[break]]]added at line 9: *lime {code 
+*crimson No worries!  When you say "where to take it", do you mean where to download it?  I haven't had it available for download because I don't like to make it available without the interpreter, and I don't know where to get the right version of the interpreter from.
+
+The version of the interpreter it needs is IoServer version 20051017.  I've got a binary of this, of course, but the binary I've got won't work on many machines.
+
+But I'll happily email you what I've got, if you like.*  .Jason
+}*
+----
+Thu Nov 22 16:54:51 EST 2007
+
+
+
+[[[break]]]added at line 7: *lime {code 
+_Could you please tell us at least where to take it?  It's usually not that tough to find an old version of interpreter and figure out how edit configs... Google only mentions the place to get 0.940 version and there are 0.1.* versions on your changelogs._ -- guest (sorry for being anonymous; too lazy to create personal page :)
+}*
+----
+Mon Oct  8 09:11:56 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code I imagine that ..IoWiki runs on most versions of unix, although so far I've only tested it on ..MacOS X.  I hope that eventually it will run on every reasonably popular operating system.
+
+- First, install Io by downloading it from http://www.iolanguage.com/Downloads/ and following the instructions that come with it.  If you already have Io then make sure it's a version from at least 23 January 2005.
+
+- Download the ..IoWiki distribution from http://iowiki.sourceforge.net.  It will have a file name like IoWiki-n.n.tgz.  Unpack it by typing {code tar xfz IoWiki-n.n.tgz}
+
+- Move the resulting directory to wherever you want it, and make it your working directory.
+
+- Edit ..config.io to change the page template password and anything else you feel like changing.
+
+- Try running ..IoWiki by typing {code IoServer IoWiki.io}
+
+- If that doesn't work, make sure the Io program ..IoServer is on your PATH; or, edit the file ..IoWiki.io so that the first line points to the location of ..IoServer, make sure it's executable, and then type {code IoWiki.io}
+
+- Now point a web browser at http://localhost:8080 (if your web browser is running on your web server; otherwise, replace ``localhost'' with your web server's address).
+
+- After testing it for a while and making sure you're happy with it, you may prefer to run it in the background by typing {code nohup IoServer IoWiki.io &}
+}*[[[break]]]to: *green {code I need to rewrite these instructions to work with the latest versions of IoWiki which (sadly) use the CGI mechanism.
+}*[[[break]]]changed line 21 from: *orange {code - Macintosh.administrators !
+}*[[[break]]]to: *green {code - Macintosh.administrators
+}*
+----
+Mon Oct  8 05:33:50 EST 2007
+
+
+
+[[[break]]]changed line 21 from: *orange {code - Macintosh.administrators
+}*[[[break]]]to: *green {code - Macintosh.administrators !
+}*
+----
+Tue Apr 26 11:17:52 EST 2005
+
+
+
+[[[break]]]changed line 3 from: *orange {code * First, install Io by downloading it from http://www.iolanguage.com/Downloads/ and following the instructions that come with it.  If you already have Io then make sure it's a version from at least 23 January 2005.
+}*[[[break]]]to: *green {code - First, install Io by downloading it from http://www.iolanguage.com/Downloads/ and following the instructions that come with it.  If you already have Io then make sure it's a version from at least 23 January 2005.
+}*[[[break]]]changed line 5 from: *orange {code * Download the ..IoWiki distribution from http://iowiki.sourceforge.net.  It will have a file name like IoWiki-n.n.tgz.  Unpack it by typing {code tar xfz IoWiki-n.n.tgz}
+}*[[[break]]]to: *green {code - Download the ..IoWiki distribution from http://iowiki.sourceforge.net.  It will have a file name like IoWiki-n.n.tgz.  Unpack it by typing {code tar xfz IoWiki-n.n.tgz}
+}*[[[break]]]changed line 7 from: *orange {code * Move the resulting directory to wherever you want it, and make it your working directory.
+}*[[[break]]]to: *green {code - Move the resulting directory to wherever you want it, and make it your working directory.
+}*[[[break]]]changed line 9 from: *orange {code * Edit ..config.io to change the page template password and anything else you feel like changing.
+}*[[[break]]]to: *green {code - Edit ..config.io to change the page template password and anything else you feel like changing.
+}*[[[break]]]changed line 11 from: *orange {code * Try running ..IoWiki by typing {code IoServer IoWiki.io}
+}*[[[break]]]to: *green {code - Try running ..IoWiki by typing {code IoServer IoWiki.io}
+}*[[[break]]]changed line 13 from: *orange {code * If that doesn't work, make sure the Io program ..IoServer is on your PATH; or, edit the file ..IoWiki.io so that the first line points to the location of ..IoServer, make sure it's executable, and then type {code IoWiki.io}
+}*[[[break]]]to: *green {code - If that doesn't work, make sure the Io program ..IoServer is on your PATH; or, edit the file ..IoWiki.io so that the first line points to the location of ..IoServer, make sure it's executable, and then type {code IoWiki.io}
+}*[[[break]]]changed line 15 from: *orange {code * Now point a web browser at http://localhost:8080 (if your web browser is running on your web server; otherwise, replace ``localhost'' with your web server's address).
+}*[[[break]]]to: *green {code - Now point a web browser at http://localhost:8080 (if your web browser is running on your web server; otherwise, replace ``localhost'' with your web server's address).
+}*[[[break]]]changed line 17 from: *orange {code * After testing it for a while and making sure you're happy with it, you may prefer to run it in the background by typing {code nohup IoServer IoWiki.io &}
+}*[[[break]]]to: *green {code - After testing it for a while and making sure you're happy with it, you may prefer to run it in the background by typing {code nohup IoServer IoWiki.io &}
+}*[[[break]]]changed line 21 from: *orange {code * Macintosh.administrators
+}*[[[break]]]to: *green {code - Macintosh.administrators
+}*

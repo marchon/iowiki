@@ -1,0 +1,103 @@
+
+----
+Thu Feb 28 13:03:30 EST 2008
+
+
+
+[[[break]]]added at line 44: *lime {code - While on the face of it mathematical realism seems to be the position that is most compatible with a sort of "common sense" view of mathematics, upon further examination I'm not so sure that this is case.  When you actually think about them, actually existing abstract mathematical entities (indeed, any sort of abstract entity) are very strange things indeed.  Thus, I don't think the realist can really claim any support from some compatibility with the "common view".
+}*
+----
+Thu Feb 28 12:59:58 EST 2008
+
+
+
+[[[break]]]changed line 37 from: *orange {code - e.g. structuralism - math. statements about collections of entities with similar structural properties or theses abstract structures.
+}*[[[break]]]to: *green {code - e.g. structuralism - math. statements about collections of entities with similar structural properties or these abstract structures themselves.
+}*
+----
+Thu Feb 28 12:58:04 EST 2008
+
+
+
+[[[break]]]added at line 35: *lime {code Talking about objects in math is just a convenient way of speaking.  Maths is really about general features of some less controversial/abstract kind of thing (e.g. collections, measurements, structures, etc.).
+- e.g. structuralism - math. statements about collections of entities with similar structural properties or theses abstract structures.
+- Problems:
+-- structuralism still postulates the existence of abstract objects, just a different kind.
+-- *green There is a point in Routledge concerning the need to phrase things in terms of possibility  (in order for things to be true in a finite world?) that I don't really get.*
+
+----
+*What do I think?*
+
+}*
+----
+Thu Feb 28 12:42:41 EST 2008
+
+
+
+[[[break]]]added at line 36: *lime {code 
+ChrisWilcox
+}*
+----
+Thu Feb 28 12:41:55 EST 2008
+
+
+
+[[[break]]]changed line 12 from: *orange {code Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2007 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/win2007/entries/philosophy-mathematics/>.
+}*[[[break]]]to: *green {code Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2007 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/win2007/entries/philosophy-mathematics/>
+}*[[[break]]]added at line 21: *lime {code 
+_Problem Responses_
+- Epist.:
+-> Godel: as empirical data are to concrete object  knowledge, math. intuition is to math object knowledge
+-- prob. re: giving a clear account of math. intuition
+-> Frege: knowledge of math objects is just knowledge of propositions involving math objects.
+- Hence just need to explain justification for these propositions.
+-- prob re: is this position actually Platonist (i.e. should knowledge of suitable propositions count as knowledge of the objects they contain)?
+
+
+_Arguments for Platonism_
+- Colyvan.Indispensability
+
+_Non-Platonist Realism_
+}*
+----
+Wed Feb 27 17:39:52 EST 2008
+
+
+
+[[[break]]]added at line 10: *lime {code 
+Horsten, Leon, "Philosophy of Mathematics", The Stanford Encyclopedia of Philosophy (Winter 2007 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/win2007/entries/philosophy-mathematics/>.
+}*
+----
+Wed Feb 27 17:35:26 EST 2008
+
+
+
+[[[break]]]added at line 12: *lime {code 
+}*[[[break]]]changed line 14 from: *orange {code Platonism is a form of math. realism in which the existence of independent math. objects is posited.  Thus reasoning involving maths is exactly the same as reasoning involving concrete objects.
+}*[[[break]]]to: *green {code Platonism is a form of math. realism in which the existence of independent math. objects is posited.  Thus reasoning involving maths is exactly the same as reasoning involving concrete objects and both are held to exist independently of our thoughts regarding them.
+
+}*
+----
+Wed Feb 27 17:32:55 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code ----
+*What is it?*
+
+The view that the truths of mathematics are thus independent of human activities, i.e., they are objective.
+
+*Where is it found?*
+
+BLANCHETTE, PATRICIA A. (1998). Realism in the philosophy of mathematics. In E. Craig (Ed.), Routledge Encyclopedia of Philosophy. London: Routledge. Retrieved February 27, 2008, from http://www.rep.routledge.com.virtual.anu.edu.au/article/Y066
+
+MOORE, A.W. (1998, 2004). Antirealism in the philosophy of mathematics. In E. Craig (Ed.), Routledge Encyclopedia of Philosophy. London: Routledge. Retrieved February 27, 2008, from http://www.rep.routledge.com.virtual.anu.edu.au/article/Y065
+----
+*Realism and Platonism*
+_Platonism_
+Platonism is a form of math. realism in which the existence of independent math. objects is posited.  Thus reasoning involving maths is exactly the same as reasoning involving concrete objects.
+_Problems for the Platonist_
+- _Epistemological:_ If math objects are abstract, how do we come to have knowledge of them?
+- _Practical:_ how do these abstract mathematical objects (or even truths in the general realist case) relate to the practices that we have for determining mathematical truths (i.e. proof procedures)?
+----
+}*

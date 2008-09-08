@@ -1,0 +1,94 @@
+
+----
+Thu Mar 13 09:21:11 EST 2008
+
+
+
+[[[break]]]changed line 1 from: *orange {code *blue Just a musing for the maths kids...
+
+The dimension of a space (such as a universe) is often defined in an intuitive way as the minimum number of coordinates required to uniquely locate any point in that space. For example, any point on a line can be uniquely located by a single (real) number and so lines are "one-dimensional". However, points in a plane or on the surface of a sphere seem to require two coordinates, and so these surfaces are "two-dimensional".
+
+However, it seems to me that this definition is inadequate.
+
+Using a little analysis, it is possible to show that any point on a Euclidean plane can be uniquely represented by a single real number. The same goes for Euclidean spaces of any finite dimension and for most non-Euclidean spaces too. (This is because non-Euclidean spaces that are reasonably well-behaved can be embedded inside higher-dimensional Euclidean spaces.)
+
+So there seems to be a problem. You might respond that mapping points in a plane to single real numbers is not an "intuitive" coordinate system and that only intuitive systems should be allowed under our definition. However, it is easy to think of spaces for which two coordinate systems of different dimensions both seem intuitive.
+
+Imagine, for instance, a universe shaped like a tuning fork or a cat-o'-nine-tails, but with thin lines. Would this space be one-dimensional or two/nine-dimensional? Both coordinate systems seem fairly intuitive to me.
+
+Unfortunately, more rigorous definitions of dimension (such as the size of a minimum spanning set for vector spaces) seem to suffer from a lack of generality.
+
+So the question is - is there a general, rigorous definition of dimension that matches up with our intuitions?
+
+Jono.Henshaw*
+}*[[[break]]]to: *green {code This page was a mistake and needs to be removed...
+}*
+----
+Wed Mar 12 11:34:16 EST 2008
+
+
+
+[[[break]]]changed line 17 from: *orange {code Jono Henshaw*
+}*[[[break]]]to: *green {code Jono.Henshaw*
+}*
+----
+Wed Mar 12 11:30:38 EST 2008
+
+
+
+[[[break]]]changed line 1 from: *orange {code *blue text* Just a musing for the maths kids...
+}*[[[break]]]to: *green {code *blue Just a musing for the maths kids...
+}*[[[break]]]changed line 17 from: *orange {code Jono Henshaw
+}*[[[break]]]to: *green {code Jono Henshaw*
+}*
+----
+Wed Mar 12 11:30:06 EST 2008
+
+
+
+[[[break]]]changed line 1 from: *orange {code Just a musing for the maths kids...
+}*[[[break]]]to: *green {code *blue text* Just a musing for the maths kids...
+}*
+----
+Wed Mar 12 11:21:32 EST 2008
+
+
+
+[[[break]]]changed line 3 from: *orange {code The dimension of a space (such as a universe) is often defined in an intuitive way as the minimum number of coordinates required to uniquely locate any point in that space. For example, any point on a line can be described uniquely using one (real) number, and so a line is one-dimensional. However, a point on a plane or the surface of a sphere seems to require two numbers, and so these surfaces are two-dimensional.
+}*[[[break]]]to: *green {code The dimension of a space (such as a universe) is often defined in an intuitive way as the minimum number of coordinates required to uniquely locate any point in that space. For example, any point on a line can be uniquely located by a single (real) number and so lines are "one-dimensional". However, points in a plane or on the surface of a sphere seem to require two coordinates, and so these surfaces are "two-dimensional".
+}*[[[break]]]changed line 5 from: *orange {code However, it seems to me that this intuitive  definition is inadequate.
+}*[[[break]]]to: *green {code However, it seems to me that this definition is inadequate.
+}*[[[break]]]changed line 7 from: *orange {code Using a little analysis, it's possible to show that any point in the plane can actually be represented uniquely by a single real number. The same goes for Euclidean space of any "dimension", and, in fact, for most non-Euclidean geometries as well! (This is because non-Euclidean geometries that are reasonably well-behaved can be embedded inside higher-dimensional Euclidean space.)
+}*[[[break]]]to: *green {code Using a little analysis, it is possible to show that any point on a Euclidean plane can be uniquely represented by a single real number. The same goes for Euclidean spaces of any finite dimension and for most non-Euclidean spaces too. (This is because non-Euclidean spaces that are reasonably well-behaved can be embedded inside higher-dimensional Euclidean spaces.)
+}*[[[break]]]changed line 9 from: *orange {code So it seems there's a problem. You might respond that mapping the Euclidean plane onto a line is not an "intuitive" coordinate system and that only intuitive systems should be allowed in our definition. However, it is easy to think of spaces for which coordinate systems of different dimensions seem equally plausible.
+}*[[[break]]]to: *green {code So there seems to be a problem. You might respond that mapping points in a plane to single real numbers is not an "intuitive" coordinate system and that only intuitive systems should be allowed under our definition. However, it is easy to think of spaces for which two coordinate systems of different dimensions both seem intuitive.
+}*[[[break]]]changed line 11 from: *orange {code Imagine, for example, a universe shaped like a tuning fork or a cat-o'-nine-tails, but with thin lines. Are these spaces one-dimensional or two/nine-dimensional? Either choice of coordinate system seems fairly intuitive to me.
+}*[[[break]]]to: *green {code Imagine, for instance, a universe shaped like a tuning fork or a cat-o'-nine-tails, but with thin lines. Would this space be one-dimensional or two/nine-dimensional? Both coordinate systems seem fairly intuitive to me.
+}*[[[break]]]changed line 13 from: *orange {code Unfortunately, more rigorous notions of dimension (such as the size of minimum spanning sets in a vector space) seem to suffer from a lack of generality.
+}*[[[break]]]to: *green {code Unfortunately, more rigorous definitions of dimension (such as the size of a minimum spanning set for vector spaces) seem to suffer from a lack of generality.
+}*[[[break]]]changed line 15 from: *orange {code So the question is - is there a rigorous, general definition of dimension that matches up to our intuitions?
+}*[[[break]]]to: *green {code So the question is - is there a general, rigorous definition of dimension that matches up with our intuitions?
+}*
+----
+Wed Mar 12 11:06:36 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code Just a musing for the maths kids... 
+
+The dimension of a space (such as a universe) is often defined in an intuitive way as the minimum number of coordinates required to uniquely locate any point in that space. For example, any point on a line can be described uniquely using one (real) number, and so a line is one-dimensional. However, a point on a plane or the surface of a sphere seems to require two numbers, and so these surfaces are two-dimensional.
+
+However, it seems to me that this intuitive  definition is inadequate.
+
+Using a little analysis, it's possible to show that any point in the plane can actually be represented uniquely by a single real number. The same goes for Euclidean space of any "dimension", and, in fact, for most non-Euclidean geometries as well! (This is because non-Euclidean geometries that are reasonably well-behaved can be embedded inside higher-dimensional Euclidean space.)
+
+So it seems there's a problem. You might respond that mapping the Euclidean plane onto a line is not an "intuitive" coordinate system and that only intuitive systems should be allowed in our definition. However, it is easy to think of spaces for which coordinate systems of different dimensions seem equally plausible.
+
+Imagine, for example, a universe shaped like a tuning fork or a cat-o'-nine-tails, but with thin lines. Are these spaces one-dimensional or two/nine-dimensional? Either choice of coordinate system seems fairly intuitive to me.
+
+Unfortunately, more rigorous notions of dimension (such as the size of minimum spanning sets in a vector space) seem to suffer from a lack of generality.
+
+So the question is - is there a rigorous, general definition of dimension that matches up to our intuitions?
+
+Jono Henshaw
+}*

@@ -1,0 +1,65 @@
+The wrapper is here: http://dendik.bpa.nu/io/iowiki-wrapper/wrapper.io
+
+Or via git: {code git clone http://dendik.bpa.nu/io/iowiki-wrapper/.git}
+
+To use with standalone version, follow the specified  configuration procedures in IoWiki's readme, then put wrapper.io into IoWiki's working directory and run it (the wrapper.io).
+
+To use with CGI version, follow the same configuration instructions (at the moment there is no configuration docs or examples in IoWiki so it's a bit of problem here:), then put wrapper.io in the directory. You may need to create a small shellscript wrapper to setup paths or may it be that renaming wrapper.io to something.cgi will suffice.
+
+----
+*blue It has one major limitation yet: all the sleep is CPU-active, so you always have 100% CPU load while running this code.*
+
+*green I'm sure there's a way around that, but I can't remember what it is.  Let's ask on the list.  Jason*
+
+*blue No need. :) I figured it out: Server does it all. PS, Jason, please put docs & config sample into the distro if you have them. (PPS. feel free to remove this conversation once you've read it). -- DanyaAlexeyevsky*
+
+*green There are no docs except what's in the code and on this wiki --- sorry! :-(  You shouldn't need any config info except what's already there, and maybe a file called ..LocalConfig.io --- see below.  If you need anything else, there's something wrong --- probably my fault, but I wonder what. .Jason*
+
+*blue It's really weird: the previous time I unpacked the tarball and run CGI, I got an exception that Defaults.io could not be found, and I created an empty one and copied configs from previous version to make it all work... However I extracted now the very same tarball and Defaults.io is there! Sorry for false alarm then. The docs in the code (in the configuration file) plus installation instructions and syntax on the web suffice for me: what else does one ever need to know about wiki? -- DanyaAlexeyevsky*
+
+*pink Hooray!  Now I should merge all your changes into the main code.  Or you're welcome to do it.  I'm a bit swamped with my main job at the moment, plus moving house, plus shearing alpacas.  Anyway, you're my hero!  .Jason*
+
+jason@tumble:~/wiki$ cat LocalConfig.io 
+# "Configurability is the root of all evil" -- Alex, http://roo.no-ip.org/fish/user_doc/design.html (1 June 2006)
+#
+
+# Modify the lines below to your taste.  Uncomment any lines you modify, by removing the initial hash sign (#).
+IoWiki do(
+
+// STUFF YOU MUST CHANGE:
+
+pageTemplatePassword := "xxxxxxxxxxx" # Set this to something unique to your site, unless you don't mind wiley hackers being able to execute arbitrary HTML on your server (which is something you SHOULD mind).
+
+serverAddress := "69.61.72.80"
+        // Set this to your server's IP address or IP name.
+
+// STUFF YOU MAY WELL WANT TO CHANGE:
+
+homePageName := "JasonGrossman"
+
+// Notification of changes:
+notifyFrom := "IoWiki@luddite.cst.usyd.edu.au" 
+        // This is the address notifications will come from.  It should be the address of someone who can edit this file in case of complaints.
+notifyEmailAddresses := "jason" 
+        // add email addresses to this, separated by commas
+notifySubject := method( "IoWiki: recent changes" ) 
+        // alternatives include: notifySubject := method( "IoWiki: " .. self name )
+emailPrefix := "The following IoWiki pages have changed recently.  See http://localhost/recent.changes for more details.\n\n" 
+        // prefix for the body of the email
+minimumNotificationInterval := 12 // in hours
+
+# pictureSuffixes := List clone add (".jpg",".JPG",".png",".PNG",".gif",".GIF")
+
+historyPageSizeLimit := 100 * 1024 
+    // There's no limit to how much history IoWiki will record --- deliberately so, for security --- 
+    // but we don't want displaying page history to take too long, so only this many characters are 
+    // displayed.  If a user needs more page history than this, they'll have to ask the system 
+    // administrator for it.
+
+
+// SPAM BLOCKING
+
+blockContents := ""
+        // "", or a regular expression: pages which match this expression after editing won't be saved.
+
+)

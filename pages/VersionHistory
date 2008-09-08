@@ -1,0 +1,95 @@
+*version CGI 0.1.03 beta*
+- The history pages are marked as not to be indexed by robots (Google etc.) --- something I should have done long ago.
+- The changes on the history page are now dated by IoWiki directly rather than by the operating system's date command.  This makes the dating work with more web servers.
+
+*version CGI 0.1.02 beta*
+- Page history is working again.
+
+*version CGI 0.1.01 beta*
+-  Changed the rule that said a page shouldn't link to itself.  Consistency above all else!  Linking a page to itself helps to teach newbies the rules, and avoids confusion about what the rules are.
+
+*version CGI 0.1 beta*
+- Re-written as a CGI script so it doesn't crash every few seconds.  That's why it's now a beta.
+
+*version 0.941 alpha*
+- Re-fixed a few bugs that had crept back in.
+- Implemented an RSS feed, accessed using ``?action=rss'' (e.g., http://xeny.net/rss?action=rss).
+- Implemented sub-wikis, ..a.k.a. projects, using a hyphen as the project separator --- for example, .Wombats-Cuddling.
+- The HTML which renders email addresses is now (minimally) obfuscated, to thwart simple web-scraping programs run by spammers.  Thanks to Toby Handfield for this idea.
+
+*version 0.94 alpha*
+- IoWiki finally works well over high-latency connections.
+
+*version 0.93 alpha*
+- I have no idea what happened to version 0.93.
+
+*version 0.92 alpha*
+- You can now have links to HTTPS URLs.
+
+*version 0.91 alpha*
+- Added email notification of changes.  See ..initialisation.io for options.
+- The recent changes page is now persistent.  (The maximum length of the recent changes list is set in the initialisation files, so it doesn't grow forever.  Log rotation?  Ugh.  Too complicated.)  This is an important change, because it means that the wiki can easily be checked for changes over long periods of time even though the program's still a bit unstable.
+- The preferred symbol for introducing dot points is now a hyphen instead of an asterisk.  Asterisks still work, but that's undocumented.  There are good reasons for the change, but I can't be bothered to type them up.
+- I've removed the ability to pre-cache a whole site.  It was buggy, and I now think it's unnecessary: if you want the whole site to live in memory, just put it on a RAM disk.
+- Fixed a bug which was causing crashes when an ?action= URL asked for an unknown action.
+- Fixed a bug in line breaks in the page history display.
+- Fixed a bug which was preventing hotlinking of ``(WikiWord''.
+
+*version 0.9 alpha*
+* I suspect this version is more stable, but sadly I haven't had time to test it very well yet.
+* Added blocking of spam by page contents --- see ..config.io.
+* Added a command {code ?action=restore} which restores a page to how it was before the last edit.  This is meant for easily getting rid of spam.  I suspect it would be confusing for most users, so it's not mentioned in the basic user documentation.
+* Page history is now LIFO (most recent history at the top of the page).
+* Added an option to limit the amount of page history shown, with a default of 10kb.
+* Added the {code [[[version]]]} markup, which produces the name of the version of IoWiki that's running.
+* Fixed a bug in the WikiWord parsing (``aNonWikiWord'' was being counted as a WikiWord).
+* Fixed a bug in the URL parsing (``&'' was not being allowed in URLs).
+
+*version 0.89 alpha*
+* Made to work with IoServer version 2005-02-25.
+* Fixed a bug in URL hotlinking.
+
+*version 0.88 alpha* 
+* I _think_ I've fixed the problems with large pages, but the fix is not well tested yet.
+* Added blocking of spammers by IP address.
+* Added optional logging of time and IP address for each request (so you can find out where the spammers are, hopefully).
+* Changed what happens when a user cancels an edit on a nonexistent page.
+* Made the page history start from the first edit.  (It was starting from the second edit.)
+* Made to work with IoServer version 2005-02-25.
+* Fixed a bug which sometimes caused the history page to be shown instead of the real page.
+* Fixed several bugs in creating links from wiki words and URLs.
+* Fixed a bug which was spoiling vertical spacing by making too many or too few <br>s.
+* Fixed a bug in spacing of words in page titles.
+* Fixed a bug in the caching of page templates.
+
+*version 0.87 alpha*
+* Fixed String map to work with latest Io: thanks to Jonathan (Quag).
+* Now uses less CPU time.
+
+*version 0.86 alpha*
+* RegulaExpressionSubstitutions.io now caches compiled regular expressions.  This is excessive optimisation for IoWiki, but the method might be useful for other people who need regular expression replacements (with wild cards) and need them to run really fast.  I know, I know, YouArentGonnaNeedIt :-).
+* A page can now be displayed with an arbitrary template using the syntax http://localhost:8080/VersionHistory?template=ReadMe.  This is useful for saving pages in a format suitable for printing or suitable for saving as static HTML.
+* URLs can now include symbols which otherwise would be markup symbols ? e.g., http://en.wikipedia.org/wiki/Unicode_and_HTML.
+* The ``{{pre}'' markup code is now recognised when it's followed by a newline character, as well as (as previously) by a space, and the ``{{code}'' markup code is now recognised when it's followed by anything at all.  (Can't allow ``{{pre}'' to be followed by just anything, or ``{{previously ...}'' would be rendered wrongly.)
+* Fixed small bugs in vertical page layout (multiple {<br>s} etc.).
+* Minor changes to the included documentation pages.
+
+*version 0.85 alpha*
+* A page's own name (e.g. VersionHistory) no longer makes a link to itself.
+* Changed some of the markup language.  I promise not to do this once version 1 is released (soon), at least not without a _lot_ of notice.
+* Fixed the 5 Kb page limit, thanks to Scott Dunlop.  Now there's effectively no page limit on the server.  There is, however, a problem with the server dropping connections over slow links which can lead to the loss of data from large pages.
+* Page templates are now cached in memory, as well as formatted pages.
+* Page templates are now reloaded after they've been edited.
+* Made all URLs relative, so that an IoWiki site can easily be reverse proxied by another server.
+* Fixed the page history bug.
+* Fixed so many little bugs I can't be bothered to document them all.  Documenting bug fixes more fully is another thing I promise to do better once version 1 is released.
+
+*version 0.8 alpha*
+* Switched to Scott Dunlop's web server code to get around the 5 Kb page limit that IoWiki version 0.7 had.
+** this has introduced a new bug in the page history ... good thing this is still in alpha release
+* Added access keys (contral/alt keys --- see IoWikiInstructions).  Thanks to tav for this idea.
+
+*version 0.7 alpha*
+* First release, so there's no point in documenting changes since the previous release.
+
+JasonGrossman

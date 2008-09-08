@@ -1,0 +1,56 @@
+
+----
+Thu Mar 13 12:43:14 EST 2008
+
+
+
+[[[break]]]changed line 8 from: *orange {code In class, Kieran said you couldn't assert the major premise if there were no students in the class.  I said that in English Kieran's right, you can't, but in maths you can.  But I couldn't think how to explain briefly why that is.  The web page which Alex found explains it well, using the _principle of extensionality_:
+}*[[[break]]]to: *green {code In class, Kieran said you couldn't assert the major premise if there were no students in the class.  I said that in English Kieran's right, you can't, but in maths you can.  But I couldn't think how to explain briefly why that is.  The web page which Alex found explains it well, using the _principle of extensionality_, which is also relevant to Frege and Russell:
+}*
+----
+Sat Mar  8 21:44:09 EST 2008
+
+
+
+[[[break]]]changed line 1 from: *orange {code Alex has asked me about the problem with the validity of the syllogism form Bramantip, and also pointed me to a web page which answers his own question, as follows.
+}*[[[break]]]to: *green {code Alex has asked me about the problem with the validity of the syllogism form Bramantip, and he's also pointed me to a web page which answers his own question, as follows.
+}*
+----
+Sat Mar  8 21:20:58 EST 2008
+
+
+
+[[[break]]]changed line 9 from: *orange {code ftp://xeny.net/Bramantip-extensionality.png
+}*[[[break]]]to: *green {code ftp://xeny.net/wikipics/Bramantip-extensionality.png
+}*[[[break]]]changed line 11 from: *orange {code That picture's from http://www.friesian.com/wikipics/syllog.htm (8/3/2008).
+}*[[[break]]]to: *green {code That picture's from http://www.friesian.com/syllog.htm (8/3/2008).
+}*
+----
+Sat Mar  8 21:20:18 EST 2008
+
+
+
+[[[break]]]deleted at line 1: *red {code 
+}*[[[break]]]changed line 12 from: *orange {code That picture's from http://www.friesian.com/syllog.htm (8/3/2008).
+}*[[[break]]]to: *green {code That picture's from http://www.friesian.com/wikipics/syllog.htm (8/3/2008).
+}*
+----
+Sat Mar  8 21:17:52 EST 2008
+
+
+
+[[[break]]]added at line 0: *lime {code 
+Alex has asked me about the problem with the validity of the syllogism form Bramantip, and also pointed me to a web page which answers his own question, as follows.
+
+My example of Bramantip was:
+--> All the students in my class are clever.
+--> All clever students pass.
+--> Some passing students are in my class.
+
+In class, Kieran said you couldn't assert the major premise if there were no students in the class.  I said that in English Kieran's right, you can't, but in maths you can.  But I couldn't think how to explain briefly why that is.  The web page which Alex found explains it well, using the _principle of extensionality_:
+ftp://xeny.net/Bramantip-extensionality.png
+
+That picture's from http://www.friesian.com/syllog.htm (8/3/2008).
+
+Jason
+}*

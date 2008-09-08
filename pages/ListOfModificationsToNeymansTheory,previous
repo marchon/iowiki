@@ -1,0 +1,11 @@
+There's quite a number of ways in which Neyman's original theory has been modified by subsequent people.  One or two of the modifications seem to be universally accepted.  I'm thinking in particular of the change from the interval having random variables as its endpoints to it having numbers as its endpoints.  Others seem to be accepted by very large numbers of people (otherwise they don't belong on this list) but not everybody.
+
+# universally accepted modifications
+- endpoints.are.now.numbers
+
+# widespread modifications
+- BlandCIs
+
+# other interesting things
+- CI's or CIs?
+- Ford or Holden?

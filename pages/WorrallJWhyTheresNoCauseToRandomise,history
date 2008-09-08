@@ -1,0 +1,132 @@
+
+----
+Wed Dec 19 15:09:07 EST 2007
+
+
+
+[[[break]]]changed line 19 from: *orange {code Now I want to calculate this.probability
+}*[[[break]]]to: *green {code Now I want to calculate this.probability.problem
+}*
+----
+Wed Dec 19 15:01:41 EST 2007
+
+
+
+[[[break]]]added at line 18: *lime {code Now I want to calculate this.probability
+
+}*
+----
+Thu Dec  6 18:18:19 EST 2007
+
+
+
+[[[break]]]changed line 12 from: *orange {code The argument is against randomisation providing any specific, unique epistemic good (that could not be achieved elsewhere). *crimson And moreover, randomisation can be harmful, as argued in Grossman and Mackenzie (p.527 ... I really need to write out a longer version of that argument, or maybe you could do it!).*
+}*[[[break]]]to: *green {code The argument is against randomisation providing any specific, unique epistemic good (that could not be achieved elsewhere). *crimson And moreover, randomisation can be harmful, as argued in Grossman and Mackenzie (p.527 ... I really need to write out a longer version of that argument).*
+}*
+----
+Thu Nov 15 20:41:31 EST 2007
+
+
+
+[[[break]]]changed line 12 from: *orange {code The argument is against randomisation providing any specific, unique epistemic good (that could not be achieved elsewhere). *red And moreover, randomisation can be harmful, as argued in Grossman and Mackenzie (p.527 ... I really need to write out a longer version of that argument, or maybe you could do it!).*
+}*[[[break]]]to: *green {code The argument is against randomisation providing any specific, unique epistemic good (that could not be achieved elsewhere). *crimson And moreover, randomisation can be harmful, as argued in Grossman and Mackenzie (p.527 ... I really need to write out a longer version of that argument, or maybe you could do it!).*
+}*[[[break]]]changed line 17 from: *orange {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probability 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided *I think you mean: the smaller the number of confounders that are likely to be unevenly divided*.  This seems to provide some rationale for randomisation. *crimson I agree.*
+}*[[[break]]]to: *green {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probability 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided *crimson I think you mean: the smaller the number of confounders that are likely to be unevenly divided*.  This seems to provide some rationale for randomisation. *crimson I agree.*
+}*
+----
+Thu Nov 15 20:41:01 EST 2007
+
+
+
+[[[break]]]changed line 12 from: *orange {code The argument is against randomisation providing any specific, unique epistemic good (that could not be achevied elsewhere).  
+}*[[[break]]]to: *green {code The argument is against randomisation providing any specific, unique epistemic good (that could not be achieved elsewhere). *red And moreover, randomisation can be harmful, as argued in Grossman and Mackenzie (p.527 ... I really need to write out a longer version of that argument, or maybe you could do it!).*
+}*[[[break]]]changed line 17 from: *orange {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probabiliy 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided.  This seems to provide some rationale for randomisation. *crimson I agree.*
+}*[[[break]]]to: *green {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probability 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided *I think you mean: the smaller the number of confounders that are likely to be unevenly divided*.  This seems to provide some rationale for randomisation. *crimson I agree.*
+}*
+----
+Wed Sep 19 12:57:34 EST 2007
+
+
+
+[[[break]]]changed line 27 from: *orange {code Black notes by AdamLaCaze .  *crimson Red notes by JasonGrossman.*
+}*[[[break]]]to: *green {code Black notes by AdamLaCaze.  *crimson Red notes by JasonGrossman.*
+}*
+----
+Wed Sep 19 11:58:25 EST 2007
+
+
+
+[[[break]]]changed line 27 from: *orange {code Black notes by AdamLaCaze.  *crimson Red notes by JasonGrossman.*
+}*[[[break]]]to: *green {code Black notes by AdamLaCaze .  *crimson Red notes by JasonGrossman.*
+}*
+----
+Wed Sep 19 11:57:50 EST 2007
+
+
+
+[[[break]]]added at line 24: *lime {code 
+
+Black notes by AdamLaCaze.  *crimson Red notes by JasonGrossman.*
+}*
+----
+Wed Sep 19 10:18:02 EST 2007
+
+
+
+[[[break]]]changed line 17 from: *orange {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probabiliy 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided.  This seems to provide some rationale for randomisation. *crimson I agree.  .Jason*
+}*[[[break]]]to: *green {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probabiliy 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided.  This seems to provide some rationale for randomisation. *crimson I agree.*
+}*[[[break]]]changed line 22 from: *orange {code Could this be extended to provide an epistemic rationale for randomisation for clinical science in general?  We want to assume as little as possible of the background theory.  Large randomised studies permit us to do this.  It is the "data" that talks; not our background theory.  [I am not sure I would agree with this argument by the time it is fully fleshed out]
+}*[[[break]]]to: *green {code Could this be extended to provide an epistemic rationale for randomisation for clinical science in general?  We want to assume as little as possible of the background theory.  Large randomised studies permit us to do this.  It is the "data" that talks; not our background theory.  [I am not sure I would agree with this argument by the time it is fully fleshed out] *crimson I think you would.  It's a good argument.  I think it's been made by EBM proponents somewhere (probably millions of places, knowing them).*
+}*
+----
+Wed Sep 19 10:14:53 EST 2007
+
+
+
+[[[break]]]changed line 17 from: *orange {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probabiliy 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided.  This seems to provide some rationale for randomisation. 
+}*[[[break]]]to: *green {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probabiliy 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided.  This seems to provide some rationale for randomisation. *crimson I agree.  .Jason*
+}*
+----
+Wed Sep 19 08:56:44 EST 2007
+
+
+
+[[[break]]]deleted at line 1: *red {code 
+}*[[[break]]]changed line 15 from: *orange {code I put these notes up because I am interested in how they relate to discussion of Neyman.Estimation
+}*[[[break]]]to: *green {code I put these notes up because I am interested in how they relate to discussion of Neyman.StatisticalEstimation (see that page for discussion)
+}*[[[break]]]changed line 18 from: *orange {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right (but trivial) that if there are indefinitely many unsuspected confounders then with probabiliy 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided.  This seems to provide some rationale for randomisation. 
+}*[[[break]]]to: *green {code Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right that if there are indefinitely many unsuspected confounders then with probabiliy 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided.  This seems to provide some rationale for randomisation. 
+}*[[[break]]]changed line 25 from: *orange {code What is undeniable is that randomisation is not sine qua  non.  EBM is in trouble.  But not my take on what "EBM must be..."
+}*[[[break]]]to: *green {code What is undeniable is that randomisation is not sine qua  non.  EBM (as espoused by advocates) is in trouble.  But maybe not what "EBM must be..."
+}*
+----
+Wed Sep 19 08:53:18 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code 
+@article{JohnWorrall09012007,
+	Author = {Worrall, John},
+	Journal = {Br J Philos Sci},
+	Number = {3},
+	Pages = {451-488},
+	Title = {{Why There's No Cause to Randomize}},
+	Volume = {58},
+	Year = {2007}}
+
+An interesting paper and an extension of the problems of randomisation.  More particularly with the thought that randomisation is essential for science (as is thought to be case---arguably---with EBM).
+
+The argument is against randomisation providing any specific, unique epistemic good (that could not be achevied elsewhere).  
+
+I put these notes up because I am interested in how they relate to discussion of Neyman.Estimation
+
+Questions:
+Much is made of the argument proposed by Papineau (and maybe Cartwright) that randomisation "in the long run" ensures that any particular unsuspected confounder is equally divided in treatment and control groups.  But what about the randomisation of a single trial with many participants.  It is right (but trivial) that if there are indefinitely many unsuspected confounders then with probabiliy 1 there will be an unequal division of one of these confounders for any particular randomisation.  However, is it not also true that the larger the number of trial participants the less likely any finite number of confounders are unevenly divided.  This seems to provide some rationale for randomisation. 
+
+Replies:
+How much does this depend on our epistemic situation?  Worrall seems to assume that we have quite a bit of causal knowledge.  It is this causal knowledge that we use to ensure that the two groups are evenly divided. What happens when we know very little?  Is there an argument for randomisation here?
+
+Could this be extended to provide an epistemic rationale for randomisation for clinical science in general?  We want to assume as little as possible of the background theory.  Large randomised studies permit us to do this.  It is the "data" that talks; not our background theory.  [I am not sure I would agree with this argument by the time it is fully fleshed out]
+
+What is undeniable is that randomisation is not sine qua  non.  EBM is in trouble.  But not my take on what "EBM must be..."
+}*

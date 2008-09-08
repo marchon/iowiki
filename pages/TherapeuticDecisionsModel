@@ -1,0 +1,84 @@
+## Therapeutic ..Decision-Making Model
+
+# Background
+
+My interest here is to see if I can provide an idealised normative model of therapeutic ..decision-making (focusing pretty much exclusively on therapeutic drug decisions).  
+The possible purposes of this model include: forming part of my thesis introduction; and forming a possible narrative link within the thesis which will allow me to tackle a variety of problems while still telling some kind of coherent story about why they are linked (the examples will be discussed below but include problems within philosophy of statistics, philosophy of probability and philosophy of causation)
+
+# Central Questions: The outputs of the therapeutic ..decision-making model
+
+Question 1 – The population question: What are the likely aggregate benefits of a particular drug in a given population of patients.  Typically the focus will be on a particular condition and the population will share this condition.  While the members of this population will have important individual differences these differences are typically limited by some additional shared characteristics (i.e. age; lack of significant additional fatal disease or organ failure).
+
+Question 2 – The individual clinical question: What are the likely aggregate benefits of a particular drug in a given individual patient?
+
+While links can be made, I take these to be separate questions.  They are certainly separate questions within the current practice of EBM, primarily, I think due to its focus on “large simple RCTs”.  Perhaps it is worth noting, however that there might not be good philosophical reasons for why they could not be reduced into the one question.
+
+# Components of the Therapeutic ..Decision-Making Model
+
+1. ..Evidence-Based Medicine (EBM)
+
+According to EBMs hierarchy of evidence, information from randomised controlled trials is privileged over more observational designs and the basic sciences.  EBM currently provides the backbone of clinical ..decision-making – if large RCTs have been conducted on a given question then this is seen to be the gold standard for evidence.  
+
+Within this component I intend to focus on a number of philosophy of science and philosophy of statistics questions.  Particularly: How should drug trials be designed and analysed?
+
+There is a sense in which EBM, and more particularly RCTs, can provide crude conditional probabilities for therapeutic decisions.   By this I mean something like: P(Drug A will assist Patient X|Patient X has condition B and prognostic factors C, plus background clinical trial evidence), i.e. the probability that Drug A will assist Patient X assuming that they have disease B and drug A has been shown to be beneificial in patients with condition B in RCTs.  There are a number of ways that conditional probabilities like this can (and arguably should) be made a little more finely grained – two additional important considerations are the magnitude of effect and the distinction between the individual and group.
+
+Or at least I would argue that RCTs *should* provide such probabilities, it is interesting that on reflection they currently do not – e.g. the more simplistic outputs of RCTs are measures like NNT or NNH and p-values or confidence intervals – i.e. magnitudes of effects and measures which are arguably mistakenly taken to hold epistemic weight.
+
+
+2. The basic sciences
+
+This component includes: pharmacology, (patho)physiology and ?other basic or bench sciences.
+
+Despite the current dominance of the role of EBM in therapeutic decision-making, input from the basic sciences remains an irreducible component of day-to-day therapeutic decisions.
+
+The basic sciences provide the ‘story’ for why a certain medication may (or may not) work for a particular disease.  
+
+Some reasons that it will remain an irreducible component of therapeutic ..decision-making include:
+* RCTs cannot possibly provide an answer to every clinical question (the very fact that every trial will invariably raise many more questions then the narrow set that they propose to answer should be enough to show that this will continue to be true)
+* EBM and the basic sciences inform each other – in both simple and complex ways – including: RCTs for particular drugs in particular conditions are not plucked out of the air – they are initiated primarily based what the basic sciences suggests will work; RCTs are interpreted in light of the basic science story (though precisely how this is done appears highly contextual – neither seem to function as necessary or sufficient conditions for each other)
+* The basic sciences play an important role in establishing the conditional probabilities at the heart of therapeutic ..decision-making (or weaker – at least I think that they should –this seems particularly obvious to me in respect to the individual clinical questions).  This is particularly true with EBMs focus on large simple RCTs – in order to answer the individual clinical question the basic sciences are invoked in order to make sense of the relevance of the RCT data for the particular patient.
+
+3. Ethical component
+
+Clearly, ethical and other norms related to health and society will impact on therapeutic decisions – including individual patient wishes, healthcare professional norms and regulations and societal expectations.
+
+While recognising the important role of this component I do not plan to address questions within this component directly – rather I will aim to ensure that my focus on the epistemological questions within therapeutic decision-making does not pre-suppose any particular ethical theory or norm.  Whatever I say should be applicable to any differing ethical positions which relate to therapeutic decision-making. 
+
+
+# How this discussion may provide a framework for questions to be addressed within the thesis:
+
+I think that the model might allow me to take a couple of different approaches to the philosophical questions within EBM.
+
+The first is to start with practical problem within therapeutic decision-making and look to debates within philosophy to see if they provide assistance.  How best can we answer the population question and the individual clinical question – what types of trials and what types of analysis?  This immediately raises questions within philosophy of statistics and philosophy of science.
+
+The second approach is to take on some problems within philosophy (in particular philosophy of probability) which may have a bearing on therapeutic decision-making.  I think that I will be able to provide an argument that the philosophical underpinning of the therapeutic decision-making model is (and should be) subjective probabilism.   Topics like confirmation theory and the differing forms of probability kinematics seem to provide good examples of topics which could be shown to have some bearing on therapeutic decision-making (but I am interested in seeing whether there are some more)
+
+If I go down this line then the following might provide a rough outline:
+
+Section 1
+
+Introduce model and the central output of the model – i.e. the population and individual clinical question.
+
+Provide a critique of the current approach to EBM + classical statistics.  This would include discussion on the Asymmetry.of.EBM and the .Cox2Example
+
+Open the question of what the best inputs into the population and individual clinical question are.  Compare the types of input currently produced by EBM + classical statistics with a subjectivist approach. 
+
+Provide an argument for the superiority of the subjective probabilist approach.
+Also in this section is an introduction of the role of the basic sciences within therapeutic decision-making.  Outline the currently confusing role that it plays.
+
+Section 2
+
+Look at the interplay between EBM and the basic sciences.  I am not too sure about this as a topic but there appears to be a number of interesting questions regarding how EBM and the basic sciences fit together – or should fit together.
+
+What is the role of causal stories in ascertaining evidence regarding the likely aggregate benefits of a therapeutic intervention?  What role do the basic sciences play in coming to conclusions regarding the conditional probabilities used in population and individual clinical questions?
+
+Section 3
+
+I am less clear as to the contents of this section but it seems that some justification could be provided for spending some time on particular problems with philosophy of probability.   Notable examples include: confirmation theory and differing probabilistic updating approaches and constraints.
+
+
+
+Any comments on this possible approach are very welcome.
+The benefit of the approach is that it gives me a pretty broad range of topics which I can discuss.  My primary concern is an obvious one that this approach will leave me scratching the surface on a number of different topics without the time to get into any of them deeply enough… 
+

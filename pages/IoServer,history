@@ -1,0 +1,9 @@
+
+----
+Thu Nov 22 19:42:33 EST 2007
+
+
+
+[[[break]]]changed line 1 from: *orange {code IoServer is a language interpreter which runs the IoWiki program, which in turn runs this wiki site.  See http://www.iolanguage.com for more about IoServer.
+}*[[[break]]]to: *green {code IoServer is a language interpreter which runs the IoWiki program, which in turn runs this wiki site.  See http://www.iolanguage.com for more about IoServer.  Recently, IoServer has been renamed Io.
+}*

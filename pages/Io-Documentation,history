@@ -1,0 +1,48 @@
+
+----
+Tue Nov 27 20:38:48 EST 2007
+
+
+
+[[[break]]]added at line 0: *lime {code _(This is just an example of the flexibility of page layout in IoWiki.  See http://iolanguage.com/docs/ for the real Io documentation.)_
+
+}*
+----
+Tue Nov 27 16:55:10 EST 2007
+
+
+
+[[[break]]]deleted at line 3: *red {code ?
+}*
+----
+Tue Nov 27 14:48:19 EST 2007
+
+
+
+[[[break]]]added at line 1: *lime {code 
+?
+}*
+----
+Thu Feb 16 10:07:15 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code .Io-Object
+}*[[[break]]]to: *green {code Io-Object
+}*
+----
+Thu Feb 16 10:07:04 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code .Io!Object
+}*[[[break]]]to: *green {code .Io-Object
+}*
+----
+Thu Feb 16 10:06:45 EST 2006
+
+
+
+[[[break]]]changed line 1 from: *orange {code Io!Object
+}*[[[break]]]to: *green {code .Io!Object
+}*

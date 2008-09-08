@@ -1,0 +1,42 @@
+# wake from sleep issue:
+Also already mentioned is if you awaken your computer and you get a black screen, tap the powerbutton once (which brings up Shutdown dialog box, though you can't see it) and then press the "S" key, which will sleep the compuer and try reawakening. This frequently solves the problem.
+----
+# to add a Quit menu item to the Finder:
+defaults write com.apple.finder QuitMenuItem -bool yes
+----
+# to disable Spotlight:
+By: jjccgg on Fri, May 13 '05 at 12:10PM PDT
+As the previous poster said, first modify /etc/hostconfig to read:
+
+SPOTLIGHT=-NO-
+
+Then to get rid of the existing index, run these two commands from Terminal:
+
+mdutil -i off /
+mdutil -E /
+
+The first command disables indexing on the boot volume, and the second erases the existing template. You can then use Activity Monitor to kill any mds or mdimport processes or else just reboot. Futzing with permissions will probably break OS updates that try to update files in the zeroed-out directories and of course won't survive a repair-permissions run.
+
+If you later change your mind and decide you want Spotlight after all, it's easy to reactivate. Set
+
+SPOTLIGHT=-YES-
+
+in /etc/hostconfig, run in Terminal:
+
+mdutil -i on /
+
+and reboot. 
+
+(from http://www.macosxhints.com/article.php?story=20050504012104186)
+
+----
+#to compact a sparse disk image:
+compact image
+           scans the bands of a SPARSE type disk image with an HFS
+           filesystem in it, removing those parts of the image which are
+           no longer being used by the filesystem.  Depending on the
+           organization of files in the filesystem, compact may or may
+           not shrink the image file.
+
+           Common options: -encryption, -stdinpass, -srcimagekey, -shadow
+           with friends, -puppetstrings, and -plist.

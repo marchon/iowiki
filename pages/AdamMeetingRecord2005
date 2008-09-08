@@ -1,0 +1,48 @@
+_each meeting put date, people present (Adam and Jason unless noted otherwise), topics discussed, things to do for next time_
+
+2005
+
+# Friday 18 November
+Adam, Jason
+discussed: mathematical statistics, EBM verse basic science (and versus e.g. case control studies), group sequential trials, readings, applications of philosophy (as in philosophy of biology), applied Bayesian statistics, randomisation, cable guy, pharmacogenetics versus Yusef
+next Wednesday: Jason and Adam to go through Berger and Berry together
+
+# Wednesday 23rd November
+Adam, Jason
+Discussed: Berry and Berry paper: frequentist v conditionalists is key. Power and Vioxx example (argument for misleading magnitude via normal bayesian updating).  Mark's argument against p-values - problem with frequentist: "just not what we want" - still question of what replaces it.
+Next Thursday...
+
+(Figured it might be helpful in the long run to go broad with these meeting records)
+# Monday 28 November
+Combined meeting of UQ School of Population Health and Pharmacy (lead by  Wayne Hall and Sue Tett)
+Discussed: Interesting stuff...  It is worth keeping in mind the general question which this group is interested in and how it may relate to where my project could head... The overall question here (and pretty much where I guess this groups interests intersect the most) is that of whether drug treatment does indeed lead to the intended population outcomes.  Framed in terms of my project the question is whether the way we currently conduct and draw inferences from large drug trials is sound (i.e. concurs with reality sufficiently to have the expected beneficial effects on the population).  An alternative framing of a question which is somewhat related and is worth keeping in mind is the following: Given that it is so difficult in to find appropriate evidence of population outcomes (i.e. EBM is completely ill-equiped for the task) how might this be done in the most rigourous manner possible.
+Tasks: Chase Wayne Hall's review of methodologies for showing population outcomes. Chase NPS 'operational report'.
+
+# Thursday 1 December
+Adam, Jason
+Discussed everything.
+
+"A methodological rule for reporting the results of an experiment is good x% of the time."
+Bayesian interpretation: ?
+Frequentist intrepretation (pretty much by definition of "Frequentist"): on x% of hypothetical experiments, the rule will get the right answer x% of the time.
+To do: look at Whitehead vs. Freedman and Spiegelhalter.
+
+# Thursday 8 December
+Adam, Jason
+Discussed:
+* objectivity of Frequentism vs. Bayesianism
+* a possible research project: how to make Bayesian methods less subject to investigator abuse by fixing parameters, analogously to the way that Frequentists fix test statistics, cutoff level (5%) and, to a lesser degree, the model (Normal or whatever)
+* combining Bayesian and Frequentist methods, as discussed by Berry and as done by QLD people
+* maybe we don't want trials to be as efficient as possible (in terms of main effect), because that makes them less good at finding side-effects and generating new hypotheses; Jason suggests that instead of making this an issue of Bayesian vs. non-Bayesian analysis we should take into account the variety of possible Bayesian analyses.  Maybe instead of using Berry/Berger/Grossman trial monitoring methods in which we try to minimise the sameple size required to come to a conclusion about a single endpoint we should be having larger trials which take into account the importance of other endpoints and other types of hypotheses.  However, this runs up against the standard ethical argument that one should only continue a trial as long as one has EquqiPoise.
+
+# Friday 16 December
+Adam, Jason
+Discussed: Jason to read Goodman paper.
+Power v prior distribution. Differences - lying, political, minimal clinical significant differences.  Don't have to rely on power - argue based soley on prior of alternative hypothesis.  Might not need to go into how health fraternity as *acted*.  Differentiate between test-statistic and raw data/result - watch for result ambiguity. Berger has work on justifying the move from significant p-value to likelihood of alternative hypothesis.
+Next meeting: probably Monday while Jason in Brisbane - to discuss Goodman papers... rofexocib
+
+# Monday 19 December
+Adam, Jason
+Discussed:
+factoring study design into Bayesian analysis
+Goodman's theory of converting P-values to minimum Bayes factors

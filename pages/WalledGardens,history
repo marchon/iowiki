@@ -1,0 +1,74 @@
+
+----
+Mon Nov 14 00:07:54 EST 2005
+
+
+
+[[[break]]]changed line 1 from: *orange {code Projects are liable to turn into walled gardens.  A walled garden is part of a wiki which is separate from the rest of the wiki, in the sense that it has very few links to or from the rest of the wiki.  Walled gardens are bad because contributors to the rest of the wiki are unlikely to notice that they exist, and so they discourage collaboration.  Wikis are meant to aim for collaboration: the whole point of a wiki is for when you want people to help you write your pages, and that's most likely to happen if you don't put them into a separate project.
+}*[[[break]]]to: *green {code Projects are liable to turn into walled gardens.  A walled garden is part of a wiki which is separate from the rest of the wiki, in the sense that it has very few links to or from the rest of the wiki.  Walled gardens are bad because contributors to the rest of the wiki are unlikely to notice that they exist, and so they discourage collaboration.  Wikis are meant to aim for collaboration: the whole point of a wiki is for when you want people to help you write your pages, and that's most likely to happen if you don't put them into a separate project.  (Someone please help me explain this better.)
+}*
+----
+Tue May  3 21:56:44 EST 2005
+
+
+
+[[[break]]]changed line 1 from: *orange {code Projects are liable to turn into walled gardens.  A walled garden is part of a wiki which is separate from the rest of the wiki, in the sense that it has very few links to or from the rest of the wiki.  Walled gardens are bad because contributors to the rest of the wiki are unlikely to notice that they exist, and so they discourage collaboration.  Wikis are meant to aim for collaboration: the whole point of a wiki is for when you want people to help you write your pages, and that's most likely to happen if you don't put them into a walled garden.
+}*[[[break]]]to: *green {code Projects are liable to turn into walled gardens.  A walled garden is part of a wiki which is separate from the rest of the wiki, in the sense that it has very few links to or from the rest of the wiki.  Walled gardens are bad because contributors to the rest of the wiki are unlikely to notice that they exist, and so they discourage collaboration.  Wikis are meant to aim for collaboration: the whole point of a wiki is for when you want people to help you write your pages, and that's most likely to happen if you don't put them into a separate project.
+}*
+----
+Tue May  3 21:56:30 EST 2005
+
+
+
+[[[break]]]changed line 1 from: *orange {code A walled garden is part of a wiki which is separate from the rest of the wiki, in the sense that it has very few links to or from the rest of the wiki.  Walled gardens are bad because contributors to the rest of the wiki are unlikely to notice that they exist, and so they discourage collaboration.  Wikis are meant to aim for collaboration: the whole point of a wiki is for when you want people to help you write your pages, and that's most likely to happen if you don't put them into a walled garden.
+
+Having read all that, if you still want to make a walled garden, you can do it by making what I call a *project*.  To keep a project about (say) wombats separate from the rest of the wiki, name its pages wombat!cuddling, wombat!vicious, etc.  This has two advantages:
+
+- Pages that are part of such a project don't need to have dots or ..CamelCase in their names.  
+
+- The administrator of your web server can give each project a different page template (colours etc.).
+}*[[[break]]]to: *green {code Projects are liable to turn into walled gardens.  A walled garden is part of a wiki which is separate from the rest of the wiki, in the sense that it has very few links to or from the rest of the wiki.  Walled gardens are bad because contributors to the rest of the wiki are unlikely to notice that they exist, and so they discourage collaboration.  Wikis are meant to aim for collaboration: the whole point of a wiki is for when you want people to help you write your pages, and that's most likely to happen if you don't put them into a walled garden.
+}*
+----
+Tue May  3 21:53:20 EST 2005
+
+
+
+[[[break]]]changed line 3 from: *orange {code Having read all that, if you still want to make a walled garden, you can do it by making what I call a *project*.
+
+To keep a project about (say) wombats separate from the rest of the wiki, you can name its pages wombat!cuddling, wombat!vicious, etc.  This has two advantages:
+}*[[[break]]]to: *green {code Having read all that, if you still want to make a walled garden, you can do it by making what I call a *project*.  To keep a project about (say) wombats separate from the rest of the wiki, name its pages wombat!cuddling, wombat!vicious, etc.  This has two advantages:
+}*
+----
+Tue May  3 21:52:26 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code A walled garden is part of a wiki which is separate from the rest of the wiki, in the sense that it has very few links to or from the rest of the wiki.  Walled gardens are bad because contributors to the rest of the wiki are unlikely to notice that they exist, and so they discourage collaboration.  Wikis are meant to aim for collaboration: the whole point of a wiki is for when you want people to help you write your pages, and that's most likely to happen if you don't put them into a walled garden.
+}*[[[break]]]added at line 1: *lime {code Having read all that, if you still want to make a walled garden, you can do it by making what I call a *project*.
+}*[[[break]]]changed line 3 from: *orange {code 
+*Projects*
+
+If you want to keep a project about (say) wombats separate from the rest of the wiki, you can name its pages wombat!cuddling, wombat!vicious, etc.  This has two advantages:
+}*[[[break]]]to: *green {code To keep a project about (say) wombats separate from the rest of the wiki, you can name its pages wombat!cuddling, wombat!vicious, etc.  This has two advantages:
+}*[[[break]]]changed line 12 from: *orange {code _But_ ... wikis are meant to aim for collaboration, and you may find that people are most likely to help you write your wiki pages if you _don't_ divide them into separate projects. 
+}*[[[break]]]to: *green {code JasonGrossman
+}*
+----
+Tue May  3 21:41:16 EST 2005
+
+
+
+[[[break]]]added at line 0: *lime {code 
+
+
+*Projects*
+
+If you want to keep a project about (say) wombats separate from the rest of the wiki, you can name its pages wombat!cuddling, wombat!vicious, etc.  This has two advantages:
+
+- Pages that are part of such a project don't need to have dots or ..CamelCase in their names.  
+
+- The administrator of your web server can give each project a different page template (colours etc.).
+
+_But_ ... wikis are meant to aim for collaboration, and you may find that people are most likely to help you write your wiki pages if you _don't_ divide them into separate projects. 
+}*

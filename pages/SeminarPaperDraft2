@@ -1,0 +1,187 @@
+----
+Below is my second draft in tex format, mainly for backup purposes.  If for some reason someone wants to read it, I have a pdf copy that I can ..e-mail.
+----
+{
+\documentclass[12pt]{article}
+
+\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line
+
+\usepackage{setspace}
+
+\usepackage[stable]{footmisc}
+
+\usepackage{natbib}
+
+\onehalfspacing
+
+\title{McDowell, Wittgenstein \& Rorty\thanks{An essay for the ANU Honours Seminar, Semester 1, 2008}\\ \Large{\emph{A Metaphilosophical Analysis}}}
+
+\author{Chris Wilcox (u4008227)}
+
+\date{}
+
+\begin{document}
+
+\maketitle 
+
+\section{Introduction}
+
+In \emph{Mind and World}~\citep{McDowell:1994}, John McDowell puts forward a strategy for overcoming certain problems or tensions in the philosophy of perception.  The way in which he structures his account however, points to an interesting metaphilosophical approach influenced by both Wittgenstein and Rorty.  From the (minimal) discussion of metaphilosophy in the book, it is clear that McDowell sees himself as continuing in the quietist tradition of Wittgenstein.  My task in this essay will be to extract McDowell's metaphilosophy and determine whether Rorty's influence (or any other aspects) give rise to tensions between McDowell and Wittgenstein.  
+
+
+
+I will begin with a discussion of the metaphilosophical approaches of Wittgenstein and Rorty.  Following this, I will examine McDowell's metaphilosophical approach in \emph{Mind and World}.  Next, I will highlight two possible areas of tension between Wittgenstein and McDowell and analyse their significance.  Finally, I will attempt to draw conclusions from my analysis despite key ambiguities in the positions of Wittgenstein and McDowell.
+
+
+
+\section{Wittgenstein\footnote{Given the opaque nature of Wittgenstein's writing and the limited space, I will impose an arbitrary regimentation upon his \emph{Philosophical Investigations}-era views for the purposes of this analysis.}}
+
+Common to both Wittgenstein and Rorty's approaches is the attempt to draw a contrast between the problematic practise of ``traditional'' philosophy and that of their proposed ``new'' philosophy.  I will begin by looking at the means by which Wittgenstein makes this distinction.
+
+
+
+\subsection{Traditional Philosophy}
+
+For Wittgenstein, the problems of traditional philosophy primarily arise from a confusion regarding superficially similar ``language games'' (or parts thereof).  The term ``language game'' is used to capture the way in which linguistic communities use language.  It is an attempt to capture the notion of linguistic \emph{practise}.
+
+  
+
+Problems arise for traditional philosophy due to the fact that ordinary grammar does not give a clear view of the practise component of appropriate linguistic use.  In particular, the traditional philosopher wants to apply clear, strict linguistic rules where there should be none - attempting to change the language game they are meant to be analysing in the course of their analysis.
+
+
+
+\subsection{New Philosophy}
+
+The key aspect of Wittgenstein's new philosophy is that it is meant to ``leave everything as it is''.  This is generally taken to mean that philosophical analysis should not lead to the revision of a language game.\footnote{See for example~\citet{Fann:1969},~\citet{Fogelin:1987} and~\citet{Lazerowitz:1978}.}
+
+  It is to be employed as a ``therapy'' for the treatment of the ``anxieties'' raised by traditional philosophy.  An anxiety arises when philosophical investigations lead to conclusions (or oscillations) that seem to conflict with our naive experience.\footnote{Such as the oscillation between views in conflict with our naive perceptual experience of the world as being something ``out there'' is the focus of \emph{Mind and World}.}  
+
+This therapy is not meant to be a one-off treatment.  Wittgenstein held that we were prone to ``relapse'' in these cases and so the therapy was to be conducted is such a way as to be reusable when one was tempted to slide into the old anxieties.
+
+
+
+The main method Wittgenstein proposed was based on the analysis and comparison of ``surface'' and ``depth'' grammars.\footnote{Though it is important to note that Wittgenstein in no way ruled out the possibility of other therapy methods (indeed, he explicitly stated that there was no one philosophical \emph{method}).}  
+
+The term surface grammar is used to refer to the superficial syntactical rules of language.  It is the confusion of syntactical similarities between terms with deeper similarities that Wittgenstein sees as the source of many anxieties.  This confusion can be avoided by the analysis of the depth grammar of the terms involved.  Such an analysis involves an examination of the way the terms are used within their associated language games, generally leading one to the conclusion that there is no similarity beyond the syntactical.
+
+
+
+\section{Rorty\footnote{I am concerned here primarily with the metaphilosophy of \emph{Philosophy and the Mirror of Nature}~\citep{Rorty:1980} (although Rorty was quite consistent in his approach).}}
+
+As discussed above, Rorty also employed a division between traditional and new philosophy.  My main focus in what follows however will be his conception of traditional philosophy as it is this that has been the most influential on McDowell.
+
+
+
+\subsection{Traditional Philosophy}
+
+For Rorty, the defining elements of traditional philosophy are the twin desires for foundation and ``mirroring''.  The desire for foundation is primarily manifested through the general philosophical search for epistemological foundations, for some sort of basis for all that we can know.  ``Mirroring'' manifest in the desire to somehow epistemologically ``capture'' a reality that is ``out there.''\footnote{For Rorty, it is this that gives rise to the concerns over whether or not we have captured reality accurately that motivate McDowell's book.}
+
+
+
+This sort of approach is a problem for Rorty because (extending his pragmatist principles) he believes that ``if we do not have the distinction between what is `given' and what is `added by the mind,'\ldots we will not know what epistemology's goal or method could be.''~\citep[pp.168-9]{Rorty:1980}  For Rorty all human activity takes place within what he calls a ``normal discourse,'' a socially constructed background of rules and conventions that governs what is considered acceptable within a given context.  It is important to note that he does not believe that discourses are generally \emph{consciously} constructed - convention and history play a large role in their construction.  It is this point that is most influential on McDowell's metaphilosophy.
+
+
+
+\subsection{New Philosophy}
+
+Rorty holds that the task of new philosophy is give up on the quest for epistemological foundations and focus instead on aiding the construction of ``abnormal discourses,'' enabling commensurability between normal discourses.  The nature of philosophy thus becomes hermeneutic.
+
+
+
+\section{McDowell\footnote{Given space restrictions I will here assume the reader has some familiarity with McDowell's arguments and terminology in \emph{Mind and World}.}}
+
+A useful way to examine McDowell's approach initially is to look at it as an attempt to combine Rorty's insight regarding the historical basis of much philosophical discourse with Wittgenstein's characterisation of philosophy as the treatment of anxieties.  For McDowell, anxieties issue from thoughts but thoughts are in some sense conditioned by the thinker's relative historical context.  Furthermore, McDowell is primarily concerned with pointing the way past sticking points that have led to anxieties and/or oscillations rather than fully articulating an alternate theory.
+
+
+
+An examination of how this approach manifests itself in \emph{Mind and World} will help to clarify matters.  For McDowell, the rise of modern science provides the historical narrative that has led us into the anxiety\footnote{Again, the influence of Rorty can be seen here: for him modern science is what has led traditional philosophy into the quest for epistemological foundations.} (i.e. that we may not be in touch perceptually with an external world).  It has done so by forcing us unthinkingly into the dogma that nature must be equated with what he terms ``the realm of law.''  This dogma, coupled with the (he thinks, reasonable) belief that the ``space of reasons'' is sui generis leads us into the anxiety at the heart of his analysis.  McDowell then goes on to argue that once we identify and overcome this dogma we are freed of the anxiety.\footnote{I should note here that although McDowell's actual argument is in all likelihood not sound, the successful illustration of his metaphilosophical approach is not contingent upon this.}
+
+
+
+However, there is another current in McDowell's metaphilosophy not captured above that is manifests itself in his analysis on occasion: he clearly believes that there something of value in the philosophical analyses that have gone before.  This will be discussed in more detail below.
+
+
+
+\section{Tensions}
+
+There are two main areas in which tensions between the views of McDowell and Wittgenstein may arise: in the differences in the details of their prescribed ``therapies'' and in McDowell attitude towards past philosophical analysis.
+
+ 
+
+\subsection{Linguistic analysis and the role of history}
+
+The most obvious difference between the approaches of Wittgenstein and McDowell is in the way they approach the task of therapy - McDowell's approach being primarily historic where Wittgenstein's is primarily linguistic.  However, whether or not this leads to tension depends on ones view of language and history.  Two interpretations need to be considered: that completely ahistorical analysis is possible and that it is not.
+
+
+
+\subsubsection{For ahistorical analysis}
+
+If one believes that it is possible to take up a philosophical standpoint from which one may make assessments free of the relativising impact of history, then there should be no tension between the views of McDowell and Wittgenstein. Ultimately, all philosophical analysis is linguistic analysis and McDowell and Wittgenstein just differ in how they source the language to be analysed.  Arguments may be mounted as to the efficacy of one approach or the other but there is not inherent fundamental tension between them on this interpretation.
+
+
+
+\subsubsection{Against ahistorical analysis}
+
+Two further views need to be distinguished here: the view that all analysis is historically conditioned (and thus relative)\footnote{A view popular amongst post-modernists and others.} and the view that some things may transcend the relativising effects of history.\footnote{A view of this kind was held by Gadamer for example.}
+
+
+
+On the first view, Wittgenstein and McDowell are both in the same boat so to speak, although McDowell's views may claim some superiority due to their self-conscious use of history (compare with the follower of Wittgenstein who may well conduct his or her analyses unaware of the impact of history).  However, this still does not point to some fundamental tension between the views.
+
+
+
+The second view is more complicated and depends upon how one characterises what is held to transcend history.  If either Wittgenstein or McDowell's approach could be shown to involve the analysis of these transcendental characteristics where the others did not, then clearly a tension could be said to be present between the view.  However, both Wittgenstein and McDowell do not provide enough indication to enable a conclusion either way.\footnote{It is possible that some attempt to reconstruct the relevant views may prove illuminating on this point.  However, such an undertaking is far beyond the scope of this essay.}
+
+ 
+
+\subsection{The role of contrast and the use of philosophical language}
+
+Two other, interrelated, ways in which McDowell's metaphilosophy differs from Wittgenstein's
+
+are the lack of a notion of contrast between a view of traditional philosophy and new philosophy, and the use of philosophical language (what would be considered traditional philosophical language on the accounts of Rorty and Wittgenstein.  The first of these strands of thought in McDowell is well illustrated by the following quote:
+
+\begin{quote}
+
+My diction is often that of traditional philosophy. This is a divergence from Wittgenstein, and it is not an oversight.~\ldots~If it is feasible to do therapeutic philosophy in traditional language~\ldots~it might help us make contact with the targets of the therapy.~\citep[pg. 294]{McDowell:2002}
+
+\end{quote}
+
+From this we can see that McDowell is quite aware of his ``divergence'' and doesn't consider it to be a cause of any tension between the two views.  Whether or not this a fair assessment depends upon how you interpret what McDowell is trying to do and Wittgenstein's assertion that ``there are no philosophical theories.''  In \emph{Mind and World} McDowell certainly seems to stop short of postulating a full philosophical theory as an alternative to those that have led to the anxiety (although his later work seems to move beyond this\footnote{See \citet{McDowell:1998} for example.}).  Furthermore the implications of Wittgenstein's assertion are unclear in this context, it seems to be more directly related to his preferred method of analysis than his general metaphilosophy.
+
+
+
+So McDowell's use of philosophical language on its own may or may not establish a tension with Wittgenstein.  However, a more significant difference begins to emerge when we consider a second quote:
+
+\begin{quote}
+
+A proposed exorcism is more satisfying to the extent that it enables us to respect, as insights, the driving thoughts of those who take the familiar philosophical anxieties to pose real intellectual obligations.~\citep[pg. xxii]{McDowell:1994}
+
+\end{quote}
+
+Note McDowell's concern that we respect the views that have come before ``as insights.''  This seems to imply that there is something of value in what has come before, some kernel of truth.  However, he never states clearly just what this value is, nor how one can distinguish it from the ``bad'' philosophy that rests upon historical dogmas and leads us into anxieties. If he was able to make this distinction, perhaps he would be in a position to give an account of contrast between traditional and new philosophy.  However, such an account would likely still differ markedly from those of Rorty and Wittgenstein in that there would likely be much less of difference between the two philosophical practises.
+
+
+
+There are at least two possible reasons why McDowell does not give us such an account: firstly, his quietist principles may have led to a reluctance to engage in all out philosophical theorising (although, as has been discussed above, his later work suggests that he is moving beyond this); secondly, it is possible that the nature of the historical issues involved doesn't permit of the kind of easy generalisation that would be needed in order to give an account of the difference between traditional and new philosophy.
+
+
+
+\section{Conclusion}
+
+Overall then, we have seen that the most obvious way in which Wittgenstein and McDowell's views differ (i.e. their linguistic and historical approaches respectively) do not lead to a clear tension.  Furthermore, we have seen that the most significant way in which McDowell's metaphilosophy differs from Wittgenstein's is not a product of Rorty's influence at all (indeed, it is at tension with Rorty's views too).  In raising the possibility that there is something of value to be found in the practise of traditional philosophy, McDowell also raises the possibility that his approach could be viewed as parasitic upon this philosophical tradition in a way that is quite different from that of Wittgenstein and Rorty.  
+
+
+
+One final point remains to be made: throughout this analysis I have been making use of an arbitrary regimentation of Wittgenstein's views.  However, at this point the ambiguity of his communication must reassert itself and I must note that in some of his writings, Wittgenstein can also be interpreted as holding that is value in past philosophical practise.  Thus the key way in which McDowell has been seen to be in tension with Wittgenstein may not be a genuine tension after all.
+
+\nocite{Rorty:1980, Wittgenstein:1968, Wright:2001, Fann:1969, Lazerowitz:1978, Fogelin:1987, Hunter:1985, Rohr:2003, Ramberg:2007, Rorty:1982, McDowell:1998, Malpas:2005, Friedman:2002, Larmore:2002, McDowell:2002}
+
+\bibliography{semPaper1}
+
+\bibliographystyle{apa-good}
+
+\end{document}
+}
+----
+
+Seminar.Paper

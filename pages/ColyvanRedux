@@ -1,0 +1,95 @@
+----
+*A note on layout*
+
+I'm going to break with tradition slightly here and intersperse my notes on Colyvan's views with what I think (my thoughts *green in green*, Colyvan's thoughts (or my interpretation thereof) in black).  Things just seem to work better like that in this instance.
+----
+*On general structural issues*
+- defines the realism that he is interested in as metaphysical rather than semantic (cites Dummett here)
+-- *green Can one really separate the metaphysical and the semantic? *red No.* Surely if one posits a connection between the semantic and ontological planes (as Quine does), then metaphysical realist commitments must have semantic implications.*
+--- *green does the (limited) Quinean background Colyvan makes use of commit him to this though?  In any event, might best to sideline a lot of this (provided I am able to sufficiently separate the classic Platonist and "lite" Platonist viewpoints using the tools of metaphysical realism).*
+- won't be arguing for a Platonism that entails mathematical entities that are causally inert, outside of ..space-time, or necessary as there is not _general_ agreement about this amongst Platonists (although there _is_ typical agreement)
+-- *green This is probably the point I have the biggest issue with (and chapter 2 will be largely concerned with it).*
+-- *green Need to work out whether this eliminates abstractness of mathematical entities.*
+-- *green If, as C claims, the scientific realist is the "main target in this book," then the move above is highly questionable: it seems to strip matheamtcial entities of any of the propoerties that scientific realists would use to distinguish them from sci. ones (this leqads back to my idea of ..mathematico-scientific entities being involved in indispensability rather than mathematical ones).*
+-- *green another possible spin to put upon this is that C just shows in what way the sci. realist must conceive of mathematical entities in order to deny their existence.*
+-- *green I need to show that the motivation for this limitation is questionable.*
+--- *green possible moves: alternate view of mathematical entities is plausible, and indeed motivated*
+- uses Resnick's pragmatic indispensability and semantic indispensability to gesture towards the possibility that confirmational holism may not be needed
+-- *green but Resnick's argument is actually reliant on C's argument (or something very close).*
+-- *green I don't really want to travel too far down this path but maybe I could just point out that at least one of the alternatives C points probably is not viable.*
+- C claims that indispensability "is completely silent" on issues to do with mathematical entities having many properties above and beyond those needed for the argument (e.g. being sui generis or reducible to sets, universals, patterns, or ..part-whole relations) (Ch 7)
+- *green this doesn't seem accurate to me and the inaccuracy can explicated from two different viewpoints: that of the sci. realist and that of the "classical" Platonist:*
+-> *green sci. realist:*
+-- *green we consider mathematical entities to have one or more property that is not reified by the Quinean ontological machine*
+-- *green furthermore, we hold this/these property/properties to be essential to the mathematical nature of the entities*
+-- *green thus objects that result from the indispensability argument are not _mathematical_ objects*
+-> *green Platonist:*
+-- *green again, mathematical object properties we hold to be essential are not reified by the Quinean machine*
+-- *green furthermore, if one holds the indispensability argument to be true, the default position resulting from this (based on parsimony and failure to provide convincing arguments in the past) should be one that denies the existence of these properties*
+-- *green thus the position argued for is not a Platonist one as it does not involve mathematical entities*
+- *green note: can also mount weaker versions of the arguments above based on part of the mathematical entity "bundle" being missing (i.e. so as not to rely on some sort of essentialism)*
+
+*On naturalism*
+- naturalism on its own does not imply the existence of mathematical entities
+- 2 strands to Quinean naturalism:
+-> 1. normative: one ought to approach questions regarding the nature of the world through science
+-> 2. descriptive: phil. is continuous with sci.
+-- although unclear if there is a primacy relation
+- ontic thesis: ontological commitment to domain of quantification of our best scientific theories
+
+- argues against causal naturalism on basis of criticism of eleatic principle at its heart
+-- aim here is to gesture towards Quinean naturalism as the most plausible version of naturalism (and thus that Platonism is somehow linked with naturalism perhaps?)
+-- *green again, I don't really want to get into this but should note it and also point to the availability of subject naturalism as another possibility with no ontological implications*
+
+*On confirmational holism*
+- don't need semantic holism to get confirmational holism (although this is the path that Quine travels)
+-- can instead get it from the realisation that there is more than one way to modify a theory in response to problematic data (cf. Lakatos, Duhem)
+--- i.e. the idea that some (aux.) hypothese may be sacrificed in order to save others
+-- *green but can math theories really be sacrificed in such a way?  seems that the particular mathematical _model_ could be sacrificed but would one really hold a deductively proven theory to be falsified in the face of recalcitrant experience?*
+--- *green there may be some support from Musgrave here (or at least some indication of what C's response might be), need to read that section again over the weekend*
+- argues that indispensability doesn't _require_ confirmational holism, it just makes things more secure due to explicitly stipulating that we are ontologically committed to _all_ entities in scientific theories
+-- *green but if one doesn't have it, doesn't one need to argue in some way that the math parts cannot be taken out?*
+- from the stuff on F it appears that C thinks that conf. holism entails that we get the _whole_ of mathematics from the indispensability of _some_ maths to one or more sci. theories
+-- *green might be interesting to trace implications of this re: validation of axioms and mathematical practice but probably not for purposes of thesis*
+
+*On Field's nominalism*
+- F accepts Quinean backdrop
+- F's motivations (neither distinctively nominalist):
+--> a. _intrinsic_ explanations are better
+--> b. we should eliminate arbitrariness (e.g. coordinate dependency) from theories
+- F's main claims:
+--> 1. maths doesn't need to be true, just conservative (i.e. no new consequences should result from its inclusion in a theory)
+--> 2. one can nominalise scientific theories (has done so for Newtonian gravitational theory)
+Claim 1:
+- conservativity => consistency (and <= in _pure_ set theory)
+- nominalist theory := all variables non-mathematical
+- point of claim is that it then doesn't matter that one is taking a fictionalist attitude towards maths
+-- like a "necessary truth without the truth"
+Claim 2:
+- F builds on representation theorems in measurement theory (cf. Hilbert on Euclidean geometry without numbers)
+-- *green probably don't want to deal with the nitty gritty of this unless it becomes necessary*
+-- various technical criticisms have been made (Resnick, Chihara, etc.)
+- what is for something to be dispensable on this account?
+- an entity is dispensable if:
+--> 1. there exists a modified theory without the entity but with the same observational consequences
+--> 2. this new theory is _preferable_
+-- so what does preferable mean?
+-- to be judged according to criteria: parsimony, unificatory/explanatory power, boldness/fruitfulness, formal elegance (i.e. some sort of aesthetic appeal)
+--- *green cf. Lipton stuff on loveliness here, also need to check how closely this feeds into the notion of a "best" scientific theory as it could also mean that Lipton's arguments for explanation being used as a _guide_ inference could be brought to bear*
+--- *green C seems to be bringing in a lot ambiguity here*
+--- *green could one claim that only some of the above criteria should be held to be relevant to ontological decisions (i.e. one set of criteria is applicable to decisions re: theory choice whereas a different set (possibly a subset) is applicable to decisions re: existence)?*
+- C then argues that there are at least some theories in which elimination of mathematics seems to result in a less preferable theory and then claims that the burden of proof lies with F
+- gives e.g.s of complex numbers being used to unify exp and trig (applied to DEs), Dirac equation's use in predicting existence of positron's existence and the role of Lorentz transformations in special (?) relativity
+-- *green certainly seems hard to give an assessment of these without engaging in a ..full-on nominalisation project*
+-- *green however, one possible strategy (to sift the onus a bit at least) might be to try to find similar examples from Newtonian gravitational theory and then show how Field's nominalisation does not result in a less preferable theory (any suggestions as to suitable e.g.s Jason?)*
+--- *green again, this seems a little beyond the scope of what I'm doing but maybe I could just point to the possibility?*
+- F wants "intrinsicness" to be one of the preference criteria however C argues (*green correctly I think*) that this is a kind of ..question-begging as what is held to be intrinsic by the nominalist and the Platonist differs
+
+*On Maddy's criticism*
+*green to come*
+
+*On Sober's criticism*
+*green to come*
+----
+
+ChrisWilcox

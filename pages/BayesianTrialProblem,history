@@ -1,0 +1,42 @@
+
+----
+Wed Mar  8 12:18:56 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code ## Bayesian Trial Problem
+
+The following is a problem which seems to intuitively arise for me in considering bayesian clinical trial designs.
+I only have a simplistic hold on this but I seem to keep returning to it.  For this reason it seems worth attempting to put it down here.
+
+The basic question is this: How are the contributions of trial design incorporated into a bayesian analysis?
+
+Consider the bayes factor equation:
+Bayes factor  =  Likelihood ratio   x  prior odds on H1 against H2
+
+The amount of weight H1 is given against H2 by evidence (E) is derived from the product of the likelihood ratio and your prior odds on H1 against H2.
+
+The problem which seems to appear for me is the fact that considerations of trial design seem to be factored out of this equation:
+(1) the design of the trial you are about to conduct is irrelevant to your prior odds; and 
+(2) the current trial design is irrelevant to your likelihood ratio, or at least it seems to be by the following reasoning:  Consider a poor trial which strongly supports H1 over H2 and a well conducted trial which strongly supports H2 over H1. Where in the bayesian analysis does the consideration of the trial design come into consideration?  It seems on the face of it that each of these trials would give very different likelihood ratio's, both valid in their own ways.  
+I don't see where the bayesian analysis can discern between these trials with respect to the very different bayes factors which will result.  Perhaps once you have updated on the evidence which each of these trials gives you may be able factor in trial design, but even then only if you are happy to update by means other than conditioning.
+
+An example: Question - Does HRT reduce the risk of cardiovascular disease in post-menopausal women?
+
+* You're thinking of H1 and H2 as hypotheses about the world.  But they can be anything.  In particular, they can be ... and typically are ... hypotheses about the results of trials.  That's how trial design gets factored in.  E.g., useful hypotheses for the question above would NOT be hypotheses about the risk of CVD in women; they'd be more specific than that.  They'd be H-theta = a certain specific TRIAL OUTCOME, with theta variable.  Does that help?  Jason
+* Thanks Jason (I hope your trip is going well).  I am not sure that it helps my problem, but I do think that it may help me outline it a little more accurately (which may in turn help isolate my muddle):  So now the two hypotheses are trial outcomes.  Theta is the effect of HRT on CV risk as measured by an appropriate test statistic such as CV-mortality rate.  H1 is that theta is not clinically significant in either direction as compared to CV mortality rate in women not taking HRT.  H2 is that theta is clinically significant in either direction (i.e. assistance or harm).
+* No.  Try this notation.  H(d)(o)(theta) will be a function which gives a probability that outcome o is observed in a trial with design d.  Now in a typical application d is held fixed (it's the design actually tried) and o is held fixed (it's the results actually seen) and so theta is the only remaining variable.  But d is still part of the calculation of the likelihood, whether it's held fixed or left variable.  Jason.  Thanks again... I hope I am not being too irritatingly dense here, but... Does not my problem still arise?  When we have the results to hand of the observational study, will not the likelihood ratio cancel out d? Adam  No.  d isn't something you multiply H by.  (It it was then yes, it would cancel.)  It's a parameter which can have any effect on H whatsoever.  Why don't you work out the following toy example?  o = coin lands heads.  theta = bias on the coin.  d1 = I toss a coin.  d2 = I toss a coin, and if it's heads I toss it again and only count the second result.  Now, what's H(d)(o)(theta)?  Jason
+* *update 23/1/06* Ok. I am not sure I am on the right page but here goes: You are showing that the bayesian approach can incorporate trial design into it's analysis.  By changing the design of your coin tossing experiment you change the outcome space of the trial, you need to factor this in for your probabilistic assessment of theta.  This answers my main underlying question - bayesian analysis can and does incorporate trial design.  Is the following question appropriate (if still a little naively worded): How *should* bayesian analysis take into account trial design?  When all we had was observational data with respect to HRT, how should this have been viewed?  How should we respond to the somewhat contradictory RCT data?  How does timeline affect our analysis of data from differing trials?  Assuming that the current practice of dismissing the observational data completely after RCT is available is much to simplistic - how should our analysis of the observational data change after the RCT data is available?  I realise that this is bringing in other topics such as level of 'objectivity' or intersubjectivity in bayesian analysis of clinical trials.
+*  Assuming our prior is that of no effect.  We now look to update on either the observational data (H2 is true with clinical benefit) or the RCT data (again H2 is true this time with clinically significant harm).  There does not appear to be anything *intrinsic* to the bayesian updating on this information which takes into account the trial design. 
+* Perhaps this should not be a surprise to me - that there will always be considerations regarding the evidence extraneous to the bayesian analysis.  Perhaps one option is a move away from bayesianism (updating on evidence as if your were certain) to a generalised conditioning with an apriori assignation of the probability you take that the evidence is true based on trial design - e.g. instead of holding with certainty your newly found evidence, perhaps you could hold your certainty at 0.8 for RCTs and 0.6 for observational studies.. these seem potential avenues but also raise many questions...
+
+Well conducted observational studies (case-control, ?perhaps even cohort), with known confounders accounted for suggested that HRT did reduce CV risk in women.  Thus support for the hypothesis that HRT reduces CV risk is provided and women are prescribed HRT, in part, to reduce CV risk.
+A large RCT is conducted which shows that HRT increases CV risk in post-menopausal women.  HRT no longer prescribed to reduce CV risk.  EBM holds, seemingly rightly that we should have more faith in the RCT data on the basis of methodological considerations.  How are these methodological considerations incorporated into a bayesian analysis?  (I think I need to consider a better example than this... I am not too sure that this illustrates the point I would like to make)
+
+Notes:
+(1) I can see how considerations of trial design will effect your prior.  Everything can effect your prior.  What i don't see is how these considerations will come into play in the design and analysis of a currently occuring clinical trial.
+(2) I am not too sure how writing the Bayes equation differently will make a difference.
+(3) I am not contrasting this proposed problem for bayesian analysis with classical statistics.  This problem will not arise for classical statistics because it refuses to consider evidence as a support for or against hypotheses (in short, it has the greater problem of not even raising this question).
+(4) I accept that the 'poor' trial can not be too poor or else it would not be able to discern between H1 and H2.  But even accepting this it there remains a wide gulf between 'poor' and 'good' trials.
+
+}*

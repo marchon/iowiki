@@ -1,0 +1,37 @@
+People seem to have some funny ideas about what confidence intervals are.  What are these funny ideas?
+
+One example of the problem we were discussing appears in:
+
+@article{Charles:80,
+	Author = {Land, Charles E.},
+	Journal = {Science},
+	Month = {sep},
+	Number = {4462},
+	Pages = {1197--1203},
+	Title = {Estimating Cancer Risks from Low Doses of Ionizing Radiation},
+	Volume = {209},
+	Year = {1980}}
+
+Basically Land says a lot of great things (to my ear) about power, hypothesis testing and point estimates.  Essentially underpowered tests risk `over-estimating' classical estimates.  He uses this to explain the large discrepencies in estimates of cancer risk from low doses of radiation.
+
+But he seems to hold that CI's don't have this problem.  Quote from p.1199: ``Thus the confidence interval approach discourages extreme interpretations of study results by reminding us that less extreme interpretations are also consistent with the data.''
+
+(This might be a little unfair.  The quote is a small part of the paper.  But given the problems of point estimates are explicitly detailed when the test is underpowered I am surprised the analogous problem for CI's is not mentioned.)
+
+This kind of quote is _very_ common, and crops up in almost every scientific discipline (although, interestingly, maybe not literally every scientific discipline; exceptions would be the best disciplines which are Bayesian or likelihoodist or something, and the worst, which are still p-value-bound).
+
+There are a couple of problems with Land's faith in CI's.  The move to CI is positive; an interval is better than a point estimate.  But if you have evidence external to the data that suggests the data are extreme then the interval suggested by the CI will also be extreme.
+
+I am not even too sure that the CI will be less extreme.  
+
+Say we have an underpowered test, and we have good evidence external to the experiment that the test is underpowered.  If we accept this external evidence then the observed estimate is likely an over-estimate (in a medical context in which the hypothesis of roughly zero effect is very likely).  
+
+There is one sense in which the CI is less extreme---it covers a broader range of values then the point estimate; both lower and higher.  But it is only less extreme (in a sense important to decision makers) if you take into account that the `true' value is more likely to be lower than the point estimate; i.e. in the lower region of the CI.
+
+This, however, is not permitted.  The CI is an interval.  And whatever it says of the relation between the data and theta, it says it for the entire interval.  (Call this the BlandCIs rule, and follow the link.)
+
+CI's give you more information than p-values and point estimates.  They give you information about the expected variability of results, in the long run.  But they give you no more information about the CI calculated from this data (extreme or otherwise) than the p-value or point estimate also calculated from this data.  Evidence from outside the trial plays no part. *pink I like the way this is phrased very much.  Careful not to lose this wording in future edits.*
+
+I can understand the views of the `statistical reform' movement from the point of view of a dialectic within the constraints of classical statistics; CI's are better than p-values and point estimates.  But not with regard to the problem of understanding estimates (point or interval) from underpowered tests.
+
+AdamLaCaze and JasonGrossman

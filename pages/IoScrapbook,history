@@ -1,0 +1,21 @@
+
+----
+Sun Jan 21 23:49:52 EST 2007
+
+
+
+[[[break]]]added at line 2: *lime {code 
+
+
+
+SystemCall clone setCommand("ls") run stdout readLines foreach(println)
+}
+}*
+----
+Mon Apr 17 16:19:42 EST 2006
+
+
+
+[[[break]]]added at line 0: *lime {code {code 
+Directory clone setPath("/whatever") files foreach(i, i moveTo(i action)
+}*
